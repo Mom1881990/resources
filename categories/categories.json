@@ -1,0 +1,51 @@
+[
+  {
+    "id": "daily_life",
+    "title": "Daily Life",
+    "description": "Giao tiếp Hàng ngày",
+    "imageUrl": "https://raw.githubusercontent.com/Mom1881990/resources/main/categories/daily_life.jpg",
+    "lessonFileName": "daily_life"
+  },
+  {
+    "id": "office_life",
+    "title": "Office Life",
+    "description": "Những câu chuyện công sở",
+    "imageUrl": "https://raw.githubusercontent.com/Mom1881990/resources/main/categories/office_life.jpg",
+    "lessonFileName": "office_life"
+  },
+  {
+    "id": "ordering",
+    "title": "How to Order Like A Native",
+    "description": "Cách gọi món như người bản xứ",
+    "imageUrl": "https://raw.githubusercontent.com/Mom1881990/resources/main/categories/ordering.jpg",
+    "lessonFileName": "ordering"
+  },
+  {
+    "id": "daily_routines",
+    "title": "Daily Routines",
+    "description": "Các hoạt động thường ngày",
+    "imageUrl": "https://raw.githubusercontent.com/Mom1881990/resources/main/categories/daily_routines.jpg",
+    "lessonFileName": "daily_routines"
+  },
+  {
+    "id": "travelling_and_hotel",
+    "title": "Travelling & Hotel Conversations",
+    "description": "Giao tiếp trong du lịch và khách sạn",
+    "imageUrl": "https://raw.githubusercontent.com/Mom1881990/resources/main/categories/travelling_and_hotel.jpg",
+    "lessonFileName": "travelling_and_hotel"
+  },
+  {
+    "id": "daily_routines2",
+    "title": "Daily Routines 2",
+    "description": "Các hoạt động thường ngày 2",
+    "imageUrl": "https://raw.githubusercontent.com/Mom1881990/resources/main/categories/daily_routines21.jpg",
+    "lessonFileName": "daily_routines2"
+  },
+  {
+    "id": "everyday_conversations",
+    "title": "English Conversations for Everyday Use",
+    "description": "Cuộc trò chuyện tiếng Anh hàng ngày",
+    "imageUrl": "https://raw.githubusercontent.com/Mom1881990/resources/main/categories/everyday_conversations.jpg",
+    "lessonFileName": "everyday_conversations"
+  }
+]
