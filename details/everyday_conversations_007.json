@@ -1,0 +1,163 @@
+{
+  "lesson_id": "everyday_conversations_007",
+  "title": "I just got promoted at work",
+  "category": "Everyday Conversations",
+  "level": "Elementary",
+  "videoConfig": {
+    "url": "https://raw.githubusercontent.com/Mom1881990/resources/main/videos/everyday_conversations_007.mp4",
+    "thumb": "https://raw.githubusercontent.com/Mom1881990/resources/main/images/everyday_conversations_007.jpg",
+    "mute_original": false
+  },
+  "characters": [
+    {
+      "id": "A",
+      "name": "Mom",
+      "tts_voice": "en-US-JennyNeural"
+    },
+    {
+      "id": "B",
+      "name": "Dad",
+      "tts_voice": "en-US-GuyNeural"
+    },
+    {
+      "id": "C",
+      "name": "Son",
+      "tts_voice": "en-US-AndrewNeural"
+    }
+  ],
+  "dialogues": [
+    {
+      "role": "A",
+      "start_time": 0.000,
+      "end_time": 2.766,
+      "en": "You've been staring at that screen all morning.",
+      "vi": "Con đã nhìn chằm chằm vào cái màn hình đó cả buổi sáng rồi."
+    },
+    {
+      "role": "B",
+      "start_time": 3.866,
+      "end_time": 6.400,
+      "en": "Do you even do anything useful with it?",
+      "vi": "Con có làm được việc gì có ích với nó không vậy?"
+    },
+    {
+      "role": "C",
+      "start_time": 7.100,
+      "end_time": 9.733,
+      "en": "I know how to use a keyboard, at least.",
+      "vi": "Ít nhất thì con cũng biết cách dùng bàn phím."
+    },
+    {
+      "role": "A",
+      "start_time": 10.766,
+      "end_time": 14.866,
+      "en": "That won't clean the floor or help pay the bills.",
+      "vi": "Cái đó không lau sạch sàn nhà được đâu. Hay giúp trả các hóa đơn."
+    },
+    {
+      "role": "C",
+      "start_time": 16.033,
+      "end_time": 19.100,
+      "en": "Actually... this time, it might.",
+      "vi": "Thật ra... lần này thì có thể đấy."
+    },
+    {
+      "role": "A",
+      "start_time": 20.400,
+      "end_time": 21.800,
+      "en": "What do you mean 'might'?",
+      "vi": "...Ý con là 'có thể' là sao?"
+    },
+    {
+      "role": "B",
+      "start_time": 22.766,
+      "end_time": 25.533,
+      "en": "Are you coding some kind of cleaning robot?",
+      "vi": "Có phải con đang lập trình một loại robot dọn dẹp nào đó không?"
+    },
+    {
+      "role": "C",
+      "start_time": 26.400,
+      "end_time": 34.733,
+      "en": "No. I just got promoted. Full-time. And I will work in the office instead of working from home.",
+      "vi": "Không. Con vừa được thăng chức. Làm việc toàn thời gian. Và con sẽ làm việc ở văn phòng thay vì làm việc tại nhà."
+    },
+    {
+      "role": "A",
+      "start_time": 35.800,
+      "end_time": 36.933,
+      "en": "Seriously?",
+      "vi": "Thật sao?"
+    },
+    {
+      "role": "B",
+      "start_time": 37.866,
+      "end_time": 40.400,
+      "en": "Wait — like a real promotion?",
+      "vi": "Khoan đã — một sự thăng chức thực sự á?"
+    },
+    {
+      "role": "C",
+      "start_time": 41.266,
+      "end_time": 43.966,
+      "en": "Yeah. More work, more pay.",
+      "vi": "Vâng. Nhiều việc hơn, lương cao hơn."
+    },
+    {
+      "role": "A",
+      "start_time": 45.033,
+      "end_time": 48.600,
+      "en": "That's amazing. Why didn't you say anything earlier?",
+      "vi": "Tuyệt quá. Sao con không nói sớm hơn?"
+    },
+    {
+      "role": "C",
+      "start_time": 49.800,
+      "end_time": 52.600,
+      "en": "You were too busy yelling about the floor.",
+      "vi": "Bố mẹ mải mắng con về cái sàn nhà quá mà."
+    },
+    {
+      "role": "B",
+      "start_time": 53.633,
+      "end_time": 56.333,
+      "en": "Oh, so we owe you an apology.",
+      "vi": "Ồ, vậy là bố mẹ nợ con một lời xin lỗi."
+    },
+    {
+      "role": "A",
+      "start_time": 57.566,
+      "end_time": 60.400,
+      "en": "Maybe it's time we upgraded your desk setup.",
+      "vi": "Có lẽ đã đến lúc nâng cấp dàn máy tính của con rồi."
+    },
+    {
+      "role": "C",
+      "start_time": 61.400,
+      "end_time": 66.066,
+      "en": "Honestly, I'd be happy if you just stop calling it 'playing on the computer'.",
+      "vi": "Thành thật mà nói, con sẽ rất vui nếu bố mẹ ngừng gọi nó là 'chơi máy tính'."
+    },
+    {
+      "role": "A",
+      "start_time": 67.066,
+      "end_time": 71.666,
+      "en": "Deal. But after that, vacuum the living room.",
+      "vi": "Thỏa thuận. Nhưng sau đó, hãy hút bụi phòng khách đi."
+    },
+    {
+      "role": "B",
+      "start_time": 72.833,
+      "end_time": 75.766,
+      "en": "Promotion or not, dust waits for no one.",
+      "vi": "Dù có thăng chức hay không, bụi bặm cũng không đợi ai đâu."
+    },
+    {
+      "role": "C",
+      "start_time": 76.633,
+      "end_time": 80.000,
+      "en": "As your newly promoted son, I accept this mission.",
+      "vi": "Với tư cách là người con trai mới được thăng chức của bố mẹ, con chấp nhận nhiệm vụ này."
+    }
+  ]
+}

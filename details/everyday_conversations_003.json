@@ -1,0 +1,156 @@
+{
+  "lesson_id": "everyday_conversations_003",
+  "title": "At the meeting room",
+  "category": "Everyday Conversations",
+  "level": "Elementary",
+  "videoConfig": {
+    "url": "https://raw.githubusercontent.com/Mom1881990/resources/main/videos/everyday_conversations_003.mp4",
+    "thumb": "https://raw.githubusercontent.com/Mom1881990/resources/main/images/everyday_conversations_003.jpg",
+    "mute_original": false
+  },
+  "characters": [
+    {
+      "id": "A",
+      "name": "Manager (Woman)",
+      "tts_voice": "en-US-JennyNeural"
+    },
+    {
+      "id": "B",
+      "name": "Henry (Assistant)",
+      "tts_voice": "en-US-GuyNeural"
+    },
+    {
+      "id": "C",
+      "name": "Lucy (New Assistant)",
+      "tts_voice": "en-US-AriaNeural"
+    }
+  ],
+  "dialogues": [
+    {
+      "role": "A",
+      "start_time": 0.000,
+      "end_time": 5.933,
+      "en": "Henry, this is Lucy, our new assistant. Please help her to get used to the work.",
+      "vi": "Henry, đây là Lucy, trợ lý mới của chúng ta. Xin hãy giúp cô ấy làm quen với công việc."
+    },
+    {
+      "role": "A",
+      "start_time": 6.566,
+      "end_time": 11.333,
+      "en": "Henry is also an assistant. He will train you and let you know about your work.",
+      "vi": "Henry cũng là một trợ lý. Cậu ấy sẽ đào tạo bạn và cho bạn biết về công việc của mình."
+    },
+    {
+      "role": "B",
+      "start_time": 12.000,
+      "end_time": 13.966,
+      "en": "Hi Lucy, welcome to the company.",
+      "vi": "Chào Lucy, chào mừng bạn đến với công ty."
+    },
+    {
+      "role": "C",
+      "start_time": 14.500,
+      "end_time": 16.466,
+      "en": "Hi Henry. Nice to meet you.",
+      "vi": "Chào Henry. Rất vui được gặp anh."
+    },
+    {
+      "role": "B",
+      "start_time": 17.266,
+      "end_time": 18.533,
+      "en": "Nice to meet you.",
+      "vi": "Rất vui được gặp bạn."
+    },
+    {
+      "role": "B",
+      "start_time": 19.366,
+      "end_time": 22.400,
+      "en": "Let's go. I will show you the meeting room of the company.",
+      "vi": "Đi thôi. Tôi sẽ chỉ cho bạn phòng họp của công ty."
+    },
+    {
+      "role": "C",
+      "start_time": 28.666,
+      "end_time": 31.000,
+      "en": "Wow. It's so big.",
+      "vi": "Chà. Nó lớn quá."
+    },
+    {
+      "role": "B",
+      "start_time": 32.166,
+      "end_time": 36.366,
+      "en": "Yes, every week the company has a meeting on Tuesdays and Fridays.",
+      "vi": "Đúng vậy, mỗi tuần công ty có một cuộc họp vào thứ Ba và thứ Sáu."
+    },
+    {
+      "role": "B",
+      "start_time": 37.466,
+      "end_time": 41.300,
+      "en": "Tuesday is the team sales meeting, and Friday is the manager meeting.",
+      "vi": "Thứ Ba là cuộc họp đội ngũ bán hàng, và thứ Sáu là cuộc họp quản lý."
+    },
+    {
+      "role": "C",
+      "start_time": 41.900,
+      "end_time": 43.733,
+      "en": "Is it the same every week?",
+      "vi": "Tuần nào cũng giống nhau sao?"
+    },
+    {
+      "role": "B",
+      "start_time": 44.400,
+      "end_time": 46.566,
+      "en": "Yes, unless there's an emergency.",
+      "vi": "Đúng vậy, trừ khi có trường hợp khẩn cấp."
+    },
+    {
+      "role": "C",
+      "start_time": 47.600,
+      "end_time": 49.000,
+      "en": "Okay, let me take notes.",
+      "vi": "Được rồi, để tôi ghi chú lại."
+    },
+    {
+      "role": "B",
+      "start_time": 49.966,
+      "end_time": 54.000,
+      "en": "Sure. Your job will be to record the information of the meeting.",
+      "vi": "Chắc chắn rồi. Công việc của bạn sẽ là ghi chép lại thông tin của cuộc họp."
+    },
+    {
+      "role": "B",
+      "start_time": 54.833,
+      "end_time": 58.133,
+      "en": "Also, you will help the director in handling tasks.",
+      "vi": "Ngoài ra, bạn sẽ giúp giám đốc xử lý các công việc."
+    },
+    {
+      "role": "C",
+      "start_time": 58.800,
+      "end_time": 60.500,
+      "en": "Oh. For example?",
+      "vi": "Ồ. Ví dụ như?"
+    },
+    {
+      "role": "B",
+      "start_time": 61.466,
+      "end_time": 65.400,
+      "en": "Such as receiving reports, arranging work, and scheduling meetings.",
+      "vi": "Chẳng hạn như nhận báo cáo, sắp xếp công việc và lên lịch các cuộc họp."
+    },
+    {
+      "role": "C",
+      "start_time": 66.300,
+      "end_time": 69.066,
+      "en": "I think I got it now. Thank you for your help.",
+      "vi": "Tôi nghĩ tôi đã hiểu rồi. Cảm ơn anh đã giúp đỡ."
+    },
+    {
+      "role": "B",
+      "start_time": 69.500,
+      "end_time": 70.666,
+      "en": "You are welcome.",
+      "vi": "Không có chi."
+    }
+  ]
+}

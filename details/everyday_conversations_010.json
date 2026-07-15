@@ -1,0 +1,200 @@
+{
+  "lesson_id": "everyday_conversations_010",
+  "title": "My sister just bought a new house",
+  "category": "Everyday Conversations",
+  "level": "Elementary",
+  "videoConfig": {
+    "url": "https://raw.githubusercontent.com/Mom1881990/resources/main/videos/everyday_conversations_010.mp4",
+    "thumb": "https://raw.githubusercontent.com/Mom1881990/resources/main/images/everyday_conversations_010.jpg",
+    "mute_original": false
+  },
+  "characters": [
+    {
+      "id": "A",
+      "name": "Deena",
+      "tts_voice": "en-US-AriaNeural"
+    },
+    {
+      "id": "B",
+      "name": "Friend",
+      "tts_voice": "en-US-JennyNeural"
+    }
+  ],
+  "dialogues": [
+    {
+      "role": "B",
+      "start_time": 0.000,
+      "end_time": 1.966,
+      "en": "Deena, guess what?",
+      "vi": "Deena, đoán xem có chuyện gì nào?"
+    },
+    {
+      "role": "A",
+      "start_time": 2.800,
+      "end_time": 6.766,
+      "en": "Don't tell me—you finally cooked something without starting a fire?",
+      "vi": "Đừng nói với tôi là—cuối cùng cậu cũng nấu được món gì đó mà không gây hỏa hoạn nhé?"
+    },
+    {
+      "role": "B",
+      "start_time": 8.600,
+      "end_time": 10.166,
+      "en": "Ha ha. No.",
+      "vi": "Ha ha. Không."
+    },
+    {
+      "role": "B",
+      "start_time": 11.433,
+      "end_time": 14.333,
+      "en": "My sister just bought a new house!",
+      "vi": "Chị gái tôi vừa mua một căn nhà mới!"
+    },
+    {
+      "role": "A",
+      "start_time": 15.833,
+      "end_time": 17.666,
+      "en": "Are we clapping or crying?",
+      "vi": "Chúng ta nên vỗ tay hay nên khóc đây?"
+    },
+    {
+      "role": "A",
+      "start_time": 18.500,
+      "end_time": 21.466,
+      "en": "Like—a whole house? Not an apartment?",
+      "vi": "Ý là—một căn nhà nguyên căn á? Không phải căn hộ chung cư sao?"
+    },
+    {
+      "role": "B",
+      "start_time": 22.633,
+      "end_time": 25.600,
+      "en": "Yes, a brand new house.",
+      "vi": "Đúng vậy, một căn nhà mới toanh."
+    },
+    {
+      "role": "B",
+      "start_time": 26.633,
+      "end_time": 30.366,
+      "en": "Even a big garden like the one in the movie we just watched.",
+      "vi": "Thậm chí có cả một khu vườn lớn giống như trong bộ phim chúng ta vừa xem."
+    },
+    {
+      "role": "A",
+      "start_time": 31.600,
+      "end_time": 32.533,
+      "en": "Wow.",
+      "vi": "Chà."
+    },
+    {
+      "role": "A",
+      "start_time": 33.500,
+      "end_time": 39.966,
+      "en": "Meanwhile, I'm over here arguing with my landlord about a broken door handle.",
+      "vi": "Trong khi đó, tôi thì đang ở đây cãi nhau với chủ nhà về cái tay nắm cửa bị hỏng."
+    },
+    {
+      "role": "B",
+      "start_time": 41.166,
+      "end_time": 44.400,
+      "en": "She even has a bathtub big enough for two people.",
+      "vi": "Chị ấy thậm chí còn có một cái bồn tắm đủ lớn cho hai người."
+    },
+    {
+      "role": "A",
+      "start_time": 45.433,
+      "end_time": 48.266,
+      "en": "Okay, that's just showing off.",
+      "vi": "Được rồi, cái đó chỉ là khoe khoang thôi."
+    },
+    {
+      "role": "B",
+      "start_time": 49.200,
+      "end_time": 52.100,
+      "en": "She's only two years younger than me.",
+      "vi": "Em ấy chỉ trẻ hơn tôi hai tuổi."
+    },
+    {
+      "role": "B",
+      "start_time": 52.800,
+      "end_time": 54.700,
+      "en": "I'm proud of her anyway.",
+      "vi": "Dù sao thì tôi cũng tự hào về em ấy."
+    },
+    {
+      "role": "B",
+      "start_time": 55.833,
+      "end_time": 60.000,
+      "en": "Just ten years ago, she was just a kid fighting me over snacks.",
+      "vi": "Mới mười năm trước, con bé còn là một đứa trẻ tranh giành đồ ăn vặt với tôi."
+    },
+    {
+      "role": "A",
+      "start_time": 61.233,
+      "end_time": 63.566,
+      "en": "Can't believe how fast time flies.",
+      "vi": "Không thể tin được thời gian trôi qua nhanh thế nào."
+    },
+    {
+      "role": "B",
+      "start_time": 64.566,
+      "end_time": 66.400,
+      "en": "You know what hurts most?",
+      "vi": "Cậu biết điều gì đau lòng nhất không?"
+    },
+    {
+      "role": "A",
+      "start_time": 67.366,
+      "end_time": 72.333,
+      "en": "What? Does your sister's fridge fit an elephant or something?",
+      "vi": "Cái gì? Tủ lạnh của chị cậu chứa vừa một con voi hay sao?"
+    },
+    {
+      "role": "B",
+      "start_time": 73.466,
+      "end_time": 76.133,
+      "en": "Her dog has a bigger bed than I do.",
+      "vi": "Chó của chị ấy còn có cái giường lớn hơn cả của tôi."
+    },
+    {
+      "role": "A",
+      "start_time": 77.233,
+      "end_time": 83.000,
+      "en": "Well, my neighbor's cat has a better skincare routine than I do.",
+      "vi": "Chà, con mèo của hàng xóm tôi còn có thói quen chăm sóc da tốt hơn cả tôi."
+    },
+    {
+      "role": "B",
+      "start_time": 84.200,
+      "end_time": 86.400,
+      "en": "We need to rethink our lives.",
+      "vi": "Chúng ta cần phải xem xét lại cuộc sống của mình."
+    },
+    {
+      "role": "A",
+      "start_time": 87.300,
+      "end_time": 89.500,
+      "en": "Or move in with your sister.",
+      "vi": "Hoặc dọn đến ở cùng chị của cậu."
+    },
+    {
+      "role": "B",
+      "start_time": 90.266,
+      "end_time": 92.266,
+      "en": "I'm taking the guest room.",
+      "vi": "Tôi xí phòng dành cho khách nhé."
+    },
+    {
+      "role": "A",
+      "start_time": 93.066,
+      "end_time": 98.066,
+      "en": "Then I'll sleep on the fancy balcony with the plants.",
+      "vi": "Vậy thì tôi sẽ ngủ trên cái ban công sang chảnh cùng với mấy cái cây."
+    },
+    {
+      "role": "A",
+      "start_time": 99.000,
+      "end_time": 102.380,
+      "en": "And all those plants out there... I water them with my tears.",
+      "vi": "Và tất cả những cái cây ngoài kia... Tôi tưới chúng bằng nước mắt của mình."
+    }
+  ]
+}

@@ -1,0 +1,228 @@
+{
+  "lesson_id": "everyday_conversations_005",
+  "title": "Director",
+  "category": "Everyday Conversations",
+  "level": "Elementary",
+  "videoConfig": {
+    "url": "https://raw.githubusercontent.com/Mom1881990/resources/main/videos/everyday_conversations_005.mp4",
+    "thumb": "https://raw.githubusercontent.com/Mom1881990/resources/main/images/everyday_conversations_005.jpg",
+    "mute_original": false
+  },
+  "characters": [
+    {
+      "id": "A",
+      "name": "Employee (Man)",
+      "tts_voice": "en-US-GuyNeural"
+    },
+    {
+      "id": "B",
+      "name": "Director (Man)",
+      "tts_voice": "en-US-AndrewNeural"
+    }
+  ],
+  "dialogues": [
+    {
+      "role": "A",
+      "start_time": 0.000,
+      "end_time": 3.066,
+      "en": "Hi Sir, do you have time right now?",
+      "vi": "Chào sếp, sếp có rảnh bây giờ không?"
+    },
+    {
+      "role": "A",
+      "start_time": 3.633,
+      "end_time": 5.733,
+      "en": "I have something to tell you.",
+      "vi": "Tôi có chuyện muốn nói với sếp."
+    },
+    {
+      "role": "B",
+      "start_time": 6.266,
+      "end_time": 7.600,
+      "en": "Okay. Take a seat.",
+      "vi": "Được. Cậu ngồi đi."
+    },
+    {
+      "role": "B",
+      "start_time": 7.800,
+      "end_time": 9.066,
+      "en": "What's the matter?",
+      "vi": "Có chuyện gì vậy?"
+    },
+    {
+      "role": "A",
+      "start_time": 10.066,
+      "end_time": 14.933,
+      "en": "Sir, I have heard that Lucy will be promoted and moved to a new department.",
+      "vi": "Sếp, tôi nghe nói rằng Lucy sẽ được thăng chức và chuyển sang một bộ phận mới."
+    },
+    {
+      "role": "B",
+      "start_time": 15.866,
+      "end_time": 17.800,
+      "en": "That's right. Any problems?",
+      "vi": "Đúng vậy. Có vấn đề gì sao?"
+    },
+    {
+      "role": "A",
+      "start_time": 18.600,
+      "end_time": 21.666,
+      "en": "I have a little personal opinion to say.",
+      "vi": "Tôi có một chút ý kiến cá nhân muốn nói."
+    },
+    {
+      "role": "A",
+      "start_time": 22.300,
+      "end_time": 26.800,
+      "en": "To be clear, I have no objection to Lucy's promotion.",
+      "vi": "Nói rõ ra thì, tôi không phản đối việc thăng chức của Lucy."
+    },
+    {
+      "role": "A",
+      "start_time": 27.600,
+      "end_time": 32.866,
+      "en": "But I have been in the company for a long time, and I have devoted a lot to the company.",
+      "vi": "Nhưng tôi đã ở công ty một thời gian dài, và tôi đã cống hiến rất nhiều cho công ty."
+    },
+    {
+      "role": "A",
+      "start_time": 33.833,
+      "end_time": 38.400,
+      "en": "I just don't understand why I'm still not getting a promotion or a raise.",
+      "vi": "Tôi chỉ không hiểu tại sao tôi vẫn chưa được thăng chức hay tăng lương."
+    },
+    {
+      "role": "B",
+      "start_time": 39.200,
+      "end_time": 41.266,
+      "en": "I understand your concern.",
+      "vi": "Tôi hiểu sự lo lắng của cậu."
+    },
+    {
+      "role": "B",
+      "start_time": 42.200,
+      "end_time": 46.733,
+      "en": "Before answering your question, I also have a few questions for you.",
+      "vi": "Trước khi trả lời câu hỏi của cậu, tôi cũng có một vài câu hỏi cho cậu."
+    },
+    {
+      "role": "A",
+      "start_time": 47.266,
+      "end_time": 48.200,
+      "en": "Sure.",
+      "vi": "Chắc chắn rồi."
+    },
+    {
+      "role": "B",
+      "start_time": 48.800,
+      "end_time": 53.133,
+      "en": "As a person who works with Lucy, what do you think about her ability?",
+      "vi": "Là một người làm việc cùng Lucy, cậu nghĩ gì về năng lực của cô ấy?"
+    },
+    {
+      "role": "A",
+      "start_time": 53.966,
+      "end_time": 57.366,
+      "en": "Very well. She is a responsible person.",
+      "vi": "Rất tốt. Cô ấy là một người có trách nhiệm."
+    },
+    {
+      "role": "A",
+      "start_time": 58.100,
+      "end_time": 59.933,
+      "en": "But I am no less.",
+      "vi": "Nhưng tôi cũng không kém."
+    },
+    {
+      "role": "B",
+      "start_time": 60.766,
+      "end_time": 62.300,
+      "en": "Alright, stay calm.",
+      "vi": "Được rồi, bình tĩnh nào."
+    },
+    {
+      "role": "B",
+      "start_time": 63.100,
+      "end_time": 68.766,
+      "en": "During your time working at the company, did any projects you worked on help to make a profit?",
+      "vi": "Trong thời gian làm việc tại công ty, có dự án nào cậu tham gia giúp công ty kiếm lợi nhuận không?"
+    },
+    {
+      "role": "A",
+      "start_time": 69.366,
+      "end_time": 72.533,
+      "en": "Hmm... No, but there are many reasons.",
+      "vi": "Hmm... Không, nhưng có nhiều lý do."
+    },
+    {
+      "role": "A",
+      "start_time": 73.466,
+      "end_time": 79.566,
+      "en": "It's not just me doing the project. Other people also have responsibilities.",
+      "vi": "Không chỉ mình tôi làm dự án. Những người khác cũng có trách nhiệm."
+    },
+    {
+      "role": "A",
+      "start_time": 79.666,
+      "end_time": 82.166,
+      "en": "I have always done my duty well.",
+      "vi": "Tôi luôn hoàn thành tốt nhiệm vụ của mình."
+    },
+    {
+      "role": "A",
+      "start_time": 82.766,
+      "end_time": 84.400,
+      "en": "Are you blaming me?",
+      "vi": "Sếp đang trách tôi sao?"
+    },
+    {
+      "role": "B",
+      "start_time": 85.033,
+      "end_time": 91.300,
+      "en": "I'm not blaming you. You're a longtime staff of the company. I do not deny your contributions.",
+      "vi": "Tôi không trách cậu. Cậu là nhân viên lâu năm của công ty. Tôi không phủ nhận những đóng góp của cậu."
+    },
+    {
+      "role": "B",
+      "start_time": 92.200,
+      "end_time": 95.100,
+      "en": "But you haven't made any achievements for the company.",
+      "vi": "Nhưng cậu chưa có thành tựu nào nổi bật cho công ty."
+    },
+    {
+      "role": "B",
+      "start_time": 96.233,
+      "end_time": 103.300,
+      "en": "Lucy tries very hard and puts a lot of effort into the development of the company. That's why she got promoted.",
+      "vi": "Lucy cố gắng rất nhiều và dành nhiều công sức cho sự phát triển của công ty. Đó là lý do cô ấy được thăng chức."
+    },
+    {
+      "role": "B",
+      "start_time": 104.166,
+      "end_time": 107.133,
+      "en": "You are also very good at your work.",
+      "vi": "Cậu cũng làm việc rất tốt."
+    },
+    {
+      "role": "B",
+      "start_time": 107.700,
+      "end_time": 113.266,
+      "en": "Maybe if you try harder, in the future I will consider promoting you to a higher position.",
+      "vi": "Có lẽ nếu cậu cố gắng hơn, trong tương lai tôi sẽ xem xét thăng chức cậu lên vị trí cao hơn."
+    },
+    {
+      "role": "A",
+      "start_time": 114.300,
+      "end_time": 117.366,
+      "en": "I got it. Thank you for answering my questions.",
+      "vi": "Tôi hiểu rồi. Cảm ơn sếp đã trả lời câu hỏi của tôi."
+    },
+    {
+      "role": "A",
+      "start_time": 118.466,
+      "end_time": 122.000,
+      "en": "I will try harder. I'll go back to work now.",
+      "vi": "Tôi sẽ cố gắng hơn. Tôi xin phép quay lại làm việc."
+    }
+  ]
+}

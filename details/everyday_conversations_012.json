@@ -1,0 +1,170 @@
+{
+  "lesson_id": "everyday_conversations_012",
+  "title": "Promotion",
+  "category": "Everyday Conversations",
+  "level": "Elementary",
+  "videoConfig": {
+    "url": "https://raw.githubusercontent.com/Mom1881990/resources/main/videos/everyday_conversations_012.mp4",
+    "thumb": "https://raw.githubusercontent.com/Mom1881990/resources/main/images/everyday_conversations_012.jpg",
+    "mute_original": false
+  },
+  "characters": [
+    {
+      "id": "A",
+      "name": "Director",
+      "tts_voice": "en-US-GuyNeural"
+    },
+    {
+      "id": "B",
+      "name": "Lucy",
+      "tts_voice": "en-US-AriaNeural"
+    },
+    {
+      "id": "C",
+      "name": "Bob",
+      "tts_voice": "en-US-AndrewNeural"
+    }
+  ],
+  "dialogues": [
+    {
+      "role": "A",
+      "start_time": 0.266,
+      "end_time": 4.800,
+      "en": "Hi, Lucy. Please come to the director's office in the next 10 minutes.",
+      "vi": "Chào Lucy. Hãy đến văn phòng giám đốc trong 10 phút tới."
+    },
+    {
+      "role": "A",
+      "start_time": 5.766,
+      "end_time": 8.466,
+      "en": "We have something to discuss with you.",
+      "vi": "Chúng tôi có chuyện cần thảo luận với cô."
+    },
+    {
+      "role": "B",
+      "start_time": 9.466,
+      "end_time": 10.866,
+      "en": "Hi. I'm here.",
+      "vi": "Chào các anh. Tôi đã đến."
+    },
+    {
+      "role": "A",
+      "start_time": 11.400,
+      "end_time": 12.866,
+      "en": "Please take a seat.",
+      "vi": "Mời cô ngồi."
+    },
+    {
+      "role": "B",
+      "start_time": 13.666,
+      "end_time": 17.500,
+      "en": "Oh, Bob's also here. Is there a problem?",
+      "vi": "Ồ, anh Bob cũng ở đây. Có vấn đề gì sao?"
+    },
+    {
+      "role": "A",
+      "start_time": 18.066,
+      "end_time": 23.533,
+      "en": "No. Here are the things. Since you've come to the company, you've done a great job.",
+      "vi": "Không. Đây là vấn đề. Kể từ khi cô đến công ty, cô đã làm rất tốt."
+    },
+    {
+      "role": "C",
+      "start_time": 24.366,
+      "end_time": 27.266,
+      "en": "Lucy has brought numerous projects to the company.",
+      "vi": "Lucy đã mang về cho công ty rất nhiều dự án."
+    },
+    {
+      "role": "A",
+      "start_time": 28.066,
+      "end_time": 30.466,
+      "en": "When did Lucy start working here?",
+      "vi": "Lucy bắt đầu làm việc ở đây từ khi nào?"
+    },
+    {
+      "role": "B",
+      "start_time": 30.833,
+      "end_time": 35.766,
+      "en": "In April last year. So it's been over a year now, right?",
+      "vi": "Tháng Tư năm ngoái. Vậy là đã hơn một năm rồi phải không?"
+    },
+    {
+      "role": "A",
+      "start_time": 36.266,
+      "end_time": 37.966,
+      "en": "What do you think, Bob?",
+      "vi": "Anh nghĩ sao, Bob?"
+    },
+    {
+      "role": "C",
+      "start_time": 38.866,
+      "end_time": 41.266,
+      "en": "Lucy has supported me a lot.",
+      "vi": "Lucy đã hỗ trợ tôi rất nhiều."
+    },
+    {
+      "role": "C",
+      "start_time": 42.233,
+      "end_time": 45.900,
+      "en": "From the time Lucy started working, she has always worked hard.",
+      "vi": "Từ khi Lucy bắt đầu làm việc, cô ấy luôn làm việc chăm chỉ."
+    },
+    {
+      "role": "C",
+      "start_time": 46.566,
+      "end_time": 51.133,
+      "en": "All the projects she takes responsibility for are successfully completed.",
+      "vi": "Tất cả các dự án mà cô ấy chịu trách nhiệm đều được hoàn thành thành công."
+    },
+    {
+      "role": "B",
+      "start_time": 51.966,
+      "end_time": 53.500,
+      "en": "Thanks for your compliment.",
+      "vi": "Cảm ơn lời khen của anh."
+    },
+    {
+      "role": "B",
+      "start_time": 54.066,
+      "end_time": 57.266,
+      "en": "That's what I should do. It can't be done without your help.",
+      "vi": "Đó là điều tôi nên làm. Việc này không thể hoàn thành nếu thiếu sự giúp đỡ của anh."
+    },
+    {
+      "role": "A",
+      "start_time": 58.100,
+      "end_time": 62.400,
+      "en": "Yes. For all those reasons, we decided to promote you.",
+      "vi": "Đúng vậy. Vì tất cả những lý do đó, chúng tôi đã quyết định thăng chức cho cô."
+    },
+    {
+      "role": "A",
+      "start_time": 63.166,
+      "end_time": 67.333,
+      "en": "You will manage the sales team. Bob will support you.",
+      "vi": "Cô sẽ quản lý đội ngũ kinh doanh. Bob sẽ hỗ trợ cô."
+    },
+    {
+      "role": "A",
+      "start_time": 67.966,
+      "end_time": 76.000,
+      "en": "I hope you guys can work together and bring more projects to the company and find potential customers. What do you think?",
+      "vi": "Tôi hy vọng hai người có thể làm việc cùng nhau và mang về nhiều dự án hơn cho công ty cũng như tìm kiếm khách hàng tiềm năng. Cô nghĩ sao?"
+    },
+    {
+      "role": "B",
+      "start_time": 77.000,
+      "end_time": 87.000,
+      "en": "This is a great opportunity for me. I will happily take this chance and try my best to help the company grow more and more.",
+      "vi": "Đây là một cơ hội tuyệt vời cho tôi. Tôi sẽ vui vẻ đón nhận cơ hội này và cố gắng hết sức để giúp công ty phát triển hơn nữa."
+    },
+    {
+      "role": "A",
+      "start_time": 87.000,
+      "end_time": 88.050,
+      "en": "I believe you can fulfill this role well.",
+      "vi": "Tôi tin là cô có thể hoàn thành tốt vai trò này."
+    }
+  ]
+}

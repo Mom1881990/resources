@@ -1,0 +1,172 @@
+{
+  "lesson_id": "everyday_conversations_013",
+  "title": "Salary increase",
+  "category": "Everyday Conversations",
+  "level": "Elementary",
+  "videoConfig": {
+    "url": "https://raw.githubusercontent.com/Mom1881990/resources/main/videos/everyday_conversations_013.mp4",
+    "thumb": "https://raw.githubusercontent.com/Mom1881990/resources/main/images/everyday_conversations_013.jpg",
+    "mute_original": false
+  },
+  "characters": [
+    {
+      "id": "A",
+      "name": "Sarah",
+      "tts_voice": "en-US-JennyNeural"
+    },
+    {
+      "id": "B",
+      "name": "Lucy",
+      "tts_voice": "en-US-AriaNeural"
+    }
+  ],
+  "dialogues": [
+    {
+      "role": "A",
+      "start_time": 0.433,
+      "end_time": 4.200,
+      "en": "Lucy, please come to my office. I need to talk with you.",
+      "vi": "Lucy, vui lòng đến văn phòng của tôi. Tôi cần nói chuyện với cô."
+    },
+    {
+      "role": "B",
+      "start_time": 11.200,
+      "end_time": 13.700,
+      "en": "Hi, Sarah. Did you want to see me?",
+      "vi": "Chào Sarah. Chị muốn gặp tôi ạ?"
+    },
+    {
+      "role": "A",
+      "start_time": 14.233,
+      "end_time": 20.300,
+      "en": "Yes. Let's see. You've been doing this job for almost six months, right?",
+      "vi": "Đúng vậy. Để xem nào. Cô đã làm công việc này được gần 6 tháng rồi phải không?"
+    },
+    {
+      "role": "B",
+      "start_time": 21.033,
+      "end_time": 24.500,
+      "en": "Yes. It has been five and a half months.",
+      "vi": "Vâng. Đã được 5 tháng rưỡi rồi ạ."
+    },
+    {
+      "role": "A",
+      "start_time": 25.033,
+      "end_time": 26.700,
+      "en": "How do you feel?",
+      "vi": "Cô cảm thấy thế nào?"
+    },
+    {
+      "role": "B",
+      "start_time": 27.266,
+      "end_time": 28.400,
+      "en": "Very good.",
+      "vi": "Rất tốt ạ."
+    },
+    {
+      "role": "B",
+      "start_time": 29.066,
+      "end_time": 36.133,
+      "en": "Everyone in the company is very enthusiastic. They have helped me a lot. I've learned so many things.",
+      "vi": "Mọi người trong công ty rất nhiệt tình. Họ đã giúp đỡ tôi rất nhiều. Tôi đã học được rất nhiều điều."
+    },
+    {
+      "role": "A",
+      "start_time": 36.833,
+      "end_time": 38.466,
+      "en": "Good to hear that.",
+      "vi": "Rất vui khi nghe điều đó."
+    },
+    {
+      "role": "A",
+      "start_time": 39.033,
+      "end_time": 42.600,
+      "en": "Do you feel that the current workload is too much for you?",
+      "vi": "Cô có cảm thấy khối lượng công việc hiện tại là quá sức với mình không?"
+    },
+    {
+      "role": "B",
+      "start_time": 43.066,
+      "end_time": 44.966,
+      "en": "No, I can handle it.",
+      "vi": "Không ạ, tôi có thể giải quyết được."
+    },
+    {
+      "role": "A",
+      "start_time": 45.600,
+      "end_time": 50.900,
+      "en": "Your performance is excellent. The company highly appreciates what you've done.",
+      "vi": "Biểu hiện của cô rất xuất sắc. Công ty đánh giá cao những gì cô đã làm."
+    },
+    {
+      "role": "A",
+      "start_time": 51.633,
+      "end_time": 56.466,
+      "en": "After discussing this with the director, we decided to raise your salary.",
+      "vi": "Sau khi thảo luận với giám đốc, chúng tôi quyết định tăng lương cho cô."
+    },
+    {
+      "role": "B",
+      "start_time": 57.233,
+      "end_time": 58.366,
+      "en": "Really?",
+      "vi": "Thật sao ạ?"
+    },
+    {
+      "role": "A",
+      "start_time": 59.233,
+      "end_time": 64.066,
+      "en": "The company will increase your salary 15% compared to before.",
+      "vi": "Công ty sẽ tăng lương của cô thêm 15% so với trước đây."
+    },
+    {
+      "role": "B",
+      "start_time": 64.900,
+      "end_time": 67.733,
+      "en": "Wow... I appreciate it.",
+      "vi": "Wow..., tôi rất trân trọng điều này."
+    },
+    {
+      "role": "B",
+      "start_time": 68.200,
+      "end_time": 69.866,
+      "en": "Thanks so much for the raise.",
+      "vi": "Cảm ơn chị rất nhiều vì đã tăng lương."
+    },
+    {
+      "role": "A",
+      "start_time": 70.566,
+      "end_time": 73.866,
+      "en": "Although the time you joined the company was not long.",
+      "vi": "Mặc dù thời gian cô gia nhập công ty chưa lâu."
+    },
+    {
+      "role": "A",
+      "start_time": 74.433,
+      "end_time": 78.066,
+      "en": "We can see you put lots of effort into your work.",
+      "vi": "Chúng tôi có thể thấy cô đã đặt rất nhiều nỗ lực vào công việc."
+    },
+    {
+      "role": "B",
+      "start_time": 78.833,
+      "end_time": 87.133,
+      "en": "Yes. I want to thank everyone for giving me the opportunity. And I'm very happy that the director has recognized my dedication.",
+      "vi": "Vâng. Tôi muốn cảm ơn mọi người vì đã cho tôi cơ hội. Và tôi rất vui vì giám đốc đã công nhận sự cống hiến của tôi."
+    },
+    {
+      "role": "B",
+      "start_time": 87.966,
+      "end_time": 89.733,
+      "en": "I will keep working harder.",
+      "vi": "Tôi sẽ tiếp tục làm việc chăm chỉ hơn."
+    },
+    {
+      "role": "A",
+      "start_time": 90.700,
+      "end_time": 91.130,
+      "en": "Well done. Keep trying.",
+      "vi": "Làm tốt lắm, hãy tiếp tục cố gắng nhé."
+    }
+  ]
+}

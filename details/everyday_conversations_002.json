@@ -1,0 +1,137 @@
+{
+  "lesson_id": "everyday_conversations_002",
+  "title": "ASAP",
+  "category": "Everyday Conversations",
+  "level": "Elementary",
+  "videoConfig": {
+    "url": "https://raw.githubusercontent.com/Mom1881990/resources/main/videos/everyday_conversations_002.mp4",
+    "thumb": "https://raw.githubusercontent.com/Mom1881990/resources/main/images/everyday_conversations_002.jpg",
+    "mute_original": false
+  },
+  "characters": [
+    {
+      "id": "A",
+      "name": "Colleague (Man)",
+      "tts_voice": "en-US-GuyNeural"
+    },
+    {
+      "id": "B",
+      "name": "Maya (Woman)",
+      "tts_voice": "en-US-AriaNeural"
+    }
+  ],
+  "dialogues": [
+    {
+      "role": "A",
+      "start_time": 0.000,
+      "end_time": 5.400,
+      "en": "Maya, you just emailed the client: 'I'll set up another meeting ASAP'.",
+      "vi": "Maya, cô vừa gửi email cho khách hàng là: 'Tôi sẽ sắp xếp một cuộc họp khác ASAP'."
+    },
+    {
+      "role": "B",
+      "start_time": 6.633,
+      "end_time": 10.800,
+      "en": "Yep. Efficient, right? Straight to the point.",
+      "vi": "Đúng vậy. Hiệu quả mà, phải không? Đi thẳng vào vấn đề."
+    },
+    {
+      "role": "A",
+      "start_time": 11.700,
+      "end_time": 19.166,
+      "en": "It's straight, alright. So straight that it's practically a shortcut to the director's office.",
+      "vi": "Thẳng thắn đấy. Thẳng đến mức nó gần như là một đường tắt đến văn phòng giám đốc luôn."
+    },
+    {
+      "role": "B",
+      "start_time": 20.300,
+      "end_time": 22.066,
+      "en": "Wait, what?",
+      "vi": "Khoan, sao cơ?"
+    },
+    {
+      "role": "A",
+      "start_time": 22.766,
+      "end_time": 30.766,
+      "en": "We're supposed to sound more professional. ASAP sounds like you're texting your roommate about pizza.",
+      "vi": "Chúng ta phải tỏ ra chuyên nghiệp hơn. ASAP nghe như thể cô đang nhắn tin cho bạn cùng phòng về món pizza vậy."
+    },
+    {
+      "role": "B",
+      "start_time": 31.600,
+      "end_time": 34.200,
+      "en": "Oh no. So what should I say instead?",
+      "vi": "Ôi không. Vậy tôi nên nói gì thay thế?"
+    },
+    {
+      "role": "A",
+      "start_time": 35.266,
+      "end_time": 43.333,
+      "en": "Try: 'The meeting will be rescheduled as soon as possible.' And maybe skip the emoji next time.",
+      "vi": "Hãy thử: 'Cuộc họp sẽ được dời lịch sớm nhất có thể.' Và có lẽ nên bỏ biểu tượng cảm xúc vào lần tới."
+    },
+    {
+      "role": "B",
+      "start_time": 44.100,
+      "end_time": 46.333,
+      "en": "But the cake icon was cute.",
+      "vi": "Nhưng biểu tượng cái bánh rất dễ thương mà."
+    },
+    {
+      "role": "A",
+      "start_time": 47.500,
+      "end_time": 53.066,
+      "en": "Yeah, but they make you look like a 14-year-old pretending to be 24 at the office.",
+      "vi": "Đúng, nhưng chúng khiến cô trông giống như một đứa trẻ 14 tuổi đang giả vờ 24 tuổi ở văn phòng."
+    },
+    {
+      "role": "B",
+      "start_time": 54.233,
+      "end_time": 55.333,
+      "en": "Got it.",
+      "vi": "Đã hiểu."
+    },
+    {
+      "role": "A",
+      "start_time": 56.100,
+      "end_time": 60.900,
+      "en": "Writing an email is like talking to your boyfriend's mom for the first time.",
+      "vi": "Viết một email giống như nói chuyện với mẹ của bạn trai cô lần đầu tiên."
+    },
+    {
+      "role": "A",
+      "start_time": 61.700,
+      "end_time": 67.066,
+      "en": "And in this case, you should also pay attention to every sentence you write in the email.",
+      "vi": "Và trong trường hợp này, cô cũng nên chú ý đến từng câu mình viết trong email."
+    },
+    {
+      "role": "B",
+      "start_time": 68.166,
+      "end_time": 72.533,
+      "en": "So does that mean I have to act professional all the time when writing emails?",
+      "vi": "Vậy điều đó có nghĩa là tôi phải luôn tỏ ra chuyên nghiệp khi viết email sao?"
+    },
+    {
+      "role": "A",
+      "start_time": 73.866,
+      "end_time": 77.666,
+      "en": "Not just act professional. Actually be professional.",
+      "vi": "Không chỉ tỏ ra chuyên nghiệp. Mà thực sự phải chuyên nghiệp."
+    },
+    {
+      "role": "A",
+      "start_time": 78.500,
+      "end_time": 82.500,
+      "en": "If you still want to keep this job, you'd better listen to what I'm saying.",
+      "vi": "Nếu cô vẫn muốn giữ công việc này, tốt hơn hết là nên nghe những gì tôi nói."
+    },
+    {
+      "role": "B",
+      "start_time": 83.400,
+      "end_time": 86.300,
+      "en": "I'll stop sending my emails with ASAP. I'd rather not see my job end that way.",
+      "vi": "Tôi sẽ ngừng gửi email có chữ ASAP. Tôi không muốn mất việc theo cách đó."
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "lesson_id": "everyday_conversations_001",
+  "title": "Agreement",
+  "category": "Everyday Conversations",
+  "level": "Elementary",
+  "videoConfig": {
+    "url": "https://raw.githubusercontent.com/Mom1881990/resources/main/videos/everyday_conversations_001.mp4",
+    "thumb": "https://raw.githubusercontent.com/Mom1881990/resources/main/images/everyday_conversations_001.jpg",
+    "mute_original": false
+  },
+  "characters": [
+    {
+      "id": "A",
+      "name": "Anna (Admin)",
+      "tts_voice": "en-US-JennyNeural"
+    },
+    {
+      "id": "B",
+      "name": "Lucy (Employee)",
+      "tts_voice": "en-US-AriaNeural"
+    }
+  ],
+  "dialogues": [
+    {
+      "role": "A",
+      "start_time": 0.000,
+      "end_time": 7.766,
+      "en": "Hi Lucy. My name is Anna, I work in the administrative department. This is your work agreement with the company.",
+      "vi": "Chào Lucy. Tên tôi là Anna, tôi làm việc ở phòng hành chính. Đây là thỏa thuận công việc của bạn với công ty."
+    },
+    {
+      "role": "B",
+      "start_time": 8.766,
+      "end_time": 13.100,
+      "en": "Oh. Will I be on a trial period for two months?",
+      "vi": "Ồ. Tôi sẽ trong thời gian thử việc hai tháng phải không?"
+    },
+    {
+      "role": "A",
+      "start_time": 13.766,
+      "end_time": 19.266,
+      "en": "Yes. After you pass, the company will consider signing an official agreement with you.",
+      "vi": "Đúng vậy. Sau khi bạn vượt qua, công ty sẽ xem xét ký hợp đồng chính thức với bạn."
+    },
+    {
+      "role": "B",
+      "start_time": 20.033,
+      "end_time": 23.733,
+      "en": "A confidentiality agreement? What does this mean?",
+      "vi": "Một thỏa thuận bảo mật? Điều này có nghĩa là gì?"
+    },
+    {
+      "role": "A",
+      "start_time": 24.300,
+      "end_time": 28.266,
+      "en": "It means you need to keep secret about all the information of the company.",
+      "vi": "Nó có nghĩa là bạn cần giữ bí mật về tất cả thông tin của công ty."
+    },
+    {
+      "role": "B",
+      "start_time": 29.233,
+      "end_time": 32.333,
+      "en": "Oh, I see. Let me read it.",
+      "vi": "À, tôi hiểu rồi. Để tôi đọc nó."
+    },
+    {
+      "role": "A",
+      "start_time": 32.900,
+      "end_time": 35.700,
+      "en": "If you have any questions, just ask me.",
+      "vi": "Nếu bạn có bất kỳ câu hỏi nào, cứ hỏi tôi."
+    },
+    {
+      "role": "B",
+      "start_time": 36.466,
+      "end_time": 40.333,
+      "en": "Got it. I will sign it after reading it and give it back to you.",
+      "vi": "Đã rõ. Tôi sẽ ký sau khi đọc xong và gửi lại cho bạn."
+    },
+    {
+      "role": "A",
+      "start_time": 41.066,
+      "end_time": 41.866,
+      "en": "Okay.",
+      "vi": "Được thôi."
+    }
+  ]
+}

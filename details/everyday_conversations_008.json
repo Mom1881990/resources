@@ -1,0 +1,116 @@
+{
+  "lesson_id": "everyday_conversations_008",
+  "title": "My friend surprised me with concert tickets",
+  "category": "Everyday Conversations",
+  "level": "Elementary",
+  "videoConfig": {
+    "url": "https://raw.githubusercontent.com/Mom1881990/resources/main/videos/everyday_conversations_008.mp4",
+    "thumb": "https://raw.githubusercontent.com/Mom1881990/resources/main/images/everyday_conversations_008.jpg",
+    "mute_original": false
+  },
+  "characters": [
+    {
+      "id": "A",
+      "name": "Blonde Guy",
+      "tts_voice": "en-US-GuyNeural"
+    },
+    {
+      "id": "B",
+      "name": "Guy with Man Bun",
+      "tts_voice": "en-US-AndrewNeural"
+    }
+  ],
+  "dialogues": [
+    {
+      "role": "A",
+      "start_time": 0.000,
+      "end_time": 6.000,
+      "en": "Last weekend, I showed up in business casual right on my day off.",
+      "vi": "Cuối tuần trước, tôi đã mặc đồ công sở thường ngày ngay vào ngày nghỉ của mình."
+    },
+    {
+      "role": "B",
+      "start_time": 6.000,
+      "end_time": 7.900,
+      "en": "For what?",
+      "vi": "Để làm gì?"
+    },
+    {
+      "role": "A",
+      "start_time": 8.800,
+      "end_time": 14.166,
+      "en": "So that day, I got a text from my friend: 'Be ready at 7. It's serious.'",
+      "vi": "Vì hôm đó, tôi nhận được tin nhắn từ bạn tôi: 'Chuẩn bị sẵn sàng lúc 7 giờ nhé. Chuyện nghiêm túc đấy.'"
+    },
+    {
+      "role": "B",
+      "start_time": 15.266,
+      "end_time": 17.300,
+      "en": "That sounds like a tax meeting.",
+      "vi": "Nghe giống như một cuộc họp về thuế vậy."
+    },
+    {
+      "role": "A",
+      "start_time": 18.200,
+      "end_time": 21.500,
+      "en": "I thought he needed help with a pitch deck or something.",
+      "vi": "Tôi cứ tưởng cậu ấy cần giúp làm tài liệu thuyết trình hay gì đó."
+    },
+    {
+      "role": "A",
+      "start_time": 22.266,
+      "end_time": 26.066,
+      "en": "But no — my friend surprised me with concert tickets.",
+      "vi": "Nhưng không — bạn tôi đã tạo bất ngờ cho tôi bằng vé xem hòa nhạc."
+    },
+    {
+      "role": "B",
+      "start_time": 27.033,
+      "end_time": 28.333,
+      "en": "No way.",
+      "vi": "Không thể nào."
+    },
+    {
+      "role": "A",
+      "start_time": 29.633,
+      "end_time": 32.966,
+      "en": "He picked me up in silence like it was a spy mission.",
+      "vi": "Cậu ấy đến đón tôi trong im lặng như thể đó là một nhiệm vụ điệp viên vậy."
+    },
+    {
+      "role": "B",
+      "start_time": 34.500,
+      "end_time": 36.533,
+      "en": "And where did you end up?",
+      "vi": "Và cuối cùng cậu đã đi đâu?"
+    },
+    {
+      "role": "A",
+      "start_time": 37.166,
+      "end_time": 39.933,
+      "en": "I was at Olivia Rodrigo's concert.",
+      "vi": "Tôi đã đến buổi hòa nhạc của Olivia Rodrigo."
+    },
+    {
+      "role": "A",
+      "start_time": 40.833,
+      "end_time": 44.366,
+      "en": "I clapped like someone's uncle at their first concert ever.",
+      "vi": "Tôi đã vỗ tay giống như một ông chú lần đầu tiên đi xem hòa nhạc vậy."
+    },
+    {
+      "role": "B",
+      "start_time": 45.033,
+      "end_time": 47.533,
+      "en": "Please tell me you didn't sit the whole time.",
+      "vi": "Làm ơn nói với tôi là cậu không ngồi trong suốt thời gian đó nhé."
+    },
+    {
+      "role": "A",
+      "start_time": 48.266,
+      "end_time": 51.000,
+      "en": "I stood up after checking if it was allowed.",
+      "vi": "Tôi đã đứng lên sau khi kiểm tra xem liệu có được phép không."
+    }
+  ]
+}

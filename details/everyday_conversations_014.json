@@ -1,0 +1,263 @@
+{
+  "lesson_id": "everyday_conversations_014",
+  "title": "The weather is absolutely perfect today",
+  "category": "Everyday Conversations",
+  "level": "Elementary",
+  "videoConfig": {
+    "url": "https://raw.githubusercontent.com/Mom1881990/videos/everyday_conversations_014.mp4",
+    "thumb": "https://raw.githubusercontent.com/Mom1881990/images/everyday_conversations_014.jpg",
+    "mute_original": false
+  },
+  "characters": [
+    {
+      "id": "A",
+      "name": "Man",
+      "tts_voice": "en-US-AndrewNeural"
+    },
+    {
+      "id": "B",
+      "name": "Woman",
+      "tts_voice": "en-US-AriaNeural"
+    }
+  ],
+  "dialogues": [
+    {
+      "role": "A",
+      "start_time": 0.233,
+      "end_time": 3.166,
+      "en": "So you actually came.",
+      "vi": "Vậy là em thực sự đã đến."
+    },
+    {
+      "role": "B",
+      "start_time": 4.200,
+      "end_time": 5.966,
+      "en": "You sound surprised.",
+      "vi": "Anh có vẻ ngạc nhiên."
+    },
+    {
+      "role": "A",
+      "start_time": 6.866,
+      "end_time": 7.966,
+      "en": "A little.",
+      "vi": "Một chút."
+    },
+    {
+      "role": "A",
+      "start_time": 8.966,
+      "end_time": 12.900,
+      "en": "People cancel. Especially after seeing my profile picture.",
+      "vi": "Mọi người hay hủy hẹn. Đặc biệt là sau khi nhìn thấy ảnh đại diện của anh."
+    },
+    {
+      "role": "A",
+      "start_time": 13.866,
+      "end_time": 18.566,
+      "en": "Because it looked really childish and didn't match our age, right?",
+      "vi": "Vì nó trông thực sự trẻ con và không hợp với tuổi của chúng ta, đúng không?"
+    },
+    {
+      "role": "B",
+      "start_time": 19.466,
+      "end_time": 20.766,
+      "en": "It's cool though.",
+      "vi": "Dù sao thì nó cũng ngầu mà."
+    },
+    {
+      "role": "B",
+      "start_time": 21.600,
+      "end_time": 24.700,
+      "en": "At first I thought my screen was cracked",
+      "vi": "Lúc đầu em tưởng màn hình của em bị nứt"
+    },
+    {
+      "role": "B",
+      "start_time": 25.166,
+      "end_time": 25.866,
+      "en": "until I realized",
+      "vi": "cho đến khi em nhận ra"
+    },
+    {
+      "role": "B",
+      "start_time": 25.866,
+      "end_time": 29.166,
+      "en": "you had added a broken glass frame on your avatar.",
+      "vi": "anh đã thêm một khung kính vỡ vào ảnh đại diện của mình."
+    },
+    {
+      "role": "A",
+      "start_time": 30.266,
+      "end_time": 33.400,
+      "en": "A masterpiece of graphic design, I know.",
+      "vi": "Một kiệt tác thiết kế đồ họa, anh biết mà."
+    },
+    {
+      "role": "B",
+      "start_time": 34.266,
+      "end_time": 36.333,
+      "en": "Well, I'm glad I came.",
+      "vi": "Chà, em rất vui vì đã đến."
+    },
+    {
+      "role": "B",
+      "start_time": 36.400,
+      "end_time": 39.166,
+      "en": "It's nice to finally meet you.",
+      "vi": "Thật tuyệt khi cuối cùng cũng được gặp anh."
+    },
+    {
+      "role": "B",
+      "start_time": 39.200,
+      "end_time": 40.866,
+      "en": "Not through a screen.",
+      "vi": "Không phải qua màn hình."
+    },
+    {
+      "role": "A",
+      "start_time": 42.000,
+      "end_time": 45.200,
+      "en": "Same here. You look even better in real life.",
+      "vi": "Anh cũng vậy. Ở ngoài đời trông em còn đẹp hơn."
+    },
+    {
+      "role": "B",
+      "start_time": 46.266,
+      "end_time": 47.533,
+      "en": "That's um",
+      "vi": "Đó là..."
+    },
+    {
+      "role": "B",
+      "start_time": 47.766,
+      "end_time": 50.800,
+      "en": "the most beautiful compliment I've gotten today.",
+      "vi": "lời khen hay nhất mà em nhận được hôm nay."
+    },
+    {
+      "role": "A",
+      "start_time": 51.800,
+      "end_time": 54.733,
+      "en": "Today? So I'm not the first?",
+      "vi": "Hôm nay ư? Vậy anh không phải là người đầu tiên sao?"
+    },
+    {
+      "role": "B",
+      "start_time": 55.800,
+      "end_time": 56.866,
+      "en": "Just kidding.",
+      "vi": "Em đùa thôi."
+    },
+    {
+      "role": "B",
+      "start_time": 57.800,
+      "end_time": 62.066,
+      "en": "We should walk. The weather is absolutely perfect today.",
+      "vi": "Chúng ta nên đi dạo. Thời tiết hôm nay cực kỳ hoàn hảo."
+    },
+    {
+      "role": "B",
+      "start_time": 64.166,
+      "end_time": 66.100,
+      "en": "Did you just jinx us?",
+      "vi": "Có phải anh vừa làm chúng ta gặp xui xẻo không?"
+    },
+    {
+      "role": "A",
+      "start_time": 67.066,
+      "end_time": 70.966,
+      "en": "I take full responsibility. Let's go.",
+      "vi": "Anh xin chịu hoàn toàn trách nhiệm. Đi thôi."
+    },
+    {
+      "role": "B",
+      "start_time": 76.866,
+      "end_time": 80.333,
+      "en": "And now I have wet hair on the first date.",
+      "vi": "Và bây giờ em lại để tóc ướt trong buổi hẹn hò đầu tiên."
+    },
+    {
+      "role": "A",
+      "start_time": 81.566,
+      "end_time": 82.166,
+      "en": "At least",
+      "vi": "Ít nhất thì"
+    },
+    {
+      "role": "A",
+      "start_time": 82.166,
+      "end_time": 84.566,
+      "en": "we shared the memory of getting soaked together.",
+      "vi": "chúng ta cũng chia sẻ kỷ niệm cùng nhau ướt sũng."
+    },
+    {
+      "role": "B",
+      "start_time": 85.600,
+      "end_time": 87.733,
+      "en": "It's definitely memorable.",
+      "vi": "Chắc chắn là rất đáng nhớ rồi."
+    },
+    {
+      "role": "B",
+      "start_time": 88.700,
+      "end_time": 93.533,
+      "en": "You always stay positive. As long as it lifts you up.",
+      "vi": "Anh luôn suy nghĩ tích cực nhỉ. Miễn là điều đó làm em vui lên."
+    },
+    {
+      "role": "B",
+      "start_time": 94.433,
+      "end_time": 95.566,
+      "en": "Thank you.",
+      "vi": "Cảm ơn anh."
+    },
+    {
+      "role": "B",
+      "start_time": 95.833,
+      "end_time": 98.900,
+      "en": "Sometimes just spending time together is enough.",
+      "vi": "Đôi khi chỉ cần dành thời gian cho nhau là đủ."
+    },
+    {
+      "role": "A",
+      "start_time": 99.866,
+      "end_time": 101.966,
+      "en": "Yeah, so when we look back",
+      "vi": "Đúng vậy, để khi chúng ta nhìn lại"
+    },
+    {
+      "role": "A",
+      "start_time": 101.966,
+      "end_time": 104.966,
+      "en": "even the worst experiences can become beautiful",
+      "vi": "ngay cả những trải nghiệm tồi tệ nhất cũng có thể trở thành những"
+    },
+    {
+      "role": "A",
+      "start_time": 104.966,
+      "end_time": 105.766,
+      "en": "memories.",
+      "vi": "kỷ niệm đẹp."
+    },
+    {
+      "role": "A",
+      "start_time": 106.900,
+      "end_time": 110.600,
+      "en": "So should we keep creating beautiful memories together?",
+      "vi": "Vậy chúng ta có nên tiếp tục tạo ra những kỷ niệm đẹp cùng nhau không?"
+    },
+    {
+      "role": "A",
+      "start_time": 111.433,
+      "end_time": 113.500,
+      "en": "I don't want this date to end.",
+      "vi": "Anh không muốn buổi hẹn hò này kết thúc."
+    },
+    {
+      "role": "B",
+      "start_time": 114.433,
+      "end_time": 117.533,
+      "en": "Of course. Let's make the most of today.",
+      "vi": "Tất nhiên rồi. Hãy tận hưởng trọn vẹn ngày hôm nay nhé."
+    }
+  ]
+}

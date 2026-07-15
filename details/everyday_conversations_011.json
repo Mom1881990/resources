@@ -1,0 +1,135 @@
+{
+  "lesson_id": "everyday_conversations_011",
+  "title": "New project",
+  "category": "Everyday Conversations",
+  "level": "Elementary",
+  "videoConfig": {
+    "url": "https://raw.githubusercontent.com/Mom1881990/resources/main/videos/everyday_conversations_011.mp4",
+    "thumb": "https://raw.githubusercontent.com/Mom1881990/resources/main/images/everyday_conversations_011.jpg",
+    "mute_original": false
+  },
+  "characters": [
+    {
+      "id": "A",
+      "name": "Manager (Man)",
+      "tts_voice": "en-US-GuyNeural"
+    },
+    {
+      "id": "B",
+      "name": "Bob",
+      "tts_voice": "en-US-AndrewNeural"
+    },
+    {
+      "id": "C",
+      "name": "Lucy",
+      "tts_voice": "en-US-AriaNeural"
+    }
+  ],
+  "dialogues": [
+    {
+      "role": "A",
+      "start_time": 0.000,
+      "end_time": 4.766,
+      "en": "Here is Bob. Bob is the main responsible person for the company's projects.",
+      "vi": "Đây là Bob. Bob là người chịu trách nhiệm chính cho các dự án của công ty."
+    },
+    {
+      "role": "A",
+      "start_time": 5.766,
+      "end_time": 9.066,
+      "en": "This is Lucy. She is a new assistant at our company.",
+      "vi": "Đây là Lucy. Cô ấy là trợ lý mới tại công ty chúng ta."
+    },
+    {
+      "role": "B",
+      "start_time": 10.000,
+      "end_time": 12.166,
+      "en": "Hi, Lucy. Welcome to the company.",
+      "vi": "Chào Lucy. Chào mừng cô đến với công ty."
+    },
+    {
+      "role": "C",
+      "start_time": 13.000,
+      "end_time": 16.466,
+      "en": "Hi, Bob. Nice to meet you. I hope you can help me at work.",
+      "vi": "Chào Bob. Rất vui được gặp anh. Tôi hy vọng anh có thể giúp đỡ tôi trong công việc."
+    },
+    {
+      "role": "B",
+      "start_time": 17.000,
+      "end_time": 21.466,
+      "en": "Sure. Now I will tell you about the projects that the company is working on.",
+      "vi": "Chắc chắn rồi. Bây giờ tôi sẽ nói cho cô nghe về các dự án mà công ty đang thực hiện."
+    },
+    {
+      "role": "B",
+      "start_time": 22.300,
+      "end_time": 23.766,
+      "en": "Here is the information.",
+      "vi": "Đây là thông tin."
+    },
+    {
+      "role": "C",
+      "start_time": 24.900,
+      "end_time": 26.666,
+      "en": "Okay, let me read it.",
+      "vi": "Được rồi, để tôi đọc nó."
+    },
+    {
+      "role": "B",
+      "start_time": 27.466,
+      "end_time": 30.200,
+      "en": "If you have any problems, just ask me.",
+      "vi": "Nếu cô có bất kỳ vấn đề gì cứ hỏi tôi."
+    },
+    {
+      "role": "C",
+      "start_time": 30.900,
+      "end_time": 32.500,
+      "en": "Great. Thank you.",
+      "vi": "Tuyệt vời. Cảm ơn anh."
+    },
+    {
+      "role": "B",
+      "start_time": 33.233,
+      "end_time": 36.966,
+      "en": "Don't mention it. The company is preparing to start a new project.",
+      "vi": "Không có gì. Công ty đang chuẩn bị bắt đầu một dự án mới."
+    },
+    {
+      "role": "B",
+      "start_time": 37.500,
+      "end_time": 39.800,
+      "en": "You will join in this project.",
+      "vi": "Cô sẽ tham gia vào dự án này."
+    },
+    {
+      "role": "C",
+      "start_time": 40.500,
+      "end_time": 44.333,
+      "en": "Really? I am new and I don't know much about the project.",
+      "vi": "Thật sao? Tôi mới đến và không biết nhiều về dự án."
+    },
+    {
+      "role": "B",
+      "start_time": 44.966,
+      "end_time": 46.700,
+      "en": "I believe you can do it.",
+      "vi": "Tôi tin là cô có thể làm được."
+    },
+    {
+      "role": "B",
+      "start_time": 47.600,
+      "end_time": 49.733,
+      "en": "Everyone will be willing to help you.",
+      "vi": "Mọi người sẽ sẵn sàng giúp đỡ cô."
+    },
+    {
+      "role": "C",
+      "start_time": 50.466,
+      "end_time": 53.333,
+      "en": "Oh, I see. I will carefully prepare.",
+      "vi": "Ồ, tôi hiểu rồi. Tôi sẽ chuẩn bị kỹ lưỡng."
+    }
+  ]
+}

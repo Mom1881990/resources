@@ -1,0 +1,130 @@
+{
+  "lesson_id": "everyday_conversations_009",
+  "title": "My garden flowers are blooming beautifully",
+  "category": "Everyday Conversations",
+  "level": "Elementary",
+  "videoConfig": {
+    "url": "https://raw.githubusercontent.com/Mom1881990/resources/main/videos/everyday_conversations_009.mp4",
+    "thumb": "https://raw.githubusercontent.com/Mom1881990/resources/main/images/everyday_conversations_009.jpg",
+    "mute_original": false
+  },
+  "characters": [
+    {
+      "id": "A",
+      "name": "Neighbor",
+      "tts_voice": "en-US-GuyNeural"
+    },
+    {
+      "id": "B",
+      "name": "Jerry",
+      "tts_voice": "en-US-AndrewNeural"
+    }
+  ],
+  "dialogues": [
+    {
+      "role": "A",
+      "start_time": 0.000,
+      "end_time": 3.100,
+      "en": "Morning, Jerry. Your garden's showing off again.",
+      "vi": "Chào buổi sáng, Jerry. Khu vườn của anh lại đang khoe sắc rồi kìa."
+    },
+    {
+      "role": "B",
+      "start_time": 3.966,
+      "end_time": 7.900,
+      "en": "You bet. My garden flowers are blooming beautifully.",
+      "vi": "Chắc chắn rồi. Hoa trong vườn nhà tôi đang nở rất đẹp."
+    },
+    {
+      "role": "A",
+      "start_time": 9.633,
+      "end_time": 12.200,
+      "en": "Blooming like they're in a shampoo commercial.",
+      "vi": "Nở rộ như thể chúng đang đóng quảng cáo dầu gội đầu vậy."
+    },
+    {
+      "role": "B",
+      "start_time": 13.766,
+      "end_time": 18.300,
+      "en": "Getting a compliment on my garden from you is like pulling stars from the sky.",
+      "vi": "Nhận được lời khen về khu vườn từ anh giống như hái sao trên trời vậy."
+    },
+    {
+      "role": "B",
+      "start_time": 19.566,
+      "end_time": 23.333,
+      "en": "Remember when you told me flowers were not allowed in this neighborhood?",
+      "vi": "Anh còn nhớ lúc anh nói với tôi là hoa 'không được phép' trồng trong khu phố này không?"
+    },
+    {
+      "role": "A",
+      "start_time": 24.166,
+      "end_time": 25.966,
+      "en": "I didn't say that.",
+      "vi": "Tôi đâu có nói thế."
+    },
+    {
+      "role": "A",
+      "start_time": 26.833,
+      "end_time": 30.133,
+      "en": "I said your flower pots were blocking my mailbox.",
+      "vi": "Tôi nói là mấy chậu hoa của anh đang chắn hộp thư của tôi."
+    },
+    {
+      "role": "B",
+      "start_time": 31.233,
+      "end_time": 34.366,
+      "en": "And I said your mailbox could use some flowers.",
+      "vi": "Và tôi đã nói rằng hộp thư của anh có thể cần thêm vài bông hoa đấy."
+    },
+    {
+      "role": "A",
+      "start_time": 35.433,
+      "end_time": 38.533,
+      "en": "You treat my mailbox like it's part of your garden.",
+      "vi": "Anh coi hộp thư của tôi như thể nó là một phần trong khu vườn của anh vậy."
+    },
+    {
+      "role": "B",
+      "start_time": 39.500,
+      "end_time": 43.200,
+      "en": "Well, at least now it's the nicest looking mailbox on the street.",
+      "vi": "Chà, ít nhất thì bây giờ nó là hộp thư đẹp nhất trên con phố này rồi."
+    },
+    {
+      "role": "A",
+      "start_time": 44.366,
+      "end_time": 47.300,
+      "en": "The bees over there seem to agree more than I do.",
+      "vi": "Mấy con ong đằng kia có vẻ đồng ý với điều đó hơn tôi đấy."
+    },
+    {
+      "role": "B",
+      "start_time": 48.100,
+      "end_time": 50.700,
+      "en": "Even the bees know beauty when they see it.",
+      "vi": "Ngay cả lũ ong cũng nhận ra cái đẹp khi chúng nhìn thấy."
+    },
+    {
+      "role": "A",
+      "start_time": 51.566,
+      "end_time": 55.966,
+      "en": "Or maybe they're just mistaking your garden for a five-star buffet.",
+      "vi": "Hoặc có lẽ chúng chỉ đang nhầm khu vườn của anh với một bữa tiệc buffet năm sao thôi."
+    },
+    {
+      "role": "B",
+      "start_time": 57.166,
+      "end_time": 59.800,
+      "en": "Next thing you know, they'll be writing reviews.",
+      "vi": "Sắp tới có khi anh sẽ thấy chúng viết nhận xét (review) luôn đấy."
+    },
+    {
+      "role": "A",
+      "start_time": 61.100,
+      "end_time": 64.000,
+      "en": "Sounds like your garden's about to get a Michelin star.",
+      "vi": "Nghe như thể khu vườn của anh sắp nhận được sao Michelin vậy."
+    }
+  ]
+}

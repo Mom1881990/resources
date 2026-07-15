@@ -1,0 +1,165 @@
+{
+  "lesson_id": "everyday_conversations_016",
+  "title": "Work place",
+  "category": "Everyday Conversations",
+  "level": "Elementary",
+  "videoConfig": {
+    "url": "https://raw.githubusercontent.com/Mom1881990/videos/everyday_conversations_016.mp4",
+    "thumb": "https://raw.githubusercontent.com/Mom1881990/images/everyday_conversations_016.jpg",
+    "mute_original": false
+  },
+  "characters": [
+    {
+      "id": "A",
+      "name": "Employee",
+      "tts_voice": "en-US-AndrewNeural"
+    },
+    {
+      "id": "B",
+      "name": "Mr. Harris",
+      "tts_voice": "en-US-GuyNeural"
+    }
+  ],
+  "dialogues": [
+    {
+      "role": "A",
+      "start_time": 0.266,
+      "end_time": 2.000,
+      "en": "Good morning, Mr. Harris.",
+      "vi": "Chào buổi sáng, ông Harris."
+    },
+    {
+      "role": "A",
+      "start_time": 2.900,
+      "end_time": 6.200,
+      "en": "I'll begin with a quick update on last week's shipment.",
+      "vi": "Tôi sẽ bắt đầu bằng một bản cập nhật nhanh về lô hàng tuần trước."
+    },
+    {
+      "role": "B",
+      "start_time": 7.100,
+      "end_time": 8.933,
+      "en": "Please go ahead.",
+      "vi": "Cậu nói đi."
+    },
+    {
+      "role": "A",
+      "start_time": 10.000,
+      "end_time": 13.800,
+      "en": "So sorry for any probs with the delivery last Friday.",
+      "vi": "Rất xin lỗi vì bất kỳ vấn đề nào với việc giao hàng thứ Sáu tuần trước."
+    },
+    {
+      "role": "A",
+      "start_time": 14.833,
+      "end_time": 18.133,
+      "en": "Wait. Sorry. That came out too casual.",
+      "vi": "Khoan đã. Xin lỗi. Câu đó nghe quá suồng sã."
+    },
+    {
+      "role": "A",
+      "start_time": 18.866,
+      "end_time": 22.500,
+      "en": "I mean, that wasn't very professional, was it?",
+      "vi": "Ý tôi là, nó không được chuyên nghiệp cho lắm, phải không?"
+    },
+    {
+      "role": "B",
+      "start_time": 23.600,
+      "end_time": 27.466,
+      "en": "Haha! Any probs? Are we texting now?",
+      "vi": "Haha! 'Any probs'? Chúng ta đang nhắn tin đấy à?"
+    },
+    {
+      "role": "B",
+      "start_time": 28.366,
+      "end_time": 33.166,
+      "en": "A better choice would be, \"I apologize for any inconvenience caused.\"",
+      "vi": "Một lựa chọn tốt hơn sẽ là, \"Tôi xin lỗi vì bất kỳ sự bất tiện nào đã gây ra.\""
+    },
+    {
+      "role": "A",
+      "start_time": 34.233,
+      "end_time": 35.966,
+      "en": "I got it. Thank you.",
+      "vi": "Tôi hiểu rồi. Cảm ơn ông."
+    },
+    {
+      "role": "A",
+      "start_time": 36.666,
+      "end_time": 41.133,
+      "en": "I apologize for any inconvenience caused by the delivery delay.",
+      "vi": "Tôi xin lỗi vì bất kỳ sự bất tiện nào gây ra bởi sự chậm trễ giao hàng."
+    },
+    {
+      "role": "A",
+      "start_time": 41.966,
+      "end_time": 45.200,
+      "en": "We've addressed the issue and put a solution in place.",
+      "vi": "Chúng tôi đã giải quyết vấn đề và đưa ra giải pháp."
+    },
+    {
+      "role": "A",
+      "start_time": 46.000,
+      "end_time": 50.600,
+      "en": "And I'll make sure to keep my language more formal in future updates.",
+      "vi": "Và tôi sẽ đảm bảo giữ ngôn ngữ của mình trang trọng hơn trong các bản cập nhật tương lai."
+    },
+    {
+      "role": "B",
+      "start_time": 51.700,
+      "end_time": 53.066,
+      "en": "That's good to hear.",
+      "vi": "Thật tốt khi nghe điều đó."
+    },
+    {
+      "role": "B",
+      "start_time": 54.200,
+      "end_time": 58.000,
+      "en": "The way we speak reflects how seriously we take our work.",
+      "vi": "Cách chúng ta nói chuyện phản ánh mức độ nghiêm túc của chúng ta với công việc."
+    },
+    {
+      "role": "A",
+      "start_time": 58.900,
+      "end_time": 63.300,
+      "en": "Absolutely. Saying any probs might work with friends.",
+      "vi": "Chắc chắn rồi. Nói 'any probs' có thể hiệu quả với bạn bè."
+    },
+    {
+      "role": "A",
+      "start_time": 64.166,
+      "end_time": 66.100,
+      "en": "But not in this room.",
+      "vi": "Nhưng không phải trong căn phòng này."
+    },
+    {
+      "role": "B",
+      "start_time": 67.066,
+      "end_time": 71.100,
+      "en": "Exactly. Save the casual style for coffee breaks.",
+      "vi": "Chính xác. Hãy để dành phong cách suồng sã cho những giờ nghỉ giải lao uống cà phê."
+    },
+    {
+      "role": "A",
+      "start_time": 72.100,
+      "end_time": 75.300,
+      "en": "I'll keep that in mind. Thanks for the guidance.",
+      "vi": "Tôi sẽ ghi nhớ điều đó. Cảm ơn vì sự hướng dẫn."
+    },
+    {
+      "role": "B",
+      "start_time": 76.400,
+      "end_time": 82.000,
+      "en": "Good. Remember, people, especially our clients, don't just listen to what we say.",
+      "vi": "Tốt. Hãy nhớ rằng, mọi người, đặc biệt là khách hàng của chúng ta, không chỉ nghe những gì chúng ta nói."
+    },
+    {
+      "role": "B",
+      "start_time": 82.900,
+      "end_time": 85.066,
+      "en": "They judge how we say it.",
+      "vi": "Họ đánh giá cách chúng ta nói điều đó."
+    }
+  ]
+}

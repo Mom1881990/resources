@@ -1,0 +1,130 @@
+{
+  "lesson_id": "everyday_conversations_006",
+  "title": "I finally learned how to cook pasta properly",
+  "category": "Everyday Conversations",
+  "level": "Elementary",
+  "videoConfig": {
+    "url": "https://raw.githubusercontent.com/Mom1881990/resources/main/videos/everyday_conversations_006.mp4",
+    "thumb": "https://raw.githubusercontent.com/Mom1881990/resources/main/images/everyday_conversations_006.jpg",
+    "mute_original": false
+  },
+  "characters": [
+    {
+      "id": "A",
+      "name": "Man",
+      "tts_voice": "en-US-GuyNeural"
+    },
+    {
+      "id": "B",
+      "name": "Woman",
+      "tts_voice": "en-US-AriaNeural"
+    }
+  ],
+  "dialogues": [
+    {
+      "role": "A",
+      "start_time": 0.000,
+      "end_time": 2.766,
+      "en": "You remember Ava from accounting, right?",
+      "vi": "Cậu nhớ Ava phòng kế toán đúng không?"
+    },
+    {
+      "role": "B",
+      "start_time": 3.633,
+      "end_time": 7.333,
+      "en": "The one you've been pretending not to like for six months.",
+      "vi": "Người mà cậu đã giả vờ không thích trong suốt 6 tháng qua đó hả."
+    },
+    {
+      "role": "A",
+      "start_time": 8.300,
+      "end_time": 15.466,
+      "en": "That's the one. Her exact words were: 'If someone ever makes me pasta, I might marry them.'",
+      "vi": "Đúng cô ấy rồi. Nguyên văn lời cô ấy là: 'Nếu ai đó nấu mì ý cho tôi, tôi có thể sẽ cưới người đó.'"
+    },
+    {
+      "role": "B",
+      "start_time": 16.200,
+      "end_time": 19.966,
+      "en": "And your brain went: challenge accepted?",
+      "vi": "Và não cậu nảy ra: thử thách đã được chấp nhận?"
+    },
+    {
+      "role": "A",
+      "start_time": 20.966,
+      "end_time": 24.533,
+      "en": "Yeah, and I finally learned how to make pasta properly.",
+      "vi": "Ừ, và cuối cùng tôi cũng học được cách nấu mì ý đàng hoàng."
+    },
+    {
+      "role": "A",
+      "start_time": 25.466,
+      "end_time": 29.900,
+      "en": "I've watched more pasta tutorials last weekend than actual work emails.",
+      "vi": "Cuối tuần qua tôi xem video hướng dẫn nấu mì ý còn nhiều hơn cả đọc email công việc."
+    },
+    {
+      "role": "B",
+      "start_time": 30.966,
+      "end_time": 34.800,
+      "en": "Wow. So this is what love does to a man.",
+      "vi": "Chà. Đây là những gì tình yêu có thể làm với một người đàn ông sao."
+    },
+    {
+      "role": "A",
+      "start_time": 35.666,
+      "end_time": 39.066,
+      "en": "I practice plating too. Used fresh basil.",
+      "vi": "Tôi cũng tập cách trang trí đĩa nữa. Dùng húng quế tươi luôn."
+    },
+    {
+      "role": "B",
+      "start_time": 40.100,
+      "end_time": 47.066,
+      "en": "You're the same guy who nearly threw up smelling basil, and now you're using it to impress a girl?",
+      "vi": "Cậu là cái gã gần như phát nôn khi ngửi thấy mùi húng quế, và giờ cậu dùng nó để gây ấn tượng với một cô gái sao?"
+    },
+    {
+      "role": "B",
+      "start_time": 48.266,
+      "end_time": 51.333,
+      "en": "Please tell me you didn't invite her over already.",
+      "vi": "Làm ơn nói với tôi là cậu chưa mời cô ấy đến nhà nhé."
+    },
+    {
+      "role": "A",
+      "start_time": 52.266,
+      "end_time": 54.266,
+      "en": "I did. Tomorrow night.",
+      "vi": "Tôi mời rồi. Tối mai."
+    },
+    {
+      "role": "B",
+      "start_time": 55.400,
+      "end_time": 58.700,
+      "en": "You're really putting your heart into that saucepan.",
+      "vi": "Cậu thực sự dồn hết tâm huyết vào cái nồi nước sốt đó nhỉ."
+    },
+    {
+      "role": "A",
+      "start_time": 59.800,
+      "end_time": 62.933,
+      "en": "I even learned how to chop onions like a real chef.",
+      "vi": "Tôi thậm chí còn học cách thái hành tây như một đầu bếp thực thụ."
+    },
+    {
+      "role": "A",
+      "start_time": 63.866,
+      "end_time": 66.733,
+      "en": "I might actually cry if she likes it.",
+      "vi": "Chắc tôi khóc thật mất nếu cô ấy thích nó."
+    },
+    {
+      "role": "B",
+      "start_time": 67.666,
+      "end_time": 74.000,
+      "en": "I hope she cries from how good it tastes, not from that pile of undercooked onions.",
+      "vi": "Tôi hy vọng cô ấy khóc vì nó quá ngon. Chứ không phải vì đống hành tây chưa chín kia."
+    }
+  ]
+}

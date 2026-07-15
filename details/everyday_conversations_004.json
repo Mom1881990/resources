@@ -1,0 +1,186 @@
+{
+  "lesson_id": "everyday_conversations_004",
+  "title": "Company Rules",
+  "category": "Everyday Conversations",
+  "level": "Elementary",
+  "videoConfig": {
+    "url": "https://raw.githubusercontent.com/Mom1881990/resources/main/videos/everyday_conversations_004.mp4",
+    "thumb": "https://raw.githubusercontent.com/Mom1881990/resources/main/images/everyday_conversations_004.jpg",
+    "mute_original": false
+  },
+  "characters": [
+    {
+      "id": "A",
+      "name": "Lucy (New Employee)",
+      "tts_voice": "en-US-AriaNeural"
+    },
+    {
+      "id": "B",
+      "name": "Sarah (HR Manager)",
+      "tts_voice": "en-US-JennyNeural"
+    }
+  ],
+  "dialogues": [
+    {
+      "role": "A",
+      "start_time": 0.000,
+      "end_time": 3.166,
+      "en": "Excuse me. Today is my first day at work.",
+      "vi": "Xin lỗi. Hôm nay là ngày đầu tiên tôi đi làm."
+    },
+    {
+      "role": "B",
+      "start_time": 3.900,
+      "end_time": 6.500,
+      "en": "Hi Lucy. Welcome to the company.",
+      "vi": "Chào Lucy. Chào mừng bạn đến với công ty."
+    },
+    {
+      "role": "B",
+      "start_time": 7.366,
+      "end_time": 11.733,
+      "en": "My name is Sarah. I'm the Human Resources Manager.",
+      "vi": "Tên tôi là Sarah. Tôi là Trưởng phòng Nhân sự."
+    },
+    {
+      "role": "A",
+      "start_time": 12.433,
+      "end_time": 13.566,
+      "en": "Hello, Sarah.",
+      "vi": "Chào Sarah."
+    },
+    {
+      "role": "B",
+      "start_time": 14.233,
+      "end_time": 16.000,
+      "en": "Let's go to my office.",
+      "vi": "Vào văn phòng của tôi nào."
+    },
+    {
+      "role": "B",
+      "start_time": 20.900,
+      "end_time": 23.966,
+      "en": "Now I will tell you about the company rules.",
+      "vi": "Bây giờ tôi sẽ nói cho bạn biết về các quy định của công ty."
+    },
+    {
+      "role": "B",
+      "start_time": 24.400,
+      "end_time": 29.600,
+      "en": "I will tell you some basic rules. The details will be sent to your email.",
+      "vi": "Tôi sẽ nói với bạn một vài quy định cơ bản. Chi tiết sẽ được gửi vào email của bạn."
+    },
+    {
+      "role": "A",
+      "start_time": 30.366,
+      "end_time": 31.733,
+      "en": "Yes, I understand.",
+      "vi": "Vâng, tôi hiểu rồi."
+    },
+    {
+      "role": "B",
+      "start_time": 32.633,
+      "end_time": 37.300,
+      "en": "First, about the work day. You need to be at work on time.",
+      "vi": "Đầu tiên, về ngày làm việc. Bạn cần có mặt ở chỗ làm đúng giờ."
+    },
+    {
+      "role": "B",
+      "start_time": 38.000,
+      "end_time": 41.533,
+      "en": "You will work 8 hours a day, 5 days a week.",
+      "vi": "Bạn sẽ làm việc 8 tiếng một ngày, 5 ngày một tuần."
+    },
+    {
+      "role": "A",
+      "start_time": 42.100,
+      "end_time": 43.733,
+      "en": "How about the lunch break?",
+      "vi": "Thế còn giờ nghỉ trưa thì sao?"
+    },
+    {
+      "role": "B",
+      "start_time": 44.566,
+      "end_time": 47.200,
+      "en": "Lunch break will last 2 hours.",
+      "vi": "Giờ nghỉ trưa sẽ kéo dài 2 tiếng."
+    },
+    {
+      "role": "A",
+      "start_time": 47.866,
+      "end_time": 49.300,
+      "en": "Great. I got it.",
+      "vi": "Tuyệt vời. Tôi rõ rồi."
+    },
+    {
+      "role": "B",
+      "start_time": 49.766,
+      "end_time": 55.400,
+      "en": "One more thing. The company doesn't allow you to do other things during working hours.",
+      "vi": "Một điều nữa, công ty không cho phép bạn làm việc riêng trong giờ làm việc."
+    },
+    {
+      "role": "B",
+      "start_time": 56.200,
+      "end_time": 58.333,
+      "en": "Unless it's related to work.",
+      "vi": "Trừ khi việc đó có liên quan đến công việc."
+    },
+    {
+      "role": "A",
+      "start_time": 58.833,
+      "end_time": 60.366,
+      "en": "Oh, I understand.",
+      "vi": "Ồ, tôi hiểu."
+    },
+    {
+      "role": "A",
+      "start_time": 60.666,
+      "end_time": 64.866,
+      "en": "Can I go out to buy things during working hours?",
+      "vi": "Tôi có thể ra ngoài mua đồ không?"
+    },
+    {
+      "role": "B",
+      "start_time": 65.000,
+      "end_time": 69.366,
+      "en": "During working hours, if you need to go out, you must tell your manager about the time and reason.",
+      "vi": "Trong giờ làm việc, nếu cần ra ngoài, bạn phải báo với quản lý về thời gian và lý do."
+    },
+    {
+      "role": "A",
+      "start_time": 70.400,
+      "end_time": 71.966,
+      "en": "Okay. I understand.",
+      "vi": "Vâng. Tôi hiểu rồi."
+    },
+    {
+      "role": "A",
+      "start_time": 73.066,
+      "end_time": 76.266,
+      "en": "Thank you for explaining the rules. I will follow them.",
+      "vi": "Cảm ơn bạn đã giải thích các quy định. Tôi sẽ tuân thủ chúng."
+    },
+    {
+      "role": "B",
+      "start_time": 77.100,
+      "end_time": 81.933,
+      "en": "Good. Those are a few basic rules. Others are in the email.",
+      "vi": "Tốt. Đó là một số quy định cơ bản, những cái khác nằm trong email."
+    },
+    {
+      "role": "B",
+      "start_time": 82.966,
+      "end_time": 86.500,
+      "en": "If there's anything you don't understand, just ask me.",
+      "vi": "Nếu có gì không hiểu, bạn cứ hỏi tôi."
+    },
+    {
+      "role": "A",
+      "start_time": 87.300,
+      "end_time": 90.000,
+      "en": "Yes, I got it. Thank you so much.",
+      "vi": "Vâng, tôi rõ rồi. Cảm ơn bạn rất nhiều."
+    }
+  ]
+}

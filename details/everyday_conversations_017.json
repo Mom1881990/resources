@@ -1,0 +1,205 @@
+{
+  "lesson_id": "everyday_conversations_017",
+  "title": "Working hours",
+  "category": "Everyday Conversations",
+  "level": "Elementary",
+  "videoConfig": {
+    "url": "https://raw.githubusercontent.com/Mom1881990/videos/everyday_conversations_017.mp4",
+    "thumb": "https://raw.githubusercontent.com/Mom1881990/images/everyday_conversations_017.jpg",
+    "mute_original": false
+  },
+  "characters": [
+    {
+      "id": "A",
+      "name": "Bob",
+      "tts_voice": "en-US-GuyNeural"
+    },
+    {
+      "id": "B",
+      "name": "Lucy",
+      "tts_voice": "en-US-AriaNeural"
+    },
+    {
+      "id": "C",
+      "name": "Henry",
+      "tts_voice": "en-US-ChristopherNeural"
+    }
+  ],
+  "dialogues": [
+    {
+      "role": "A",
+      "start_time": 0.033,
+      "end_time": 3.400,
+      "en": "Hi Lucy. Today you're working overtime again?",
+      "vi": "Chào Lucy. Hôm nay cô lại làm thêm giờ à?"
+    },
+    {
+      "role": "B",
+      "start_time": 4.233,
+      "end_time": 8.066,
+      "en": "Yes. There's still a few tasks I haven't finished yet.",
+      "vi": "Vâng. Vẫn còn vài việc tôi chưa làm xong."
+    },
+    {
+      "role": "A",
+      "start_time": 8.700,
+      "end_time": 11.133,
+      "en": "Are there any problems? Do you need help?",
+      "vi": "Có vấn đề gì không? Cô có cần giúp đỡ không?"
+    },
+    {
+      "role": "B",
+      "start_time": 11.766,
+      "end_time": 14.666,
+      "en": "No, thank you. I'm good. I can do it by myself.",
+      "vi": "Không, cảm ơn anh. Tôi ổn. Tôi có thể tự làm được."
+    },
+    {
+      "role": "A",
+      "start_time": 15.466,
+      "end_time": 17.000,
+      "en": "You're so hard working.",
+      "vi": "Cô thật chăm chỉ."
+    },
+    {
+      "role": "C",
+      "start_time": 17.866,
+      "end_time": 21.833,
+      "en": "That's right. It has been two months from the time you were hired.",
+      "vi": "Đúng vậy. Đã 2 tháng kể từ khi cô được nhận vào làm."
+    },
+    {
+      "role": "C",
+      "start_time": 21.833,
+      "end_time": 24.300,
+      "en": "And I've always seen you stay late to work.",
+      "vi": "Và tôi luôn thấy cô ở lại làm muộn."
+    },
+    {
+      "role": "A",
+      "start_time": 25.100,
+      "end_time": 28.366,
+      "en": "Yes, it seems like you work overtime every day.",
+      "vi": "Đúng vậy, có vẻ như ngày nào cô cũng làm thêm giờ."
+    },
+    {
+      "role": "B",
+      "start_time": 29.233,
+      "end_time": 32.666,
+      "en": "Nothing serious. I just want to finish the work within the day.",
+      "vi": "Không có gì nghiêm trọng đâu. Tôi chỉ muốn hoàn thành công việc trong ngày."
+    },
+    {
+      "role": "B",
+      "start_time": 33.400,
+      "end_time": 37.000,
+      "en": "Never put off until tomorrow what you can do today, right?",
+      "vi": "Việc hôm nay chớ để ngày mai, phải không?"
+    },
+    {
+      "role": "A",
+      "start_time": 37.500,
+      "end_time": 39.533,
+      "en": "Good thinking. I'm impressed.",
+      "vi": "Suy nghĩ hay đấy. Tôi rất ấn tượng."
+    },
+    {
+      "role": "A",
+      "start_time": 40.100,
+      "end_time": 42.400,
+      "en": "What time do you usually get off work?",
+      "vi": "Thường thì mấy giờ cô mới tan làm?"
+    },
+    {
+      "role": "B",
+      "start_time": 43.300,
+      "end_time": 47.800,
+      "en": "Around 8 or nine PM.",
+      "vi": "Khoảng 8 hoặc 9 giờ tối."
+    },
+    {
+      "role": "A",
+      "start_time": 47.800,
+      "end_time": 49.400,
+      "en": "Wow. That's very late. You really work hard.",
+      "vi": "Chà. Trễ vậy sao. Cô thực sự làm việc rất chăm chỉ."
+    },
+    {
+      "role": "A",
+      "start_time": 50.066,
+      "end_time": 53.366,
+      "en": "Don't you feel tired sometimes?",
+      "vi": "Cô không thấy mệt sao?"
+    },
+    {
+      "role": "B",
+      "start_time": 53.366,
+      "end_time": 54.933,
+      "en": "Sometimes. But I really love my job.",
+      "vi": "Thỉnh thoảng. Nhưng tôi thực sự yêu công việc của mình."
+    },
+    {
+      "role": "B",
+      "start_time": 55.866,
+      "end_time": 59.333,
+      "en": "Since I've been doing this work, I have learned a lot.",
+      "vi": "Từ khi làm công việc này, tôi đã học được rất nhiều điều."
+    },
+    {
+      "role": "C",
+      "start_time": 60.266,
+      "end_time": 62.366,
+      "en": "Yes, but work never ends.",
+      "vi": "Đúng vậy, nhưng công việc không bao giờ hết."
+    },
+    {
+      "role": "C",
+      "start_time": 62.400,
+      "end_time": 65.366,
+      "en": "I think you should arrange your time to work more efficiently.",
+      "vi": "Tôi nghĩ cô nên sắp xếp thời gian để làm việc hiệu quả hơn."
+    },
+    {
+      "role": "B",
+      "start_time": 66.100,
+      "end_time": 69.066,
+      "en": "You are right. I will try to balance work and rest.",
+      "vi": "Anh nói đúng. Tôi sẽ cố gắng cân bằng giữa công việc và nghỉ ngơi."
+    },
+    {
+      "role": "A",
+      "start_time": 69.700,
+      "end_time": 71.900,
+      "en": "I have things to do, I'll leave now. Take care.",
+      "vi": "Tôi có việc phải làm, tôi về trước đây. Bảo trọng nhé."
+    },
+    {
+      "role": "B",
+      "start_time": 71.900,
+      "end_time": 72.866,
+      "en": "Sure. See you tomorrow.",
+      "vi": "Vâng. Hẹn gặp anh ngày mai."
+    },
+    {
+      "role": "C",
+      "start_time": 73.500,
+      "end_time": 75.133,
+      "en": "I have to go too.",
+      "vi": "Tôi cũng phải đi đây."
+    },
+    {
+      "role": "C",
+      "start_time": 76.066,
+      "end_time": 80.566,
+      "en": "Work is important but remember to take care of your health.",
+      "vi": "Công việc rất quan trọng nhưng hãy nhớ giữ gìn sức khỏe nhé."
+    },
+    {
+      "role": "B",
+      "start_time": 81.266,
+      "end_time": 83.133,
+      "en": "I understand. Thank you. Goodbye.",
+      "vi": "Tôi hiểu rồi. Cảm ơn anh. Tạm biệt."
+    }
+  ]
+}
