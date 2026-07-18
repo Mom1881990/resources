@@ -4,8 +4,8 @@
   "category": "Everyday Conversations",
   "level": "Elementary",
   "videoConfig": {
-    "url": "https://raw.githubusercontent.com/Mom1881990/resources/main/videos/everyday_conversations_015.mp4",
-    "thumb": "https://raw.githubusercontent.com/Mom1881990/resources/main/images/everyday_conversations_015.jpg",
+    "url": "https://raw.githubusercontent.com/Mom1881990/videos/everyday_conversations_015.mp4",
+    "thumb": "https://raw.githubusercontent.com/Mom1881990/images/everyday_conversations_015.jpg",
     "mute_original": false
   },
   "characters": [
@@ -161,21 +161,21 @@
       "vi": "Cậu ấy luôn là người chạy lăng xăng cùng chúng ta."
     },
     {
-      "role": "E",
+      "role": "D",
       "start_time": 66.800,
       "end_time": 70.466,
       "en": "You're right. Henry is energetic and friendly.",
       "vi": "Anh nói đúng. Henry rất năng động và thân thiện."
     },
     {
-      "role": "B",
+      "role": "E",
       "start_time": 71.233,
       "end_time": 73.733,
       "en": "And he knows how to cheer us up.",
       "vi": "Và cậu ấy biết cách làm chúng ta vui vẻ."
     },
     {
-      "role": "F",
+      "role": "B",
       "start_time": 74.366,
       "end_time": 76.466,
       "en": "There must be something wrong with him.",
@@ -189,7 +189,7 @@
       "vi": "Có lẽ hôm qua cậu ấy bị bạn gái đá rồi."
     },
     {
-      "role": "B",
+      "role": "F",
       "start_time": 80.833,
       "end_time": 85.000,
       "en": "I don't think so. As far as I know, he doesn't have a girlfriend.",
@@ -245,11 +245,18 @@
       "vi": "Tôi đề nghị hôm nay chúng ta nên thay phiên nhau động viên cậu ấy. Mọi người thấy sao?"
     },
     {
-      "role": "E",
+      "role": "D",
       "start_time": 112.100,
+      "end_time": 113.800,
+      "en": "I'll go with it.",
+      "vi": "Tôi đồng ý."
+    },
+    {
+      "role": "E",
+      "start_time": 114.000,
       "end_time": 115.200,
-      "en": "I'll go with it. Me too.",
-      "vi": "Tôi đồng ý. Tôi cũng vậy."
+      "en": "Me, too.",
+      "vi": "Tôi cũng vậy."
     },
     {
       "role": "F",
@@ -268,273 +275,273 @@
     {
       "role": "B",
       "start_time": 126.833,
-      "end_time": 131.833,
+      "end_time": 135.766,
       "en": "It's okay, you don't have to tell me. I get it. You know, it's not the end of the world. There's nothing to be sad about.",
       "vi": "Không sao, cậu không cần phải nói với tôi. Tôi hiểu mà. Cậu biết đấy, đây không phải là ngày tận thế. Không có gì phải buồn cả."
     },
     {
       "role": "B",
-      "start_time": 132.300,
-      "end_time": 135.700,
+      "start_time": 136.300,
+      "end_time": 140.466,
       "en": "I know that you really like coffee. Take it.",
       "vi": "Tôi biết cậu rất thích cà phê. Cầm lấy đi."
     },
     {
       "role": "B",
-      "start_time": 136.566,
-      "end_time": 142.866,
+      "start_time": 141.566,
+      "end_time": 146.866,
       "en": "Trust me. After drinking it, you will be able to deal with every problem in life.",
       "vi": "Tin tôi đi. Sau khi uống xong, cậu sẽ có thể đối mặt với mọi vấn đề trong cuộc sống."
     },
     {
       "role": "C",
-      "start_time": 146.800,
-      "end_time": 151.166,
+      "start_time": 156.800,
+      "end_time": 161.166,
       "en": "Yesterday, I could not enter my house because I lost my key.",
       "vi": "Hôm qua, tôi không thể vào nhà vì đã làm mất chìa khóa."
     },
     {
       "role": "C",
-      "start_time": 152.033,
-      "end_time": 153.966,
+      "start_time": 162.033,
+      "end_time": 163.966,
       "en": "I knew you would be surprised.",
       "vi": "Tôi biết anh sẽ ngạc nhiên mà."
     },
     {
       "role": "C",
-      "start_time": 154.700,
-      "end_time": 158.566,
+      "start_time": 164.700,
+      "end_time": 168.566,
       "en": "But don't worry. I went to my friend's house to sleep over.",
       "vi": "Nhưng đừng lo. Tôi đã đến nhà bạn ngủ nhờ."
     },
     {
       "role": "C",
-      "start_time": 159.233,
-      "end_time": 162.066,
+      "start_time": 169.233,
+      "end_time": 172.066,
       "en": "And I found out that I didn't lose my key.",
       "vi": "Và tôi phát hiện ra là mình không hề làm mất chìa khóa."
     },
     {
       "role": "C",
-      "start_time": 162.633,
-      "end_time": 166.466,
+      "start_time": 172.633,
+      "end_time": 176.466,
       "en": "I just left it on my desk in our office. Hahaha!",
       "vi": "Tôi chỉ để quên nó trên bàn làm việc ở công ty thôi. Hahaha!"
     },
     {
       "role": "C",
-      "start_time": 167.100,
-      "end_time": 172.200,
+      "start_time": 177.100,
+      "end_time": 182.200,
       "en": "As you can see, just because you have a bad day, doesn't mean you have a bad life.",
       "vi": "Anh thấy đấy, chỉ vì anh có một ngày tồi tệ, không có nghĩa là cuộc đời anh cũng tồi tệ."
     },
     {
       "role": "C",
-      "start_time": 172.666,
-      "end_time": 175.000,
+      "start_time": 182.666,
+      "end_time": 185.000,
       "en": "So... cheer up, Henry!",
       "vi": "Nên là... vui lên đi, Henry!"
     },
     {
       "role": "E",
-      "start_time": 182.566,
-      "end_time": 184.066,
+      "start_time": 192.566,
+      "end_time": 194.066,
       "en": "Hey, Henry.",
       "vi": "Chào, Henry."
     },
     {
       "role": "E",
-      "start_time": 185.366,
-      "end_time": 189.900,
+      "start_time": 195.366,
+      "end_time": 199.900,
       "en": "I just want to say that your presentation yesterday was perfect.",
       "vi": "Tôi chỉ muốn nói là bài thuyết trình của cậu hôm qua rất hoàn hảo."
     },
     {
       "role": "E",
-      "start_time": 190.566,
-      "end_time": 193.666,
+      "start_time": 200.566,
+      "end_time": 203.666,
       "en": "Everything you did went beyond our expectations.",
       "vi": "Mọi thứ cậu làm đều vượt ngoài mong đợi của chúng tôi."
     },
     {
       "role": "E",
-      "start_time": 194.633,
-      "end_time": 199.766,
-      "en": "Just sending good thoughts and I hope you know that you are more amazing than you think.",
+      "start_time": 204.633,
+      "end_time": 209.766,
+      "en": "Just sending good thoughts and I hope that you know you are more amazing than you think.",
       "vi": "Chỉ muốn gửi đến cậu những suy nghĩ tốt đẹp. Và tôi hy vọng cậu biết rằng cậu tuyệt vời hơn cậu nghĩ nhiều."
     },
     {
       "role": "E",
-      "start_time": 200.366,
-      "end_time": 202.533,
+      "start_time": 210.366,
+      "end_time": 212.533,
       "en": "You've been doing great, Henry.",
       "vi": "Cậu đang làm rất tốt đấy, Henry."
     },
     {
       "role": "A",
-      "start_time": 207.266,
-      "end_time": 208.900,
+      "start_time": 217.266,
+      "end_time": 218.900,
       "en": "Uhm... Everyone?",
       "vi": "Ưm... Mọi người?"
     },
     {
       "role": "D",
-      "start_time": 209.800,
-      "end_time": 210.833,
+      "start_time": 219.800,
+      "end_time": 222.066,
       "en": "Yes, Henry. What's the matter?",
       "vi": "Sao vậy, Henry. Có chuyện gì thế?"
     },
     {
       "role": "A",
-      "start_time": 210.833,
-      "end_time": 217.900,
+      "start_time": 222.766,
+      "end_time": 227.900,
       "en": "Why did you guys just come to my seat and say something kinda...emotional to me?",
       "vi": "Tại sao mọi người cứ đến chỗ tôi và nói những lời... hơi xúc động với tôi vậy?"
     },
     {
       "role": "F",
-      "start_time": 218.566,
-      "end_time": 223.066,
+      "start_time": 228.566,
+      "end_time": 233.066,
       "en": "Oh, we thought that you were having some problems that are hard to say.",
       "vi": "Ồ, chúng tôi nghĩ là cậu đang gặp phải vấn đề gì đó khó nói?"
     },
     {
       "role": "C",
-      "start_time": 223.766,
-      "end_time": 227.766,
+      "start_time": 233.766,
+      "end_time": 237.766,
       "en": "Yes. You've been being quiet, and we were worried, Henry.",
       "vi": "Đúng vậy. Cậu cứ im lặng mãi, và chúng tôi rất lo lắng, Henry."
     },
     {
       "role": "B",
-      "start_time": 228.366,
-      "end_time": 232.466,
+      "start_time": 238.366,
+      "end_time": 242.466,
       "en": "Everyone's right. You didn't say hello or cheer us up today.",
       "vi": "Mọi người nói đúng đấy. Hôm nay cậu không chào hỏi hay đùa vui với chúng tôi."
     },
     {
       "role": "E",
-      "start_time": 233.233,
-      "end_time": 237.866,
-      "en": "If you need anything, we're here and we won't leave you behind.",
+      "start_time": 243.233,
+      "end_time": 247.866,
+      "en": "If you need anything, we are here and we won't leave you behind.",
       "vi": "Nếu cậu cần bất cứ điều gì, chúng tôi luôn ở đây và sẽ không bỏ mặc cậu."
     },
     {
       "role": "A",
-      "start_time": 238.600,
-      "end_time": 240.266,
+      "start_time": 248.600,
+      "end_time": 250.266,
       "en": "Well, actually...",
       "vi": "Chà, thật ra thì..."
     },
     {
       "role": "C",
-      "start_time": 241.033,
-      "end_time": 243.200,
+      "start_time": 251.033,
+      "end_time": 253.200,
       "en": "We always listen to you, Henry.",
       "vi": "Chúng tôi luôn lắng nghe cậu mà, Henry."
     },
     {
       "role": "F",
-      "start_time": 244.000,
-      "end_time": 245.700,
+      "start_time": 254.000,
+      "end_time": 255.700,
       "en": "Please tell us.",
       "vi": "Làm ơn hãy nói cho chúng tôi biết đi."
     },
     {
       "role": "A",
-      "start_time": 246.300,
-      "end_time": 251.400,
+      "start_time": 256.300,
+      "end_time": 261.400,
       "en": "Oh, yes... so... This morning... I forgot to brush my teeth.",
       "vi": "Ồ, vâng... vậy... Sáng nay... tôi quên đánh răng."
     },
     {
       "role": "D",
-      "start_time": 252.100,
-      "end_time": 254.000,
-      "en": "Wait, what?",
+      "start_time": 262.100,
+      "end_time": 264.000,
+      "en": "Wait, wait, what?",
       "vi": "Khoan, cái gì cơ?"
     },
     {
       "role": "A",
-      "start_time": 254.900,
-      "end_time": 258.700,
+      "start_time": 264.900,
+      "end_time": 268.700,
       "en": "Yeah, I know it's kinda awkward to say something like this.",
       "vi": "Ừ, tôi biết nói ra điều này hơi ngại."
     },
     {
       "role": "A",
-      "start_time": 259.300,
-      "end_time": 263.300,
+      "start_time": 269.300,
+      "end_time": 273.300,
       "en": "I was so nervous that my breath smelled, so I chose to be silent.",
       "vi": "Tôi quá lo lắng rằng hơi thở của mình có mùi, nên tôi đã chọn cách im lặng."
     },
     {
       "role": "F",
-      "start_time": 264.066,
-      "end_time": 266.500,
+      "start_time": 274.066,
+      "end_time": 276.500,
       "en": "Ah hahaha. Oh Henry, Henry.",
       "vi": "À hahaha. Ôi Henry, Henry."
     },
     {
       "role": "E",
-      "start_time": 267.266,
-      "end_time": 269.333,
+      "start_time": 277.266,
+      "end_time": 279.333,
       "en": "It's no big deal, man.",
       "vi": "Không có gì to tát đâu anh bạn."
     },
     {
       "role": "E",
-      "start_time": 270.200,
-      "end_time": 274.700,
+      "start_time": 280.200,
+      "end_time": 284.700,
       "en": "The times that I forget to brush my teeth might double yours.",
       "vi": "Số lần tôi quên đánh răng có khi còn gấp đôi cậu."
     },
     {
       "role": "D",
-      "start_time": 275.633,
-      "end_time": 279.466,
+      "start_time": 285.633,
+      "end_time": 289.466,
       "en": "OMG, I'm speechless with you, Tony.",
       "vi": "Ôi trời, tôi cạn lời với anh luôn đó, Tony."
     },
     {
       "role": "E",
-      "start_time": 280.266,
-      "end_time": 283.533,
+      "start_time": 290.266,
+      "end_time": 293.533,
       "en": "So... I hope we all cleared up our misunderstanding.",
       "vi": "Vậy... tôi hy vọng tất cả chúng ta đã giải tỏa được hiểu lầm."
     },
     {
       "role": "B",
-      "start_time": 284.400,
-      "end_time": 288.133,
-      "en": "Yes. Thank God you are still okay, Henry.",
+      "start_time": 294.400,
+      "end_time": 298.133,
+      "en": "Yes. Thank God you are still OK, Henry.",
       "vi": "Đúng thế. Cảm ơn trời đất là cậu vẫn ổn, Henry."
     },
     {
       "role": "A",
-      "start_time": 288.900,
-      "end_time": 293.900,
+      "start_time": 298.900,
+      "end_time": 303.900,
       "en": "Thank you everyone. I just forgot to brush my teeth but everyone cares about me a lot.",
       "vi": "Cảm ơn mọi người. Tôi chỉ quên đánh răng thôi mà mọi người lại quan tâm đến tôi nhiều như vậy."
     },
     {
       "role": "E",
-      "start_time": 294.633,
-      "end_time": 297.666,
+      "start_time": 304.633,
+      "end_time": 307.666,
       "en": "Oh, come on. We are your friends, Henry.",
       "vi": "Thôi nào. Chúng ta là bạn của cậu mà, Henry."
     },
     {
       "role": "F",
-      "start_time": 298.833,
-      "end_time": 302.333,
+      "start_time": 308.833,
+      "end_time": 312.333,
       "en": "Okay, let's hang out after work everyone!",
       "vi": "Được rồi, sau giờ làm đi chơi nhé mọi người!"
     },
     {
       "role": "A",
-      "start_time": 303.600,
-      "end_time": 306.966,
+      "start_time": 313.600,
+      "end_time": 316.966,
       "en": "Sure! Let's work hard today and enjoy our Friday!",
       "vi": "Chắc chắn rồi! Hôm nay hãy làm việc chăm chỉ và tận hưởng ngày thứ Sáu của chúng ta nào!"
     }
