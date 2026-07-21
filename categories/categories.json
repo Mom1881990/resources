@@ -42,10 +42,10 @@
     "lessonFileName": "daily_routines2"
   },
   {
-    "id": "everyday_conversations",
-    "title": "English Conversations for Everyday Use",
-    "description": "Cuộc trò chuyện tiếng Anh hàng ngày",
-    "imageUrl": "https://raw.githubusercontent.com/Mom1881990/resources/main/categories/everyday_conversations.jpg",
-    "lessonFileName": "everyday_conversations"
+    "id": "daily_routines3",
+    "title": "Daily Routines 3",
+    "description": "Các hoạt động thường ngày 3",
+    "imageUrl": "https://raw.githubusercontent.com/Mom1881990/resources/main/categories/daily_routines3.jpg",
+    "lessonFileName": "daily_routines3"
   }
 ]
