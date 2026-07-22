@@ -1,0 +1,88 @@
+1
+00:00:00,200 --> 00:00:02,066
+hello Linda speaking
+
+2
+00:00:02,566 --> 00:00:03,800
+hello Linda
+
+3
+00:00:03,800 --> 00:00:05,466
+this is sue yeah
+
+4
+00:00:05,466 --> 00:00:09,333
+what's wrong I have a question concerning the flu shot
+
+5
+00:00:09,900 --> 00:00:11,566
+what exactly is it
+
+6
+00:00:12,066 --> 00:00:14,500
+are your children getting vaccinated against the flu
+
+7
+00:00:14,500 --> 00:00:16,633
+this year oh yes
+
+8
+00:00:16,633 --> 00:00:18,900
+they did go to the hospital last week
+
+9
+00:00:18,900 --> 00:00:22,966
+how about your child my child is also vaccinated
+
+10
+00:00:23,066 --> 00:00:25,266
+I and my husband got one too
+
+11
+00:00:25,666 --> 00:00:29,100
+my husband doesn't get vaccines why
+
+12
+00:00:29,466 --> 00:00:31,300
+he says he is never ill
+
+13
+00:00:31,966 --> 00:00:33,566
+this is also okay
+
+14
+00:00:33,566 --> 00:00:36,133
+but vaccination is one way to prevent disease
+
+15
+00:00:36,666 --> 00:00:39,400
+I know but my husband doesn't want to
+
+16
+00:00:39,900 --> 00:00:43,466
+last year both of my children became quite ill
+
+17
+00:00:43,633 --> 00:00:45,433
+I simply want to make sure they're safe
+
+18
+00:00:45,433 --> 00:00:47,200
+in case something bad happens
+
+19
+00:00:47,966 --> 00:00:50,866
+all right I'll plan an appointment for all of us
+
+20
+00:00:51,233 --> 00:00:53,166
+let's have a picnic next week
+
+21
+00:00:53,166 --> 00:00:54,933
+the kids will be very happy
+
+22
+00:00:55,466 --> 00:00:58,133
+great idea see you next week
+
