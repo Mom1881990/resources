@@ -1,0 +1,158 @@
+{
+  "lesson_id": "daily_routines3_009",
+  "title": "Grocery Shopping",
+  "category": "Daily Routines",
+  "level": "Elementary",
+  "videoConfig": {
+    "url": "https://raw.githubusercontent.com/Mom1881990/resources/main/videos/daily_routines3_009.mp4",
+    "thumb": "https://raw.githubusercontent.com/Mom1881990/resources/main/images/daily_routines3_009.jpg",
+    "mute_original": false
+  },
+  "characters": [
+    {
+      "id": "A",
+      "name": "Older Brother",
+      "tts_voice": "en-US-AndrewNeural"
+    },
+    {
+      "id": "B",
+      "name": "Younger Brother",
+      "tts_voice": "en-US-AriaNeural"
+    }
+  ],
+  "dialogues": [
+    {
+      "role": "A",
+      "start_time": 0.300,
+      "end_time": 4.500,
+      "en": "Mom said we're out of carrots. She asked us to pick some up.",
+      "vi": "Mẹ bảo hết cà rốt rồi. Mẹ nhờ anh em mình mua thêm."
+    },
+    {
+      "role": "B",
+      "start_time": 4.500,
+      "end_time": 8.466,
+      "en": "Right. Mom's making carrot soup for dinner.",
+      "vi": "Ừ. Mẹ đang làm súp cà rốt cho bữa tối."
+    },
+    {
+      "role": "B",
+      "start_time": 8.833,
+      "end_time": 11.266,
+      "en": "I wonder how much we need.",
+      "vi": "Không biết cần bao nhiêu."
+    },
+    {
+      "role": "A",
+      "start_time": 11.833,
+      "end_time": 14.800,
+      "en": "Hmm... Let's grab two bags.",
+      "vi": "Ừm... Lấy hai túi đi."
+    },
+    {
+      "role": "B",
+      "start_time": 15.466,
+      "end_time": 18.100,
+      "en": "Alright, two bags of carrots.",
+      "vi": "Được rồi, hai túi cà rốt."
+    },
+    {
+      "role": "B",
+      "start_time": 18.633,
+      "end_time": 20.600,
+      "en": "What else do we need to get?",
+      "vi": "Còn cần mua gì nữa nhỉ?"
+    },
+    {
+      "role": "A",
+      "start_time": 21.100,
+      "end_time": 23.500,
+      "en": "Uh... some kind of soda.",
+      "vi": "Ừ... một loại nước ngọt."
+    },
+    {
+      "role": "B",
+      "start_time": 24.366,
+      "end_time": 27.133,
+      "en": "Soda? Let's go to the drinks aisle.",
+      "vi": "Nước ngọt á? Đi lối nước uống đi."
+    },
+    {
+      "role": "A",
+      "start_time": 27.633,
+      "end_time": 29.366,
+      "en": "I think it's over there.",
+      "vi": "Anh nghĩ ở đằng kia."
+    },
+    {
+      "role": "B",
+      "start_time": 32.400,
+      "end_time": 35.000,
+      "en": "Did you find it?",
+      "vi": "Tìm thấy chưa?"
+    },
+    {
+      "role": "A",
+      "start_time": 35.000,
+      "end_time": 41.200,
+      "en": "No, I've been looking around, but I don't see it. What kind of soda did she mean, exactly?",
+      "vi": "Không, anh tìm hoài mà không thấy. Mẹ nói loại nước ngọt nào vậy?"
+    },
+    {
+      "role": "A",
+      "start_time": 42.166,
+      "end_time": 43.733,
+      "en": "Baking soda.",
+      "vi": "Baking soda."
+    },
+    {
+      "role": "B",
+      "start_time": 44.366,
+      "end_time": 47.400,
+      "en": "You idiot! That's not a drink.",
+      "vi": "Đồ ngốc! Đó không phải là đồ uống."
+    },
+    {
+      "role": "A",
+      "start_time": 48.200,
+      "end_time": 50.300,
+      "en": "It's a kind of white powder.",
+      "vi": "Đó là một loại bột màu trắng."
+    },
+    {
+      "role": "B",
+      "start_time": 51.000,
+      "end_time": 53.533,
+      "en": "Really? I had no idea.",
+      "vi": "Thật hả? Anh không biết gì hết."
+    },
+    {
+      "role": "B",
+      "start_time": 54.000,
+      "end_time": 58.366,
+      "en": "So, baking soda. Is that everything on the list?",
+      "vi": "Vậy là baking soda. Xong hết danh sách chưa?"
+    },
+    {
+      "role": "A",
+      "start_time": 59.366,
+      "end_time": 60.766,
+      "en": "Yeah, that's it.",
+      "vi": "Ừ, hết rồi."
+    },
+    {
+      "role": "B",
+      "start_time": 61.366,
+      "end_time": 66.133,
+      "en": "Okay, let's go look for it. Then we can check out and head home.",
+      "vi": "Được rồi, đi tìm nó đi. Xong rồi tính tiền và về nhà."
+    },
+    {
+      "role": "A",
+      "start_time": 66.666,
+      "end_time": 68.700,
+      "en": "Yeah, I'm starving.",
+      "vi": "Ừ, anh đói meo rồi."
+    }
+  ]
+}

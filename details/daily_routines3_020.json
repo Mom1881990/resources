@@ -1,0 +1,172 @@
+{
+  "lesson_id": "daily_routines3_020",
+  "title": "Unexpected News",
+  "category": "Daily Routines",
+  "level": "Elementary",
+  "videoConfig": {
+    "url": "https://raw.githubusercontent.com/Mom1881990/resources/main/videos/daily_routines3_020.mp4",
+    "thumb": "https://raw.githubusercontent.com/Mom1881990/resources/main/images/daily_routines3_020.jpg",
+    "mute_original": false
+  },
+  "characters": [
+    {
+      "id": "A",
+      "name": "Man",
+      "tts_voice": "en-US-GuyNeural"
+    },
+    {
+      "id": "B",
+      "name": "Sarah",
+      "tts_voice": "en-US-AriaNeural"
+    }
+  ],
+  "dialogues": [
+    {
+      "role": "A",
+      "start_time": 0.366,
+      "end_time": 2.866,
+      "en": "You won't believe what happened to me today!",
+      "vi": "Bạn sẽ không tin chuyện gì đã xảy ra với tôi hôm nay đâu!"
+    },
+    {
+      "role": "B",
+      "start_time": 3.633,
+      "end_time": 6.566,
+      "en": "What happened? I love unexpected news.",
+      "vi": "Chuyện gì vậy? Tôi rất thích những tin tức bất ngờ."
+    },
+    {
+      "role": "A",
+      "start_time": 7.633,
+      "end_time": 9.966,
+      "en": "I got a job offer in New York!",
+      "vi": "Tôi đã nhận được một lời mời làm việc ở New York!"
+    },
+    {
+      "role": "B",
+      "start_time": 11.966,
+      "end_time": 15.266,
+      "en": "Wow, that's huge! Are you going to take it?",
+      "vi": "Chà, thật tuyệt! Bạn có định nhận nó không?"
+    },
+    {
+      "role": "A",
+      "start_time": 16.000,
+      "end_time": 18.700,
+      "en": "I'm thinking about it. It's a big move.",
+      "vi": "Tôi đang suy nghĩ về điều đó. Đó là một bước đi lớn."
+    },
+    {
+      "role": "B",
+      "start_time": 19.466,
+      "end_time": 22.666,
+      "en": "I can imagine. How do you feel about leaving here?",
+      "vi": "Tôi có thể tưởng tượng được. Bạn cảm thấy thế nào về việc rời khỏi đây?"
+    },
+    {
+      "role": "A",
+      "start_time": 23.400,
+      "end_time": 26.600,
+      "en": "A bit sad, but it's an amazing opportunity.",
+      "vi": "Hơi buồn, nhưng đó là một cơ hội tuyệt vời."
+    },
+    {
+      "role": "B",
+      "start_time": 27.633,
+      "end_time": 31.100,
+      "en": "Definitely. You have to grab chances like that.",
+      "vi": "Chắc chắn rồi. Bạn phải nắm bắt những cơ hội như vậy."
+    },
+    {
+      "role": "A",
+      "start_time": 31.700,
+      "end_time": 34.766,
+      "en": "What about you? Any unexpected news recently?",
+      "vi": "Còn bạn thì sao? Gần đây có tin tức gì bất ngờ không?"
+    },
+    {
+      "role": "B",
+      "start_time": 35.633,
+      "end_time": 39.600,
+      "en": "Actually, yes. I won a small lottery last week!",
+      "vi": "Thực ra là có. Tôi đã trúng một giải xổ số nhỏ vào tuần trước!"
+    },
+    {
+      "role": "A",
+      "start_time": 40.566,
+      "end_time": 44.533,
+      "en": "No way! That's incredible! How much did you win?",
+      "vi": "Không thể nào! Thật không thể tin được! Bạn đã trúng bao nhiêu?"
+    },
+    {
+      "role": "B",
+      "start_time": 46.266,
+      "end_time": 49.533,
+      "en": "Just $500, but it was a total surprise.",
+      "vi": "Chỉ 500 đô la, nhưng đó là một sự ngạc nhiên hoàn toàn."
+    },
+    {
+      "role": "A",
+      "start_time": 50.566,
+      "end_time": 54.500,
+      "en": "That's still pretty cool. What will you do with it?",
+      "vi": "Vậy cũng rất tuyệt rồi. Bạn sẽ làm gì với nó?"
+    },
+    {
+      "role": "B",
+      "start_time": 54.966,
+      "end_time": 57.133,
+      "en": "I think I'll take a short vacation.",
+      "vi": "Tôi nghĩ tôi sẽ đi nghỉ một chuyến ngắn ngày."
+    },
+    {
+      "role": "A",
+      "start_time": 57.966,
+      "end_time": 61.266,
+      "en": "A well-deserved break. Where will you go?",
+      "vi": "Một kỳ nghỉ xứng đáng. Bạn sẽ đi đâu?"
+    },
+    {
+      "role": "B",
+      "start_time": 62.100,
+      "end_time": 65.700,
+      "en": "Maybe a beach getaway. I need some sun and sand.",
+      "vi": "Có lẽ là một chuyến đi biển. Tôi cần chút nắng và cát."
+    },
+    {
+      "role": "A",
+      "start_time": 67.166,
+      "end_time": 68.733,
+      "en": "Sounds like a perfect plan.",
+      "vi": "Nghe giống như một kế hoạch hoàn hảo."
+    },
+    {
+      "role": "B",
+      "start_time": 69.500,
+      "end_time": 73.466,
+      "en": "It is. But back to you, when do you decide about the job?",
+      "vi": "Đúng vậy. Nhưng quay lại với bạn, khi nào bạn quyết định về công việc?"
+    },
+    {
+      "role": "A",
+      "start_time": 74.033,
+      "end_time": 76.333,
+      "en": "I have to decide by next week.",
+      "vi": "Tôi phải quyết định vào tuần sau."
+    },
+    {
+      "role": "B",
+      "start_time": 77.166,
+      "end_time": 80.133,
+      "en": "That's soon. Best of luck with your decision.",
+      "vi": "Sắp rồi. Chúc may mắn với quyết định của bạn."
+    },
+    {
+      "role": "A",
+      "start_time": 80.866,
+      "end_time": 83.666,
+      "en": "Thanks, Sarah. I could use some good vibes.",
+      "vi": "Cảm ơn, Sarah. Tôi đang cần những lời chúc tốt đẹp."
+    }
+  ]
+}

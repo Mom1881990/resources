@@ -1,0 +1,165 @@
+{
+  "lesson_id": "daily_routines3_014",
+  "title": "Flu Shot",
+  "category": "Daily Routines",
+  "level": "Elementary",
+  "videoConfig": {
+    "url": "https://raw.githubusercontent.com/Mom1881990/resources/main/videos/daily_routines3_014.mp4",
+    "thumb": "https://raw.githubusercontent.com/Mom1881990/resources/main/images/daily_routines3_014.jpg",
+    "mute_original": false
+  },
+  "characters": [
+    {
+      "id": "A",
+      "name": "Linda",
+      "tts_voice": "en-US-EmmaNeural"
+    },
+    {
+      "id": "B",
+      "name": "Sue",
+      "tts_voice": "en-US-AriaNeural"
+    }
+  ],
+  "dialogues": [
+    {
+      "role": "A",
+      "start_time": 0.200,
+      "end_time": 2.066,
+      "en": "Hello, Linda speaking.",
+      "vi": "Alo, Linda nghe đây."
+    },
+    {
+      "role": "B",
+      "start_time": 2.566,
+      "end_time": 4.900,
+      "en": "Hello, Linda. This is Sue.",
+      "vi": "Chào Linda. Sue đây."
+    },
+    {
+      "role": "A",
+      "start_time": 4.900,
+      "end_time": 6.500,
+      "en": "Yeah. What's wrong?",
+      "vi": "Ừ. Có chuyện gì vậy?"
+    },
+    {
+      "role": "B",
+      "start_time": 6.500,
+      "end_time": 9.333,
+      "en": "I have a question concerning the flu shot.",
+      "vi": "Tôi có một câu hỏi về mũi tiêm phòng cúm."
+    },
+    {
+      "role": "A",
+      "start_time": 9.900,
+      "end_time": 11.566,
+      "en": "What exactly is it?",
+      "vi": "Chính xác là gì vậy?"
+    },
+    {
+      "role": "B",
+      "start_time": 12.066,
+      "end_time": 15.466,
+      "en": "Are your children getting vaccinated against the flu this year?",
+      "vi": "Các con của bạn có tiêm phòng cúm năm nay không?"
+    },
+    {
+      "role": "A",
+      "start_time": 15.466,
+      "end_time": 18.900,
+      "en": "Oh yes, they did go to the hospital last week.",
+      "vi": "Ồ có chứ, chúng đã đi bệnh viện tuần trước."
+    },
+    {
+      "role": "A",
+      "start_time": 18.900,
+      "end_time": 20.500,
+      "en": "How about your child?",
+      "vi": "Còn con bạn thì sao?"
+    },
+    {
+      "role": "B",
+      "start_time": 20.500,
+      "end_time": 23.066,
+      "en": "My child is also vaccinated.",
+      "vi": "Con tôi cũng đã tiêm rồi."
+    },
+    {
+      "role": "B",
+      "start_time": 23.066,
+      "end_time": 25.266,
+      "en": "I and my husband got one, too.",
+      "vi": "Tôi và chồng tôi cũng đã tiêm."
+    },
+    {
+      "role": "A",
+      "start_time": 25.666,
+      "end_time": 29.100,
+      "en": "My husband doesn't get vaccines.",
+      "vi": "Chồng tôi không tiêm vắc-xin."
+    },
+    {
+      "role": "B",
+      "start_time": 29.100,
+      "end_time": 29.466,
+      "en": "Why?",
+      "vi": "Tại sao vậy?"
+    },
+    {
+      "role": "A",
+      "start_time": 29.466,
+      "end_time": 31.300,
+      "en": "He says he is never ill.",
+      "vi": "Ông ấy bảo ông ấy không bao giờ ốm."
+    },
+    {
+      "role": "B",
+      "start_time": 31.966,
+      "end_time": 36.133,
+      "en": "This is also okay, but vaccination is one way to prevent disease.",
+      "vi": "Cũng được, nhưng tiêm vắc-xin là một cách để phòng bệnh."
+    },
+    {
+      "role": "A",
+      "start_time": 36.666,
+      "end_time": 39.400,
+      "en": "I know, but my husband doesn't want to.",
+      "vi": "Tôi biết, nhưng chồng tôi không muốn."
+    },
+    {
+      "role": "B",
+      "start_time": 39.900,
+      "end_time": 43.466,
+      "en": "Last year, both of my children became quite ill.",
+      "vi": "Năm ngoái, cả hai con tôi đều bị ốm khá nặng."
+    },
+    {
+      "role": "B",
+      "start_time": 43.633,
+      "end_time": 47.200,
+      "en": "I simply want to make sure they're safe in case something bad happens.",
+      "vi": "Tôi chỉ muốn đảm bảo an toàn cho chúng phòng trường hợp có chuyện không hay."
+    },
+    {
+      "role": "A",
+      "start_time": 47.966,
+      "end_time": 50.866,
+      "en": "Alright. I'll plan an appointment for all of us.",
+      "vi": "Được rồi. Tôi sẽ sắp lịch hẹn cho cả nhà chúng ta."
+    },
+    {
+      "role": "A",
+      "start_time": 51.233,
+      "end_time": 54.933,
+      "en": "Let's have a picnic next week. The kids will be very happy.",
+      "vi": "Tuần sau chúng ta đi picnic nhé. Bọn trẻ sẽ rất vui."
+    },
+    {
+      "role": "B",
+      "start_time": 55.466,
+      "end_time": 58.133,
+      "en": "Great idea. See you next week!",
+      "vi": "Ý hay lắm. Hẹn gặp bạn tuần sau!"
+    }
+  ]
+}

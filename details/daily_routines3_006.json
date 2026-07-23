@@ -1,0 +1,144 @@
+{
+  "lesson_id": "daily_routines3_006",
+  "title": "Taking the Dog for a Walk",
+  "category": "Daily Routines",
+  "level": "Elementary",
+  "videoConfig": {
+    "url": "https://raw.githubusercontent.com/Mom1881990/resources/main/videos/daily_routines3_006.mp4",
+    "thumb": "https://raw.githubusercontent.com/Mom1881990/resources/main/images/daily_routines3_006.jpg",
+    "mute_original": false
+  },
+  "characters": [
+    {
+      "id": "A",
+      "name": "Mom",
+      "tts_voice": "en-US-JennyNeural"
+    },
+    {
+      "id": "B",
+      "name": "Jessica",
+      "tts_voice": "en-US-AriaNeural"
+    }
+  ],
+  "dialogues": [
+    {
+      "role": "B",
+      "start_time": 0.233,
+      "end_time": 1.733,
+      "en": "Mom, what are you doing?",
+      "vi": "Mẹ đang làm gì vậy?"
+    },
+    {
+      "role": "A",
+      "start_time": 2.366,
+      "end_time": 7.766,
+      "en": "I'm waiting for the washing machine to finish up its cycle. Do you need anything?",
+      "vi": "Mẹ đang đợi máy giặt hoàn thành chu trình. Con cần gì à?"
+    },
+    {
+      "role": "B",
+      "start_time": 8.566,
+      "end_time": 11.166,
+      "en": "Oh, I just want to wash my clothes.",
+      "vi": "Ồ, con chỉ muốn giặt quần áo của con thôi."
+    },
+    {
+      "role": "B",
+      "start_time": 12.066,
+      "end_time": 14.866,
+      "en": "Never mind. I'll come back later.",
+      "vi": "Không sao đâu. Con sẽ quay lại sau."
+    },
+    {
+      "role": "A",
+      "start_time": 15.400,
+      "end_time": 20.066,
+      "en": "By the way, honey, before you go, can you take Max out for a walk?",
+      "vi": "Nhân tiện con yêu, trước khi đi, con có thể dắt Max đi dạo được không?"
+    },
+    {
+      "role": "B",
+      "start_time": 20.500,
+      "end_time": 22.666,
+      "en": "But that's Dad's job, Mom!",
+      "vi": "Nhưng đó là việc của bố mà mẹ!"
+    },
+    {
+      "role": "A",
+      "start_time": 23.166,
+      "end_time": 28.800,
+      "en": "I know, but he's busy today and you seem... free.",
+      "vi": "Mẹ biết, nhưng hôm nay bố bận và con có vẻ... rảnh."
+    },
+    {
+      "role": "B",
+      "start_time": 29.400,
+      "end_time": 31.900,
+      "en": "Free? I'm not free, Mom.",
+      "vi": "Rảnh ư? Con không rảnh đâu mẹ."
+    },
+    {
+      "role": "B",
+      "start_time": 32.166,
+      "end_time": 34.000,
+      "en": "I have a lot of things to do.",
+      "vi": "Con có rất nhiều việc phải làm."
+    },
+    {
+      "role": "B",
+      "start_time": 34.600,
+      "end_time": 40.933,
+      "en": "Things like... things like watching movies and...",
+      "vi": "Những việc như... xem phim và..."
+    },
+    {
+      "role": "B",
+      "start_time": 41.233,
+      "end_time": 45.166,
+      "en": "And having a snack... Taking a nap...",
+      "vi": "Và ăn vặt... Ngủ một giấc..."
+    },
+    {
+      "role": "B",
+      "start_time": 45.400,
+      "end_time": 46.533,
+      "en": "Things like that.",
+      "vi": "Những việc như vậy đó."
+    },
+    {
+      "role": "A",
+      "start_time": 47.233,
+      "end_time": 48.800,
+      "en": "You look really busy.",
+      "vi": "Trông con có vẻ rất bận rộn nhỉ."
+    },
+    {
+      "role": "A",
+      "start_time": 49.300,
+      "end_time": 52.166,
+      "en": "How about I take your phone so you can focus?",
+      "vi": "Hay là mẹ giữ điện thoại của con để con có thể tập trung nhé?"
+    },
+    {
+      "role": "B",
+      "start_time": 53.233,
+      "end_time": 57.500,
+      "en": "Alright, alright, Mom. I got it. I'll walk Max.",
+      "vi": "Được rồi, được rồi mẹ. Con hiểu rồi. Con sẽ dắt Max đi dạo."
+    },
+    {
+      "role": "A",
+      "start_time": 58.000,
+      "end_time": 62.166,
+      "en": "Thank you so much, sweetie. Be back in 30 minutes, okay?",
+      "vi": "Cảm ơn con nhiều nhé con yêu. Nhớ về trong 30 phút nữa nhé?"
+    },
+    {
+      "role": "B",
+      "start_time": 62.866,
+      "end_time": 63.866,
+      "en": "Sure, Mom.",
+      "vi": "Vâng, thưa mẹ."
+    }
+  ]
+}

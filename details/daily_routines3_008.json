@@ -1,0 +1,123 @@
+{
+  "lesson_id": "daily_routines3_008",
+  "title": "Helping in the Bathroom",
+  "category": "Daily Routines",
+  "level": "Elementary",
+  "videoConfig": {
+    "url": "https://raw.githubusercontent.com/Mom1881990/resources/main/videos/daily_routines3_008.mp4",
+    "thumb": "https://raw.githubusercontent.com/Mom1881990/resources/main/images/daily_routines3_008.jpg",
+    "mute_original": false
+  },
+  "characters": [
+    {
+      "id": "A",
+      "name": "Dad",
+      "tts_voice": "en-US-AndrewNeural"
+    },
+    {
+      "id": "B",
+      "name": "Alex",
+      "tts_voice": "en-US-AriaNeural"
+    }
+  ],
+  "dialogues": [
+    {
+      "role": "B",
+      "start_time": 0.033,
+      "end_time": 3.300,
+      "en": "What are you doing, Dad? I really need to pee.",
+      "vi": "Bố đang làm gì vậy? Con đang buồn tiểu lắm."
+    },
+    {
+      "role": "A",
+      "start_time": 4.233,
+      "end_time": 9.133,
+      "en": "The water pressure's low. Your mom wants me to fix up this pipe.",
+      "vi": "Áp suất nước thấp. Mẹ con bảo bố sửa ống nước này."
+    },
+    {
+      "role": "B",
+      "start_time": 9.866,
+      "end_time": 15.400,
+      "en": "Oh. Okay. I'll use the bathroom downstairs then.",
+      "vi": "Ồ. Được rồi. Con xuống nhà vệ sinh dưới tầng vậy."
+    },
+    {
+      "role": "A",
+      "start_time": 15.400,
+      "end_time": 17.666,
+      "en": "Wait, Alex, can you give me a hand?",
+      "vi": "Khoan đã Alex, con giúp bố một tay được không?"
+    },
+    {
+      "role": "B",
+      "start_time": 18.366,
+      "end_time": 21.800,
+      "en": "I can't, Dad. I need both hands.",
+      "vi": "Con không giúp được bố ơi. Con cần cả hai tay."
+    },
+    {
+      "role": "B",
+      "start_time": 24.600,
+      "end_time": 27.933,
+      "en": "Just kidding. What do you need help with?",
+      "vi": "Đùa thôi. Bố cần con giúp gì?"
+    },
+    {
+      "role": "A",
+      "start_time": 28.600,
+      "end_time": 30.066,
+      "en": "Scrubbing the toilet.",
+      "vi": "Cọ nhà vệ sinh."
+    },
+    {
+      "role": "B",
+      "start_time": 30.466,
+      "end_time": 33.200,
+      "en": "Why do you suddenly need me to do that?",
+      "vi": "Sao bố đột nhiên cần con làm việc đó?"
+    },
+    {
+      "role": "A",
+      "start_time": 33.633,
+      "end_time": 36.500,
+      "en": "I can't help but notice it's pretty dirty.",
+      "vi": "Bố không thể không nhận ra nó khá bẩn."
+    },
+    {
+      "role": "B",
+      "start_time": 38.966,
+      "end_time": 42.466,
+      "en": "It's a toilet. It's supposed to be dirty.",
+      "vi": "Đó là nhà vệ sinh mà. Nó vốn dĩ phải bẩn."
+    },
+    {
+      "role": "A",
+      "start_time": 43.000,
+      "end_time": 45.500,
+      "en": "Tell your mom that and see how that goes.",
+      "vi": "Con nói với mẹ con điều đó xem thử."
+    },
+    {
+      "role": "B",
+      "start_time": 50.066,
+      "end_time": 53.866,
+      "en": "Okay, okay. I'll take care of it later.",
+      "vi": "Được rồi, được rồi. Con sẽ lo sau."
+    },
+    {
+      "role": "A",
+      "start_time": 54.466,
+      "end_time": 56.666,
+      "en": "Why later? Why not now?",
+      "vi": "Sao lại để sau? Sao không làm ngay bây giờ?"
+    },
+    {
+      "role": "B",
+      "start_time": 57.200,
+      "end_time": 61.333,
+      "en": "Because, just in case you forgot, I really need to pee.",
+      "vi": "Vì lỡ bố quên mất, con đang buồn tiểu lắm đây."
+    }
+  ]
+}

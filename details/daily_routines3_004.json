@@ -1,0 +1,165 @@
+{
+  "lesson_id": "daily_routines3_004",
+  "title": "Cleaning the Attic",
+  "category": "Daily Routines",
+  "level": "Elementary",
+  "videoConfig": {
+    "url": "https://raw.githubusercontent.com/Mom1881990/resources/main/videos/daily_routines3_004.mp4",
+    "thumb": "https://raw.githubusercontent.com/Mom1881990/resources/main/images/daily_routines3_004.jpg",
+    "mute_original": false
+  },
+  "characters": [
+    {
+      "id": "A",
+      "name": "Ted",
+      "tts_voice": "en-US-AndrewNeural"
+    },
+    {
+      "id": "B",
+      "name": "Mark",
+      "tts_voice": "en-US-GuyNeural"
+    }
+  ],
+  "dialogues": [
+    {
+      "role": "B",
+      "start_time": 0.200,
+      "end_time": 3.133,
+      "en": "Ted, do you have any boxes you're not using?",
+      "vi": "Ted, bạn có thùng carton nào không dùng không?"
+    },
+    {
+      "role": "A",
+      "start_time": 3.600,
+      "end_time": 6.300,
+      "en": "I think I have. Let me check in stock.",
+      "vi": "Tôi nghĩ là có. Để tôi kiểm tra kho xem."
+    },
+    {
+      "role": "B",
+      "start_time": 6.766,
+      "end_time": 8.200,
+      "en": "Thank you very much.",
+      "vi": "Cảm ơn bạn rất nhiều."
+    },
+    {
+      "role": "A",
+      "start_time": 8.500,
+      "end_time": 10.766,
+      "en": "Need cartons to move house?",
+      "vi": "Cần thùng carton để chuyển nhà à?"
+    },
+    {
+      "role": "B",
+      "start_time": 11.166,
+      "end_time": 14.100,
+      "en": "No. Today I need to clear out my attic.",
+      "vi": "Không. Hôm nay tôi cần dọn gác mái."
+    },
+    {
+      "role": "B",
+      "start_time": 14.100,
+      "end_time": 15.866,
+      "en": "My attic is getting messy.",
+      "vi": "Gác mái nhà tôi đang lộn xộn lắm."
+    },
+    {
+      "role": "A",
+      "start_time": 16.233,
+      "end_time": 18.100,
+      "en": "You should clean it regularly.",
+      "vi": "Bạn nên dọn thường xuyên mới được."
+    },
+    {
+      "role": "B",
+      "start_time": 18.433,
+      "end_time": 21.566,
+      "en": "I know. I'm not even sure what's in there anymore.",
+      "vi": "Tôi biết. Giờ tôi thậm chí không chắc bên trong có gì nữa."
+    },
+    {
+      "role": "A",
+      "start_time": 22.066,
+      "end_time": 25.133,
+      "en": "I'm sure there'll be a lot of things you don't need anymore.",
+      "vi": "Chắc chắn sẽ có nhiều thứ bạn không cần nữa."
+    },
+    {
+      "role": "B",
+      "start_time": 25.666,
+      "end_time": 27.500,
+      "en": "That's what my wife told me.",
+      "vi": "Vợ tôi cũng nói vậy."
+    },
+    {
+      "role": "A",
+      "start_time": 27.500,
+      "end_time": 33.200,
+      "en": "Last month I had to clear out my attic, and my wife said the same thing to me.",
+      "vi": "Tháng trước tôi cũng phải dọn gác mái, vợ tôi cũng nói y chang vậy."
+    },
+    {
+      "role": "B",
+      "start_time": 33.466,
+      "end_time": 35.333,
+      "en": "They must be talking to each other.",
+      "vi": "Chắc hai bà nói với nhau rồi."
+    },
+    {
+      "role": "A",
+      "start_time": 35.666,
+      "end_time": 37.766,
+      "en": "What are you going to do with all of them?",
+      "vi": "Bạn định làm gì với đống đồ đó?"
+    },
+    {
+      "role": "B",
+      "start_time": 38.066,
+      "end_time": 40.533,
+      "en": "I think I'll sell things I don't need.",
+      "vi": "Tôi nghĩ tôi sẽ bán những thứ không cần."
+    },
+    {
+      "role": "B",
+      "start_time": 40.766,
+      "end_time": 43.066,
+      "en": "What did you do with all of your belongings?",
+      "vi": "Bạn đã làm gì với tất cả đồ đạc của mình?"
+    },
+    {
+      "role": "A",
+      "start_time": 43.500,
+      "end_time": 47.900,
+      "en": "I threw them away if they broke and donated the other half.",
+      "vi": "Tôi vứt những cái hỏng và quyên góp một nửa còn lại."
+    },
+    {
+      "role": "B",
+      "start_time": 47.900,
+      "end_time": 50.600,
+      "en": "Great. Maybe I'll make a donation.",
+      "vi": "Hay quá. Có lẽ tôi cũng sẽ quyên góp."
+    },
+    {
+      "role": "A",
+      "start_time": 50.966,
+      "end_time": 52.766,
+      "en": "How many cartons do you need?",
+      "vi": "Bạn cần bao nhiêu thùng carton?"
+    },
+    {
+      "role": "B",
+      "start_time": 53.166,
+      "end_time": 55.700,
+      "en": "About two or three cartons are enough.",
+      "vi": "Khoảng hai hoặc ba thùng là đủ rồi."
+    },
+    {
+      "role": "A",
+      "start_time": 56.233,
+      "end_time": 57.033,
+      "en": "Okay.",
+      "vi": "Được rồi."
+    }
+  ]
+}

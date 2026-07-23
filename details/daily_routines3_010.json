@@ -1,0 +1,151 @@
+{
+  "lesson_id": "daily_routines3_010",
+  "title": "Washing the Vehicles",
+  "category": "Daily Routines",
+  "level": "Elementary",
+  "videoConfig": {
+    "url": "https://raw.githubusercontent.com/Mom1881990/resources/main/videos/daily_routines3_010.mp4",
+    "thumb": "https://raw.githubusercontent.com/Mom1881990/resources/main/images/daily_routines3_010.jpg",
+    "mute_original": false
+  },
+  "characters": [
+    {
+      "id": "A",
+      "name": "Dad",
+      "tts_voice": "en-US-AndrewNeural"
+    },
+    {
+      "id": "B",
+      "name": "Son",
+      "tts_voice": "en-US-AriaNeural"
+    }
+  ],
+  "dialogues": [
+    {
+      "role": "B",
+      "start_time": 0.300,
+      "end_time": 2.666,
+      "en": "Oh, are you washing your car, Dad?",
+      "vi": "Ồ, bố đang rửa xe à?"
+    },
+    {
+      "role": "A",
+      "start_time": 3.266,
+      "end_time": 5.800,
+      "en": "Car? I'm washing my baby.",
+      "vi": "Xe á? Bố đang tắm cho cục cưng của bố."
+    },
+    {
+      "role": "B",
+      "start_time": 6.300,
+      "end_time": 9.733,
+      "en": "Can you wash my baby too? That's your grandkid.",
+      "vi": "Bố tắm cho cục cưng của con luôn được không? Cháu nội của bố đấy."
+    },
+    {
+      "role": "A",
+      "start_time": 10.366,
+      "end_time": 14.333,
+      "en": "Do it yourself, son. Here, grab this sponge.",
+      "vi": "Tự làm đi con trai. Đây, cầm lấy miếng bọt biển này."
+    },
+    {
+      "role": "B",
+      "start_time": 15.266,
+      "end_time": 17.733,
+      "en": "Am I doing it right, Dad?",
+      "vi": "Con làm thế này đúng chưa bố?"
+    },
+    {
+      "role": "A",
+      "start_time": 18.066,
+      "end_time": 24.666,
+      "en": "Hmm... you might need to scrub a bit harder to get that mud off. Like this.",
+      "vi": "Hmm... con có thể cần phải cọ mạnh hơn một chút để đánh bay chỗ bùn đó. Như thế này này."
+    },
+    {
+      "role": "A",
+      "start_time": 26.633,
+      "end_time": 32.333,
+      "en": "Yeah. Watch out. Don't be too rough, you don't want to scratch it.",
+      "vi": "Ừ. Cẩn thận. Đừng chà mạnh quá, con đâu muốn làm xước nó đâu."
+    },
+    {
+      "role": "B",
+      "start_time": 32.866,
+      "end_time": 34.700,
+      "en": "Should I rinse it off now?",
+      "vi": "Bây giờ con xả nước được chưa?"
+    },
+    {
+      "role": "A",
+      "start_time": 35.233,
+      "end_time": 36.033,
+      "en": "Yep.",
+      "vi": "Được rồi."
+    },
+    {
+      "role": "B",
+      "start_time": 38.266,
+      "end_time": 39.900,
+      "en": "What do I do next?",
+      "vi": "Con phải làm gì tiếp theo?"
+    },
+    {
+      "role": "A",
+      "start_time": 40.500,
+      "end_time": 42.733,
+      "en": "Wipe it down with a clean towel.",
+      "vi": "Lau khô bằng một chiếc khăn sạch."
+    },
+    {
+      "role": "B",
+      "start_time": 43.433,
+      "end_time": 45.066,
+      "en": "Can I use your towel?",
+      "vi": "Con dùng khăn của bố được không?"
+    },
+    {
+      "role": "A",
+      "start_time": 45.800,
+      "end_time": 47.900,
+      "en": "Nope. I don't share mine.",
+      "vi": "Không. Bố không dùng chung đâu."
+    },
+    {
+      "role": "B",
+      "start_time": 48.500,
+      "end_time": 49.666,
+      "en": "Why not?",
+      "vi": "Sao lại không ạ?"
+    },
+    {
+      "role": "A",
+      "start_time": 50.200,
+      "end_time": 52.066,
+      "en": "Do you share your bath towel?",
+      "vi": "Con có dùng chung khăn tắm của mình không?"
+    },
+    {
+      "role": "B",
+      "start_time": 52.700,
+      "end_time": 55.666,
+      "en": "Fine. Do you know where I can find one?",
+      "vi": "Thôi được rồi. Bố có biết con có thể lấy một cái ở đâu không?"
+    },
+    {
+      "role": "A",
+      "start_time": 56.233,
+      "end_time": 61.466,
+      "en": "Go ask your mom. She's in the kitchen. She's got plenty of towels.",
+      "vi": "Đi hỏi mẹ con ấy. Mẹ đang ở trong bếp. Mẹ có nhiều khăn lắm."
+    },
+    {
+      "role": "B",
+      "start_time": 62.200,
+      "end_time": 64.166,
+      "en": "Alright, I'll be back in a minute.",
+      "vi": "Vâng ạ, con sẽ quay lại trong một phút nữa."
+    }
+  ]
+}

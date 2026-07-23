@@ -1,0 +1,186 @@
+{
+  "lesson_id": "daily_routines3_016",
+  "title": "Sick Child",
+  "category": "Daily Routines",
+  "level": "Elementary",
+  "videoConfig": {
+    "url": "https://raw.githubusercontent.com/Mom1881990/resources/main/videos/daily_routines3_016.mp4",
+    "thumb": "https://raw.githubusercontent.com/Mom1881990/resources/main/images/daily_routines3_016.jpg",
+    "mute_original": false
+  },
+  "characters": [
+    {
+      "id": "A",
+      "name": "Linda",
+      "tts_voice": "en-US-EmmaNeural"
+    },
+    {
+      "id": "B",
+      "name": "Sue",
+      "tts_voice": "en-US-AriaNeural"
+    }
+  ],
+  "dialogues": [
+    {
+      "role": "A",
+      "start_time": 0.066,
+      "end_time": 1.066,
+      "en": "Hello, Sue.",
+      "vi": "Alo Sue."
+    },
+    {
+      "role": "A",
+      "start_time": 1.066,
+      "end_time": 4.500,
+      "en": "I'm Linda. Are you available for lunch today?",
+      "vi": "Linda đây. Hôm nay bạn có rảnh ăn trưa không?"
+    },
+    {
+      "role": "B",
+      "start_time": 4.900,
+      "end_time": 9.733,
+      "en": "No, David is unwell today and was unable to attend school.",
+      "vi": "Không được, David hôm nay không khỏe và không đi học được."
+    },
+    {
+      "role": "A",
+      "start_time": 10.233,
+      "end_time": 12.966,
+      "en": "That's awful. Is it a cold?",
+      "vi": "Thật tệ quá. Có phải cảm lạnh không?"
+    },
+    {
+      "role": "B",
+      "start_time": 13.433,
+      "end_time": 15.266,
+      "en": "Yes, I believe so.",
+      "vi": "Vâng, tôi nghĩ vậy."
+    },
+    {
+      "role": "B",
+      "start_time": 15.300,
+      "end_time": 18.266,
+      "en": "He was suffering from a cough and a sore throat.",
+      "vi": "Con bị ho và đau họng."
+    },
+    {
+      "role": "A",
+      "start_time": 18.833,
+      "end_time": 21.800,
+      "en": "My kid was also unwell last week.",
+      "vi": "Con tôi tuần trước cũng bị ốm."
+    },
+    {
+      "role": "A",
+      "start_time": 21.800,
+      "end_time": 24.766,
+      "en": "He was absent from school for four days.",
+      "vi": "Con nghỉ học 4 ngày."
+    },
+    {
+      "role": "A",
+      "start_time": 25.066,
+      "end_time": 27.000,
+      "en": "I hope David isn't too sick.",
+      "vi": "Tôi hy vọng David không bị nặng."
+    },
+    {
+      "role": "A",
+      "start_time": 27.566,
+      "end_time": 29.733,
+      "en": "There is a virus circulating.",
+      "vi": "Đang có virus lan truyền."
+    },
+    {
+      "role": "A",
+      "start_time": 29.866,
+      "end_time": 32.066,
+      "en": "We must also maintain our health.",
+      "vi": "Chúng ta cũng phải giữ gìn sức khỏe."
+    },
+    {
+      "role": "B",
+      "start_time": 32.300,
+      "end_time": 37.466,
+      "en": "I know. To keep healthy, I've started taking additional vitamin C.",
+      "vi": "Tôi biết. Để khỏe mạnh, tôi bắt đầu uống thêm vitamin C."
+    },
+    {
+      "role": "A",
+      "start_time": 37.466,
+      "end_time": 38.466,
+      "en": "Right, me too.",
+      "vi": "Đúng vậy, tôi cũng thế."
+    },
+    {
+      "role": "A",
+      "start_time": 38.566,
+      "end_time": 42.533,
+      "en": "I'm going to go out and buy something. Do you want anything from the store?",
+      "vi": "Tôi sẽ ra ngoài mua ít đồ. Bạn có muốn mua gì từ cửa hàng không?"
+    },
+    {
+      "role": "B",
+      "start_time": 42.966,
+      "end_time": 48.466,
+      "en": "In fact, I do. I couldn't go shopping since I didn't want to abandon David.",
+      "vi": "Thật ra có. Tôi không đi mua sắm được vì không muốn bỏ David một mình."
+    },
+    {
+      "role": "A",
+      "start_time": 49.000,
+      "end_time": 51.733,
+      "en": "I get what you mean. What do you want?",
+      "vi": "Tôi hiểu rồi. Bạn muốn gì?"
+    },
+    {
+      "role": "B",
+      "start_time": 52.266,
+      "end_time": 57.166,
+      "en": "Could you kindly buy a chicken for me? I'd want to cook some chicken soup for David.",
+      "vi": "Bạn có thể mua giúp tôi con gà không? Tôi muốn nấu súp gà cho David."
+    },
+    {
+      "role": "A",
+      "start_time": 57.866,
+      "end_time": 60.100,
+      "en": "Okay. I'll buy a chicken for you.",
+      "vi": "Được rồi. Tôi sẽ mua gà cho bạn."
+    },
+    {
+      "role": "B",
+      "start_time": 60.600,
+      "end_time": 62.066,
+      "en": "Thank you so much.",
+      "vi": "Cảm ơn bạn nhiều."
+    },
+    {
+      "role": "A",
+      "start_time": 62.700,
+      "end_time": 68.000,
+      "en": "Okay, I'll go to the shop after lunch and will arrive at your place about 2:00 p.m.",
+      "vi": "Được, tôi sẽ đi mua sau bữa trưa và đến chỗ bạn khoảng 2 giờ chiều."
+    },
+    {
+      "role": "B",
+      "start_time": 68.000,
+      "end_time": 69.500,
+      "en": "Great, then I'll see you.",
+      "vi": "Tuyệt vời, hẹn gặp bạn."
+    },
+    {
+      "role": "A",
+      "start_time": 69.500,
+      "end_time": 72.000,
+      "en": "Don't forget to stock up on vitamin C.",
+      "vi": "Đừng quên mua thêm vitamin C nhé."
+    },
+    {
+      "role": "B",
+      "start_time": 72.466,
+      "end_time": 74.533,
+      "en": "I remember. See ya!",
+      "vi": "Tôi nhớ rồi. Hẹn gặp!"
+    }
+  ]
+}

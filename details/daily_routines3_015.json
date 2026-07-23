@@ -1,0 +1,235 @@
+{
+  "lesson_id": "daily_routines3_015",
+  "title": "Shopping Experiences",
+  "category": "Daily Routines",
+  "level": "Elementary",
+  "videoConfig": {
+    "url": "https://raw.githubusercontent.com/Mom1881990/resources/main/videos/daily_routines3_015.mp4",
+    "thumb": "https://raw.githubusercontent.com/Mom1881990/resources/main/images/daily_routines3_015.jpg",
+    "mute_original": false
+  },
+  "characters": [
+    {
+      "id": "A",
+      "name": "Boy",
+      "tts_voice": "en-US-AndrewNeural"
+    },
+    {
+      "id": "B",
+      "name": "Girl",
+      "tts_voice": "en-US-EmmaNeural"
+    }
+  ],
+  "dialogues": [
+    {
+      "role": "A",
+      "start_time": 0.400,
+      "end_time": 2.500,
+      "en": "Have you gone to the new mall yet?",
+      "vi": "Bạn đã đi trung tâm thương mại mới chưa?"
+    },
+    {
+      "role": "B",
+      "start_time": 3.300,
+      "end_time": 6.300,
+      "en": "Yes! It's huge! I got lost twice.",
+      "vi": "Rồi! Nó to lắm! Tôi bị lạc hai lần."
+    },
+    {
+      "role": "A",
+      "start_time": 7.266,
+      "end_time": 10.733,
+      "en": "Really? That's funny! What did you buy?",
+      "vi": "Thật hả? Vui quá! Bạn mua gì vậy?"
+    },
+    {
+      "role": "B",
+      "start_time": 11.366,
+      "end_time": 14.166,
+      "en": "I went for shoes but ended up buying a hat.",
+      "vi": "Tôi đi mua giày nhưng cuối cùng mua cái mũ."
+    },
+    {
+      "role": "A",
+      "start_time": 14.833,
+      "end_time": 17.466,
+      "en": "A hat? How did that happen?",
+      "vi": "Cái mũ á? Sao lại thế?"
+    },
+    {
+      "role": "B",
+      "start_time": 18.166,
+      "end_time": 21.166,
+      "en": "I saw it and couldn't resist. It's so cute!",
+      "vi": "Tôi thấy nó và không cưỡng lại được. Dễ thương quá!"
+    },
+    {
+      "role": "A",
+      "start_time": 22.766,
+      "end_time": 26.466,
+      "en": "Last time, I went for groceries and came back with a video game.",
+      "vi": "Lần trước tôi đi mua đồ ăn nhưng về với trò chơi điện tử."
+    },
+    {
+      "role": "B",
+      "start_time": 27.200,
+      "end_time": 28.866,
+      "en": "That's even more random!",
+      "vi": "Cái đó còn ngẫu nhiên hơn!"
+    },
+    {
+      "role": "A",
+      "start_time": 29.866,
+      "end_time": 33.366,
+      "en": "The mall has everything. I got distracted easily.",
+      "vi": "Trung tâm thương mại có đủ thứ. Tôi dễ bị phân tâm lắm."
+    },
+    {
+      "role": "B",
+      "start_time": 34.766,
+      "end_time": 36.933,
+      "en": "Me too. There are so many shops!",
+      "vi": "Tôi cũng vậy. Có quá nhiều cửa hàng!"
+    },
+    {
+      "role": "A",
+      "start_time": 38.100,
+      "end_time": 40.533,
+      "en": "Did you see that new electronics store?",
+      "vi": "Bạn có thấy cửa hàng điện tử mới không?"
+    },
+    {
+      "role": "B",
+      "start_time": 41.433,
+      "end_time": 44.300,
+      "en": "Yes! I spent an hour just looking at gadgets.",
+      "vi": "Có! Tôi dành cả tiếng chỉ để xem đồ công nghệ."
+    },
+    {
+      "role": "A",
+      "start_time": 45.200,
+      "end_time": 47.700,
+      "en": "Gadgets are fun. Did you buy any?",
+      "vi": "Đồ công nghệ hay lắm. Bạn có mua gì không?"
+    },
+    {
+      "role": "B",
+      "start_time": 48.566,
+      "end_time": 51.600,
+      "en": "No. I managed to control myself this time.",
+      "vi": "Không. Lần này tôi kiềm chế được."
+    },
+    {
+      "role": "A",
+      "start_time": 52.466,
+      "end_time": 56.733,
+      "en": "That's impressive. I always end up buying something.",
+      "vi": "Thật ấn tượng. Tôi lúc nào cũng mua gì đó."
+    },
+    {
+      "role": "B",
+      "start_time": 58.466,
+      "end_time": 60.733,
+      "en": "What's the funniest thing you've ever bought?",
+      "vi": "Thứ vui nhất bạn từng mua là gì?"
+    },
+    {
+      "role": "A",
+      "start_time": 61.666,
+      "end_time": 65.500,
+      "en": "A singing fish for my bathroom. Don't ask why.",
+      "vi": "Một con cá hát cho phòng tắm. Đừng hỏi tại sao."
+    },
+    {
+      "role": "B",
+      "start_time": 66.433,
+      "end_time": 69.333,
+      "en": "That's hilarious! Does it sing in the shower?",
+      "vi": "Hài quá! Nó có hát trong lúc tắm không?"
+    },
+    {
+      "role": "A",
+      "start_time": 70.166,
+      "end_time": 73.366,
+      "en": "Yes, and it scares my cat every time.",
+      "vi": "Có, và nó dọa con mèo của tôi mỗi lần."
+    },
+    {
+      "role": "B",
+      "start_time": 74.000,
+      "end_time": 76.500,
+      "en": "Poor cat! What about clothes shopping?",
+      "vi": "Thương con mèo! Còn mua quần áo thì sao?"
+    },
+    {
+      "role": "A",
+      "start_time": 77.100,
+      "end_time": 80.766,
+      "en": "I prefer online shopping for clothes. Less hassle.",
+      "vi": "Tôi thích mua quần áo online. Ít rắc rối hơn."
+    },
+    {
+      "role": "B",
+      "start_time": 81.433,
+      "end_time": 84.300,
+      "en": "I like trying things on. You know, for the fit.",
+      "vi": "Tôi thích thử đồ. Để xem vừa vặn không."
+    },
+    {
+      "role": "A",
+      "start_time": 85.066,
+      "end_time": 89.700,
+      "en": "Makes sense. I just guess my size and hope for the best.",
+      "vi": "Có lý. Tôi chỉ đoán size và hy vọng may mắn."
+    },
+    {
+      "role": "B",
+      "start_time": 90.400,
+      "end_time": 92.800,
+      "en": "That's risky! What if it doesn't fit?",
+      "vi": "Rủi ro quá! Nếu không vừa thì sao?"
+    },
+    {
+      "role": "A",
+      "start_time": 93.633,
+      "end_time": 96.066,
+      "en": "Then, back to the post office it goes.",
+      "vi": "Thì gửi trả lại bưu điện."
+    },
+    {
+      "role": "B",
+      "start_time": 96.833,
+      "end_time": 99.166,
+      "en": "Shopping is an adventure for you, isn't it?",
+      "vi": "Mua sắm là một cuộc phiêu lưu với bạn phải không?"
+    },
+    {
+      "role": "A",
+      "start_time": 99.800,
+      "end_time": 102.933,
+      "en": "Absolutely. It's like a treasure hunt.",
+      "vi": "Chắc chắn rồi. Giống như săn kho báu."
+    },
+    {
+      "role": "B",
+      "start_time": 103.800,
+      "end_time": 107.166,
+      "en": "Next time, let's go together. I want to see this in action.",
+      "vi": "Lần sau mình đi cùng nhau nhé. Tôi muốn xem tận mắt."
+    },
+    {
+      "role": "A",
+      "start_time": 108.266,
+      "end_time": 111.133,
+      "en": "Deal! It'll be like a shopping festival.",
+      "vi": "Được! Sẽ như lễ hội mua sắm."
+    },
+    {
+      "role": "B",
+      "start_time": 113.066,
+      "end_time": 114.866,
+      "en": "Can't wait! See you then.",
+      "vi": "Mong lắm! Hẹn gặp lại."
+    }
+  ]
+}

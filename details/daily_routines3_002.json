@@ -1,0 +1,270 @@
+{
+  "lesson_id": "daily_routines3_002",
+  "title": "At the Dentist",
+  "category": "Daily Routines",
+  "level": "Elementary",
+  "videoConfig": {
+    "url": "https://raw.githubusercontent.com/Mom1881990/resources/main/videos/daily_routines3_002.mp4",
+    "thumb": "https://raw.githubusercontent.com/Mom1881990/resources/main/images/daily_routines3_002.jpg",
+    "mute_original": false
+  },
+  "characters": [
+    {
+      "id": "A",
+      "name": "John",
+      "tts_voice": "en-US-AndrewNeural"
+    },
+    {
+      "id": "B",
+      "name": "Dr. Smith",
+      "tts_voice": "en-US-JennyNeural"
+    }
+  ],
+  "dialogues": [
+    {
+      "role": "A",
+      "start_time": 0.300,
+      "end_time": 3.900,
+      "en": "Good morning, Doctor. I have a terrible toothache.",
+      "vi": "Chào buổi sáng, Bác sĩ. Tôi bị đau răng kinh khủng."
+    },
+    {
+      "role": "B",
+      "start_time": 4.700,
+      "end_time": 8.066,
+      "en": "Hello John, I'm Dr. Smith. Let's take a look.",
+      "vi": "Xin chào John, tôi là Bác sĩ Smith. Hãy để tôi xem."
+    },
+    {
+      "role": "A",
+      "start_time": 8.766,
+      "end_time": 11.700,
+      "en": "It started a few days ago and it's getting worse.",
+      "vi": "Nó bắt đầu cách đây vài ngày và đang tệ hơn."
+    },
+    {
+      "role": "B",
+      "start_time": 12.633,
+      "end_time": 15.333,
+      "en": "Open your mouth, please. Let's see what's wrong.",
+      "vi": "Mở miệng ra, làm ơn. Hãy xem có vấn đề gì."
+    },
+    {
+      "role": "A",
+      "start_time": 16.233,
+      "end_time": 19.866,
+      "en": "Okay, but I'm really scared of dental work.",
+      "vi": "Được rồi, nhưng tôi thực sự sợ nha khoa."
+    },
+    {
+      "role": "B",
+      "start_time": 20.900,
+      "end_time": 24.166,
+      "en": "Don't worry. I'll be gentle. We'll take care of you.",
+      "vi": "Đừng lo. Tôi sẽ nhẹ nhàng. Chúng tôi sẽ chăm sóc bạn."
+    },
+    {
+      "role": "B",
+      "start_time": 25.066,
+      "end_time": 28.266,
+      "en": "Your gums look inflamed. Have you been flossing?",
+      "vi": "Nướu của bạn trông bị viêm. Bạn có dùng chỉ nha khoa không?"
+    },
+    {
+      "role": "A",
+      "start_time": 29.100,
+      "end_time": 31.500,
+      "en": "Not as much as I should, I guess.",
+      "vi": "Không thường xuyên như tôi nên làm, tôi nghĩ vậy."
+    },
+    {
+      "role": "B",
+      "start_time": 31.500,
+      "end_time": 34.766,
+      "en": "It's important to floss regularly.",
+      "vi": "Việc dùng chỉ nha khoa thường xuyên rất quan trọng."
+    },
+    {
+      "role": "A",
+      "start_time": 35.433,
+      "end_time": 37.800,
+      "en": "I know. I'll be better about it.",
+      "vi": "Tôi biết. Tôi sẽ chú ý hơn."
+    },
+    {
+      "role": "B",
+      "start_time": 38.400,
+      "end_time": 41.100,
+      "en": "You might have a cavity. We need an X-ray.",
+      "vi": "Bạn có thể bị sâu răng. Chúng ta cần chụp X-quang."
+    },
+    {
+      "role": "A",
+      "start_time": 42.100,
+      "end_time": 44.533,
+      "en": "An X-ray? Is that safe?",
+      "vi": "X-quang ư? Có an toàn không?"
+    },
+    {
+      "role": "B",
+      "start_time": 45.166,
+      "end_time": 48.566,
+      "en": "Yes, it's very safe. It will help us see the problem.",
+      "vi": "Có, rất an toàn. Nó sẽ giúp chúng ta thấy vấn đề."
+    },
+    {
+      "role": "A",
+      "start_time": 49.500,
+      "end_time": 51.500,
+      "en": "Okay, let's do it.",
+      "vi": "Được rồi, làm thôi."
+    },
+    {
+      "role": "B",
+      "start_time": 51.500,
+      "end_time": 56.166,
+      "en": "All done. You do have a cavity. We need to fill it.",
+      "vi": "Xong rồi. Bạn bị sâu răng. Chúng ta cần trám nó."
+    },
+    {
+      "role": "A",
+      "start_time": 56.833,
+      "end_time": 57.866,
+      "en": "Will it hurt?",
+      "vi": "Có đau không?"
+    },
+    {
+      "role": "B",
+      "start_time": 58.700,
+      "end_time": 61.466,
+      "en": "I'll numb the area, you won't feel a thing.",
+      "vi": "Tôi sẽ gây tê khu vực đó, bạn sẽ không cảm thấy gì đâu."
+    },
+    {
+      "role": "A",
+      "start_time": 62.233,
+      "end_time": 64.100,
+      "en": "That sounds a bit scary.",
+      "vi": "Nghe hơi đáng sợ."
+    },
+    {
+      "role": "B",
+      "start_time": 65.833,
+      "end_time": 67.900,
+      "en": "It'll be over before you know it.",
+      "vi": "Nó sẽ kết thúc trước khi bạn kịp nhận ra."
+    },
+    {
+      "role": "A",
+      "start_time": 68.266,
+      "end_time": 70.866,
+      "en": "I trust you. Let's get this done.",
+      "vi": "Tôi tin bạn. Hãy làm xong việc này đi."
+    },
+    {
+      "role": "B",
+      "start_time": 71.500,
+      "end_time": 73.900,
+      "en": "Great. I'll start the procedure now.",
+      "vi": "Tuyệt vời. Tôi sẽ bắt đầu quá trình ngay bây giờ."
+    },
+    {
+      "role": "A",
+      "start_time": 74.500,
+      "end_time": 76.400,
+      "en": "I'm feeling a little nervous.",
+      "vi": "Tôi cảm thấy hơi lo lắng."
+    },
+    {
+      "role": "B",
+      "start_time": 77.233,
+      "end_time": 79.266,
+      "en": "Just relax. I'm here to help.",
+      "vi": "Hãy thư giãn. Tôi ở đây để giúp."
+    },
+    {
+      "role": "A",
+      "start_time": 79.800,
+      "end_time": 81.900,
+      "en": "I can feel the numbness now.",
+      "vi": "Tôi cảm thấy tê rồi."
+    },
+    {
+      "role": "B",
+      "start_time": 82.500,
+      "end_time": 84.500,
+      "en": "That's good. It means it's working.",
+      "vi": "Tốt rồi. Nghĩa là thuốc đang có tác dụng."
+    },
+    {
+      "role": "A",
+      "start_time": 86.233,
+      "end_time": 88.600,
+      "en": "I can't believe I was so scared of this.",
+      "vi": "Tôi không thể tin là mình lại sợ cái này đến vậy."
+    },
+    {
+      "role": "B",
+      "start_time": 89.666,
+      "end_time": 92.333,
+      "en": "Most people are a little scared at first.",
+      "vi": "Hầu hết mọi người đều hơi sợ lúc đầu."
+    },
+    {
+      "role": "B",
+      "start_time": 92.800,
+      "end_time": 95.466,
+      "en": "You're doing great, John. Almost finished.",
+      "vi": "Bạn làm rất tốt, John. Gần xong rồi."
+    },
+    {
+      "role": "A",
+      "start_time": 96.500,
+      "end_time": 98.800,
+      "en": "Thanks for making this easier for me.",
+      "vi": "Cảm ơn vì đã làm cho việc này dễ dàng hơn với tôi."
+    },
+    {
+      "role": "B",
+      "start_time": 99.500,
+      "end_time": 101.900,
+      "en": "My pleasure. We're all done here.",
+      "vi": "Rất hân hạnh. Chúng ta đã xong hết rồi."
+    },
+    {
+      "role": "A",
+      "start_time": 102.633,
+      "end_time": 104.600,
+      "en": "That wasn't so bad after all.",
+      "vi": "Hóa ra cũng không tệ lắm."
+    },
+    {
+      "role": "B",
+      "start_time": 105.433,
+      "end_time": 107.600,
+      "en": "See? You had nothing to worry about.",
+      "vi": "Thấy chưa? Bạn chẳng có gì phải lo cả."
+    },
+    {
+      "role": "A",
+      "start_time": 108.266,
+      "end_time": 110.933,
+      "en": "I'll be sure to take better care of my teeth.",
+      "vi": "Tôi chắc chắn sẽ chăm sóc răng miệng tốt hơn."
+    },
+    {
+      "role": "B",
+      "start_time": 111.900,
+      "end_time": 115.166,
+      "en": "Remember, brush twice a day and floss daily.",
+      "vi": "Nhớ nhé, đánh răng hai lần một ngày và dùng chỉ nha khoa hàng ngày."
+    },
+    {
+      "role": "A",
+      "start_time": 115.866,
+      "end_time": 118.533,
+      "en": "I will. Thanks, Dr. Smith.",
+      "vi": "Tôi sẽ làm. Cảm ơn Bác sĩ Smith."
+    }
+  ]
+}

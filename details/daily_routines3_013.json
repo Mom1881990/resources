@@ -1,0 +1,179 @@
+{
+  "lesson_id": "daily_routines3_013",
+  "title": "Favorite Subject at School",
+  "category": "Daily Routines",
+  "level": "Elementary",
+  "videoConfig": {
+    "url": "https://raw.githubusercontent.com/Mom1881990/resources/main/videos/daily_routines3_013.mp4",
+    "thumb": "https://raw.githubusercontent.com/Mom1881990/resources/main/images/daily_routines3_013.jpg",
+    "mute_original": false
+  },
+  "characters": [
+    {
+      "id": "A",
+      "name": "Boy",
+      "tts_voice": "en-US-AndrewNeural"
+    },
+    {
+      "id": "B",
+      "name": "Emma",
+      "tts_voice": "en-US-EmmaNeural"
+    }
+  ],
+  "dialogues": [
+    {
+      "role": "A",
+      "start_time": 0.033,
+      "end_time": 3.166,
+      "en": "Emma, what's your favorite subject at school?",
+      "vi": "Emma, môn học yêu thích của em ở trường là gì?"
+    },
+    {
+      "role": "B",
+      "start_time": 3.833,
+      "end_time": 7.266,
+      "en": "I love Science. It's so fascinating.",
+      "vi": "Em thích Khoa học. Nó rất hấp dẫn."
+    },
+    {
+      "role": "A",
+      "start_time": 9.566,
+      "end_time": 12.533,
+      "en": "Really? I find Science confusing.",
+      "vi": "Thật hả? Anh thấy Khoa học khó hiểu."
+    },
+    {
+      "role": "B",
+      "start_time": 13.466,
+      "end_time": 16.600,
+      "en": "I enjoy experiments and learning about nature.",
+      "vi": "Em thích các thí nghiệm và học về thiên nhiên."
+    },
+    {
+      "role": "A",
+      "start_time": 17.433,
+      "end_time": 21.600,
+      "en": "I prefer History. It's exciting to learn about the past.",
+      "vi": "Anh thích Lịch sử hơn. Học về quá khứ rất thú vị."
+    },
+    {
+      "role": "B",
+      "start_time": 22.400,
+      "end_time": 25.466,
+      "en": "History? All those dates and events?",
+      "vi": "Lịch sử á? Tất cả những ngày tháng và sự kiện đó?"
+    },
+    {
+      "role": "A",
+      "start_time": 26.166,
+      "end_time": 28.600,
+      "en": "Yes, it's like time travel.",
+      "vi": "Ừ, nó giống như du hành thời gian."
+    },
+    {
+      "role": "B",
+      "start_time": 28.800,
+      "end_time": 32.366,
+      "en": "I get bored with History. Too many old stories.",
+      "vi": "Em thấy chán với Lịch sử. Quá nhiều câu chuyện cũ."
+    },
+    {
+      "role": "A",
+      "start_time": 33.233,
+      "end_time": 36.766,
+      "en": "But they're true stories! Like ancient adventures.",
+      "vi": "Nhưng chúng là những câu chuyện có thật! Như những cuộc phiêu lưu cổ xưa."
+    },
+    {
+      "role": "B",
+      "start_time": 37.600,
+      "end_time": 39.800,
+      "en": "I guess that's one way to see it.",
+      "vi": "Em đoán đó cũng là một cách nhìn."
+    },
+    {
+      "role": "A",
+      "start_time": 40.366,
+      "end_time": 42.700,
+      "en": "So what do you like most about Science?",
+      "vi": "Vậy em thích nhất điều gì ở Khoa học?"
+    },
+    {
+      "role": "B",
+      "start_time": 43.800,
+      "end_time": 46.866,
+      "en": "The mystery! Discovering new things!",
+      "vi": "Sự bí ẩn! Khám phá những điều mới mẻ!"
+    },
+    {
+      "role": "A",
+      "start_time": 47.666,
+      "end_time": 50.400,
+      "en": "I think History has mysteries too.",
+      "vi": "Anh nghĩ Lịch sử cũng có nhiều bí ẩn."
+    },
+    {
+      "role": "B",
+      "start_time": 51.066,
+      "end_time": 54.333,
+      "en": "Maybe. But Science has cool experiments.",
+      "vi": "Có lẽ vậy. Nhưng Khoa học có những thí nghiệm hay ho."
+    },
+    {
+      "role": "A",
+      "start_time": 55.200,
+      "end_time": 59.066,
+      "en": "True. I just can't handle the formulas.",
+      "vi": "Đúng. Anh chỉ không chịu nổi các công thức."
+    },
+    {
+      "role": "B",
+      "start_time": 59.800,
+      "end_time": 62.200,
+      "en": "They're not so bad once you get them.",
+      "vi": "Chúng không tệ lắm khi anh nắm được."
+    },
+    {
+      "role": "A",
+      "start_time": 62.833,
+      "end_time": 65.900,
+      "en": "I'll stick to my historical battles and stories.",
+      "vi": "Anh sẽ gắn bó với các trận chiến và câu chuyện lịch sử."
+    },
+    {
+      "role": "B",
+      "start_time": 66.800,
+      "end_time": 69.766,
+      "en": "And I'll keep exploring the universe in Science.",
+      "vi": "Còn em sẽ tiếp tục khám phá vũ trụ trong Khoa học."
+    },
+    {
+      "role": "A",
+      "start_time": 70.700,
+      "end_time": 73.933,
+      "en": "Let's agree that both subjects can be cool.",
+      "vi": "Ta hãy đồng ý rằng cả hai môn đều hay."
+    },
+    {
+      "role": "B",
+      "start_time": 74.633,
+      "end_time": 79.300,
+      "en": "Agreed! Maybe I'll pay more attention in History now.",
+      "vi": "Đồng ý! Có lẽ em sẽ chú ý hơn trong giờ Lịch sử từ nay."
+    },
+    {
+      "role": "A",
+      "start_time": 79.833,
+      "end_time": 82.966,
+      "en": "And I'll try not to fall asleep in Science class.",
+      "vi": "Còn anh sẽ cố không ngủ gật trong giờ Khoa học."
+    },
+    {
+      "role": "B",
+      "start_time": 84.000,
+      "end_time": 86.566,
+      "en": "Deal! Let's make school more fun.",
+      "vi": "Thỏa thuận! Cùng làm cho việc học vui hơn nhé."
+    }
+  ]
+}

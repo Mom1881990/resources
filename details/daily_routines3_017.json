@@ -1,0 +1,158 @@
+{
+  "lesson_id": "daily_routines3_017",
+  "title": "Sister's Baby",
+  "category": "Daily Routines",
+  "level": "Elementary",
+  "videoConfig": {
+    "url": "https://raw.githubusercontent.com/Mom1881990/resources/main/videos/daily_routines3_017.mp4",
+    "thumb": "https://raw.githubusercontent.com/Mom1881990/resources/main/images/daily_routines3_017.jpg",
+    "mute_original": false
+  },
+  "characters": [
+    {
+      "id": "A",
+      "name": "Woman 1",
+      "tts_voice": "en-US-EmmaNeural"
+    },
+    {
+      "id": "B",
+      "name": "Woman 2",
+      "tts_voice": "en-US-AriaNeural"
+    }
+  ],
+  "dialogues": [
+    {
+      "role": "A",
+      "start_time": 0.066,
+      "end_time": 5.633,
+      "en": "So, what are your plans? Are you going on a trip?",
+      "vi": "Vậy, kế hoạch của bạn là gì? Bạn đi du lịch à?"
+    },
+    {
+      "role": "B",
+      "start_time": 5.633,
+      "end_time": 10.300,
+      "en": "Yes, I'll be in Chicago. My sister just gave birth to a child.",
+      "vi": "Vâng, tôi sẽ đến Chicago. Chị gái tôi vừa sinh con."
+    },
+    {
+      "role": "B",
+      "start_time": 10.433,
+      "end_time": 12.733,
+      "en": "I'll be assisting her for a few weeks.",
+      "vi": "Tôi sẽ giúp chị ấy vài tuần."
+    },
+    {
+      "role": "A",
+      "start_time": 12.966,
+      "end_time": 16.533,
+      "en": "Great, send my congratulations to your sister!",
+      "vi": "Tuyệt vời, gửi lời chúc mừng đến chị gái bạn nhé!"
+    },
+    {
+      "role": "B",
+      "start_time": 16.966,
+      "end_time": 17.966,
+      "en": "Thanks.",
+      "vi": "Cảm ơn."
+    },
+    {
+      "role": "A",
+      "start_time": 17.966,
+      "end_time": 20.300,
+      "en": "Is it a boy or a girl?",
+      "vi": "Là con trai hay con gái vậy?"
+    },
+    {
+      "role": "B",
+      "start_time": 20.600,
+      "end_time": 23.566,
+      "en": "A girl. Rose is her given name.",
+      "vi": "Con gái. Tên là Rose."
+    },
+    {
+      "role": "A",
+      "start_time": 23.700,
+      "end_time": 27.033,
+      "en": "What a lovely name!",
+      "vi": "Tên dễ thương quá!"
+    },
+    {
+      "role": "B",
+      "start_time": 27.033,
+      "end_time": 28.933,
+      "en": "Yeah, this is named after our grandma.",
+      "vi": "Đúng vậy, đặt theo tên bà ngoại chúng tôi."
+    },
+    {
+      "role": "A",
+      "start_time": 29.366,
+      "end_time": 33.300,
+      "en": "My kid is named after my grandmother as well. Marie is her given name.",
+      "vi": "Con tôi cũng được đặt theo tên bà ngoại. Tên là Marie."
+    },
+    {
+      "role": "B",
+      "start_time": 33.433,
+      "end_time": 36.000,
+      "en": "That is also a lovely name.",
+      "vi": "Tên đó cũng rất dễ thương."
+    },
+    {
+      "role": "A",
+      "start_time": 36.000,
+      "end_time": 41.100,
+      "en": "Thank you. Is this your younger sister's first child?",
+      "vi": "Cảm ơn. Đây có phải là con đầu lòng của em gái bạn không?"
+    },
+    {
+      "role": "B",
+      "start_time": 41.600,
+      "end_time": 44.800,
+      "en": "Yes, she is my first niece as well.",
+      "vi": "Vâng, cô bé cũng là cháu gái đầu tiên của tôi."
+    },
+    {
+      "role": "B",
+      "start_time": 45.100,
+      "end_time": 48.133,
+      "en": "She is also the family's first grandchild.",
+      "vi": "Cô bé cũng là cháu đầu tiên của gia đình."
+    },
+    {
+      "role": "A",
+      "start_time": 48.500,
+      "end_time": 51.300,
+      "en": "What a unique gift!",
+      "vi": "Quà tặng thật đặc biệt!"
+    },
+    {
+      "role": "B",
+      "start_time": 51.300,
+      "end_time": 55.933,
+      "en": "Yeah, my mom is overjoyed. She bought a lot of clothes for my niece already.",
+      "vi": "Đúng vậy, mẹ tôi vui mừng lắm. Mẹ đã mua rất nhiều quần áo cho cháu gái tôi rồi."
+    },
+    {
+      "role": "A",
+      "start_time": 56.300,
+      "end_time": 57.866,
+      "en": "That's fantastic.",
+      "vi": "Thật tuyệt vời."
+    },
+    {
+      "role": "B",
+      "start_time": 58.400,
+      "end_time": 63.266,
+      "en": "Sorry, I gotta go. I need to go to the airport by 1 p.m.",
+      "vi": "Xin lỗi, tôi phải đi rồi. Tôi cần đến sân bay trước 1 giờ chiều."
+    },
+    {
+      "role": "A",
+      "start_time": 63.266,
+      "end_time": 64.366,
+      "en": "Okay, see you later!",
+      "vi": "Được rồi, hẹn gặp lại!"
+    }
+  ]
+}

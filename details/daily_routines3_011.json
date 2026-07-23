@@ -1,0 +1,130 @@
+{
+  "lesson_id": "daily_routines3_011",
+  "title": "Where Is My Phone?",
+  "category": "Daily Routines",
+  "level": "Elementary",
+  "videoConfig": {
+    "url": "https://raw.githubusercontent.com/Mom1881990/resources/main/videos/daily_routines3_011.mp4",
+    "thumb": "https://raw.githubusercontent.com/Mom1881990/resources/main/images/daily_routines3_011.jpg",
+    "mute_original": false
+  },
+  "characters": [
+    {
+      "id": "A",
+      "name": "Daughter",
+      "tts_voice": "en-US-AriaNeural"
+    },
+    {
+      "id": "B",
+      "name": "Mom",
+      "tts_voice": "en-US-EmmaNeural"
+    }
+  ],
+  "dialogues": [
+    {
+      "role": "A",
+      "start_time": 0.366,
+      "end_time": 4.966,
+      "en": "Mom, Mom! I can't find- I didn't know you had that shirt.",
+      "vi": "Mẹ ơi! Con không tìm thấy- Con không biết mẹ có chiếc áo đó."
+    },
+    {
+      "role": "B",
+      "start_time": 5.500,
+      "end_time": 8.500,
+      "en": "That's not mine. That's your dad's.",
+      "vi": "Đó không phải của mẹ. Đó là của bố con."
+    },
+    {
+      "role": "A",
+      "start_time": 9.100,
+      "end_time": 11.300,
+      "en": "Then why are you ironing it?",
+      "vi": "Vậy sao mẹ đang ủi nó?"
+    },
+    {
+      "role": "B",
+      "start_time": 11.966,
+      "end_time": 18.200,
+      "en": "Because your dad is terrible at ironing. I don't trust him with an iron.",
+      "vi": "Vì bố con ủi đồ rất tệ. Mẹ không tin tưởng giao bàn ủi cho bố."
+    },
+    {
+      "role": "A",
+      "start_time": 18.900,
+      "end_time": 20.866,
+      "en": "Why not? What happened?",
+      "vi": "Tại sao không ạ? Chuyện gì đã xảy ra vậy?"
+    },
+    {
+      "role": "B",
+      "start_time": 20.866,
+      "end_time": 27.466,
+      "en": "The last time he tried to iron his shirt, he burned not only his shirt but also his hand.",
+      "vi": "Lần trước khi bố con cố ủi áo, ông ấy không chỉ làm cháy áo mà còn bỏng cả tay."
+    },
+    {
+      "role": "A",
+      "start_time": 28.466,
+      "end_time": 32.300,
+      "en": "Well, at least he didn't burn his house down.",
+      "vi": "À thì, ít nhất ông ấy không làm cháy cả nhà."
+    },
+    {
+      "role": "B",
+      "start_time": 32.966,
+      "end_time": 38.133,
+      "en": "Yep. I don't want that to happen. That's why I'm ironing his shirt now.",
+      "vi": "Đúng vậy. Mẹ không muốn điều đó xảy ra. Đó là lý do mẹ đang ủi áo cho bố."
+    },
+    {
+      "role": "A",
+      "start_time": 38.500,
+      "end_time": 40.166,
+      "en": "Fair enough.",
+      "vi": "Nghe cũng hợp lý."
+    },
+    {
+      "role": "B",
+      "start_time": 40.166,
+      "end_time": 41.233,
+      "en": "What can't you find by the way?",
+      "vi": "Nhân tiện thì con không tìm thấy gì cơ chứ?"
+    },
+    {
+      "role": "A",
+      "start_time": 41.233,
+      "end_time": 45.133,
+      "en": "Oh, my phone. I looked for it everywhere, but I didn't see it.",
+      "vi": "Ôi điện thoại của con. Con tìm khắp nơi rồi mà không thấy."
+    },
+    {
+      "role": "B",
+      "start_time": 45.133,
+      "end_time": 47.133,
+      "en": "Did you check your pocket?",
+      "vi": "Con đã kiểm tra túi quần áo chưa?"
+    },
+    {
+      "role": "A",
+      "start_time": 48.166,
+      "end_time": 50.533,
+      "en": "It's not... Oh!",
+      "vi": "Không có... Ồ!"
+    },
+    {
+      "role": "A",
+      "start_time": 50.666,
+      "end_time": 56.566,
+      "en": "It's here! Are you a witch, Mom? How do you know?",
+      "vi": "Nó ở đây mà! Mẹ là phù thủy hả mẹ? Sao mẹ hay vậy?"
+    },
+    {
+      "role": "B",
+      "start_time": 56.566,
+      "end_time": 59.633,
+      "en": "I guess I'm the only one in this house with any common sense.",
+      "vi": "Mẹ đoán mẹ là người duy nhất trong cái nhà này có chút sự khôn ngoan thường thức."
+    }
+  ]
+}

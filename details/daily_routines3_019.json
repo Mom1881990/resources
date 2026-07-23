@@ -1,0 +1,144 @@
+{
+  "lesson_id": "daily_routines3_019",
+  "title": "Stomach Ache",
+  "category": "Daily Routines",
+  "level": "Elementary",
+  "videoConfig": {
+    "url": "https://raw.githubusercontent.com/Mom1881990/resources/main/videos/daily_routines3_019.mp4",
+    "thumb": "https://raw.githubusercontent.com/Mom1881990/resources/main/images/daily_routines3_019.jpg",
+    "mute_original": false
+  },
+  "characters": [
+    {
+      "id": "A",
+      "name": "Susie",
+      "tts_voice": "en-US-AriaNeural"
+    },
+    {
+      "id": "B",
+      "name": "Mom",
+      "tts_voice": "en-US-EmmaNeural"
+    }
+  ],
+  "dialogues": [
+    {
+      "role": "A",
+      "start_time": 0.166,
+      "end_time": 3.966,
+      "en": "Mommy, I'm not feeling good.",
+      "vi": "Mẹ ơi, con không khỏe."
+    },
+    {
+      "role": "B",
+      "start_time": 4.466,
+      "end_time": 6.200,
+      "en": "What's the matter, Susie?",
+      "vi": "Có chuyện gì vậy Susie?"
+    },
+    {
+      "role": "B",
+      "start_time": 6.500,
+      "end_time": 9.000,
+      "en": "You didn't have a good time at the birthday party?",
+      "vi": "Con không vui ở bữa tiệc sinh nhật à?"
+    },
+    {
+      "role": "A",
+      "start_time": 9.500,
+      "end_time": 15.100,
+      "en": "It was a lot of fun for sure, but suddenly my stomach hurts.",
+      "vi": "Vui lắm chứ, nhưng tự nhiên bụng con đau."
+    },
+    {
+      "role": "B",
+      "start_time": 15.833,
+      "end_time": 19.566,
+      "en": "Oh no. Did you eat a lot of food at the party?",
+      "vi": "Ôi không. Con ăn nhiều ở tiệc hả?"
+    },
+    {
+      "role": "A",
+      "start_time": 20.200,
+      "end_time": 22.000,
+      "en": "Maybe it's like that.",
+      "vi": "Có lẽ là vậy."
+    },
+    {
+      "role": "B",
+      "start_time": 22.000,
+      "end_time": 24.100,
+      "en": "What did you have for dinner?",
+      "vi": "Con ăn gì cho bữa tối?"
+    },
+    {
+      "role": "A",
+      "start_time": 24.600,
+      "end_time": 29.366,
+      "en": "Pizza, cake, ice cream, and potato chips.",
+      "vi": "Pizza, bánh kem, kem, và khoai tây chiên."
+    },
+    {
+      "role": "B",
+      "start_time": 29.833,
+      "end_time": 31.500,
+      "en": "That is a lot of food.",
+      "vi": "Nhiều đồ ăn quá."
+    },
+    {
+      "role": "A",
+      "start_time": 31.500,
+      "end_time": 37.166,
+      "en": "In addition, I had a Coke, cookies, and popcorn.",
+      "vi": "Ngoài ra con còn uống Coke, ăn bánh quy và bỏng ngô."
+    },
+    {
+      "role": "B",
+      "start_time": 37.566,
+      "end_time": 40.266,
+      "en": "That's why your stomach hurts, Susie.",
+      "vi": "Đó là lý do bụng con đau, Susie ạ."
+    },
+    {
+      "role": "B",
+      "start_time": 40.433,
+      "end_time": 44.366,
+      "en": "You ate too much. Why did you consume so much?",
+      "vi": "Con ăn quá nhiều. Sao con ăn nhiều thế?"
+    },
+    {
+      "role": "A",
+      "start_time": 44.700,
+      "end_time": 48.900,
+      "en": "It was time to eat, and everything looked delectable.",
+      "vi": "Đến giờ ăn rồi, mà mọi thứ trông ngon quá."
+    },
+    {
+      "role": "B",
+      "start_time": 49.466,
+      "end_time": 52.566,
+      "en": "Susie, I believe you should rest for a bit.",
+      "vi": "Susie, mẹ nghĩ con nên nghỉ một chút."
+    },
+    {
+      "role": "A",
+      "start_time": 52.833,
+      "end_time": 54.100,
+      "en": "Yes, mother.",
+      "vi": "Vâng mẹ."
+    },
+    {
+      "role": "B",
+      "start_time": 58.700,
+      "end_time": 60.466,
+      "en": "Where are you going, Susie?",
+      "vi": "Con đi đâu vậy Susie?"
+    },
+    {
+      "role": "A",
+      "start_time": 60.766,
+      "end_time": 63.533,
+      "en": "I need to use the restroom first.",
+      "vi": "Con cần đi vệ sinh trước."
+    }
+  ]
+}

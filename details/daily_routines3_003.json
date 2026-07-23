@@ -1,0 +1,207 @@
+{
+  "lesson_id": "daily_routines3_003",
+  "title": "Busy Day Cleaning",
+  "category": "Daily Routines",
+  "level": "Elementary",
+  "videoConfig": {
+    "url": "https://raw.githubusercontent.com/Mom1881990/resources/main/videos/daily_routines3_003.mp4",
+    "thumb": "https://raw.githubusercontent.com/Mom1881990/resources/main/images/daily_routines3_003.jpg",
+    "mute_original": false
+  },
+  "characters": [
+    {
+      "id": "A",
+      "name": "Karen",
+      "tts_voice": "en-US-JennyNeural"
+    },
+    {
+      "id": "B",
+      "name": "Sally",
+      "tts_voice": "en-US-AndrewNeural"
+    }
+  ],
+  "dialogues": [
+    {
+      "role": "A",
+      "start_time": 0.200,
+      "end_time": 3.000,
+      "en": "Hello, Sally. How are you doing today?",
+      "vi": "Xin chào Sally. Hôm nay bạn thế nào?"
+    },
+    {
+      "role": "B",
+      "start_time": 3.500,
+      "end_time": 6.966,
+      "en": "Hello, Karen. I have a lot to accomplish today.",
+      "vi": "Xin chào Karen. Hôm nay tôi có rất nhiều việc phải làm."
+    },
+    {
+      "role": "A",
+      "start_time": 7.233,
+      "end_time": 9.000,
+      "en": "What do you have to do?",
+      "vi": "Bạn phải làm những gì?"
+    },
+    {
+      "role": "B",
+      "start_time": 9.000,
+      "end_time": 15.466,
+      "en": "I have a lot of work to do like doing laundry, as well as vacuuming the whole house and cleaning the kitchen.",
+      "vi": "Tôi có rất nhiều việc phải làm như giặt quần áo, hút bụi cả nhà và dọn bếp."
+    },
+    {
+      "role": "A",
+      "start_time": 15.966,
+      "end_time": 18.166,
+      "en": "That's a lot of work to accomplish.",
+      "vi": "Nhiều việc quá nhỉ."
+    },
+    {
+      "role": "A",
+      "start_time": 18.300,
+      "end_time": 20.600,
+      "en": "Why don't you start doing some of it tomorrow?",
+      "vi": "Sao bạn không bắt đầu vài việc vào ngày mai?"
+    },
+    {
+      "role": "B",
+      "start_time": 21.466,
+      "end_time": 23.566,
+      "en": "My mother will visit me tonight.",
+      "vi": "Mẹ tôi sẽ đến thăm tôi tối nay."
+    },
+    {
+      "role": "B",
+      "start_time": 23.566,
+      "end_time": 26.133,
+      "en": "I need to clean up before my mom comes.",
+      "vi": "Tôi cần dọn dẹp trước khi mẹ đến."
+    },
+    {
+      "role": "A",
+      "start_time": 26.600,
+      "end_time": 28.000,
+      "en": "I got it.",
+      "vi": "Tôi hiểu rồi."
+    },
+    {
+      "role": "B",
+      "start_time": 28.000,
+      "end_time": 30.666,
+      "en": "She likes a clean and tidy home.",
+      "vi": "Mẹ tôi thích nhà cửa sạch sẽ gọn gàng."
+    },
+    {
+      "role": "A",
+      "start_time": 31.233,
+      "end_time": 32.766,
+      "en": "I get what you're saying.",
+      "vi": "Tôi hiểu ý bạn rồi."
+    },
+    {
+      "role": "A",
+      "start_time": 33.033,
+      "end_time": 36.733,
+      "en": "My mother is also incredibly tidy and well-organized.",
+      "vi": "Mẹ tôi cũng rất gọn gàng và có tổ chức."
+    },
+    {
+      "role": "B",
+      "start_time": 37.200,
+      "end_time": 41.133,
+      "en": "I should have begun a few days ago, but I was too busy with work.",
+      "vi": "Lẽ ra tôi nên bắt đầu từ vài ngày trước, nhưng tôi bận công việc quá."
+    },
+    {
+      "role": "A",
+      "start_time": 41.566,
+      "end_time": 43.966,
+      "en": "Why isn't your husband assisting you?",
+      "vi": "Sao chồng bạn không giúp bạn?"
+    },
+    {
+      "role": "B",
+      "start_time": 44.400,
+      "end_time": 51.300,
+      "en": "He did assist me. Yesterday he mowed the yard, cleaned all the bathrooms, and set up the guest room.",
+      "vi": "Anh ấy có giúp tôi rồi. Hôm qua anh ấy cắt cỏ sân, dọn sạch tất cả phòng tắm và dọn phòng khách."
+    },
+    {
+      "role": "A",
+      "start_time": 51.766,
+      "end_time": 54.700,
+      "en": "Wow! He accomplished a lot as well.",
+      "vi": "Ồ! Anh ấy cũng làm được nhiều việc lắm."
+    },
+    {
+      "role": "B",
+      "start_time": 55.100,
+      "end_time": 57.533,
+      "en": "Now I also need to buy some supplies.",
+      "vi": "Bây giờ tôi còn cần mua thêm vài thứ."
+    },
+    {
+      "role": "B",
+      "start_time": 58.033,
+      "end_time": 59.500,
+      "en": "What a hectic day!",
+      "vi": "Ngày hôm nay bận rộn thật!"
+    },
+    {
+      "role": "A",
+      "start_time": 59.500,
+      "end_time": 61.766,
+      "en": "Do you need any help from me?",
+      "vi": "Bạn có cần tôi giúp gì không?"
+    },
+    {
+      "role": "B",
+      "start_time": 62.066,
+      "end_time": 64.000,
+      "en": "No, that's okay.",
+      "vi": "Không, không sao đâu."
+    },
+    {
+      "role": "A",
+      "start_time": 64.566,
+      "end_time": 68.500,
+      "en": "I'm not really busy after work today, I can help you.",
+      "vi": "Hôm nay tôi không bận sau giờ làm, tôi có thể giúp bạn."
+    },
+    {
+      "role": "B",
+      "start_time": 68.500,
+      "end_time": 70.500,
+      "en": "So can you help me buy food?",
+      "vi": "Vậy bạn có thể giúp tôi mua thức ăn không?"
+    },
+    {
+      "role": "B",
+      "start_time": 70.566,
+      "end_time": 73.100,
+      "en": "I have listed all the necessary foods.",
+      "vi": "Tôi đã liệt kê tất cả những thứ cần mua."
+    },
+    {
+      "role": "A",
+      "start_time": 73.766,
+      "end_time": 76.500,
+      "en": "Sure, I'll do it after my shift is over.",
+      "vi": "Được chứ, tôi sẽ làm sau khi tan ca."
+    },
+    {
+      "role": "B",
+      "start_time": 76.866,
+      "end_time": 80.000,
+      "en": "Thank you so much, you are so nice.",
+      "vi": "Cảm ơn bạn nhiều lắm, bạn tốt quá."
+    },
+    {
+      "role": "A",
+      "start_time": 80.400,
+      "end_time": 83.333,
+      "en": "We are a neighborhood. Don't be so formal.",
+      "vi": "Chúng ta là hàng xóm mà. Đừng khách sáo vậy."
+    }
+  ]
+}

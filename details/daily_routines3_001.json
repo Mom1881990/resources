@@ -1,0 +1,235 @@
+{
+  "lesson_id": "daily_routines3_001",
+  "title": "An Unforgettable Memory",
+  "category": "Daily Routines",
+  "level": "Elementary",
+  "videoConfig": {
+    "url": "https://raw.githubusercontent.com/Mom1881990/resources/main/videos/daily_routines3_001.mp4",
+    "thumb": "https://raw.githubusercontent.com/Mom1881990/resources/main/images/daily_routines3_001.jpg",
+    "mute_original": false
+  },
+  "characters": [
+    {
+      "id": "A",
+      "name": "Emily",
+      "tts_voice": "en-US-JennyNeural"
+    },
+    {
+      "id": "B",
+      "name": "Alex",
+      "tts_voice": "en-US-AndrewNeural"
+    }
+  ],
+  "dialogues": [
+    {
+      "role": "A",
+      "start_time": 0.100,
+      "end_time": 2.966,
+      "en": "Do you have any unforgettable memories, Alex?",
+      "vi": "Bạn có kỷ niệm khó quên nào không Alex?"
+    },
+    {
+      "role": "B",
+      "start_time": 3.766,
+      "end_time": 6.600,
+      "en": "Yeah, I have one that's quite scary.",
+      "vi": "Ừ, tôi có một kỷ niệm khá đáng sợ."
+    },
+    {
+      "role": "A",
+      "start_time": 7.400,
+      "end_time": 9.700,
+      "en": "Really? Tell me about it.",
+      "vi": "Thật không? Kể tôi nghe đi."
+    },
+    {
+      "role": "B",
+      "start_time": 10.300,
+      "end_time": 13.533,
+      "en": "It happened a few years ago during a camping trip.",
+      "vi": "Nó xảy ra vài năm trước trong chuyến đi cắm trại."
+    },
+    {
+      "role": "A",
+      "start_time": 14.066,
+      "end_time": 15.300,
+      "en": "What happened?",
+      "vi": "Chuyện gì đã xảy ra?"
+    },
+    {
+      "role": "B",
+      "start_time": 16.233,
+      "end_time": 19.166,
+      "en": "My friends and I got lost in the woods at night.",
+      "vi": "Bạn bè và tôi bị lạc trong rừng vào ban đêm."
+    },
+    {
+      "role": "A",
+      "start_time": 20.700,
+      "end_time": 22.533,
+      "en": "Did you find your way back?",
+      "vi": "Bạn có tìm được đường về không?"
+    },
+    {
+      "role": "B",
+      "start_time": 23.166,
+      "end_time": 27.200,
+      "en": "Eventually, yes. But it felt like we were being watched.",
+      "vi": "Cuối cùng thì có. Nhưng cảm giác như có ai đó đang theo dõi chúng tôi."
+    },
+    {
+      "role": "A",
+      "start_time": 27.866,
+      "end_time": 29.300,
+      "en": "How did you manage?",
+      "vi": "Bạn xoay sở thế nào?"
+    },
+    {
+      "role": "B",
+      "start_time": 30.100,
+      "end_time": 32.733,
+      "en": "We stayed together and followed the stars.",
+      "vi": "Chúng tôi ở bên nhau và theo sao trời."
+    },
+    {
+      "role": "A",
+      "start_time": 33.600,
+      "end_time": 35.966,
+      "en": "That's clever. And a bit spooky.",
+      "vi": "Thật thông minh. Và hơi rùng rợn."
+    },
+    {
+      "role": "B",
+      "start_time": 36.666,
+      "end_time": 39.933,
+      "en": "What about you, Emily? Any unforgettable memory?",
+      "vi": "Còn bạn thì sao Emily? Có kỷ niệm khó quên nào không?"
+    },
+    {
+      "role": "A",
+      "start_time": 40.766,
+      "end_time": 43.466,
+      "en": "Yes, mine is also a bit scary.",
+      "vi": "Có, của tôi cũng khá đáng sợ."
+    },
+    {
+      "role": "B",
+      "start_time": 44.166,
+      "end_time": 45.366,
+      "en": "I'm listening.",
+      "vi": "Tôi đang nghe đây."
+    },
+    {
+      "role": "A",
+      "start_time": 46.500,
+      "end_time": 49.700,
+      "en": "It was during a thunderstorm. My car broke down.",
+      "vi": "Đó là trong một cơn bão. Xe của tôi bị hỏng."
+    },
+    {
+      "role": "A",
+      "start_time": 50.966,
+      "end_time": 53.766,
+      "en": "I was alone and it was pitch dark outside.",
+      "vi": "Tôi ở một mình và bên ngoài tối đen."
+    },
+    {
+      "role": "B",
+      "start_time": 54.266,
+      "end_time": 55.600,
+      "en": "Did you get help?",
+      "vi": "Bạn có được giúp đỡ không?"
+    },
+    {
+      "role": "A",
+      "start_time": 56.500,
+      "end_time": 60.333,
+      "en": "Yes, but before help arrived, I saw something strange.",
+      "vi": "Có, nhưng trước khi được giúp đỡ, tôi thấy một thứ gì đó lạ."
+    },
+    {
+      "role": "B",
+      "start_time": 62.366,
+      "end_time": 63.933,
+      "en": "What did you see?",
+      "vi": "Bạn thấy gì?"
+    },
+    {
+      "role": "A",
+      "start_time": 64.666,
+      "end_time": 68.533,
+      "en": "A shadowy figure outside, moving fast in the storm.",
+      "vi": "Một bóng dáng bên ngoài, di chuyển nhanh trong cơn bão."
+    },
+    {
+      "role": "B",
+      "start_time": 69.366,
+      "end_time": 71.333,
+      "en": "That must have been scary.",
+      "vi": "Chắc hẳn rất đáng sợ."
+    },
+    {
+      "role": "A",
+      "start_time": 73.000,
+      "end_time": 76.333,
+      "en": "Yes, I was so shocked that my heart skipped a beat.",
+      "vi": "Vâng. Tôi bị sốc đến mức tim đập thót một cái."
+    },
+    {
+      "role": "B",
+      "start_time": 77.033,
+      "end_time": 80.000,
+      "en": "I wonder what or who that was.",
+      "vi": "Không biết đó là gì hay ai."
+    },
+    {
+      "role": "A",
+      "start_time": 80.633,
+      "end_time": 83.666,
+      "en": "Me too, but that might never be answered.",
+      "vi": "Tôi cũng vậy, nhưng có lẽ sẽ không bao giờ biết được."
+    },
+    {
+      "role": "B",
+      "start_time": 84.433,
+      "end_time": 88.000,
+      "en": "It's amazing how these experiences stay with us.",
+      "vi": "Thật tuyệt vời khi những trải nghiệm này vẫn ở lại với chúng ta."
+    },
+    {
+      "role": "A",
+      "start_time": 88.600,
+      "end_time": 91.700,
+      "en": "I know. They shape us in unexpected ways.",
+      "vi": "Tôi biết. Chúng định hình chúng ta theo những cách không ngờ tới."
+    },
+    {
+      "role": "B",
+      "start_time": 92.633,
+      "end_time": 96.100,
+      "en": "True. I've learned to appreciate the safety of home.",
+      "vi": "Đúng vậy. Tôi đã học cách trân trọng sự an toàn của ngôi nhà."
+    },
+    {
+      "role": "A",
+      "start_time": 97.000,
+      "end_time": 100.133,
+      "en": "And I've learned to always be prepared for emergencies.",
+      "vi": "Và tôi học được cách luôn chuẩn bị cho các tình huống khẩn cấp."
+    },
+    {
+      "role": "B",
+      "start_time": 100.966,
+      "end_time": 103.066,
+      "en": "It's good to share these stories.",
+      "vi": "Thật tốt khi chia sẻ những câu chuyện này."
+    },
+    {
+      "role": "A",
+      "start_time": 103.900,
+      "end_time": 105.000,
+      "en": "Absolutely.",
+      "vi": "Hoàn toàn đồng ý."
+    }
+  ]
+}

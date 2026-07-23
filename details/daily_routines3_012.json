@@ -1,0 +1,205 @@
+{
+  "lesson_id": "daily_routines3_012",
+  "title": "Doing the Dishes",
+  "category": "Daily Routines",
+  "level": "Elementary",
+  "videoConfig": {
+    "url": "https://raw.githubusercontent.com/Mom1881990/resources/main/videos/daily_routines3_012.mp4",
+    "thumb": "https://raw.githubusercontent.com/Mom1881990/resources/main/images/daily_routines3_012.jpg",
+    "mute_original": false
+  },
+  "characters": [
+    {
+      "id": "A",
+      "name": "Mike",
+      "tts_voice": "en-US-AndrewNeural"
+    },
+    {
+      "id": "B",
+      "name": "Brother",
+      "tts_voice": "en-US-AriaNeural"
+    },
+    {
+      "id": "C",
+      "name": "Mom",
+      "tts_voice": "en-US-EmmaNeural"
+    }
+  ],
+  "dialogues": [
+    {
+      "role": "A",
+      "start_time": 0.366,
+      "end_time": 3.266,
+      "en": "Thanks for dinner, Mom. It was really good.",
+      "vi": "Cảm ơn bữa tối, mẹ. Ngon lắm ạ."
+    },
+    {
+      "role": "A",
+      "start_time": 3.800,
+      "end_time": 6.500,
+      "en": "Yeah! The soup was amazing.",
+      "vi": "Vâng! Món súp ngon tuyệt vời."
+    },
+    {
+      "role": "C",
+      "start_time": 7.033,
+      "end_time": 8.500,
+      "en": "I'm glad you liked it.",
+      "vi": "Mẹ vui vì các con thích."
+    },
+    {
+      "role": "B",
+      "start_time": 8.500,
+      "end_time": 11.566,
+      "en": "Too bad Dad couldn't eat with us.",
+      "vi": "Tiếc là bố không thể ăn cùng chúng ta."
+    },
+    {
+      "role": "C",
+      "start_time": 12.000,
+      "end_time": 16.500,
+      "en": "He had to work late, but don't worry. I saved him some.",
+      "vi": "Bố phải làm muộn, nhưng đừng lo. Mẹ đã để phần cho bố rồi."
+    },
+    {
+      "role": "A",
+      "start_time": 16.500,
+      "end_time": 23.633,
+      "en": "Uh... I think I'm gonna head to my room. I've got homework to do.",
+      "vi": "Ừm... Con nghĩ con sẽ về phòng đây. Con có bài tập phải làm."
+    },
+    {
+      "role": "B",
+      "start_time": 23.633,
+      "end_time": 25.500,
+      "en": "Hold on, Mike. Aren't you forgetting something?",
+      "vi": "Khoan đã Mike. Em không quên gì sao?"
+    },
+    {
+      "role": "A",
+      "start_time": 26.033,
+      "end_time": 27.000,
+      "en": "What?",
+      "vi": "Gì cơ?"
+    },
+    {
+      "role": "B",
+      "start_time": 27.000,
+      "end_time": 29.733,
+      "en": "It's your turn to do the dishes.",
+      "vi": "Đến lượt em rửa bát rồi."
+    },
+    {
+      "role": "A",
+      "start_time": 30.400,
+      "end_time": 32.866,
+      "en": "But you didn't do the dishes yesterday!",
+      "vi": "Nhưng hôm qua anh đâu có rửa bát!"
+    },
+    {
+      "role": "B",
+      "start_time": 33.566,
+      "end_time": 35.100,
+      "en": "Actually, I did.",
+      "vi": "Thực ra anh có rửa."
+    },
+    {
+      "role": "A",
+      "start_time": 35.700,
+      "end_time": 42.600,
+      "en": "But you only washed three plates yesterday. There are way more dishes today!",
+      "vi": "Nhưng hôm qua anh chỉ rửa có ba cái đĩa. Hôm nay nhiều bát đĩa hơn nhiều!"
+    },
+    {
+      "role": "B",
+      "start_time": 42.900,
+      "end_time": 48.000,
+      "en": "It's not my fault that we had pizzas yesterday and a big meal today.",
+      "vi": "Không phải lỗi của anh khi hôm qua chúng ta ăn pizza và hôm nay lại ăn bữa lớn."
+    },
+    {
+      "role": "A",
+      "start_time": 48.000,
+      "end_time": 50.166,
+      "en": "That's not fair!",
+      "vi": "Thế không công bằng!"
+    },
+    {
+      "role": "B",
+      "start_time": 50.166,
+      "end_time": 57.400,
+      "en": "Life isn't fair sometimes. But I did the dishes on both Thanksgiving and Christmas.",
+      "vi": "Đôi khi cuộc sống không công bằng. Nhưng anh đã rửa bát vào cả Lễ Tạ Ơn và Giáng sinh."
+    },
+    {
+      "role": "B",
+      "start_time": 58.200,
+      "end_time": 60.333,
+      "en": "Did I complain? No.",
+      "vi": "Anh có kêu ca gì không? Không."
+    },
+    {
+      "role": "A",
+      "start_time": 60.766,
+      "end_time": 65.766,
+      "en": "Mom, say something! You can't just let him get away with that!",
+      "vi": "Mẹ nói gì đi! Mẹ không thể cứ để anh ấy thoát như vậy được!"
+    },
+    {
+      "role": "C",
+      "start_time": 66.100,
+      "end_time": 72.200,
+      "en": "Your brother has a point, Mike. You take turns doing the dishes. That's fair.",
+      "vi": "Anh con nói đúng đấy Mike. Các con thay phiên nhau rửa bát. Như vậy mới công bằng."
+    },
+    {
+      "role": "A",
+      "start_time": 73.500,
+      "end_time": 74.333,
+      "en": "Alright...",
+      "vi": "Thôi được..."
+    },
+    {
+      "role": "B",
+      "start_time": 75.300,
+      "end_time": 78.000,
+      "en": "Actually, I can do the dishes today.",
+      "vi": "Thực ra, hôm nay anh rửa bát cũng được."
+    },
+    {
+      "role": "A",
+      "start_time": 78.000,
+      "end_time": 79.966,
+      "en": "Really?",
+      "vi": "Thật ạ?"
+    },
+    {
+      "role": "B",
+      "start_time": 79.966,
+      "end_time": 86.000,
+      "en": "Really. But only if you wipe down the table and take out the trash.",
+      "vi": "Thật. Nhưng chỉ khi em lau bàn và đi đổ rác."
+    },
+    {
+      "role": "A",
+      "start_time": 86.000,
+      "end_time": 87.200,
+      "en": "Deal!",
+      "vi": "Thỏa thuận!"
+    },
+    {
+      "role": "C",
+      "start_time": 87.200,
+      "end_time": 90.766,
+      "en": "Isn't it muddy outside? It just stopped raining.",
+      "vi": "Bên ngoài đang lầy lội mà nhỉ? Trời mới tạnh mưa xong."
+    },
+    {
+      "role": "B",
+      "start_time": 91.400,
+      "end_time": 96.900,
+      "en": "Exactly, Mom. That's why I'd rather do the dishes than take out the trash.",
+      "vi": "Chính xác đó mẹ. Đó là lý do anh thà rửa bát còn hơn đi đổ rác."
+    }
+  ]
+}

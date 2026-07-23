@@ -1,0 +1,123 @@
+{
+  "lesson_id": "daily_routines3_005",
+  "title": "Helping with Housework",
+  "category": "Daily Routines",
+  "level": "Elementary",
+  "videoConfig": {
+    "url": "https://raw.githubusercontent.com/Mom1881990/resources/main/videos/daily_routines3_005.mp4",
+    "thumb": "https://raw.githubusercontent.com/Mom1881990/resources/main/images/daily_routines3_005.jpg",
+    "mute_original": false
+  },
+  "characters": [
+    {
+      "id": "A",
+      "name": "Mike",
+      "tts_voice": "en-US-AndrewNeural"
+    },
+    {
+      "id": "B",
+      "name": "Emma",
+      "tts_voice": "en-US-JennyNeural"
+    }
+  ],
+  "dialogues": [
+    {
+      "role": "A",
+      "start_time": 0.266,
+      "end_time": 2.400,
+      "en": "Honey, can you scoot over a bit?",
+      "vi": "Em yêu, em ngồi dịch sang một chút được không?"
+    },
+    {
+      "role": "A",
+      "start_time": 2.700,
+      "end_time": 6.366,
+      "en": "I'm trying to vacuum under the sofa.",
+      "vi": "Anh đang cố hút bụi dưới ghế sofa."
+    },
+    {
+      "role": "B",
+      "start_time": 6.566,
+      "end_time": 8.666,
+      "en": "Huh? Why are you vacuuming today?",
+      "vi": "Hả? Sao hôm nay anh lại hút bụi?"
+    },
+    {
+      "role": "B",
+      "start_time": 9.200,
+      "end_time": 12.200,
+      "en": "I usually have to ask you over and over.",
+      "vi": "Thường thì em phải nhờ anh mãi mới chịu làm."
+    },
+    {
+      "role": "A",
+      "start_time": 12.966,
+      "end_time": 17.866,
+      "en": "My friends are coming over later. I need the place clean.",
+      "vi": "Bạn anh sẽ đến chơi chiều nay. Anh cần nhà sạch sẽ."
+    },
+    {
+      "role": "B",
+      "start_time": 17.966,
+      "end_time": 21.733,
+      "en": "Oooh. That explains it. They should come over more often.",
+      "vi": "Ồ. Ra là vậy. Bạn anh nên đến chơi thường xuyên hơn mới đúng."
+    },
+    {
+      "role": "A",
+      "start_time": 22.400,
+      "end_time": 24.266,
+      "en": "Can you help me dust the shelves?",
+      "vi": "Em giúp anh lau bụi kệ được không?"
+    },
+    {
+      "role": "B",
+      "start_time": 25.066,
+      "end_time": 28.666,
+      "en": "Beg me first, and then I'll think about it.",
+      "vi": "Cầu xin em trước đi, rồi em sẽ cân nhắc."
+    },
+    {
+      "role": "A",
+      "start_time": 29.033,
+      "end_time": 30.966,
+      "en": "Come on. I'm running out of time!",
+      "vi": "Thôi mà. Anh sắp hết thời gian rồi!"
+    },
+    {
+      "role": "B",
+      "start_time": 31.700,
+      "end_time": 35.866,
+      "en": "Only if you promise to do the laundry for the next two weeks.",
+      "vi": "Chỉ khi anh hứa giặt quần áo trong hai tuần tới."
+    },
+    {
+      "role": "A",
+      "start_time": 36.566,
+      "end_time": 40.133,
+      "en": "Do the laundry? But that's usually your job.",
+      "vi": "Giặt quần áo? Nhưng đó thường là việc của em mà."
+    },
+    {
+      "role": "B",
+      "start_time": 40.500,
+      "end_time": 43.866,
+      "en": "And dusting the shelves isn't my job either.",
+      "vi": "Còn lau bụi kệ cũng không phải việc của em."
+    },
+    {
+      "role": "A",
+      "start_time": 44.466,
+      "end_time": 47.700,
+      "en": "Okay, fine. I'll do the laundry for two weeks.",
+      "vi": "Được rồi. Anh sẽ giặt quần áo trong hai tuần."
+    },
+    {
+      "role": "B",
+      "start_time": 48.400,
+      "end_time": 49.900,
+      "en": "Deal! I'll help.",
+      "vi": "Thỏa thuận! Em sẽ giúp."
+    }
+  ]
+}

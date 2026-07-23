@@ -1,0 +1,158 @@
+{
+  "lesson_id": "daily_routines3_007",
+  "title": "Cleaning Your Room",
+  "category": "Daily Routines",
+  "level": "Elementary",
+  "videoConfig": {
+    "url": "https://raw.githubusercontent.com/Mom1881990/resources/main/videos/daily_routines3_007.mp4",
+    "thumb": "https://raw.githubusercontent.com/Mom1881990/resources/main/images/daily_routines3_007.jpg",
+    "mute_original": false
+  },
+  "characters": [
+    {
+      "id": "A",
+      "name": "Mom",
+      "tts_voice": "en-US-JennyNeural"
+    },
+    {
+      "id": "B",
+      "name": "Isabelle",
+      "tts_voice": "en-US-AriaNeural"
+    }
+  ],
+  "dialogues": [
+    {
+      "role": "A",
+      "start_time": 0.166,
+      "end_time": 2.000,
+      "en": "Honey, can I come in?",
+      "vi": "Con yêu, mẹ vào được không?"
+    },
+    {
+      "role": "B",
+      "start_time": 2.600,
+      "end_time": 4.600,
+      "en": "Yes. Morning, Mom.",
+      "vi": "Dạ. Chào buổi sáng mẹ."
+    },
+    {
+      "role": "A",
+      "start_time": 5.233,
+      "end_time": 7.533,
+      "en": "Morning? It's almost afternoon!",
+      "vi": "Buổi sáng? Đã gần chiều rồi còn gì!"
+    },
+    {
+      "role": "B",
+      "start_time": 8.233,
+      "end_time": 10.466,
+      "en": "I live in a different time zone.",
+      "vi": "Con sống ở múi giờ khác mà."
+    },
+    {
+      "role": "A",
+      "start_time": 11.266,
+      "end_time": 13.300,
+      "en": "Why is your room such a mess?",
+      "vi": "Sao phòng con lại bừa bộn thế này?"
+    },
+    {
+      "role": "B",
+      "start_time": 13.833,
+      "end_time": 15.966,
+      "en": "It's not that bad, Mom.",
+      "vi": "Cũng không đến nỗi tệ đâu mẹ."
+    },
+    {
+      "role": "A",
+      "start_time": 16.466,
+      "end_time": 23.366,
+      "en": "Not that bad?! I can't even tell the difference between your room and a landfill!",
+      "vi": "Không tệ á?! Mẹ không phân biệt nổi phòng con với bãi rác!"
+    },
+    {
+      "role": "A",
+      "start_time": 24.466,
+      "end_time": 28.500,
+      "en": "Why didn't you clean up your room? You were off all day yesterday.",
+      "vi": "Sao con không dọn phòng? Hôm qua con rảnh cả ngày."
+    },
+    {
+      "role": "B",
+      "start_time": 29.266,
+      "end_time": 32.133,
+      "en": "I didn't have time. I was... busy.",
+      "vi": "Con không có thời gian. Con bận... mà."
+    },
+    {
+      "role": "A",
+      "start_time": 32.766,
+      "end_time": 34.366,
+      "en": "Busy doing what?",
+      "vi": "Bận làm gì?"
+    },
+    {
+      "role": "B",
+      "start_time": 35.033,
+      "end_time": 38.000,
+      "en": "Ugh... you know. Important things.",
+      "vi": "Ugh... mẹ biết đấy. Những việc quan trọng."
+    },
+    {
+      "role": "B",
+      "start_time": 38.000,
+      "end_time": 41.200,
+      "en": "Like resting. And sleeping.",
+      "vi": "Như là nghỉ ngơi. Và ngủ."
+    },
+    {
+      "role": "A",
+      "start_time": 41.866,
+      "end_time": 47.000,
+      "en": "Isa, you can't just leave your room like this. I need you to-",
+      "vi": "Isa, con không thể cứ để phòng bừa bộn như vậy được. Mẹ cần con-"
+    },
+    {
+      "role": "B",
+      "start_time": 47.000,
+      "end_time": 49.766,
+      "en": "I know, I know! I'll make my bed.",
+      "vi": "Con biết rồi, con biết rồi! Con sẽ dọn giường."
+    },
+    {
+      "role": "A",
+      "start_time": 50.433,
+      "end_time": 57.100,
+      "en": "Not just your bed but your room. Trash and clothes, put them away.",
+      "vi": "Không chỉ giường mà cả phòng luôn. Rác và quần áo, cất đi."
+    },
+    {
+      "role": "B",
+      "start_time": 57.766,
+      "end_time": 60.200,
+      "en": "Then I won't know where anything is!",
+      "vi": "Thế thì con không biết đồ đạc để đâu nữa!"
+    },
+    {
+      "role": "A",
+      "start_time": 60.766,
+      "end_time": 62.933,
+      "en": "Isabelle Alison Greenwood!",
+      "vi": "Isabelle Alison Greenwood!"
+    },
+    {
+      "role": "B",
+      "start_time": 63.600,
+      "end_time": 68.000,
+      "en": "Okay, Mom. I'm doing it now!",
+      "vi": "Vâng thưa mẹ. Con đang làm ngay đây!"
+    },
+    {
+      "role": "A",
+      "start_time": 68.100,
+      "end_time": 74.500,
+      "en": "Thank you. And once you're done, there's some lunch in the fridge. Or breakfast, for you.",
+      "vi": "Cảm ơn con. Và khi con dọn xong, có thức ăn trưa trong tủ lạnh. Hoặc là bữa sáng, dành cho con."
+    }
+  ]
+}
