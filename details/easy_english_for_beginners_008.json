@@ -1,0 +1,191 @@
+{
+  "lesson_id": "easy_english_for_beginners_008",
+  "title": "The YouTube Mechanic",
+  "category": "Easy English for Beginners",
+  "level": "Elementary",
+  "videoConfig": {
+    "url": "https://raw.githubusercontent.com/Mom1881990/resources/main/videos/easy_english_for_beginners_008.mp4",
+    "thumb": "https://raw.githubusercontent.com/Mom1881990/resources/main/images/easy_english_for_beginners_008.jpg",
+    "mute_original": false
+  },
+  "characters": [
+    {
+      "id": "A",
+      "name": "Dad",
+      "tts_voice": "en-US-GuyNeural"
+    },
+    {
+      "id": "B",
+      "name": "Mom",
+      "tts_voice": "en-US-JennyNeural"
+    },
+    {
+      "id": "C",
+      "name": "Son",
+      "tts_voice": "en-US-DavisNeural"
+    }
+  ],
+  "dialogues": [
+    {
+      "role": "A",
+      "start_time": 0.2,
+      "end_time": 3.766,
+      "en": "Don't worry everyone, this problem is easy to fix.",
+      "vi": "Đừng lo mọi người, vấn đề này dễ sửa thôi."
+    },
+    {
+      "role": "A",
+      "start_time": 4.366,
+      "end_time": 5.7,
+      "en": "I can do it myself.",
+      "vi": "Bố có thể tự làm được."
+    },
+    {
+      "role": "B",
+      "start_time": 6.666,
+      "end_time": 8.3,
+      "en": "Are you sure, honey?",
+      "vi": "Anh chắc chứ, anh yêu?"
+    },
+    {
+      "role": "B",
+      "start_time": 8.366,
+      "end_time": 11.333,
+      "en": "Maybe we should call a professional mechanic.",
+      "vi": "Có lẽ mình nên gọi thợ chuyên nghiệp."
+    },
+    {
+      "role": "A",
+      "start_time": 11.9,
+      "end_time": 14.366,
+      "en": "No, no, I am an expert.",
+      "vi": "Không, không, bố là chuyên gia mà."
+    },
+    {
+      "role": "C",
+      "start_time": 15.233,
+      "end_time": 19.3,
+      "en": "Mom, Dad watched a tutorial on YouTube this morning.",
+      "vi": "Mẹ ơi, bố xem hướng dẫn trên YouTube sáng nay rồi."
+    },
+    {
+      "role": "B",
+      "start_time": 20.033,
+      "end_time": 22.366,
+      "en": "Honey, are you sure that's okay?",
+      "vi": "Anh yêu, anh chắc như vậy ổn chứ?"
+    },
+    {
+      "role": "A",
+      "start_time": 22.5,
+      "end_time": 24.466,
+      "en": "I can do it, baby!",
+      "vi": "Anh làm được mà, em yêu!"
+    },
+    {
+      "role": "A",
+      "start_time": 25.2,
+      "end_time": 29.366,
+      "en": "I have all the tools like wrenches and screwdrivers in the garage.",
+      "vi": "Anh có đủ dụng cụ như cờ lê và tua vít trong garage."
+    },
+    {
+      "role": "A",
+      "start_time": 30.266,
+      "end_time": 32.333,
+      "en": "Just stay here and watch me.",
+      "vi": "Cứ đứng đây xem anh làm đi."
+    },
+    {
+      "role": "C",
+      "start_time": 35.566,
+      "end_time": 39.0,
+      "en": "Is it finished, Dad? Can we go to the mall now?",
+      "vi": "Xong chưa bố? Mình đi trung tâm thương mại được chưa?"
+    },
+    {
+      "role": "C",
+      "start_time": 39.0,
+      "end_time": 40.5,
+      "en": "I'm getting hungry.",
+      "vi": "Con đói rồi."
+    },
+    {
+      "role": "A",
+      "start_time": 41.0,
+      "end_time": 43.733,
+      "en": "Almost, just one more turn.",
+      "vi": "Sắp xong rồi, chỉ cần vặn thêm một cái nữa."
+    },
+    {
+      "role": "A",
+      "start_time": 44.3,
+      "end_time": 46.333,
+      "en": "Okay, try to start the engine.",
+      "vi": "Được rồi, thử nổ máy đi."
+    },
+    {
+      "role": "C",
+      "start_time": 47.066,
+      "end_time": 48.933,
+      "en": "Okay, let's go!",
+      "vi": "Được, đi thôi!"
+    },
+    {
+      "role": "C",
+      "start_time": 49.3,
+      "end_time": 51.266,
+      "en": "Oh no, it doesn't work!",
+      "vi": "Ôi không, nó không chạy!"
+    },
+    {
+      "role": "C",
+      "start_time": 51.266,
+      "end_time": 53.466,
+      "en": "It sounds worse than before.",
+      "vi": "Nghe còn tệ hơn trước."
+    },
+    {
+      "role": "A",
+      "start_time": 54.0,
+      "end_time": 57.366,
+      "en": "That's strange, I did it the same as the video.",
+      "vi": "Lạ thật, bố làm giống hệt trong video mà."
+    },
+    {
+      "role": "B",
+      "start_time": 57.966,
+      "end_time": 60.7,
+      "en": "Well, now we really need help!",
+      "vi": "Thôi, giờ mình thật sự cần giúp đỡ rồi!"
+    },
+    {
+      "role": "B",
+      "start_time": 61.0,
+      "end_time": 63.166,
+      "en": "I'm calling the repair shop.",
+      "vi": "Mẹ gọi tiệm sửa xe đây."
+    },
+    {
+      "role": "A",
+      "start_time": 63.666,
+      "end_time": 66.466,
+      "en": "Tell them the expert needs a little assistance.",
+      "vi": "Bảo họ là chuyên gia cần một chút hỗ trợ."
+    },
+    {
+      "role": "C",
+      "start_time": 67.366,
+      "end_time": 70.8,
+      "en": "Now I also need to call the pizza for help.",
+      "vi": "Giờ con cũng cần gọi pizza để giúp nữa."
+    },
+    {
+      "role": "A",
+      "start_time": 70.8,
+      "end_time": 72.2,
+      "en": "I'm sorry.",
+      "vi": "Bố xin lỗi."
+    }
+  ]
+}

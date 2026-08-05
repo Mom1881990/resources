@@ -1,0 +1,214 @@
+{
+  "lesson_id": "easy_english_for_beginners_004",
+  "title": "Sweet Cookies, Sweeter Love",
+  "category": "Easy English for Beginners",
+  "level": "Elementary",
+  "videoConfig": {
+    "url": "https://raw.githubusercontent.com/Mom1881990/resources/main/videos/easy_english_for_beginners_004.mp4",
+    "thumb": "https://raw.githubusercontent.com/Mom1881990/resources/main/images/easy_english_for_beginners_004.jpg",
+    "mute_original": false
+  },
+  "characters": [
+    {
+      "id": "A",
+      "name": "Lisa (Niece)",
+      "tts_voice": "en-US-AriaNeural"
+    },
+    {
+      "id": "B",
+      "name": "Aunt Linda",
+      "tts_voice": "en-US-JennyNeural"
+    }
+  ],
+  "dialogues": [
+    {
+      "role": "A",
+      "start_time": 0.666,
+      "end_time": 4.0,
+      "en": "Hello, this is the cookie delivery service.",
+      "vi": "Xin chào, đây là dịch vụ giao bánh quy."
+    },
+    {
+      "role": "B",
+      "start_time": 4.0,
+      "end_time": 5.0,
+      "en": "Lisa?",
+      "vi": "Lisa à?"
+    },
+    {
+      "role": "B",
+      "start_time": 5.0,
+      "end_time": 6.733,
+      "en": "Oh! Thank goodness.",
+      "vi": "Ôi! May quá."
+    },
+    {
+      "role": "B",
+      "start_time": 6.9,
+      "end_time": 8.0,
+      "en": "Get in here.",
+      "vi": "Vào đây đi."
+    },
+    {
+      "role": "B",
+      "start_time": 8.0,
+      "end_time": 10.666,
+      "en": "I'm bored out of my mind.",
+      "vi": "Dì đang chán đến phát điên."
+    },
+    {
+      "role": "A",
+      "start_time": 11.266,
+      "end_time": 13.933,
+      "en": "I brought some white chocolate cookies for you.",
+      "vi": "Cháu mang một ít bánh quy sô-cô-la trắng cho dì đây."
+    },
+    {
+      "role": "B",
+      "start_time": 14.466,
+      "end_time": 15.9,
+      "en": "You're a saint!",
+      "vi": "Cháu đúng là thiên thần!"
+    },
+    {
+      "role": "A",
+      "start_time": 17.0,
+      "end_time": 20.066,
+      "en": "So, how are you doing, Aunt Linda?",
+      "vi": "Dì Linda dạo này thế nào rồi?"
+    },
+    {
+      "role": "A",
+      "start_time": 20.6,
+      "end_time": 23.3,
+      "en": "You look a lot better than last week.",
+      "vi": "Dì trông khỏe hơn nhiều so với tuần trước."
+    },
+    {
+      "role": "B",
+      "start_time": 23.7,
+      "end_time": 25.7,
+      "en": "I feel better, honestly.",
+      "vi": "Thành thật mà nói, dì cảm thấy khá hơn."
+    },
+    {
+      "role": "B",
+      "start_time": 26.5,
+      "end_time": 30.466,
+      "en": "Still a bit uncomfortable, but the pain has eased up.",
+      "vi": "Vẫn hơi khó chịu một chút, nhưng cơn đau đã giảm rồi."
+    },
+    {
+      "role": "A",
+      "start_time": 31.066,
+      "end_time": 32.5,
+      "en": "That's good to hear.",
+      "vi": "Nghe vậy là tốt rồi."
+    },
+    {
+      "role": "A",
+      "start_time": 32.5,
+      "end_time": 34.966,
+      "en": "Did the doctor say anything yet?",
+      "vi": "Bác sĩ đã nói gì chưa?"
+    },
+    {
+      "role": "B",
+      "start_time": 35.433,
+      "end_time": 37.866,
+      "en": "Yeah, they said I'm healing well.",
+      "vi": "Ừ, họ nói dì đang hồi phục tốt."
+    },
+    {
+      "role": "B",
+      "start_time": 38.6,
+      "end_time": 42.533,
+      "en": "If everything goes okay, I might go home in three days.",
+      "vi": "Nếu mọi thứ suôn sẻ, dì có thể về nhà sau ba ngày nữa."
+    },
+    {
+      "role": "A",
+      "start_time": 43.066,
+      "end_time": 45.066,
+      "en": "Three days? That's great!",
+      "vi": "Ba ngày? Tuyệt quá!"
+    },
+    {
+      "role": "A",
+      "start_time": 45.066,
+      "end_time": 46.933,
+      "en": "You must be counting down.",
+      "vi": "Dì chắc đang đếm ngược từng ngày."
+    },
+    {
+      "role": "B",
+      "start_time": 47.666,
+      "end_time": 49.733,
+      "en": "Oh, absolutely!",
+      "vi": "Ôi, đúng vậy!"
+    },
+    {
+      "role": "B",
+      "start_time": 50.633,
+      "end_time": 53.366,
+      "en": "I miss my own bed and real food.",
+      "vi": "Dì nhớ giường của mình và đồ ăn thật sự."
+    },
+    {
+      "role": "A",
+      "start_time": 54.0,
+      "end_time": 55.5,
+      "en": "I can imagine.",
+      "vi": "Cháu hiểu mà."
+    },
+    {
+      "role": "A",
+      "start_time": 55.633,
+      "end_time": 58.166,
+      "en": "I'll come by and bring you some homemade sweets.",
+      "vi": "Cháu sẽ qua và mang cho dì một ít đồ ngọt tự làm."
+    },
+    {
+      "role": "A",
+      "start_time": 59.233,
+      "end_time": 61.966,
+      "en": "Now let's try my cookies, Aunt Linda.",
+      "vi": "Bây giờ thử bánh quy của cháu đi, dì Linda."
+    },
+    {
+      "role": "B",
+      "start_time": 62.6,
+      "end_time": 65.5,
+      "en": "Oh wow, this is actually good!",
+      "vi": "Ôi wow, bánh này ngon thật!"
+    },
+    {
+      "role": "B",
+      "start_time": 65.5,
+      "end_time": 70.0,
+      "en": "Compared to this, the hospital food tastes like cardboard.",
+      "vi": "So với cái này thì đồ ăn bệnh viện như giấy cứng vậy."
+    },
+    {
+      "role": "A",
+      "start_time": 70.766,
+      "end_time": 71.5,
+      "en": "Really?",
+      "vi": "Thật sao?"
+    },
+    {
+      "role": "A",
+      "start_time": 71.5,
+      "end_time": 73.266,
+      "en": "Then I'll make more for you.",
+      "vi": "Vậy cháu sẽ làm thêm cho dì."
+    },
+    {
+      "role": "B",
+      "start_time": 73.833,
+      "end_time": 75.3,
+      "en": "Love you, sweetie.",
+      "vi": "Dì yêu cháu, cưng à."
+    }
+  ]
+}

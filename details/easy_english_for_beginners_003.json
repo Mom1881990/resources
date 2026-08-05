@@ -1,0 +1,581 @@
+{
+  "lesson_id": "easy_english_for_beginners_003",
+  "title": "Surprising Gift on Mom's Birthday",
+  "category": "Easy English for Beginners",
+  "level": "Elementary",
+  "videoConfig": {
+    "url": "https://raw.githubusercontent.com/Mom1881990/resources/main/videos/easy_english_for_beginners_003.mp4",
+    "thumb": "https://raw.githubusercontent.com/Mom1881990/resources/main/images/easy_english_for_beginners_003.jpg",
+    "mute_original": false
+  },
+  "characters": [
+    {
+      "id": "A",
+      "name": "Dad",
+      "tts_voice": "en-US-ChristopherNeural"
+    },
+    {
+      "id": "B",
+      "name": "Luke (Son)",
+      "tts_voice": "en-US-GuyNeural"
+    },
+    {
+      "id": "C",
+      "name": "Chloe (Daughter)",
+      "tts_voice": "en-US-AriaNeural"
+    },
+    {
+      "id": "D",
+      "name": "Mom",
+      "tts_voice": "en-US-JennyNeural"
+    }
+  ],
+  "dialogues": [
+    {
+      "role": "A",
+      "start_time": 0.066,
+      "end_time": 1.866,
+      "en": "What day is today, Luke?",
+      "vi": "Hôm nay là thứ mấy, Luke?"
+    },
+    {
+      "role": "B",
+      "start_time": 2.4,
+      "end_time": 5.1,
+      "en": "Today's Tuesday. What's up, Dad?",
+      "vi": "Hôm nay là thứ Ba. Có chuyện gì vậy, bố?"
+    },
+    {
+      "role": "A",
+      "start_time": 5.6,
+      "end_time": 8.5,
+      "en": "Isn't it your mom's birthday this Friday?",
+      "vi": "Thứ Sáu này không phải sinh nhật mẹ con à?"
+    },
+    {
+      "role": "C",
+      "start_time": 9.233,
+      "end_time": 13.5,
+      "en": "Ugh! You're right! It completely slipped my mind!",
+      "vi": "Ối! Đúng rồi! Con hoàn toàn quên mất!"
+    },
+    {
+      "role": "B",
+      "start_time": 14.3,
+      "end_time": 15.5,
+      "en": "What should we do?",
+      "vi": "Chúng ta nên làm gì?"
+    },
+    {
+      "role": "A",
+      "start_time": 15.5,
+      "end_time": 18.5,
+      "en": "Don't worry, I have this idea.",
+      "vi": "Đừng lo, bố có ý này."
+    },
+    {
+      "role": "B",
+      "start_time": 19.0,
+      "end_time": 20.666,
+      "en": "What's that?",
+      "vi": "Là gì vậy?"
+    },
+    {
+      "role": "A",
+      "start_time": 21.233,
+      "end_time": 24.733,
+      "en": "How about we make a surprise birthday party for her?",
+      "vi": "Hay là chúng ta tổ chức tiệc sinh nhật bất ngờ cho mẹ?"
+    },
+    {
+      "role": "C",
+      "start_time": 25.3,
+      "end_time": 27.9,
+      "en": "That sounds fun! What's your plan?",
+      "vi": "Nghe vui đấy! Kế hoạch của bố là gì?"
+    },
+    {
+      "role": "A",
+      "start_time": 28.633,
+      "end_time": 31.5,
+      "en": "Well, maybe on her birthday, we can...",
+      "vi": "Ừm, có lẽ vào ngày sinh nhật mẹ, chúng ta có thể..."
+    },
+    {
+      "role": "D",
+      "start_time": 37.6,
+      "end_time": 41.0,
+      "en": "Sorry, I must leave now. I have a meeting at eight.",
+      "vi": "Xin lỗi, mẹ phải đi đây. Mẹ có cuộc họp lúc tám giờ."
+    },
+    {
+      "role": "D",
+      "start_time": 41.0,
+      "end_time": 42.866,
+      "en": "See you tonight.",
+      "vi": "Tối gặp nhé."
+    },
+    {
+      "role": "A",
+      "start_time": 43.4,
+      "end_time": 44.366,
+      "en": "Bye, babe.",
+      "vi": "Tạm biệt, em yêu."
+    },
+    {
+      "role": "D",
+      "start_time": 45.0,
+      "end_time": 48.066,
+      "en": "Alex, are you sure you don't need to see a doctor?",
+      "vi": "Alex, anh chắc là không cần đi khám chứ?"
+    },
+    {
+      "role": "A",
+      "start_time": 49.066,
+      "end_time": 52.2,
+      "en": "Nope, I'm just feeling a little under the weather.",
+      "vi": "Không, anh chỉ hơi mệt một chút thôi."
+    },
+    {
+      "role": "A",
+      "start_time": 52.2,
+      "end_time": 54.0,
+      "en": "A day off should be enough.",
+      "vi": "Nghỉ một ngày là đủ rồi."
+    },
+    {
+      "role": "D",
+      "start_time": 54.4,
+      "end_time": 58.0,
+      "en": "If you start feeling worse, just give me a call, alright?",
+      "vi": "Nếu anh thấy nặng hơn thì gọi cho mẹ nhé?"
+    },
+    {
+      "role": "A",
+      "start_time": 58.4,
+      "end_time": 61.133,
+      "en": "I will, don't worry. See you later.",
+      "vi": "Anh sẽ gọi, đừng lo. Gặp lại sau."
+    },
+    {
+      "role": "B",
+      "start_time": 61.7,
+      "end_time": 63.666,
+      "en": "Have a good day at work, Mom!",
+      "vi": "Chúc mẹ làm việc vui vẻ!"
+    },
+    {
+      "role": "C",
+      "start_time": 64.166,
+      "end_time": 66.2,
+      "en": "Don't work too hard, Mom.",
+      "vi": "Đừng làm việc quá sức nhé, mẹ."
+    },
+    {
+      "role": "D",
+      "start_time": 66.866,
+      "end_time": 68.8,
+      "en": "Thanks, sweeties. Bye.",
+      "vi": "Cảm ơn các con. Tạm biệt."
+    },
+    {
+      "role": "A",
+      "start_time": 72.7,
+      "end_time": 75.566,
+      "en": "Okay, she's gone. Let's start.",
+      "vi": "Được rồi, mẹ đi rồi. Bắt đầu thôi."
+    },
+    {
+      "role": "C",
+      "start_time": 76.2,
+      "end_time": 78.0,
+      "en": "What are we doing first?",
+      "vi": "Chúng ta làm gì trước?"
+    },
+    {
+      "role": "A",
+      "start_time": 78.0,
+      "end_time": 82.1,
+      "en": "Let's split up. Luke, you'll vacuum the house.",
+      "vi": "Chia việc thôi. Luke, con hút bụi nhà."
+    },
+    {
+      "role": "B",
+      "start_time": 83.166,
+      "end_time": 84.0,
+      "en": "Got it!",
+      "vi": "Rõ!"
+    },
+    {
+      "role": "A",
+      "start_time": 84.0,
+      "end_time": 86.966,
+      "en": "Chloe, you take care of the laundry.",
+      "vi": "Chloe, con lo việc giặt đồ."
+    },
+    {
+      "role": "C",
+      "start_time": 87.9,
+      "end_time": 89.0,
+      "en": "Copy that.",
+      "vi": "Được rồi."
+    },
+    {
+      "role": "A",
+      "start_time": 89.0,
+      "end_time": 91.8,
+      "en": "Great, I'll head to the supermarket.",
+      "vi": "Tốt, bố sẽ đi siêu thị."
+    },
+    {
+      "role": "B",
+      "start_time": 92.433,
+      "end_time": 95.166,
+      "en": "Don't forget to check the shopping list, Dad.",
+      "vi": "Đừng quên kiểm tra danh sách mua sắm nhé, bố."
+    },
+    {
+      "role": "A",
+      "start_time": 95.566,
+      "end_time": 97.933,
+      "en": "I won't. Thanks for the reminder.",
+      "vi": "Bố sẽ không quên. Cảm ơn con đã nhắc."
+    },
+    {
+      "role": "C",
+      "start_time": 98.5,
+      "end_time": 100.366,
+      "en": "And don't forget the flowers!",
+      "vi": "Và đừng quên hoa nữa!"
+    },
+    {
+      "role": "A",
+      "start_time": 101.066,
+      "end_time": 103.933,
+      "en": "Bold of you to assume I would forget the flowers!",
+      "vi": "Con nghĩ bố sẽ quên hoa à!"
+    },
+    {
+      "role": "B",
+      "start_time": 104.666,
+      "end_time": 106.9,
+      "en": "So, when's your deadline?",
+      "vi": "Vậy deadline của chúng ta là khi nào?"
+    },
+    {
+      "role": "A",
+      "start_time": 107.666,
+      "end_time": 111.466,
+      "en": "Let's see, let's try to wrap everything up by noon.",
+      "vi": "Để xem, cố gắng xong hết trước buổi trưa."
+    },
+    {
+      "role": "C",
+      "start_time": 112.166,
+      "end_time": 113.7,
+      "en": "Sounds like a plan!",
+      "vi": "Nghe hợp lý!"
+    },
+    {
+      "role": "C",
+      "start_time": 117.266,
+      "end_time": 119.7,
+      "en": "So, what are we cooking, Dad?",
+      "vi": "Vậy chúng ta nấu gì, bố?"
+    },
+    {
+      "role": "A",
+      "start_time": 120.633,
+      "end_time": 127.666,
+      "en": "Steak, pasta, salad, and roasted chicken. All mom's favorites.",
+      "vi": "Bít tết, pasta, salad và gà nướng. Tất cả món mẹ thích."
+    },
+    {
+      "role": "C",
+      "start_time": 127.766,
+      "end_time": 130.866,
+      "en": "Uh... I don't think I can actually cook any of that.",
+      "vi": "Ừm... Con không nghĩ mình nấu được món nào trong số đó."
+    },
+    {
+      "role": "A",
+      "start_time": 131.366,
+      "end_time": 136.8,
+      "en": "Don't worry, no one's expecting you to cook. Just help wash the veggies.",
+      "vi": "Đừng lo, không ai bắt con nấu đâu. Chỉ cần giúp rửa rau thôi."
+    },
+    {
+      "role": "A",
+      "start_time": 137.633,
+      "end_time": 140.166,
+      "en": "What about me?",
+      "vi": "Còn bố thì sao?"
+    },
+    {
+      "role": "B",
+      "start_time": 140.166,
+      "end_time": 141.6,
+      "en": "Dad, please cut the beef.",
+      "vi": "Bố, làm ơn cắt thịt bò giúp."
+    },
+    {
+      "role": "C",
+      "start_time": 142.233,
+      "end_time": 144.5,
+      "en": "And what are you going to do?",
+      "vi": "Còn con thì làm gì?"
+    },
+    {
+      "role": "B",
+      "start_time": 144.5,
+      "end_time": 152.7,
+      "en": "Me? I'm making sure we actually follow the recipes and don't turn Mom's birthday dinner into a disaster.",
+      "vi": "Con à? Con sẽ đảm bảo mọi người làm đúng công thức và không biến bữa tối sinh nhật mẹ thành thảm họa."
+    },
+    {
+      "role": "C",
+      "start_time": 153.366,
+      "end_time": 156.9,
+      "en": "That's a weird way of saying you're the chef, but sure.",
+      "vi": "Cách nói 'con là đầu bếp' hơi lạ, nhưng được thôi."
+    },
+    {
+      "role": "B",
+      "start_time": 159.1,
+      "end_time": 163.1,
+      "en": "Chloe, stop! That's way too much salt.",
+      "vi": "Chloe, dừng lại! Muối nhiều quá!"
+    },
+    {
+      "role": "C",
+      "start_time": 163.1,
+      "end_time": 166.566,
+      "en": "But you just told me to add one spoon of salt into the water.",
+      "vi": "Nhưng con vừa bảo chị thêm một thìa muối vào nước mà."
+    },
+    {
+      "role": "B",
+      "start_time": 167.166,
+      "end_time": 170.5,
+      "en": "Yeah, teaspoon, not tablespoon.",
+      "vi": "Ừ, thìa cà phê, không phải thìa canh."
+    },
+    {
+      "role": "C",
+      "start_time": 171.4,
+      "end_time": 172.966,
+      "en": "Aren't they both spoons?",
+      "vi": "Chúng không phải đều là thìa à?"
+    },
+    {
+      "role": "B",
+      "start_time": 174.0,
+      "end_time": 175.433,
+      "en": "Not even close!",
+      "vi": "Không hề giống nhau!"
+    },
+    {
+      "role": "B",
+      "start_time": 175.433,
+      "end_time": 178.3,
+      "en": "I don't want the pasta to taste like the Dead Sea.",
+      "vi": "Con không muốn pasta có vị như Biển Chết."
+    },
+    {
+      "role": "C",
+      "start_time": 179.0,
+      "end_time": 183.266,
+      "en": "Okay, okay, Gordon Ramsay. What do I do next?",
+      "vi": "Được rồi, được rồi, Gordon Ramsay. Tiếp theo con làm gì?"
+    },
+    {
+      "role": "B",
+      "start_time": 183.833,
+      "end_time": 189.766,
+      "en": "Now add the pasta slowly and let it cook for about eight minutes.",
+      "vi": "Bây giờ cho pasta vào từ từ và để nấu khoảng tám phút."
+    },
+    {
+      "role": "A",
+      "start_time": 190.433,
+      "end_time": 193.3,
+      "en": "Hey Luke, what about the chicken?",
+      "vi": "Này Luke, còn gà thì sao?"
+    },
+    {
+      "role": "A",
+      "start_time": 193.3,
+      "end_time": 194.3,
+      "en": "How do I get that ready?",
+      "vi": "Bố làm thế nào để chuẩn bị?"
+    },
+    {
+      "role": "B",
+      "start_time": 194.766,
+      "end_time": 197.2,
+      "en": "First, we must marinate it.",
+      "vi": "Trước hết, chúng ta phải ướp nó."
+    },
+    {
+      "role": "A",
+      "start_time": 197.7,
+      "end_time": 201.9,
+      "en": "So, soak it in some kind of sauce before cooking, right?",
+      "vi": "Vậy là ngâm nó trong một loại sốt trước khi nấu, đúng không?"
+    },
+    {
+      "role": "B",
+      "start_time": 202.466,
+      "end_time": 207.2,
+      "en": "Yep, the marinade. I already made it.",
+      "vi": "Đúng rồi, nước ướp. Con đã làm sẵn rồi."
+    },
+    {
+      "role": "A",
+      "start_time": 207.2,
+      "end_time": 208.2,
+      "en": "How do you even know all this, kiddo?",
+      "vi": "Sao con biết hết những thứ này vậy, con?"
+    },
+    {
+      "role": "B",
+      "start_time": 209.033,
+      "end_time": 212.333,
+      "en": "I asked mom to teach me to cook when I was twelve.",
+      "vi": "Con nhờ mẹ dạy nấu ăn khi con mười hai tuổi."
+    },
+    {
+      "role": "C",
+      "start_time": 212.966,
+      "end_time": 217.2,
+      "en": "She's always so busy, but she still makes time for us.",
+      "vi": "Mẹ lúc nào cũng bận, nhưng vẫn dành thời gian cho chúng con."
+    },
+    {
+      "role": "B",
+      "start_time": 217.766,
+      "end_time": 227.6,
+      "en": "Right? Remember when you were sick and didn't want her to go to work? She skipped an important meeting just to stay with you and never complained once.",
+      "vi": "Đúng không? Nhớ lúc chị ốm và không muốn mẹ đi làm không? Mẹ đã bỏ một cuộc họp quan trọng chỉ để ở bên chị và chẳng than vãn một câu."
+    },
+    {
+      "role": "B",
+      "start_time": 228.366,
+      "end_time": 231.0,
+      "en": "Mom always puts our family first.",
+      "vi": "Mẹ luôn đặt gia đình chúng ta lên hàng đầu."
+    },
+    {
+      "role": "C",
+      "start_time": 231.7,
+      "end_time": 235.466,
+      "en": "She'll definitely cry when she knows we cooked her birthday dinner.",
+      "vi": "Mẹ chắc chắn sẽ khóc khi biết chúng ta đã nấu bữa tối sinh nhật cho mẹ."
+    },
+    {
+      "role": "A",
+      "start_time": 236.033,
+      "end_time": 237.766,
+      "en": "Let's hope it's happy tears.",
+      "vi": "Hy vọng là nước mắt hạnh phúc."
+    },
+    {
+      "role": "B",
+      "start_time": 243.6,
+      "end_time": 245.466,
+      "en": "Surprise! Happy birthday!",
+      "vi": "Bất ngờ! Chúc mừng sinh nhật!"
+    },
+    {
+      "role": "D",
+      "start_time": 246.433,
+      "end_time": 249.666,
+      "en": "Oh my gosh, what's all this?",
+      "vi": "Ôi trời ơi, tất cả những gì này là gì vậy?"
+    },
+    {
+      "role": "A",
+      "start_time": 250.0,
+      "end_time": 252.3,
+      "en": "It's your birthday surprise, sweetheart.",
+      "vi": "Đây là bất ngờ sinh nhật của em, em yêu."
+    },
+    {
+      "role": "C",
+      "start_time": 253.4,
+      "end_time": 256.0,
+      "en": "Sit down, Mom. Let's eat together.",
+      "vi": "Ngồi xuống đi mẹ. Chúng ta cùng ăn nhé."
+    },
+    {
+      "role": "D",
+      "start_time": 256.466,
+      "end_time": 259.866,
+      "en": "You guys made all of this yourselves?",
+      "vi": "Các con tự làm tất cả những thứ này à?"
+    },
+    {
+      "role": "C",
+      "start_time": 260.566,
+      "end_time": 263.766,
+      "en": "Yes! We did everything from scratch!",
+      "vi": "Vâng! Chúng con làm tất cả từ đầu!"
+    },
+    {
+      "role": "B",
+      "start_time": 263.766,
+      "end_time": 267.7,
+      "en": "And under my watch, so don't worry, Mom.",
+      "vi": "Và dưới sự giám sát của con, nên mẹ đừng lo."
+    },
+    {
+      "role": "D",
+      "start_time": 269.066,
+      "end_time": 272.966,
+      "en": "This is just... wow! I'm blown away!",
+      "vi": "Cái này... wow! Mẹ bị choáng hết cả!"
+    },
+    {
+      "role": "A",
+      "start_time": 273.833,
+      "end_time": 278.966,
+      "en": "Honey, you work so hard for our family. Today is your special day.",
+      "vi": "Em yêu, em làm việc rất vất vả vì gia đình. Hôm nay là ngày đặc biệt của em."
+    },
+    {
+      "role": "C",
+      "start_time": 279.433,
+      "end_time": 284.366,
+      "en": "You always have time for me, even when you're tired.",
+      "vi": "Mẹ luôn có thời gian cho con, ngay cả khi mẹ mệt."
+    },
+    {
+      "role": "B",
+      "start_time": 284.366,
+      "end_time": 287.0,
+      "en": "You taught me to cook, to be kind, and to work hard.",
+      "vi": "Mẹ đã dạy con nấu ăn, sống tốt bụng và chăm chỉ."
+    },
+    {
+      "role": "D",
+      "start_time": 287.466,
+      "end_time": 291.566,
+      "en": "You three are my everything. I love you so much.",
+      "vi": "Ba người là tất cả của mẹ. Mẹ yêu các con rất nhiều."
+    },
+    {
+      "role": "C",
+      "start_time": 292.3,
+      "end_time": 293.933,
+      "en": "Make a wish, Mom!",
+      "vi": "Ước đi mẹ!"
+    },
+    {
+      "role": "D",
+      "start_time": 294.3,
+      "end_time": 300.1,
+      "en": "I don't need to. I already got my wish. I have the best family in the world.",
+      "vi": "Mẹ không cần ước nữa. Mẹ đã có điều ước rồi. Mẹ có gia đình tuyệt vời nhất thế giới."
+    }
+  ]
+}

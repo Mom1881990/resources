@@ -1,0 +1,219 @@
+{
+  "lesson_id": "easy_english_for_beginners_005",
+  "title": "The Best Birthday Ever",
+  "category": "Easy English for Beginners",
+  "level": "Elementary",
+  "videoConfig": {
+    "url": "https://raw.githubusercontent.com/Mom1881990/resources/main/videos/easy_english_for_beginners_005.mp4",
+    "thumb": "https://raw.githubusercontent.com/Mom1881990/resources/main/images/easy_english_for_beginners_005.jpg",
+    "mute_original": false
+  },
+  "characters": [
+    {
+      "id": "A",
+      "name": "Dad",
+      "tts_voice": "en-US-ChristopherNeural"
+    },
+    {
+      "id": "B",
+      "name": "Mom",
+      "tts_voice": "en-US-JennyNeural"
+    },
+    {
+      "id": "C",
+      "name": "Sophie",
+      "tts_voice": "en-US-AriaNeural"
+    }
+  ],
+  "dialogues": [
+    {
+      "role": "A",
+      "start_time": 1.033,
+      "end_time": 3.466,
+      "en": "Happy 13th birthday, Sophie!",
+      "vi": "Chúc mừng sinh nhật lần thứ 13, Sophie!"
+    },
+    {
+      "role": "C",
+      "start_time": 3.8,
+      "end_time": 5.0,
+      "en": "Oh my!",
+      "vi": "Ôi trời!"
+    },
+    {
+      "role": "C",
+      "start_time": 5.0,
+      "end_time": 7.333,
+      "en": "Mom! Dad, this is amazing!",
+      "vi": "Mẹ! Bố, tuyệt quá!"
+    },
+    {
+      "role": "A",
+      "start_time": 7.8,
+      "end_time": 9.2,
+      "en": "Here is your gift.",
+      "vi": "Đây là quà của con."
+    },
+    {
+      "role": "C",
+      "start_time": 9.2,
+      "end_time": 10.8,
+      "en": "Thank you, Dad, Mom.",
+      "vi": "Cảm ơn bố, mẹ."
+    },
+    {
+      "role": "C",
+      "start_time": 10.8,
+      "end_time": 13.733,
+      "en": "You really surprised me.",
+      "vi": "Bố mẹ thực sự làm con bất ngờ."
+    },
+    {
+      "role": "C",
+      "start_time": 14.0,
+      "end_time": 16.333,
+      "en": "Can I open my gift now?",
+      "vi": "Con mở quà được chưa ạ?"
+    },
+    {
+      "role": "B",
+      "start_time": 17.033,
+      "end_time": 18.666,
+      "en": "Okay, open them!",
+      "vi": "Được rồi, mở đi!"
+    },
+    {
+      "role": "C",
+      "start_time": 20.2,
+      "end_time": 22.366,
+      "en": "Oh my! A puppy?",
+      "vi": "Ôi trời! Một chú cún con?"
+    },
+    {
+      "role": "C",
+      "start_time": 22.966,
+      "end_time": 26.333,
+      "en": "No way, it is real, not a toy!",
+      "vi": "Không thể nào, nó thật, không phải đồ chơi!"
+    },
+    {
+      "role": "A",
+      "start_time": 27.6,
+      "end_time": 29.566,
+      "en": "Yes, he is real.",
+      "vi": "Đúng rồi, nó thật đấy."
+    },
+    {
+      "role": "C",
+      "start_time": 30.2,
+      "end_time": 32.0,
+      "en": "Is he really mine?",
+      "vi": "Nó thật sự là của con sao?"
+    },
+    {
+      "role": "B",
+      "start_time": 32.0,
+      "end_time": 33.566,
+      "en": "Yes, he is.",
+      "vi": "Đúng, nó là của con."
+    },
+    {
+      "role": "C",
+      "start_time": 34.166,
+      "end_time": 36.5,
+      "en": "He is so soft and cute.",
+      "vi": "Nó mềm mại và dễ thương quá."
+    },
+    {
+      "role": "A",
+      "start_time": 36.5,
+      "end_time": 39.266,
+      "en": "He's very friendly, isn't he?",
+      "vi": "Nó rất thân thiện, đúng không?"
+    },
+    {
+      "role": "C",
+      "start_time": 40.066,
+      "end_time": 41.633,
+      "en": "Yes!",
+      "vi": "Vâng!"
+    },
+    {
+      "role": "C",
+      "start_time": 41.633,
+      "end_time": 44.166,
+      "en": "Mom, Dad, thank you so much!",
+      "vi": "Mẹ, bố, cảm ơn bố mẹ rất nhiều!"
+    },
+    {
+      "role": "C",
+      "start_time": 44.633,
+      "end_time": 46.866,
+      "en": "This is the best birthday ever!",
+      "vi": "Đây là sinh nhật tuyệt vời nhất từ trước đến nay!"
+    },
+    {
+      "role": "B",
+      "start_time": 47.566,
+      "end_time": 49.266,
+      "en": "Don't cry, sweetheart.",
+      "vi": "Đừng khóc, cưng à."
+    },
+    {
+      "role": "A",
+      "start_time": 50.166,
+      "end_time": 53.7,
+      "en": "But remember, a dog is a big responsibility.",
+      "vi": "Nhưng nhớ nhé, nuôi chó là trách nhiệm lớn."
+    },
+    {
+      "role": "A",
+      "start_time": 54.6,
+      "end_time": 57.733,
+      "en": "You need to feed him and walk him every day.",
+      "vi": "Con cần cho nó ăn và dắt nó đi dạo mỗi ngày."
+    },
+    {
+      "role": "C",
+      "start_time": 58.4,
+      "end_time": 60.266,
+      "en": "Yes, sir!",
+      "vi": "Vâng ạ!"
+    },
+    {
+      "role": "C",
+      "start_time": 60.266,
+      "end_time": 63.333,
+      "en": "I promise I will take good care of him.",
+      "vi": "Con hứa sẽ chăm sóc nó thật tốt."
+    },
+    {
+      "role": "B",
+      "start_time": 63.866,
+      "end_time": 66.0,
+      "en": "Now, what should we name him?",
+      "vi": "Bây giờ, chúng ta nên đặt tên gì cho nó?"
+    },
+    {
+      "role": "C",
+      "start_time": 66.566,
+      "end_time": 69.733,
+      "en": "Hmmm... Let's name him Lucky!",
+      "vi": "Hmmm... Đặt tên nó là Lucky nhé!"
+    },
+    {
+      "role": "B",
+      "start_time": 70.466,
+      "end_time": 72.333,
+      "en": "That's a cute name, baby.",
+      "vi": "Tên dễ thương đấy, con."
+    },
+    {
+      "role": "C",
+      "start_time": 73.033,
+      "end_time": 76.066,
+      "en": "Mom, Dad, I love you!",
+      "vi": "Mẹ, bố, con yêu bố mẹ!"
+    }
+  ]
+}

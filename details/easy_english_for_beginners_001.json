@@ -1,0 +1,203 @@
+{
+  "lesson_id": "easy_english_for_beginners_001",
+  "title": "Boyfriend of the Year",
+  "category": "Easy English for Beginners",
+  "level": "Elementary",
+  "videoConfig": {
+    "url": "https://raw.githubusercontent.com/Mom1881990/resources/main/videos/easy_english_for_beginners_001.mp4",
+    "thumb": "https://raw.githubusercontent.com/Mom1881990/resources/main/images/easy_english_for_beginners_001.jpg",
+    "mute_original": false
+  },
+  "characters": [
+    {
+      "id": "A",
+      "name": "Tom (Boyfriend)",
+      "tts_voice": "en-US-GuyNeural"
+    },
+    {
+      "id": "B",
+      "name": "Jessica (Girlfriend)",
+      "tts_voice": "en-US-JennyNeural"
+    },
+    {
+      "id": "C",
+      "name": "Emma (Colleague)",
+      "tts_voice": "en-US-AriaNeural"
+    },
+    {
+      "id": "D",
+      "name": "Mike (Colleague)",
+      "tts_voice": "en-US-DavisNeural"
+    }
+  ],
+  "dialogues": [
+    {
+      "role": "A",
+      "start_time": 0.266,
+      "end_time": 1.4,
+      "en": "Hey, babe!",
+      "vi": "Này, em yêu!"
+    },
+    {
+      "role": "B",
+      "start_time": 2.1,
+      "end_time": 4.7,
+      "en": "Babe! What are you doing here?",
+      "vi": "Anh yêu! Anh đang làm gì ở đây vậy?"
+    },
+    {
+      "role": "A",
+      "start_time": 5.033,
+      "end_time": 8.466,
+      "en": "I brought you lunch. You forgot to take it this morning.",
+      "vi": "Anh mang cơm trưa cho em đây. Sáng nay em quên mang theo rồi."
+    },
+    {
+      "role": "B",
+      "start_time": 8.866,
+      "end_time": 10.366,
+      "en": "You're amazing!",
+      "vi": "Anh thật tuyệt vời!"
+    },
+    {
+      "role": "B",
+      "start_time": 10.833,
+      "end_time": 14.533,
+      "en": "I was just about to settle for a boring granola bar.",
+      "vi": "Em vừa định ăn tạm một thanh granola nhàm chán thôi."
+    },
+    {
+      "role": "A",
+      "start_time": 15.1,
+      "end_time": 17.533,
+      "en": "Here is beef sandwich and some fruit.",
+      "vi": "Đây là bánh mì thịt bò và một ít trái cây."
+    },
+    {
+      "role": "B",
+      "start_time": 18.366,
+      "end_time": 20.766,
+      "en": "It's perfect. Love you <3",
+      "vi": "Hoàn hảo luôn. Yêu anh <3"
+    },
+    {
+      "role": "C",
+      "start_time": 21.566,
+      "end_time": 24.0,
+      "en": "Wow. Lucky you.",
+      "vi": "Wow. Em may mắn thật."
+    },
+    {
+      "role": "C",
+      "start_time": 24.0,
+      "end_time": 26.133,
+      "en": "Does he do this every day?",
+      "vi": "Anh ấy làm thế này mỗi ngày à?"
+    },
+    {
+      "role": "B",
+      "start_time": 26.666,
+      "end_time": 29.0,
+      "en": "Only when I forget my lunch.",
+      "vi": "Chỉ khi nào em quên mang cơm thôi."
+    },
+    {
+      "role": "D",
+      "start_time": 29.666,
+      "end_time": 32.4,
+      "en": "Man, you're winning \"Boyfriend of the Year\".",
+      "vi": "Ê, anh đang thắng giải \"Bạn trai của năm\" rồi đấy."
+    },
+    {
+      "role": "B",
+      "start_time": 33.0,
+      "end_time": 34.933,
+      "en": "Hey, don't tease him.",
+      "vi": "Này, đừng trêu anh ấy nữa."
+    },
+    {
+      "role": "C",
+      "start_time": 35.6,
+      "end_time": 38.466,
+      "en": "I wish my boyfriend brought me lunch too.",
+      "vi": "Ước gì bạn trai mình cũng mang cơm cho mình."
+    },
+    {
+      "role": "D",
+      "start_time": 39.566,
+      "end_time": 42.1,
+      "en": "Well, first you'd need a boyfriend.",
+      "vi": "Ừm, trước hết em cần có bạn trai đã."
+    },
+    {
+      "role": "C",
+      "start_time": 43.066,
+      "end_time": 46.1,
+      "en": "Wow. Thanks for the reminder.",
+      "vi": "Wow. Cảm ơn vì đã nhắc nhở."
+    },
+    {
+      "role": "A",
+      "start_time": 47.0,
+      "end_time": 49.466,
+      "en": "Alright, I've got to get back to the store.",
+      "vi": "Thôi, anh phải quay lại cửa hàng đây."
+    },
+    {
+      "role": "B",
+      "start_time": 49.866,
+      "end_time": 52.5,
+      "en": "Love you. See you tonight.",
+      "vi": "Yêu anh. Tối gặp nhé."
+    },
+    {
+      "role": "A",
+      "start_time": 52.833,
+      "end_time": 54.333,
+      "en": "Love you too.",
+      "vi": "Anh cũng yêu em."
+    },
+    {
+      "role": "A",
+      "start_time": 55.5,
+      "end_time": 57.666,
+      "en": "Enjoy your lunch, everyone. Bye.",
+      "vi": "Mọi người ăn ngon nhé. Tạm biệt."
+    },
+    {
+      "role": "C",
+      "start_time": 61.266,
+      "end_time": 62.966,
+      "en": "Yeah, seriously.",
+      "vi": "Ừ, nghiêm túc đấy."
+    },
+    {
+      "role": "C",
+      "start_time": 63.033,
+      "end_time": 64.6,
+      "en": "Hold on to this guy.",
+      "vi": "Giữ chặt anh này nhé."
+    },
+    {
+      "role": "B",
+      "start_time": 65.266,
+      "end_time": 66.166,
+      "en": "Definitely.",
+      "vi": "Chắc chắn rồi."
+    },
+    {
+      "role": "B",
+      "start_time": 67.266,
+      "end_time": 69.366,
+      "en": "Alright, let's go eat lunch.",
+      "vi": "Thôi, chúng ta đi ăn trưa thôi."
+    },
+    {
+      "role": "C",
+      "start_time": 69.966,
+      "end_time": 70.8,
+      "en": "Okay.",
+      "vi": "Được rồi."
+    }
+  ]
+}

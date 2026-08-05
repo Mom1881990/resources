@@ -1,0 +1,193 @@
+{
+  "lesson_id": "easy_english_for_beginners_006",
+  "title": "The Handmade Birthday Gift",
+  "category": "Easy English for Beginners",
+  "level": "Elementary",
+  "videoConfig": {
+    "url": "https://raw.githubusercontent.com/Mom1881990/resources/main/videos/easy_english_for_beginners_006.mp4",
+    "thumb": "https://raw.githubusercontent.com/Mom1881990/resources/main/images/easy_english_for_beginners_006.jpg",
+    "mute_original": false
+  },
+  "characters": [
+    {
+      "id": "A",
+      "name": "Lucy",
+      "tts_voice": "en-US-JennyNeural"
+    },
+    {
+      "id": "B",
+      "name": "Anna",
+      "tts_voice": "en-US-AriaNeural"
+    }
+  ],
+  "dialogues": [
+    {
+      "role": "A",
+      "start_time": 0.1,
+      "end_time": 2.366,
+      "en": "Hey Anna, you are here!",
+      "vi": "Này Anna, cậu đến rồi!"
+    },
+    {
+      "role": "B",
+      "start_time": 3.033,
+      "end_time": 5.566,
+      "en": "Hi Lucy, happy birthday!",
+      "vi": "Chào Lucy, chúc mừng sinh nhật!"
+    },
+    {
+      "role": "A",
+      "start_time": 6.366,
+      "end_time": 9.0,
+      "en": "Thanks! I'm really happy you came.",
+      "vi": "Cảm ơn! Mình thật sự vui vì cậu đến."
+    },
+    {
+      "role": "B",
+      "start_time": 9.566,
+      "end_time": 13.866,
+      "en": "Yeah, here's a little something for you.",
+      "vi": "Ừ, đây là một món quà nhỏ cho cậu."
+    },
+    {
+      "role": "A",
+      "start_time": 14.166,
+      "end_time": 18.366,
+      "en": "Oh, thank you, but why do you look so nervous?",
+      "vi": "Ồ, cảm ơn, nhưng sao cậu trông lo lắng thế?"
+    },
+    {
+      "role": "B",
+      "start_time": 19.2,
+      "end_time": 22.6,
+      "en": "Well, everyone else bought expensive gifts.",
+      "vi": "À, mọi người khác đều mua quà đắt tiền."
+    },
+    {
+      "role": "B",
+      "start_time": 23.433,
+      "end_time": 27.333,
+      "en": "I saw the Gucci box and the new iPhone over there.",
+      "vi": "Mình thấy hộp Gucci và iPhone mới đằng kia."
+    },
+    {
+      "role": "B",
+      "start_time": 28.066,
+      "end_time": 33.5,
+      "en": "Honestly, I'm kind of embarrassed. Mine isn't like that.",
+      "vi": "Thành thật mà nói, mình hơi xấu hổ. Quà của mình không giống vậy."
+    },
+    {
+      "role": "A",
+      "start_time": 34.033,
+      "end_time": 35.0,
+      "en": "Stop it!",
+      "vi": "Thôi nào!"
+    },
+    {
+      "role": "A",
+      "start_time": 35.0,
+      "end_time": 37.533,
+      "en": "You know I don't care about that stuff.",
+      "vi": "Cậu biết mình không quan tâm những thứ đó mà."
+    },
+    {
+      "role": "A",
+      "start_time": 38.1,
+      "end_time": 39.666,
+      "en": "Come on, let me see.",
+      "vi": "Thôi nào, cho mình xem đi."
+    },
+    {
+      "role": "B",
+      "start_time": 40.4,
+      "end_time": 45.1,
+      "en": "Uh... How about... I'll get you another gift.",
+      "vi": "Ừm... Hay là... mình sẽ mua quà khác cho cậu."
+    },
+    {
+      "role": "A",
+      "start_time": 45.9,
+      "end_time": 48.466,
+      "en": "Of course not, I want it now.",
+      "vi": "Tất nhiên là không, mình muốn xem ngay."
+    },
+    {
+      "role": "B",
+      "start_time": 49.166,
+      "end_time": 53.733,
+      "en": "I'm sorry, but it's just a handmade leather journal, nothing fancy.",
+      "vi": "Xin lỗi, nhưng nó chỉ là một cuốn sổ da thủ công thôi, chẳng có gì đặc biệt."
+    },
+    {
+      "role": "A",
+      "start_time": 54.433,
+      "end_time": 57.0,
+      "en": "O.M.G., you made it yourself?",
+      "vi": "Ôi trời, cậu tự làm à?"
+    },
+    {
+      "role": "B",
+      "start_time": 58.1,
+      "end_time": 59.166,
+      "en": "Yes!",
+      "vi": "Đúng rồi!"
+    },
+    {
+      "role": "A",
+      "start_time": 59.7,
+      "end_time": 62.333,
+      "en": "Anna, this is incredible!",
+      "vi": "Anna, tuyệt vời quá!"
+    },
+    {
+      "role": "A",
+      "start_time": 62.433,
+      "end_time": 65.0,
+      "en": "This means so much to me.",
+      "vi": "Món quà này ý nghĩa với mình rất nhiều."
+    },
+    {
+      "role": "B",
+      "start_time": 65.0,
+      "end_time": 66.166,
+      "en": "Really?",
+      "vi": "Thật sao?"
+    },
+    {
+      "role": "A",
+      "start_time": 66.866,
+      "end_time": 69.166,
+      "en": "This is even more important than money.",
+      "vi": "Nó còn quan trọng hơn cả tiền bạc."
+    },
+    {
+      "role": "A",
+      "start_time": 69.366,
+      "end_time": 71.2,
+      "en": "I love it. Thank you.",
+      "vi": "Mình thích lắm. Cảm ơn cậu."
+    },
+    {
+      "role": "B",
+      "start_time": 71.6,
+      "end_time": 73.0,
+      "en": "Glad you like it.",
+      "vi": "Mừng vì cậu thích."
+    },
+    {
+      "role": "A",
+      "start_time": 73.0,
+      "end_time": 75.566,
+      "en": "Okay. My party is starting.",
+      "vi": "Được rồi. Tiệc của mình bắt đầu rồi."
+    },
+    {
+      "role": "A",
+      "start_time": 75.566,
+      "end_time": 77.566,
+      "en": "Come on, girl!",
+      "vi": "Đi nào, bạn ơi!"
+    }
+  ]
+}

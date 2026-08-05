@@ -1,0 +1,200 @@
+{
+  "lesson_id": "easy_english_for_beginners_009",
+  "title": "Transaction Declined at the Restaurant",
+  "category": "Easy English for Beginners",
+  "level": "Elementary",
+  "videoConfig": {
+    "url": "https://raw.githubusercontent.com/Mom1881990/resources/main/videos/easy_english_for_beginners_009.mp4",
+    "thumb": "https://raw.githubusercontent.com/Mom1881990/resources/main/images/easy_english_for_beginners_009.jpg",
+    "mute_original": false
+  },
+  "characters": [
+    {
+      "id": "A",
+      "name": "Customer",
+      "tts_voice": "en-US-GuyNeural"
+    },
+    {
+      "id": "B",
+      "name": "Waiter",
+      "tts_voice": "en-US-DavisNeural"
+    }
+  ],
+  "dialogues": [
+    {
+      "role": "A",
+      "start_time": 0.233,
+      "end_time": 1.966,
+      "en": "Could I have the check, please?",
+      "vi": "Cho tôi xin hóa đơn được không?"
+    },
+    {
+      "role": "B",
+      "start_time": 2.8,
+      "end_time": 4.0,
+      "en": "Here you are.",
+      "vi": "Đây ạ."
+    },
+    {
+      "role": "A",
+      "start_time": 4.0,
+      "end_time": 5.866,
+      "en": "I'll pay in cash.",
+      "vi": "Tôi sẽ trả bằng tiền mặt."
+    },
+    {
+      "role": "B",
+      "start_time": 6.466,
+      "end_time": 7.7,
+      "en": "Yes, sir.",
+      "vi": "Vâng, thưa ông."
+    },
+    {
+      "role": "A",
+      "start_time": 8.233,
+      "end_time": 9.466,
+      "en": "Oh no!",
+      "vi": "Ôi không!"
+    },
+    {
+      "role": "A",
+      "start_time": 9.9,
+      "end_time": 12.066,
+      "en": "I forgot to withdraw cash.",
+      "vi": "Tôi quên rút tiền rồi."
+    },
+    {
+      "role": "A",
+      "start_time": 12.766,
+      "end_time": 14.4,
+      "en": "Do you accept credit cards?",
+      "vi": "Nhà hàng có nhận thẻ tín dụng không?"
+    },
+    {
+      "role": "B",
+      "start_time": 15.1,
+      "end_time": 16.533,
+      "en": "Yes, we do.",
+      "vi": "Vâng, chúng tôi có nhận."
+    },
+    {
+      "role": "A",
+      "start_time": 16.966,
+      "end_time": 18.933,
+      "en": "Great, I'll pay with my card.",
+      "vi": "Tuyệt, tôi sẽ trả bằng thẻ."
+    },
+    {
+      "role": "B",
+      "start_time": 19.666,
+      "end_time": 20.566,
+      "en": "Certainly.",
+      "vi": "Được ạ."
+    },
+    {
+      "role": "B",
+      "start_time": 25.0,
+      "end_time": 28.866,
+      "en": "Sir, I'm sorry, it says \"Transaction Declined.\"",
+      "vi": "Thưa ông, tôi xin lỗi, máy báo \"Giao dịch bị từ chối.\""
+    },
+    {
+      "role": "A",
+      "start_time": 29.566,
+      "end_time": 31.7,
+      "en": "Wait, really? That's impossible.",
+      "vi": "Gì cơ? Thật sao? Không thể nào."
+    },
+    {
+      "role": "A",
+      "start_time": 32.566,
+      "end_time": 34.5,
+      "en": "Let me try my other card.",
+      "vi": "Để tôi thử thẻ khác."
+    },
+    {
+      "role": "B",
+      "start_time": 34.5,
+      "end_time": 37.366,
+      "en": "It's still not going through, sir.",
+      "vi": "Vẫn không được, thưa ông."
+    },
+    {
+      "role": "B",
+      "start_time": 38.0,
+      "end_time": 41.5,
+      "en": "It might be a connection issue with our terminal or your bank.",
+      "vi": "Có thể là lỗi kết nối của máy hoặc ngân hàng của ông."
+    },
+    {
+      "role": "A",
+      "start_time": 41.5,
+      "end_time": 44.7,
+      "en": "Oh no, this is embarrassing.",
+      "vi": "Ôi không, thật xấu hổ quá."
+    },
+    {
+      "role": "A",
+      "start_time": 45.366,
+      "end_time": 49.0,
+      "en": "I'm so sorry, I don't have enough cash on me either.",
+      "vi": "Tôi xin lỗi, tôi cũng không mang đủ tiền mặt."
+    },
+    {
+      "role": "B",
+      "start_time": 49.633,
+      "end_time": 51.3,
+      "en": "Don't worry, it happens.",
+      "vi": "Đừng lo, chuyện này thường xảy ra."
+    },
+    {
+      "role": "B",
+      "start_time": 52.266,
+      "end_time": 57.2,
+      "en": "There is an ATM just around the corner, next to the convenience store.",
+      "vi": "Có máy ATM ngay góc phố, cạnh cửa hàng tiện lợi."
+    },
+    {
+      "role": "A",
+      "start_time": 57.9,
+      "end_time": 59.333,
+      "en": "That's a lifesaver.",
+      "vi": "Thật là cứu mạng."
+    },
+    {
+      "role": "A",
+      "start_time": 59.833,
+      "end_time": 62.3,
+      "en": "Could you please hold my bags here for a moment?",
+      "vi": "Anh giữ giúp túi của tôi một chút được không?"
+    },
+    {
+      "role": "A",
+      "start_time": 62.833,
+      "end_time": 65.533,
+      "en": "I'll run there and be back in five minutes.",
+      "vi": "Tôi chạy sang đó và sẽ quay lại trong năm phút."
+    },
+    {
+      "role": "B",
+      "start_time": 66.033,
+      "end_time": 69.033,
+      "en": "Of course, I'll keep your items at the counter.",
+      "vi": "Được ạ, tôi sẽ giữ đồ của ông ở quầy."
+    },
+    {
+      "role": "B",
+      "start_time": 69.033,
+      "end_time": 70.166,
+      "en": "See you in a bit.",
+      "vi": "Hẹn gặp lại một chút nữa."
+    },
+    {
+      "role": "A",
+      "start_time": 70.766,
+      "end_time": 74.3,
+      "en": "Thank you so much for your patience, I'll be right back.",
+      "vi": "Cảm ơn anh rất nhiều vì sự kiên nhẫn, tôi sẽ quay lại ngay."
+    }
+  ]
+}

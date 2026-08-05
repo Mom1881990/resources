@@ -1,0 +1,203 @@
+{
+  "lesson_id": "easy_english_for_beginners_002",
+  "title": "Father's Day Breakfast",
+  "category": "Easy English for Beginners",
+  "level": "Elementary",
+  "videoConfig": {
+    "url": "https://raw.githubusercontent.com/Mom1881990/resources/main/videos/easy_english_for_beginners_002.mp4",
+    "thumb": "https://raw.githubusercontent.com/Mom1881990/resources/main/images/easy_english_for_beginners_002.jpg",
+    "mute_original": false
+  },
+  "characters": [
+    {
+      "id": "A",
+      "name": "Leo (Brother)",
+      "tts_voice": "en-US-GuyNeural"
+    },
+    {
+      "id": "B",
+      "name": "Alan (Brother)",
+      "tts_voice": "en-US-DavisNeural"
+    },
+    {
+      "id": "C",
+      "name": "Mom",
+      "tts_voice": "en-US-JennyNeural"
+    },
+    {
+      "id": "D",
+      "name": "Dad",
+      "tts_voice": "en-US-ChristopherNeural"
+    }
+  ],
+  "dialogues": [
+    {
+      "role": "A",
+      "start_time": 0.0,
+      "end_time": 2.7,
+      "en": "Alan, why are you here so early?",
+      "vi": "Alan, sao anh lại ở đây sớm thế?"
+    },
+    {
+      "role": "B",
+      "start_time": 3.4,
+      "end_time": 6.066,
+      "en": "Today is Father's Day, Leo.",
+      "vi": "Hôm nay là Ngày của Cha, Leo."
+    },
+    {
+      "role": "B",
+      "start_time": 6.666,
+      "end_time": 9.566,
+      "en": "Let's make a special breakfast for Dad.",
+      "vi": "Chúng ta làm bữa sáng đặc biệt cho bố nhé."
+    },
+    {
+      "role": "A",
+      "start_time": 10.266,
+      "end_time": 11.2,
+      "en": "Great idea!",
+      "vi": "Ý kiến hay đấy!"
+    },
+    {
+      "role": "A",
+      "start_time": 11.2,
+      "end_time": 12.933,
+      "en": "What should we cook?",
+      "vi": "Chúng ta nên nấu gì?"
+    },
+    {
+      "role": "B",
+      "start_time": 13.5,
+      "end_time": 19.7,
+      "en": "I think pancakes, fried eggs, and some fresh orange juice would be great.",
+      "vi": "Anh nghĩ bánh pancake, trứng chiên và nước cam tươi sẽ rất tuyệt."
+    },
+    {
+      "role": "A",
+      "start_time": 20.3,
+      "end_time": 21.766,
+      "en": "I can help!",
+      "vi": "Em có thể giúp!"
+    },
+    {
+      "role": "A",
+      "start_time": 21.866,
+      "end_time": 25.0,
+      "en": "I will mix the flour and milk for the pancakes.",
+      "vi": "Em sẽ trộn bột và sữa để làm bánh pancake."
+    },
+    {
+      "role": "B",
+      "start_time": 25.566,
+      "end_time": 28.066,
+      "en": "Be careful, don't make a mess!",
+      "vi": "Cẩn thận nhé, đừng làm bẩn!"
+    },
+    {
+      "role": "B",
+      "start_time": 28.8,
+      "end_time": 31.766,
+      "en": "I will fry the eggs and toast the bread.",
+      "vi": "Anh sẽ chiên trứng và nướng bánh mì."
+    },
+    {
+      "role": "A",
+      "start_time": 32.633,
+      "end_time": 34.166,
+      "en": "Okay, let's do it.",
+      "vi": "Được rồi, làm thôi."
+    },
+    {
+      "role": "C",
+      "start_time": 35.0,
+      "end_time": 37.0,
+      "en": "Boys, what happened?",
+      "vi": "Các con, chuyện gì xảy ra vậy?"
+    },
+    {
+      "role": "D",
+      "start_time": 37.633,
+      "end_time": 38.933,
+      "en": "Are you okay?",
+      "vi": "Các con có sao không?"
+    },
+    {
+      "role": "B",
+      "start_time": 39.566,
+      "end_time": 45.666,
+      "en": "We just tried to make breakfast, but... Happy Father's Day, Dad!",
+      "vi": "Chúng con chỉ cố làm bữa sáng thôi, nhưng... Chúc mừng Ngày của Cha, bố!"
+    },
+    {
+      "role": "D",
+      "start_time": 46.3,
+      "end_time": 48.4,
+      "en": "Oh, you two did it for me!",
+      "vi": "Ồ, hai con làm vì bố à!"
+    },
+    {
+      "role": "D",
+      "start_time": 48.5,
+      "end_time": 50.4,
+      "en": "What a wonderful surprise!",
+      "vi": "Thật là một bất ngờ tuyệt vời!"
+    },
+    {
+      "role": "B",
+      "start_time": 51.066,
+      "end_time": 52.8,
+      "en": "Yes, we did. But...",
+      "vi": "Vâng, chúng con đã làm. Nhưng..."
+    },
+    {
+      "role": "D",
+      "start_time": 52.8,
+      "end_time": 57.533,
+      "en": "Thank you so much, my boys! You really tried your best.",
+      "vi": "Cảm ơn các con rất nhiều! Các con đã cố gắng hết sức rồi."
+    },
+    {
+      "role": "D",
+      "start_time": 58.1,
+      "end_time": 60.733,
+      "en": "Don't be sad. I understand.",
+      "vi": "Đừng buồn. Bố hiểu mà."
+    },
+    {
+      "role": "D",
+      "start_time": 61.7,
+      "end_time": 63.666,
+      "en": "Alright, let's eat out today.",
+      "vi": "Thôi được, hôm nay mình đi ăn ngoài nhé."
+    },
+    {
+      "role": "A",
+      "start_time": 64.033,
+      "end_time": 65.266,
+      "en": "Really, Dad?",
+      "vi": "Thật sao, bố?"
+    },
+    {
+      "role": "D",
+      "start_time": 65.833,
+      "end_time": 68.7,
+      "en": "Yes. Let's give the kitchen the day off.",
+      "vi": "Ừ. Để nhà bếp nghỉ một ngày đi."
+    },
+    {
+      "role": "C",
+      "start_time": 69.066,
+      "end_time": 72.5,
+      "en": "But let's clean up before we go.",
+      "vi": "Nhưng hãy dọn dẹp trước khi đi nhé."
+    },
+    {
+      "role": "B",
+      "start_time": 72.5,
+      "end_time": 73.933,
+      "en": "Yeah!",
+      "vi": "Vâng!"
+    }
+  ]
+}

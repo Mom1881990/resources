@@ -1,0 +1,221 @@
+{
+  "lesson_id": "easy_english_for_beginners_007",
+  "title": "The Secret Ingredient Mistake",
+  "category": "Easy English for Beginners",
+  "level": "Elementary",
+  "videoConfig": {
+    "url": "https://raw.githubusercontent.com/Mom1881990/resources/main/videos/easy_english_for_beginners_007.mp4",
+    "thumb": "https://raw.githubusercontent.com/Mom1881990/resources/main/images/easy_english_for_beginners_007.jpg",
+    "mute_original": false
+  },
+  "characters": [
+    {
+      "id": "A",
+      "name": "Clover",
+      "tts_voice": "en-US-JennyNeural"
+    },
+    {
+      "id": "B",
+      "name": "Sarah",
+      "tts_voice": "en-US-AriaNeural"
+    }
+  ],
+  "dialogues": [
+    {
+      "role": "A",
+      "start_time": 0.2,
+      "end_time": 3.8,
+      "en": "Mia, I brought some homemade healthy juice for you.",
+      "vi": "Mia, mình mang nước ép lành mạnh tự làm cho cậu đây."
+    },
+    {
+      "role": "A",
+      "start_time": 3.833,
+      "end_time": 5.533,
+      "en": "I made it this morning.",
+      "vi": "Mình làm sáng nay."
+    },
+    {
+      "role": "B",
+      "start_time": 6.233,
+      "end_time": 7.766,
+      "en": "Oh, thank you.",
+      "vi": "Ồ, cảm ơn cậu."
+    },
+    {
+      "role": "B",
+      "start_time": 8.166,
+      "end_time": 10.966,
+      "en": "That is so kind of you.",
+      "vi": "Cậu tốt bụng quá."
+    },
+    {
+      "role": "B",
+      "start_time": 11.633,
+      "end_time": 12.8,
+      "en": "What is in it?",
+      "vi": "Trong đó có gì vậy?"
+    },
+    {
+      "role": "A",
+      "start_time": 12.8,
+      "end_time": 18.466,
+      "en": "It's a mix of kale, ginger, apple, and some secret ingredients.",
+      "vi": "Nó là hỗn hợp cải xoăn, gừng, táo và một số nguyên liệu bí mật."
+    },
+    {
+      "role": "A",
+      "start_time": 19.2,
+      "end_time": 20.3,
+      "en": "Here you are.",
+      "vi": "Của cậu đây."
+    },
+    {
+      "role": "B",
+      "start_time": 20.3,
+      "end_time": 21.533,
+      "en": "Thank you!",
+      "vi": "Cảm ơn!"
+    },
+    {
+      "role": "B",
+      "start_time": 23.5,
+      "end_time": 27.5,
+      "en": "Wow, the taste is very strong!",
+      "vi": "Ồ, vị mạnh quá!"
+    },
+    {
+      "role": "B",
+      "start_time": 28.233,
+      "end_time": 30.133,
+      "en": "But I feel refreshed.",
+      "vi": "Nhưng mình cảm thấy sảng khoái."
+    },
+    {
+      "role": "A",
+      "start_time": 30.9,
+      "end_time": 34.366,
+      "en": "Yes, it's very good for your health.",
+      "vi": "Đúng rồi, rất tốt cho sức khỏe của cậu."
+    },
+    {
+      "role": "B",
+      "start_time": 34.866,
+      "end_time": 36.966,
+      "en": "Oh no, my stomach hurts.",
+      "vi": "Ôi không, mình đau bụng quá."
+    },
+    {
+      "role": "A",
+      "start_time": 37.966,
+      "end_time": 39.7,
+      "en": "Are you okay, Sarah?",
+      "vi": "Cậu ổn chứ, Sarah?"
+    },
+    {
+      "role": "A",
+      "start_time": 39.8,
+      "end_time": 41.733,
+      "en": "You look very white.",
+      "vi": "Cậu trông tái mét quá."
+    },
+    {
+      "role": "B",
+      "start_time": 42.466,
+      "end_time": 45.4,
+      "en": "I need to go to the bathroom right now.",
+      "vi": "Mình cần đi vệ sinh ngay bây giờ."
+    },
+    {
+      "role": "B",
+      "start_time": 48.266,
+      "end_time": 52.1,
+      "en": "Clover! You said there was a secret ingredient in it.",
+      "vi": "Clover! Cậu bảo có nguyên liệu bí mật trong đó."
+    },
+    {
+      "role": "B",
+      "start_time": 52.566,
+      "end_time": 54.0,
+      "en": "What was it?",
+      "vi": "Đó là gì vậy?"
+    },
+    {
+      "role": "A",
+      "start_time": 54.0,
+      "end_time": 56.466,
+      "en": "Apple cider vinegar.",
+      "vi": "Giấm táo."
+    },
+    {
+      "role": "A",
+      "start_time": 57.2,
+      "end_time": 59.9,
+      "en": "I've heard it's really good for your health.",
+      "vi": "Mình nghe nói nó rất tốt cho sức khỏe."
+    },
+    {
+      "role": "B",
+      "start_time": 60.6,
+      "end_time": 62.566,
+      "en": "What? No.",
+      "vi": "Cái gì? Không."
+    },
+    {
+      "role": "B",
+      "start_time": 62.966,
+      "end_time": 66.5,
+      "en": "Apple cider vinegar shouldn't be mixed like that.",
+      "vi": "Giấm táo không nên pha như vậy."
+    },
+    {
+      "role": "A",
+      "start_time": 66.5,
+      "end_time": 68.033,
+      "en": "Really?",
+      "vi": "Thật sao?"
+    },
+    {
+      "role": "A",
+      "start_time": 68.033,
+      "end_time": 69.8,
+      "en": "I'm really sorry, Clover.",
+      "vi": "Mình thật sự xin lỗi, Clover."
+    },
+    {
+      "role": "A",
+      "start_time": 70.433,
+      "end_time": 73.133,
+      "en": "I was just trying something I saw on the internet.",
+      "vi": "Mình chỉ thử làm theo thứ mình thấy trên mạng thôi."
+    },
+    {
+      "role": "A",
+      "start_time": 73.866,
+      "end_time": 76.966,
+      "en": "Do you need some medicine or some warm water?",
+      "vi": "Cậu cần thuốc hay nước ấm không?"
+    },
+    {
+      "role": "B",
+      "start_time": 77.6,
+      "end_time": 79.8,
+      "en": "No, I think I'm okay now.",
+      "vi": "Không, mình nghĩ mình ổn rồi."
+    },
+    {
+      "role": "B",
+      "start_time": 80.266,
+      "end_time": 82.7,
+      "en": "Just please don't make that drink again.",
+      "vi": "Chỉ xin cậu đừng làm loại nước đó nữa thôi."
+    },
+    {
+      "role": "A",
+      "start_time": 83.2,
+      "end_time": 85.0,
+      "en": "I've learned my lesson.",
+      "vi": "Mình đã học được bài học rồi."
+    }
+  ]
+}
