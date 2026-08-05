@@ -47,5 +47,12 @@
     "description": "Các hoạt động thường ngày 3",
     "imageUrl": "https://raw.githubusercontent.com/Mom1881990/resources/main/categories/daily_routines3.jpg",
     "lessonFileName": "daily_routines3"
+  },
+  {
+    "id": "easy_english_for_beginners",
+    "title": "Easy English for Beginners",
+    "description": "Tiếng Anh dễ hiểu dành cho người mới bắt đầu",
+    "imageUrl": "https://raw.githubusercontent.com/Mom1881990/resources/main/categories/easy_english_for_beginners.jpg",
+    "lessonFileName": "easy_english_for_beginners"
   }
 ]
