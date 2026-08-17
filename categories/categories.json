@@ -54,5 +54,12 @@
     "description": "Tiếng Anh dễ hiểu dành cho người mới bắt đầu",
     "imageUrl": "https://raw.githubusercontent.com/Mom1881990/resources/main/categories/easy_english_for_beginners.jpg",
     "lessonFileName": "easy_english_for_beginners"
+  },
+  {
+    "id": "everyday_conversations",
+    "title": "English Conversations for Everyday Use",
+    "description": "Cuộc trò chuyện tiếng Anh hàng ngày",
+    "imageUrl": "https://raw.githubusercontent.com/Mom1881990/resources/main/categories/everyday_conversations.jpg",
+    "lessonFileName": "everyday_conversations"
   }
 ]
