@@ -61,5 +61,12 @@
     "description": "Cuộc trò chuyện tiếng Anh hàng ngày",
     "imageUrl": "https://raw.githubusercontent.com/Mom1881990/resources/main/categories/everyday_conversations.jpg",
     "lessonFileName": "everyday_conversations"
+  },
+  {
+    "id": "real_life_conversations",
+    "title": "Real-Life Conversations",
+    "description": "Hội thoại đời thực",
+    "imageUrl": "https://raw.githubusercontent.com/Mom1881990/resources/main/categories/real_life_conversations.jpg",
+    "lessonFileName": "real_life_conversations"
   }
 ]
