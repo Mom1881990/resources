@@ -1,0 +1,116 @@
+{
+  "lesson_id": "real_life_conversations_006",
+  "title": "Excuse me, can you help me find Main Street",
+  "category": "Real-Life Conversations",
+  "level": "Elementary",
+  "videoConfig": {
+    "url": "https://raw.githubusercontent.com/Mom1881990/resources/main/videos/real_life_conversations_006.mp4",
+    "thumb": "https://raw.githubusercontent.com/Mom1881990/resources/main/images/real_life_conversations_006.jpg",
+    "mute_original": false
+  },
+  "characters": [
+    {
+      "id": "A",
+      "name": "Tourist",
+      "tts_voice": "en-US-AndrewNeural"
+    },
+    {
+      "id": "B",
+      "name": "Local",
+      "tts_voice": "en-US-DavisNeural"
+    }
+  ],
+  "dialogues": [
+    {
+      "role": "A",
+      "start_time": 1.600,
+      "end_time": 4.800,
+      "en": "Excuse me, can you help me find Main Street?",
+      "vi": "Xin lỗi, bạn có thể giúp tôi tìm Main Street không?"
+    },
+    {
+      "role": "B",
+      "start_time": 5.800,
+      "end_time": 8.500,
+      "en": "Main Street? You're actually really close.",
+      "vi": "Main Street á? Bạn đang rất gần rồi đó."
+    },
+    {
+      "role": "A",
+      "start_time": 9.433,
+      "end_time": 14.666,
+      "en": "Ah, brilliant. I feel like I've been going in circles for the past 20 minutes.",
+      "vi": "À, tuyệt quá. Tôi cảm giác như đang đi vòng vòng suốt 20 phút vừa rồi."
+    },
+    {
+      "role": "B",
+      "start_time": 15.566,
+      "end_time": 20.500,
+      "en": "Happens all the time. See that traffic light down there? Take a right there.",
+      "vi": "Chuyện thường thôi. Thấy cái đèn giao thông đằng kia không? Rẽ phải ở đó."
+    },
+    {
+      "role": "A",
+      "start_time": 21.000,
+      "end_time": 23.366,
+      "en": "Toward the light... Grand.",
+      "vi": "Hướng về phía đèn... Tuyệt."
+    },
+    {
+      "role": "B",
+      "start_time": 24.300,
+      "end_time": 29.466,
+      "en": "Then just walk straight for about two blocks, and you'll run straight into it.",
+      "vi": "Rồi cứ đi thẳng khoảng hai block, là bạn sẽ đụng ngay vào nó."
+    },
+    {
+      "role": "A",
+      "start_time": 30.100,
+      "end_time": 32.366,
+      "en": "Right at the lights, two blocks...",
+      "vi": "Rẽ phải ở đèn, hai block..."
+    },
+    {
+      "role": "B",
+      "start_time": 33.266,
+      "end_time": 38.533,
+      "en": "You'll see a big green street sign that says \"Main Street\" so you can't miss it.",
+      "vi": "Bạn sẽ thấy biển báo đường màu xanh lớn ghi \"Main Street\", nên không thể nhầm được."
+    },
+    {
+      "role": "A",
+      "start_time": 39.200,
+      "end_time": 43.900,
+      "en": "Thank you! I should've known better than to trust my GPS completely.",
+      "vi": "Cảm ơn bạn! Đáng lẽ tôi không nên tin GPS hoàn toàn như vậy."
+    },
+    {
+      "role": "B",
+      "start_time": 44.700,
+      "end_time": 47.666,
+      "en": "No problem at all. First time in town?",
+      "vi": "Không có gì đâu. Lần đầu đến thành phố này à?"
+    },
+    {
+      "role": "A",
+      "start_time": 48.466,
+      "end_time": 54.200,
+      "en": "Ay, just got in yesterday. It's a lovely place, but I'm getting a bit lost.",
+      "vi": "Ừ, mới đến hôm qua. Nơi này đẹp thật, nhưng tôi đang hơi bị lạc."
+    },
+    {
+      "role": "B",
+      "start_time": 55.066,
+      "end_time": 57.400,
+      "en": "Don't worry, you'll get the hang of it.",
+      "vi": "Đừng lo, bạn sẽ quen thôi."
+    },
+    {
+      "role": "A",
+      "start_time": 58.166,
+      "end_time": 62.100,
+      "en": "Well, I won't keep you any longer. Thanks again for your help!",
+      "vi": "Thôi, tôi không giữ bạn nữa. Cảm ơn bạn lần nữa vì đã giúp nhé!"
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "lesson_id": "real_life_conversations_014",
+  "title": "Let's have a movie night this friday",
+  "category": "Real-Life Conversations",
+  "level": "Elementary",
+  "videoConfig": {
+    "url": "https://raw.githubusercontent.com/Mom1881990/resources/main/videos/real_life_conversations_014.mp4",
+    "thumb": "https://raw.githubusercontent.com/Mom1881990/resources/main/images/real_life_conversations_014.jpg",
+    "mute_original": false
+  },
+  "characters": [
+    {
+      "id": "A",
+      "name": "Dad",
+      "tts_voice": "en-US-AndrewNeural"
+    },
+    {
+      "id": "B",
+      "name": "Emma",
+      "tts_voice": "en-US-JennyNeural"
+    },
+    {
+      "id": "C",
+      "name": "Leo",
+      "tts_voice": "en-US-BrianNeural"
+    }
+  ],
+  "dialogues": [
+    {
+      "role": "A",
+      "start_time": 2.200,
+      "end_time": 6.300,
+      "en": "Alright kids. Let's have a movie night this Friday, just the family.",
+      "vi": "Nào các con. Chúng ta sẽ có một đêm xem phim vào thứ Sáu này, chỉ riêng gia đình thôi."
+    },
+    {
+      "role": "B",
+      "start_time": 6.900,
+      "end_time": 12.166,
+      "en": "Are we in trouble, or is this one of those family bonding things?",
+      "vi": "Chúng ta gặp rắc rối rồi à, hay đây là một trong những chuyện 'gắn kết gia đình' vậy?"
+    },
+    {
+      "role": "A",
+      "start_time": 12.766,
+      "end_time": 16.733,
+      "en": "It's just movie night. No one's in trouble... yet.",
+      "vi": "Chỉ là đêm xem phim thôi. Chưa ai gặp rắc rối... đâu."
+    },
+    {
+      "role": "C",
+      "start_time": 17.366,
+      "end_time": 20.366,
+      "en": "Can we watch Godzilla versus Kong? Please?",
+      "vi": "Chúng ta xem Godzilla đại chiến Kong được không? Làm ơn đi!"
+    },
+    {
+      "role": "A",
+      "start_time": 20.366,
+      "end_time": 25.733,
+      "en": "Please, no monster movies. I don't want more broken popcorn bowls.",
+      "vi": "Thôi xin, không phim quái vật. Bố không muốn thêm những cái bát bắp rang bị vỡ nữa đâu."
+    },
+    {
+      "role": "B",
+      "start_time": 26.466,
+      "end_time": 33.133,
+      "en": "Can I choose, Dad? No old movies with fake spaceships and 'imagination'.",
+      "vi": "Con chọn được không, bố? Không phim cũ với những con tàu vũ trụ giả và 'trí tưởng tượng' nữa nhé."
+    },
+    {
+      "role": "A",
+      "start_time": 34.066,
+      "end_time": 39.000,
+      "en": "Hey, those 'fake spaceships' are cinematic history, thank you very much.",
+      "vi": "Này, những 'con tàu vũ trụ giả' đó là lịch sử điện ảnh đấy, cảm ơn rất nhiều."
+    },
+    {
+      "role": "C",
+      "start_time": 39.000,
+      "end_time": 42.866,
+      "en": "What about superheroes? The new Superman?",
+      "vi": "Còn siêu anh hùng thì sao? Superman mới ấy?"
+    },
+    {
+      "role": "A",
+      "start_time": 43.466,
+      "end_time": 47.500,
+      "en": "Only if it's under two hours. No five-hour 'special versions'.",
+      "vi": "Chỉ khi nào dưới hai tiếng thôi. Không bản đặc biệt năm tiếng đâu."
+    },
+    {
+      "role": "B",
+      "start_time": 48.166,
+      "end_time": 50.933,
+      "en": "You mean the one Uncle Tom calls 'deep'?",
+      "vi": "Ý bố là cái mà chú Tom gọi là 'sâu sắc' ấy hả?"
+    },
+    {
+      "role": "A",
+      "start_time": 51.700,
+      "end_time": 55.300,
+      "en": "Uh... let's just say it made Uncle Tom feel important.",
+      "vi": "Ờ... cứ nói là nó làm chú Tom cảm thấy mình quan trọng đi."
+    },
+    {
+      "role": "C",
+      "start_time": 56.000,
+      "end_time": 59.466,
+      "en": "I don't get it... but can we make a blanket fort?",
+      "vi": "Con không hiểu... nhưng chúng ta làm pháo đài chăn được không?"
+    },
+    {
+      "role": "B",
+      "start_time": 60.066,
+      "end_time": 63.766,
+      "en": "...Okay, but I'm only putting my phone down for one hour.",
+      "vi": "...Được thôi, nhưng con chỉ bỏ điện thoại xuống trong một tiếng thôi."
+    },
+    {
+      "role": "A",
+      "start_time": 64.266,
+      "end_time": 69.100,
+      "en": "It's settled. Friday, 7 PM. PJs on and whining allowed.",
+      "vi": "Quyết định vậy. Thứ Sáu, 7 giờ tối. Mặc đồ ngủ và được phép cằn nhằn."
+    }
+  ]
+}

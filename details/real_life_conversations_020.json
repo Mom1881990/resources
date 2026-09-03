@@ -1,0 +1,130 @@
+{
+  "lesson_id": "real_life_conversations_020",
+  "title": "What time do you usually wake up on weekdays",
+  "category": "Real-Life Conversations",
+  "level": "Elementary",
+  "videoConfig": {
+    "url": "https://raw.githubusercontent.com/Mom1881990/resources/main/videos/real_life_conversations_020.mp4",
+    "thumb": "https://raw.githubusercontent.com/Mom1881990/resources/main/images/real_life_conversations_020.jpg",
+    "mute_original": false
+  },
+  "characters": [
+    {
+      "id": "A",
+      "name": "Emma",
+      "tts_voice": "en-US-JennyNeural"
+    },
+    {
+      "id": "B",
+      "name": "Ryan",
+      "tts_voice": "en-US-BrianNeural"
+    }
+  ],
+  "dialogues": [
+    {
+      "role": "A",
+      "start_time": 3.100,
+      "end_time": 5.733,
+      "en": "Well, look who finally made it!",
+      "vi": "Ồ, nhìn xem ai cuối cùng cũng đến rồi!"
+    },
+    {
+      "role": "B",
+      "start_time": 6.166,
+      "end_time": 11.133,
+      "en": "I ran for coffee. That's more effort than I give most weekdays.",
+      "vi": "Anh chạy đến để uống cà phê. Đó là nỗ lực nhiều hơn anh bỏ ra hầu hết các ngày trong tuần."
+    },
+    {
+      "role": "A",
+      "start_time": 11.633,
+      "end_time": 17.466,
+      "en": "Hmm, cute. Meanwhile, your sister's been here long enough to become part of the menu.",
+      "vi": "Hmm, dễ thương nhỉ. Trong lúc đó, em gái của anh đã ở đây đủ lâu để trở thành một phần của thực đơn rồi."
+    },
+    {
+      "role": "A",
+      "start_time": 18.066,
+      "end_time": 21.900,
+      "en": "But really, what time do you usually wake up on weekdays?",
+      "vi": "Nhưng thật sự thì, anh thường dậy lúc mấy giờ vào các ngày trong tuần?"
+    },
+    {
+      "role": "B",
+      "start_time": 22.433,
+      "end_time": 29.566,
+      "en": "I aim for 7:00, but I actually get up around 8:15... or when my second alarm screams at me.",
+      "vi": "Anh nhắm đến 7 giờ, nhưng thực tế thì dậy khoảng 8:15... hoặc khi cái báo thức thứ hai gào thét vào anh."
+    },
+    {
+      "role": "A",
+      "start_time": 30.233,
+      "end_time": 31.666,
+      "en": "Second alarm?",
+      "vi": "Báo thức thứ hai?"
+    },
+    {
+      "role": "B",
+      "start_time": 32.233,
+      "end_time": 35.166,
+      "en": "Yeah, the first one's just there for decoration.",
+      "vi": "Ừ, cái đầu chỉ để trang trí thôi."
+    },
+    {
+      "role": "A",
+      "start_time": 35.700,
+      "end_time": 38.966,
+      "en": "You know, some people get up at 6 to go jogging.",
+      "vi": "Anh biết không, có người dậy lúc 6 giờ để chạy bộ đấy."
+    },
+    {
+      "role": "B",
+      "start_time": 39.566,
+      "end_time": 41.966,
+      "en": "Why? What's chasing them?",
+      "vi": "Tại sao? Có gì đuổi theo họ à?"
+    },
+    {
+      "role": "A",
+      "start_time": 42.300,
+      "end_time": 46.166,
+      "en": "Motivation. Goals. Sunrise yoga.",
+      "vi": "Động lực. Mục tiêu. Yoga lúc bình minh."
+    },
+    {
+      "role": "B",
+      "start_time": 46.600,
+      "end_time": 51.400,
+      "en": "Can't relate. Either I go back to sleep or do speed-toothbrushing.",
+      "vi": "Không liên quan gì đến anh. Hoặc anh ngủ tiếp, hoặc đánh răng siêu tốc."
+    },
+    {
+      "role": "A",
+      "start_time": 52.033,
+      "end_time": 57.666,
+      "en": "Yet somehow, you made it. And this coffee's strong enough to wake our great-grandfather.",
+      "vi": "Vậy mà anh vẫn đến được. Và cà phê này mạnh đến mức đánh thức cả ông cố của chúng ta."
+    },
+    {
+      "role": "B",
+      "start_time": 58.300,
+      "end_time": 62.166,
+      "en": "Yay... Thank you, sis. Exactly what I need.",
+      "vi": "Yay... Cảm ơn em. Đúng thứ anh cần."
+    },
+    {
+      "role": "A",
+      "start_time": 62.633,
+      "end_time": 67.700,
+      "en": "So, about the plan for Mom's birthday. Dad says she wants fireworks...",
+      "vi": "Vậy, về kế hoạch sinh nhật của mẹ. Bố nói mẹ muốn pháo hoa..."
+    },
+    {
+      "role": "B",
+      "start_time": 68.300,
+      "end_time": 73.133,
+      "en": "Great, I'll light a candle and sing \"Happy Birthday\". That's all I've got.",
+      "vi": "Tuyệt, anh sẽ thắp một cây nến và hát \"Happy Birthday\". Đó là tất cả những gì anh có."
+    }
+  ]
+}

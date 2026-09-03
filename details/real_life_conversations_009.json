@@ -1,0 +1,165 @@
+{
+  "lesson_id": "real_life_conversations_009",
+  "title": "I always have cereal and coffee for breakfast",
+  "category": "Real-Life Conversations",
+  "level": "Elementary",
+  "videoConfig": {
+    "url": "https://raw.githubusercontent.com/Mom1881990/resources/main/videos/real_life_conversations_009.mp4",
+    "thumb": "https://raw.githubusercontent.com/Mom1881990/resources/main/images/real_life_conversations_009.jpg",
+    "mute_original": false
+  },
+  "characters": [
+    {
+      "id": "A",
+      "name": "Jessica",
+      "tts_voice": "en-US-JennyNeural"
+    },
+    {
+      "id": "B",
+      "name": "Susan",
+      "tts_voice": "en-US-AriaNeural"
+    }
+  ],
+  "dialogues": [
+    {
+      "role": "B",
+      "start_time": 3.700,
+      "end_time": 7.300,
+      "en": "Ugh... why is it so bright in here?",
+      "vi": "Ưgh... sao sáng quá vậy?"
+    },
+    {
+      "role": "A",
+      "start_time": 7.766,
+      "end_time": 10.533,
+      "en": "Because it's called \"morning,\" Susan.",
+      "vi": "Vì đây gọi là \"buổi sáng\" đó, Susan."
+    },
+    {
+      "role": "B",
+      "start_time": 11.100,
+      "end_time": 15.400,
+      "en": "Do you just wake up and start... cereal-coffee-functioning?",
+      "vi": "Cậu vừa dậy là bắt đầu chế độ... ngũ cốc-cà phê luôn hả?"
+    },
+    {
+      "role": "A",
+      "start_time": 16.000,
+      "end_time": 19.033,
+      "en": "Yep. 7 AM. Like clockwork.",
+      "vi": "Ừ. 7 giờ sáng. Đúng giờ như cái máy."
+    },
+    {
+      "role": "A",
+      "start_time": 19.033,
+      "end_time": 24.733,
+      "en": "I always have cereal and coffee for breakfast, the official meal of \"I'm an adult.\"",
+      "vi": "Mình luôn ăn ngũ cốc và cà phê vào buổi sáng, bữa ăn chính thức của \"người lớn\"."
+    },
+    {
+      "role": "B",
+      "start_time": 25.466,
+      "end_time": 27.466,
+      "en": "You don't even set an alarm.",
+      "vi": "Cậu thậm chí còn không đặt báo thức."
+    },
+    {
+      "role": "A",
+      "start_time": 28.033,
+      "end_time": 29.900,
+      "en": "My stomach is the alarm.",
+      "vi": "Cái dạ dày của mình chính là báo thức."
+    },
+    {
+      "role": "B",
+      "start_time": 30.500,
+      "end_time": 36.400,
+      "en": "You've had the same cereal for three weeks. That's either dedication or a cry for help.",
+      "vi": "Cậu ăn cùng một loại ngũ cốc suốt ba tuần rồi. Đó là sự cống hiến hay là lời cầu cứu vậy?"
+    },
+    {
+      "role": "A",
+      "start_time": 36.966,
+      "end_time": 41.866,
+      "en": "It's fast, it's simple, it's survival. Unlike some people...",
+      "vi": "Nhanh, đơn giản, là sống sót. Không như một số người..."
+    },
+    {
+      "role": "B",
+      "start_time": 42.366,
+      "end_time": 46.933,
+      "en": "Let's see... chips yesterday, yogurt the day before.",
+      "vi": "Để xem nào... hôm qua ăn snack, hôm kia ăn sữa chua."
+    },
+    {
+      "role": "B",
+      "start_time": 47.100,
+      "end_time": 50.000,
+      "en": "My breakfast routine is basically a dare.",
+      "vi": "Thói quen ăn sáng của mình cơ bản là một thử thách."
+    },
+    {
+      "role": "A",
+      "start_time": 50.500,
+      "end_time": 52.500,
+      "en": "Do you... need help?",
+      "vi": "Cậu... cần giúp không?"
+    },
+    {
+      "role": "B",
+      "start_time": 52.500,
+      "end_time": 57.866,
+      "en": "I have class at 8. I need to at least pretend to have my life together.",
+      "vi": "Mình có lớp lúc 8 giờ. Ít nhất mình cũng phải giả vờ cuộc sống đang ổn."
+    },
+    {
+      "role": "A",
+      "start_time": 58.266,
+      "end_time": 60.200,
+      "en": "Fake it till you make it, huh?",
+      "vi": "Giả vờ đến khi thành thật hả?"
+    },
+    {
+      "role": "B",
+      "start_time": 60.666,
+      "end_time": 63.900,
+      "en": "Do you actually do anything besides cereal and coffee?",
+      "vi": "Ngoài ngũ cốc với cà phê ra cậu có làm gì khác không?"
+    },
+    {
+      "role": "A",
+      "start_time": 64.400,
+      "end_time": 70.500,
+      "en": "Well... I brush my teeth, check my emails, and sometimes... do five jumping jacks.",
+      "vi": "Ừ... mình đánh răng, kiểm tra email, và thỉnh thoảng... làm năm cái nhảy bật dang tay chân."
+    },
+    {
+      "role": "B",
+      "start_time": 71.233,
+      "end_time": 74.500,
+      "en": "Five?! Wow, Olympic level.",
+      "vi": "Năm cái?! Wow, trình độ Olympic luôn."
+    },
+    {
+      "role": "A",
+      "start_time": 75.033,
+      "end_time": 77.266,
+      "en": "Hey, five's better than none.",
+      "vi": "Này, năm còn hơn không có gì."
+    },
+    {
+      "role": "B",
+      "start_time": 77.833,
+      "end_time": 84.300,
+      "en": "... I admire your routine. Even if it's just... sugar, caffeine, and confidence.",
+      "vi": "... Mình ngưỡng mộ thói quen của cậu. Dù nó chỉ toàn là... đường, caffeine và sự tự tin."
+    },
+    {
+      "role": "A",
+      "start_time": 84.966,
+      "end_time": 87.766,
+      "en": "It's not much, but it gets me to lunch.",
+      "vi": "Không nhiều lắm, nhưng đủ để mình cầm cự đến bữa trưa."
+    }
+  ]
+}

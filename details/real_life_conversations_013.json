@@ -1,0 +1,130 @@
+{
+  "lesson_id": "real_life_conversations_013",
+  "title": "I've been trying to master my grandmother's secret",
+  "category": "Real-Life Conversations",
+  "level": "Elementary",
+  "videoConfig": {
+    "url": "https://raw.githubusercontent.com/Mom1881990/resources/main/videos/real_life_conversations_013.mp4",
+    "thumb": "https://raw.githubusercontent.com/Mom1881990/resources/main/images/real_life_conversations_013.jpg",
+    "mute_original": false
+  },
+  "characters": [
+    {
+      "id": "A",
+      "name": "Ryan",
+      "tts_voice": "en-US-AndrewNeural"
+    },
+    {
+      "id": "B",
+      "name": "Mia",
+      "tts_voice": "en-US-JennyNeural"
+    }
+  ],
+  "dialogues": [
+    {
+      "role": "A",
+      "start_time": 0.666,
+      "end_time": 3.333,
+      "en": "Hey, do you want to go to the cinema tomorrow?",
+      "vi": "Này, cậu muốn đi xem phim ngày mai không?"
+    },
+    {
+      "role": "B",
+      "start_time": 4.066,
+      "end_time": 6.900,
+      "en": "Nope, I think I'm just going to stay home.",
+      "vi": "Không, mình nghĩ mình sẽ ở nhà thôi."
+    },
+    {
+      "role": "A",
+      "start_time": 7.500,
+      "end_time": 11.333,
+      "en": "Really? Are you gonna waste a whole summer day inside?",
+      "vi": "Thật á? Cậu định lãng phí cả một ngày hè trong nhà luôn à?"
+    },
+    {
+      "role": "B",
+      "start_time": 11.966,
+      "end_time": 15.566,
+      "en": "I'm not wasting it. I've been getting into baking lately.",
+      "vi": "Mình không lãng phí đâu. Dạo này mình đang thích làm bánh."
+    },
+    {
+      "role": "A",
+      "start_time": 16.500,
+      "end_time": 19.666,
+      "en": "Oh, interesting! What have you been baking?",
+      "vi": "Ồ, thú vị đấy! Cậu đang làm bánh gì vậy?"
+    },
+    {
+      "role": "B",
+      "start_time": 20.466,
+      "end_time": 25.400,
+      "en": "Well, I've been trying to master my grandmother's secret recipe for chocolate cake.",
+      "vi": "Ừ, mình đang cố học thuộc công thức bí mật làm bánh sô-cô-la của bà ngoại."
+    },
+    {
+      "role": "A",
+      "start_time": 26.033,
+      "end_time": 27.966,
+      "en": "And any luck?",
+      "vi": "Và có tiến triển gì không?"
+    },
+    {
+      "role": "B",
+      "start_time": 28.700,
+      "end_time": 33.100,
+      "en": "Let's just say the best result so far was no one getting food poisoning.",
+      "vi": "Cứ nói là kết quả tốt nhất từ trước đến giờ là không ai bị ngộ độc thực phẩm."
+    },
+    {
+      "role": "A",
+      "start_time": 33.766,
+      "end_time": 38.466,
+      "en": "Do you want me to take a look? I've been baking for years. Maybe I could help.",
+      "vi": "Cậu muốn mình xem thử không? Mình làm bánh đã nhiều năm rồi. Có lẽ mình có thể giúp."
+    },
+    {
+      "role": "B",
+      "start_time": 39.000,
+      "end_time": 42.200,
+      "en": "Thanks for offering, but I don't think I can do that.",
+      "vi": "Cảm ơn cậu đã đề nghị, nhưng mình nghĩ mình không thể làm vậy."
+    },
+    {
+      "role": "A",
+      "start_time": 42.633,
+      "end_time": 43.866,
+      "en": "Why not?",
+      "vi": "Tại sao không?"
+    },
+    {
+      "role": "B",
+      "start_time": 44.600,
+      "end_time": 48.700,
+      "en": "Because then it wouldn't be a secret recipe anymore.",
+      "vi": "Vì như vậy thì nó sẽ không còn là công thức bí mật nữa."
+    },
+    {
+      "role": "A",
+      "start_time": 49.433,
+      "end_time": 50.466,
+      "en": "Fair enough.",
+      "vi": "Cũng phải."
+    },
+    {
+      "role": "A",
+      "start_time": 51.000,
+      "end_time": 55.133,
+      "en": "Well, I'll send my condolences to whoever has to try your next attempt.",
+      "vi": "Thôi, mình sẽ gửi lời chia buồn đến ai phải thử lần làm bánh tiếp theo của cậu."
+    },
+    {
+      "role": "B",
+      "start_time": 55.866,
+      "end_time": 59.366,
+      "en": "Well, save them for yourself, because it's you!",
+      "vi": "Thôi, giữ lại cho chính cậu đi, vì người đó chính là cậu!"
+    }
+  ]
+}

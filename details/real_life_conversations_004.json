@@ -1,0 +1,130 @@
+{
+  "lesson_id": "real_life_conversations_004",
+  "title": "Do you have this shirt in a medium size",
+  "category": "Real-Life Conversations",
+  "level": "Elementary",
+  "videoConfig": {
+    "url": "https://raw.githubusercontent.com/Mom1881990/resources/main/videos/real_life_conversations_004.mp4",
+    "thumb": "https://raw.githubusercontent.com/Mom1881990/resources/main/images/real_life_conversations_004.jpg",
+    "mute_original": false
+  },
+  "characters": [
+    {
+      "id": "A",
+      "name": "Customer",
+      "tts_voice": "en-US-JennyNeural"
+    },
+    {
+      "id": "B",
+      "name": "Shop Assistant",
+      "tts_voice": "en-US-AndrewNeural"
+    }
+  ],
+  "dialogues": [
+    {
+      "role": "A",
+      "start_time": 2.600,
+      "end_time": 5.933,
+      "en": "Hi! Do you have this shirt in a medium size?",
+      "vi": "Chào anh! Anh có cái áo này size medium không?"
+    },
+    {
+      "role": "B",
+      "start_time": 6.766,
+      "end_time": 7.900,
+      "en": "Let me check...",
+      "vi": "Để anh kiểm tra nhé..."
+    },
+    {
+      "role": "B",
+      "start_time": 9.033,
+      "end_time": 13.900,
+      "en": "Okay, we've got small and large left in purple. No medium, sorry.",
+      "vi": "Okay, còn size small và large màu tím thôi. Hết medium rồi, xin lỗi."
+    },
+    {
+      "role": "A",
+      "start_time": 14.633,
+      "end_time": 20.300,
+      "en": "Why is medium always the first to go? Do we all secretly share one body?",
+      "vi": "Sao size medium lúc nào cũng hết trước nhỉ? Hay tất cả chúng ta bí mật dùng chung một thân hình?"
+    },
+    {
+      "role": "B",
+      "start_time": 21.000,
+      "end_time": 25.266,
+      "en": "Maybe... Um, do you want me to see if we have it in another color?",
+      "vi": "Có lẽ vậy... Ừm, chị muốn anh xem còn màu khác không?"
+    },
+    {
+      "role": "A",
+      "start_time": 26.200,
+      "end_time": 32.333,
+      "en": "Ugh... Yes, please. But no beige. I don't want to blend in with the walls again.",
+      "vi": "Ước... Được, làm ơn. Nhưng đừng màu be. Tôi không muốn lại hòa vào tường nữa."
+    },
+    {
+      "role": "B",
+      "start_time": 33.300,
+      "end_time": 37.466,
+      "en": "Alright.. Hmm, we do have it in forest green and black.",
+      "vi": "Được rồi... Hmm, còn màu xanh rừng và đen."
+    },
+    {
+      "role": "A",
+      "start_time": 38.233,
+      "end_time": 43.200,
+      "en": "Forest green? Too bright, it will make me look like a tree.",
+      "vi": "Xanh rừng á? Sáng quá, mặc vào trông như cái cây."
+    },
+    {
+      "role": "B",
+      "start_time": 43.866,
+      "end_time": 47.500,
+      "en": "Bright is good, though. At least no one would lose you in a crowd.",
+      "vi": "Sáng cũng tốt mà. Ít ra không ai làm mất chị trong đám đông."
+    },
+    {
+      "role": "A",
+      "start_time": 48.166,
+      "end_time": 49.500,
+      "en": "What about black?",
+      "vi": "Còn màu đen thì sao?"
+    },
+    {
+      "role": "B",
+      "start_time": 50.033,
+      "end_time": 56.066,
+      "en": "Well, black is classic. When in doubt, go black. It's a safe choice, everytime.",
+      "vi": "À, đen là kinh điển. Khi phân vân thì chọn đen. Lúc nào cũng an toàn."
+    },
+    {
+      "role": "A",
+      "start_time": 56.666,
+      "end_time": 61.300,
+      "en": "Okay, let's go with black. If I end up looking like a ninja, I won't complain, though.",
+      "vi": "Okay, lấy màu đen vậy. Nếu trông như ninja thì tôi cũng không phàn nàn đâu."
+    },
+    {
+      "role": "B",
+      "start_time": 61.966,
+      "end_time": 64.500,
+      "en": "Ninja, but make it fashionable.",
+      "vi": "Ninja nhưng phải thời trang nhé."
+    },
+    {
+      "role": "A",
+      "start_time": 65.000,
+      "end_time": 68.300,
+      "en": "Honestly, that's the vibe I'm going for anyway.",
+      "vi": "Thành thật mà nói, đó chính là vibe tôi đang hướng tới."
+    },
+    {
+      "role": "B",
+      "start_time": 68.966,
+      "end_time": 74.333,
+      "en": "Perfect. And if it doesn't fit, just blame the mirror. Those things are drama queens.",
+      "vi": "Hoàn hảo. Và nếu không vừa thì đổ lỗi cho gương. Mấy cái đó hay drama lắm."
+    }
+  ]
+}

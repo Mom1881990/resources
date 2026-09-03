@@ -1,0 +1,116 @@
+{
+  "lesson_id": "real_life_conversations_002",
+  "title": "Could you help me reach that shelf",
+  "category": "Real-Life Conversations",
+  "level": "Elementary",
+  "videoConfig": {
+    "url": "https://raw.githubusercontent.com/Mom1881990/resources/main/videos/real_life_conversations_002.mp4",
+    "thumb": "https://raw.githubusercontent.com/Mom1881990/resources/main/images/real_life_conversations_002.jpg",
+    "mute_original": false
+  },
+  "characters": [
+    {
+      "id": "A",
+      "name": "Lady",
+      "tts_voice": "en-US-JennyNeural"
+    },
+    {
+      "id": "B",
+      "name": "Young Man",
+      "tts_voice": "en-US-AndrewNeural"
+    }
+  ],
+  "dialogues": [
+    {
+      "role": "A",
+      "start_time": 1.400,
+      "end_time": 8.300,
+      "en": "Hello, dear. Sorry to bother you, I see you're reading.",
+      "vi": "Xin chào cháu. Xin lỗi đã làm phiền, bà thấy cháu đang đọc sách."
+    },
+    {
+      "role": "B",
+      "start_time": 9.366,
+      "end_time": 13.000,
+      "en": "Oh, it's no bother at all. What can I do for you?",
+      "vi": "Ồ, không phiền gì đâu ạ. Cháu có thể giúp gì cho bà?"
+    },
+    {
+      "role": "A",
+      "start_time": 13.966,
+      "end_time": 22.200,
+      "en": "Well, I'm trying to get a book, but I'm afraid it's a bit out of my reach.",
+      "vi": "À, bà đang cố lấy một cuốn sách, nhưng sợ là nó hơi ngoài tầm với của bà."
+    },
+    {
+      "role": "B",
+      "start_time": 23.000,
+      "end_time": 25.700,
+      "en": "Of course! Which one are you looking for?",
+      "vi": "Tất nhiên rồi! Bà đang tìm cuốn nào ạ?"
+    },
+    {
+      "role": "A",
+      "start_time": 26.500,
+      "end_time": 31.800,
+      "en": "It's that blue one up there, on the very top shelf.",
+      "vi": "Là cuốn màu xanh kia, trên kệ cao nhất."
+    },
+    {
+      "role": "B",
+      "start_time": 32.633,
+      "end_time": 35.500,
+      "en": "The blue one with the gold on the spine, right?",
+      "vi": "Cuốn xanh có đường vàng trên gáy sách phải không ạ?"
+    },
+    {
+      "role": "A",
+      "start_time": 35.966,
+      "end_time": 40.466,
+      "en": "Yes, dear. Could you help me reach that shelf?",
+      "vi": "Đúng rồi cháu. Cháu có thể giúp bà với cái kệ đó được không?"
+    },
+    {
+      "role": "B",
+      "start_time": 41.400,
+      "end_time": 44.266,
+      "en": "Sure thing. Let me grab that for you right away.",
+      "vi": "Được thôi. Để cháu lấy ngay cho bà."
+    },
+    {
+      "role": "B",
+      "start_time": 44.900,
+      "end_time": 47.966,
+      "en": "Here you are. \"The Classic Poetry Collection.\"",
+      "vi": "Đây ạ. \"Tuyển tập thơ cổ điển.\""
+    },
+    {
+      "role": "A",
+      "start_time": 48.900,
+      "end_time": 54.866,
+      "en": "Wonderful! Thank you so much. It's for my granddaughter.",
+      "vi": "Tuyệt vời! Cảm ơn cháu nhiều lắm. Cuốn này dành cho cháu gái của bà."
+    },
+    {
+      "role": "B",
+      "start_time": 55.766,
+      "end_time": 59.000,
+      "en": "What a great gift! I'm sure she'll really like it.",
+      "vi": "Quà tặng tuyệt vời quá! Cháu chắc chắn cháu gái sẽ rất thích."
+    },
+    {
+      "role": "A",
+      "start_time": 59.666,
+      "end_time": 69.000,
+      "en": "I hope so. Thank you again for your help. It's so nice to meet such a helpful young man.",
+      "vi": "Bà cũng hy vọng vậy. Cảm ơn cháu lần nữa vì đã giúp đỡ. Thật vui khi gặp được một chàng trai trẻ sẵn sàng giúp đỡ như vậy."
+    },
+    {
+      "role": "B",
+      "start_time": 69.900,
+      "end_time": 72.200,
+      "en": "Anytime! I'm happy to help.",
+      "vi": "Luôn sẵn sàng ạ! Cháu rất vui được giúp đỡ."
+    }
+  ]
+}

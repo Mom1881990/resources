@@ -1,0 +1,200 @@
+{
+  "lesson_id": "real_life_conversations_017",
+  "title": "The hotel booking got confirmed yesterday",
+  "category": "Real-Life Conversations",
+  "level": "Elementary",
+  "videoConfig": {
+    "url": "https://raw.githubusercontent.com/Mom1881990/resources/main/videos/real_life_conversations_017.mp4",
+    "thumb": "https://raw.githubusercontent.com/Mom1881990/resources/main/images/real_life_conversations_017.jpg",
+    "mute_original": false
+  },
+  "characters": [
+    {
+      "id": "A",
+      "name": "Sophie",
+      "tts_voice": "en-US-JennyNeural"
+    },
+    {
+      "id": "B",
+      "name": "David",
+      "tts_voice": "en-US-AndrewNeural"
+    }
+  ],
+  "dialogues": [
+    {
+      "role": "A",
+      "start_time": 1.200,
+      "end_time": 4.566,
+      "en": "Welcome to Seaside Hotel! How can I help you today?",
+      "vi": "Chào mừng đến Seaside Hotel! Hôm nay tôi có thể giúp gì cho anh?"
+    },
+    {
+      "role": "B",
+      "start_time": 5.200,
+      "end_time": 7.366,
+      "en": "Hi, I'm here to check in.",
+      "vi": "Xin chào, tôi đến để nhận phòng."
+    },
+    {
+      "role": "A",
+      "start_time": 8.200,
+      "end_time": 11.100,
+      "en": "Of course. Can I get your name, please?",
+      "vi": "Tất nhiên. Anh cho tôi xin tên được không?"
+    },
+    {
+      "role": "B",
+      "start_time": 11.700,
+      "end_time": 13.000,
+      "en": "David Swift.",
+      "vi": "David Swift."
+    },
+    {
+      "role": "A",
+      "start_time": 14.266,
+      "end_time": 16.600,
+      "en": "Alright, Mr. Swift. One moment.",
+      "vi": "Được rồi, ông Swift. Đợi một chút."
+    },
+    {
+      "role": "B",
+      "start_time": 17.233,
+      "end_time": 18.133,
+      "en": "Sure.",
+      "vi": "Vâng."
+    },
+    {
+      "role": "A",
+      "start_time": 18.766,
+      "end_time": 22.066,
+      "en": "Hmm... I'm not seeing your name in our system.",
+      "vi": "Hmm... Tôi không thấy tên anh trong hệ thống của chúng tôi."
+    },
+    {
+      "role": "B",
+      "start_time": 22.633,
+      "end_time": 26.533,
+      "en": "That can't be right! The hotel booking got confirmed yesterday.",
+      "vi": "Không thể nào! Đặt phòng khách sạn đã được xác nhận hôm qua rồi."
+    },
+    {
+      "role": "A",
+      "start_time": 27.433,
+      "end_time": 30.100,
+      "en": "Would you mind spelling your last name for me?",
+      "vi": "Anh có thể đánh vần họ của mình giúp tôi được không?"
+    },
+    {
+      "role": "B",
+      "start_time": 30.700,
+      "end_time": 35.800,
+      "en": "S-W-I-F-T. Swift, like quick.",
+      "vi": "S-W-I-F-T. Swift, như là nhanh vậy."
+    },
+    {
+      "role": "A",
+      "start_time": 36.400,
+      "end_time": 37.200,
+      "en": "Thanks.",
+      "vi": "Cảm ơn."
+    },
+    {
+      "role": "A",
+      "start_time": 38.700,
+      "end_time": 43.966,
+      "en": "Still nothing. Is there any chance the reservation was made under a different name?",
+      "vi": "Vẫn không có. Có khả năng đặt phòng được làm dưới tên khác không?"
+    },
+    {
+      "role": "B",
+      "start_time": 44.566,
+      "end_time": 46.333,
+      "en": "No, I booked it myself.",
+      "vi": "Không, tôi tự đặt đấy."
+    },
+    {
+      "role": "A",
+      "start_time": 47.466,
+      "end_time": 49.500,
+      "en": "Could I see your confirmation email?",
+      "vi": "Tôi có thể xem email xác nhận của anh được không?"
+    },
+    {
+      "role": "B",
+      "start_time": 50.266,
+      "end_time": 51.766,
+      "en": "Yeah, here it is.",
+      "vi": "Vâng, đây ạ."
+    },
+    {
+      "role": "A",
+      "start_time": 52.500,
+      "end_time": 57.800,
+      "en": "Ah, okay, I found it. You did book with Seaside Hotel...",
+      "vi": "À, được rồi, tôi tìm thấy rồi. Anh có đặt với Seaside Hotel..."
+    },
+    {
+      "role": "B",
+      "start_time": 58.966,
+      "end_time": 60.066,
+      "en": "Told you!",
+      "vi": "Tôi bảo mà!"
+    },
+    {
+      "role": "A",
+      "start_time": 60.600,
+      "end_time": 65.733,
+      "en": "...but it's the Seaside Hotel in Georgia. The country, not the state.",
+      "vi": "...nhưng là Seaside Hotel ở Georgia. Cái nước, không phải bang."
+    },
+    {
+      "role": "B",
+      "start_time": 66.200,
+      "end_time": 67.566,
+      "en": "Wait, what?",
+      "vi": "Khoan, cái gì cơ?"
+    },
+    {
+      "role": "A",
+      "start_time": 68.433,
+      "end_time": 72.666,
+      "en": "Yep, and you can see here. It says Tbilisi, Georgia.",
+      "vi": "Đúng rồi, và anh có thể thấy đây. Nó ghi Tbilisi, Georgia."
+    },
+    {
+      "role": "B",
+      "start_time": 73.266,
+      "end_time": 74.500,
+      "en": "Are you kidding me?",
+      "vi": "Cô đùa tôi à?"
+    },
+    {
+      "role": "A",
+      "start_time": 74.500,
+      "end_time": 76.466,
+      "en": "I wish I were.",
+      "vi": "Tôi ước là vậy."
+    },
+    {
+      "role": "B",
+      "start_time": 77.166,
+      "end_time": 79.500,
+      "en": "Any chance you've got a room here tonight?",
+      "vi": "Có cơ hội nào khách sạn còn phòng tối nay không?"
+    },
+    {
+      "role": "A",
+      "start_time": 80.166,
+      "end_time": 82.933,
+      "en": "I'm really sorry. We're fully booked.",
+      "vi": "Tôi thật sự xin lỗi. Chúng tôi đã hết phòng."
+    },
+    {
+      "role": "B",
+      "start_time": 83.700,
+      "end_time": 87.666,
+      "en": "So, do you know where I can grab a last-minute flight to the other Georgia?",
+      "vi": "Vậy, cô có biết chỗ nào tôi có thể bắt chuyến bay phút chót đến cái Georgia kia không?"
+    }
+  ]
+}

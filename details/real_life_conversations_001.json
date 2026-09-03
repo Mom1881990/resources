@@ -1,0 +1,116 @@
+{
+  "lesson_id": "real_life_conversations_001",
+  "title": "Coffee Shop",
+  "category": "Real-Life Conversations",
+  "level": "Elementary",
+  "videoConfig": {
+    "url": "https://raw.githubusercontent.com/Mom1881990/resources/main/videos/real_life_conversations_001.mp4",
+    "thumb": "https://raw.githubusercontent.com/Mom1881990/resources/main/images/real_life_conversations_001.jpg",
+    "mute_original": false
+  },
+  "characters": [
+    {
+      "id": "A",
+      "name": "Barista",
+      "tts_voice": "en-US-JennyNeural"
+    },
+    {
+      "id": "B",
+      "name": "Customer",
+      "tts_voice": "en-US-AriaNeural"
+    }
+  ],
+  "dialogues": [
+    {
+      "role": "A",
+      "start_time": 3.633,
+      "end_time": 6.100,
+      "en": "Hi there! What can I get for you today?",
+      "vi": "Xin chào! Hôm nay tôi có thể lấy gì cho bạn?"
+    },
+    {
+      "role": "B",
+      "start_time": 6.700,
+      "end_time": 9.566,
+      "en": "Can I get a medium black coffee, please?",
+      "vi": "Cho tôi một ly cà phê đen cỡ vừa được không?"
+    },
+    {
+      "role": "A",
+      "start_time": 10.300,
+      "end_time": 12.400,
+      "en": "Sure thing. Would you like any cream?",
+      "vi": "Được thôi. Bạn có muốn thêm kem không?"
+    },
+    {
+      "role": "B",
+      "start_time": 13.000,
+      "end_time": 18.900,
+      "en": "No... But when it's ready, could you, uh... mix it for me?",
+      "vi": "Không... Nhưng khi nào pha xong, bạn có thể... mix giúp tôi được không?"
+    },
+    {
+      "role": "A",
+      "start_time": 19.633,
+      "end_time": 25.700,
+      "en": "Mix it? Did you want me to mix something in? Like some milk or caramel syrup?",
+      "vi": "Mix à? Bạn muốn tôi mix thêm gì vào không? Như sữa hoặc siro caramel?"
+    },
+    {
+      "role": "B",
+      "start_time": 26.300,
+      "end_time": 31.966,
+      "en": "No, no! I mean... Add sugar, then move it around with a spoon.",
+      "vi": "Không không! Ý tôi là... Cho đường vào, rồi khuấy bằng thìa."
+    },
+    {
+      "role": "A",
+      "start_time": 32.900,
+      "end_time": 38.466,
+      "en": "Ah, you mean stir it! Sure, I can give it a stir for you. No problem.",
+      "vi": "À, ý bạn là stir (khuấy) nó! Được thôi, tôi khuấy giúp bạn. Không vấn đề gì."
+    },
+    {
+      "role": "B",
+      "start_time": 39.566,
+      "end_time": 43.400,
+      "en": "Stir? So \"mix\" isn't the right word?",
+      "vi": "Stir? Vậy \"mix\" không phải từ đúng à?"
+    },
+    {
+      "role": "A",
+      "start_time": 44.300,
+      "end_time": 53.366,
+      "en": "Yeah, \"stir\" is when you use a spoon to blend something. \"Mix\" means putting different ingredients together. Like mixing flour and eggs.",
+      "vi": "Đúng rồi, \"stir\" là khi bạn dùng thìa để khuấy đều. Còn \"mix\" nghĩa là trộn nhiều nguyên liệu khác nhau lại với nhau. Ví dụ như trộn bột mì và trứng."
+    },
+    {
+      "role": "B",
+      "start_time": 54.033,
+      "end_time": 60.466,
+      "en": "Huh, interesting. And what about \"beat\"? Like, could you beat my coffee?",
+      "vi": "Ồ, thú vị. Còn \"beat\" thì sao? Ví dụ như, bạn có thể beat cà phê của tôi không?"
+    },
+    {
+      "role": "A",
+      "start_time": 61.266,
+      "end_time": 67.000,
+      "en": "Oh no! \"Beat\" is mixing quickly, like what you do to eggs to make them fluffy!",
+      "vi": "Ồ không! \"Beat\" là khuấy thật nhanh, giống như bạn đánh trứng để làm cho chúng bông lên!"
+    },
+    {
+      "role": "B",
+      "start_time": 67.966,
+      "end_time": 71.166,
+      "en": "Ah, I get it. Thanks for explaining.",
+      "vi": "À, tôi hiểu rồi. Cảm ơn bạn đã giải thích."
+    },
+    {
+      "role": "A",
+      "start_time": 72.166,
+      "end_time": 75.100,
+      "en": "No worries! That'll be $4.50, please.",
+      "vi": "Không có gì! Tổng cộng $4.50 nhé."
+    }
+  ]
+}

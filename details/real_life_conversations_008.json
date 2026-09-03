@@ -1,0 +1,109 @@
+{
+  "lesson_id": "real_life_conversations_008",
+  "title": "How much is the six pack of juice",
+  "category": "Real-Life Conversations",
+  "level": "Elementary",
+  "videoConfig": {
+    "url": "https://raw.githubusercontent.com/Mom1881990/resources/main/videos/real_life_conversations_008.mp4",
+    "thumb": "https://raw.githubusercontent.com/Mom1881990/resources/main/images/real_life_conversations_008.jpg",
+    "mute_original": false
+  },
+  "characters": [
+    {
+      "id": "A",
+      "name": "Customer",
+      "tts_voice": "en-US-JennyNeural"
+    },
+    {
+      "id": "B",
+      "name": "Store Clerk",
+      "tts_voice": "en-US-AndrewNeural"
+    }
+  ],
+  "dialogues": [
+    {
+      "role": "A",
+      "start_time": 0.833,
+      "end_time": 5.333,
+      "en": "Hi, excuse me. How much is the six pack of juice?",
+      "vi": "Xin chào, làm ơn. Lốc sáu hộp nước ép giá bao nhiêu?"
+    },
+    {
+      "role": "A",
+      "start_time": 5.366,
+      "end_time": 7.600,
+      "en": "I didn't see a price tag on this shelf.",
+      "vi": "Mình không thấy tem giá trên kệ này."
+    },
+    {
+      "role": "B",
+      "start_time": 8.400,
+      "end_time": 12.000,
+      "en": "Uh... it's $12.99 for each bottle.",
+      "vi": "À... mỗi chai là 12,99 đô."
+    },
+    {
+      "role": "A",
+      "start_time": 12.600,
+      "end_time": 18.333,
+      "en": "What! $13 for just one small bottle? That's so expensive!",
+      "vi": "Cái gì! 13 đô cho một chai nhỏ? Đắt quá!"
+    },
+    {
+      "role": "B",
+      "start_time": 19.200,
+      "end_time": 22.700,
+      "en": "Small bottle? Oh... wait. I'm sorry!",
+      "vi": "Chai nhỏ á? Ồ... đợi đã. Xin lỗi!"
+    },
+    {
+      "role": "B",
+      "start_time": 23.300,
+      "end_time": 28.866,
+      "en": "Did you mean the big bottles? Or were you looking for a pack of juice boxes like these?",
+      "vi": "Bạn muốn nói chai lớn à? Hay bạn đang tìm lốc nước ép hộp như thế này?"
+    },
+    {
+      "role": "A",
+      "start_time": 29.500,
+      "end_time": 33.733,
+      "en": "Oh! Yes, those! The small ones with the straws.",
+      "vi": "Ồ! Đúng rồi, cái đó! Những cái nhỏ có ống hút."
+    },
+    {
+      "role": "B",
+      "start_time": 34.566,
+      "end_time": 40.566,
+      "en": "Ah, okay! These are called juice boxes. That's $4.99 for the whole pack.",
+      "vi": "À, được rồi! Những cái này gọi là juice boxes. Cả lốc là 4,99 đô."
+    },
+    {
+      "role": "A",
+      "start_time": 41.200,
+      "end_time": 45.800,
+      "en": "That's a much better price. So these are called juice boxes?",
+      "vi": "Giá này dễ chịu hơn nhiều. Vậy những cái này gọi là juice boxes hả?"
+    },
+    {
+      "role": "B",
+      "start_time": 46.833,
+      "end_time": 52.966,
+      "en": "Yes! Most people call it \"a pack of juice boxes\" since it usually comes with six.",
+      "vi": "Đúng rồi! Hầu hết mọi người gọi là \"a pack of juice boxes\" vì thường có sáu hộp."
+    },
+    {
+      "role": "B",
+      "start_time": 53.700,
+      "end_time": 56.500,
+      "en": "You can also say \"six juice boxes\".",
+      "vi": "Bạn cũng có thể nói \"six juice boxes\"."
+    },
+    {
+      "role": "A",
+      "start_time": 57.400,
+      "end_time": 60.200,
+      "en": "Thanks for clearing that up! I'll take this pack.",
+      "vi": "Cảm ơn đã giải thích rõ! Mình lấy lốc này."
+    }
+  ]
+}

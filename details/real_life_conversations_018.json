@@ -1,0 +1,149 @@
+{
+  "lesson_id": "real_life_conversations_018",
+  "title": "The neighbor's music is too loud tonight",
+  "category": "Real-Life Conversations",
+  "level": "Elementary",
+  "videoConfig": {
+    "url": "https://raw.githubusercontent.com/Mom1881990/resources/main/videos/real_life_conversations_018.mp4",
+    "thumb": "https://raw.githubusercontent.com/Mom1881990/resources/main/images/real_life_conversations_018.jpg",
+    "mute_original": false
+  },
+  "characters": [
+    {
+      "id": "A",
+      "name": "Jake",
+      "tts_voice": "en-US-AndrewNeural"
+    },
+    {
+      "id": "B",
+      "name": "Ryan",
+      "tts_voice": "en-US-BrianNeural"
+    },
+    {
+      "id": "C",
+      "name": "Neighbor",
+      "tts_voice": "en-US-DavisNeural"
+    }
+  ],
+  "dialogues": [
+    {
+      "role": "B",
+      "start_time": 2.633,
+      "end_time": 8.066,
+      "en": "The neighbor's music's too loud tonight. I can't even hear myself think!",
+      "vi": "Nhạc của hàng xóm to quá tối nay. Tôi thậm chí không thể nghe thấy mình nghĩ!"
+    },
+    {
+      "role": "A",
+      "start_time": 8.066,
+      "end_time": 9.966,
+      "en": "What?! I can't hear you!",
+      "vi": "Cái gì?! Tôi không nghe được bạn!"
+    },
+    {
+      "role": "B",
+      "start_time": 10.600,
+      "end_time": 13.700,
+      "en": "I said the neighbor's music is too loud!",
+      "vi": "Tôi nói nhạc của hàng xóm to quá!"
+    },
+    {
+      "role": "A",
+      "start_time": 14.800,
+      "end_time": 17.666,
+      "en": "Should we go over there and ask them to turn it down?",
+      "vi": "Chúng ta có nên qua đó bảo họ nhỏ lại không?"
+    },
+    {
+      "role": "B",
+      "start_time": 18.500,
+      "end_time": 23.900,
+      "en": "I don't know... They seem kind of scary. What if they get mad?",
+      "vi": "Tôi không biết... Họ trông hơi đáng sợ. Nếu họ nổi giận thì sao?"
+    },
+    {
+      "role": "A",
+      "start_time": 24.500,
+      "end_time": 27.733,
+      "en": "You're right. Let's try earplugs instead.",
+      "vi": "Bạn đúng. Thay vào đó hãy thử bịt tai đi."
+    },
+    {
+      "role": "B",
+      "start_time": 28.633,
+      "end_time": 32.133,
+      "en": "Ah, much better! I can't hear the music now.",
+      "vi": "À, tốt hơn nhiều! Bây giờ tôi không nghe thấy nhạc nữa."
+    },
+    {
+      "role": "A",
+      "start_time": 32.833,
+      "end_time": 36.666,
+      "en": "Huh? What did you say? I can't hear you at all with these in!",
+      "vi": "Hả? Bạn nói gì? Tôi không nghe được gì hết với cái này!"
+    },
+    {
+      "role": "B",
+      "start_time": 37.100,
+      "end_time": 39.200,
+      "en": "I said I can't hear the music.",
+      "vi": "Tôi nói tôi không nghe thấy nhạc."
+    },
+    {
+      "role": "A",
+      "start_time": 40.100,
+      "end_time": 42.100,
+      "en": "What?! You're sick?!",
+      "vi": "Cái gì?! Bạn bị ốm hả?!"
+    },
+    {
+      "role": "B",
+      "start_time": 42.766,
+      "end_time": 47.766,
+      "en": "No! Music! M-U-S-I-C!",
+      "vi": "Không! Nhạc! M-U-S-I-C!"
+    },
+    {
+      "role": "A",
+      "start_time": 48.633,
+      "end_time": 49.600,
+      "en": "What music?",
+      "vi": "Nhạc gì?"
+    },
+    {
+      "role": "B",
+      "start_time": 50.666,
+      "end_time": 52.333,
+      "en": "The neighbor's music!",
+      "vi": "Nhạc của hàng xóm!"
+    },
+    {
+      "role": "A",
+      "start_time": 53.700,
+      "end_time": 57.266,
+      "en": "This is ridiculous. We can't talk to each other now!",
+      "vi": "Thật vô lý. Bây giờ chúng ta không thể nói chuyện với nhau được!"
+    },
+    {
+      "role": "B",
+      "start_time": 57.633,
+      "end_time": 61.133,
+      "en": "Yeah... wait, did someone just ring the doorbell?",
+      "vi": "Ừ... khoan, vừa có ai bấm chuông cửa hả?"
+    },
+    {
+      "role": "B",
+      "start_time": 64.266,
+      "end_time": 66.966,
+      "en": "Uh, hey, can I help you?",
+      "vi": "Ờ, chào, tôi có thể giúp gì không?"
+    },
+    {
+      "role": "C",
+      "start_time": 67.633,
+      "end_time": 76.866,
+      "en": "Hey guys, we've been trying to enjoy our party, but you two have been yelling for like 10 minutes straight. Do you mind keeping it down?",
+      "vi": "Này các bạn, chúng tôi đang cố tận hưởng buổi tiệc, nhưng hai người đã hét lên khoảng 10 phút liền. Các bạn có thể nhỏ lại được không?"
+    }
+  ]
+}

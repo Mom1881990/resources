@@ -1,0 +1,151 @@
+{
+  "lesson_id": "real_life_conversations_012",
+  "title": "I started learning guitar last month",
+  "category": "Real-Life Conversations",
+  "level": "Elementary",
+  "videoConfig": {
+    "url": "https://raw.githubusercontent.com/Mom1881990/resources/main/videos/real_life_conversations_012.mp4",
+    "thumb": "https://raw.githubusercontent.com/Mom1881990/resources/main/images/real_life_conversations_012.jpg",
+    "mute_original": false
+  },
+  "characters": [
+    {
+      "id": "A",
+      "name": "Alex",
+      "tts_voice": "en-US-AndrewNeural"
+    },
+    {
+      "id": "B",
+      "name": "Sam",
+      "tts_voice": "en-US-BrianNeural"
+    }
+  ],
+  "dialogues": [
+    {
+      "role": "A",
+      "start_time": 2.166,
+      "end_time": 4.666,
+      "en": "Dude, what happened to your fingers?",
+      "vi": "Này, ngón tay cậu bị gì vậy?"
+    },
+    {
+      "role": "B",
+      "start_time": 5.766,
+      "end_time": 9.000,
+      "en": "Oh, nothing major. Just from playing guitar.",
+      "vi": "Ồ, không có gì nghiêm trọng. Chỉ do chơi guitar thôi."
+    },
+    {
+      "role": "A",
+      "start_time": 9.766,
+      "end_time": 12.266,
+      "en": "You play guitar? Since when?",
+      "vi": "Cậu chơi guitar á? Từ bao giờ vậy?"
+    },
+    {
+      "role": "B",
+      "start_time": 13.200,
+      "end_time": 15.766,
+      "en": "I started learning guitar last month.",
+      "vi": "Mình bắt đầu học guitar từ tháng trước."
+    },
+    {
+      "role": "A",
+      "start_time": 17.700,
+      "end_time": 21.366,
+      "en": "Cool! I just started piano last month too.",
+      "vi": "Hay quá! Mình cũng vừa bắt đầu học piano tháng trước."
+    },
+    {
+      "role": "B",
+      "start_time": 22.000,
+      "end_time": 24.500,
+      "en": "Really? We should start a band!",
+      "vi": "Thật á? Chúng ta nên lập một ban nhạc đi!"
+    },
+    {
+      "role": "A",
+      "start_time": 25.500,
+      "end_time": 29.366,
+      "en": "Not so fast, man. I still get confused reading sheet music.",
+      "vi": "Từ từ đã, bạn ơi. Mình vẫn còn bị rối khi đọc bản nhạc."
+    },
+    {
+      "role": "B",
+      "start_time": 30.266,
+      "end_time": 33.666,
+      "en": "Fair enough. I'm still trying to remember all the chords.",
+      "vi": "Cũng phải. Mình vẫn đang cố nhớ hết các hợp âm."
+    },
+    {
+      "role": "A",
+      "start_time": 34.466,
+      "end_time": 37.000,
+      "en": "Hey, what if we made it a challenge?",
+      "vi": "Này, nếu chúng ta biến nó thành một thử thách thì sao?"
+    },
+    {
+      "role": "B",
+      "start_time": 37.866,
+      "end_time": 40.500,
+      "en": "A challenge? Like what?",
+      "vi": "Thử thách? Như thế nào?"
+    },
+    {
+      "role": "A",
+      "start_time": 41.066,
+      "end_time": 43.800,
+      "en": "In one month, we'll see who plays better.",
+      "vi": "Trong một tháng, chúng ta sẽ xem ai chơi giỏi hơn."
+    },
+    {
+      "role": "B",
+      "start_time": 44.366,
+      "end_time": 46.866,
+      "en": "And how do we figure that out?",
+      "vi": "Vậy làm sao để biết được?"
+    },
+    {
+      "role": "A",
+      "start_time": 47.433,
+      "end_time": 49.466,
+      "en": "Let our friends be the judges.",
+      "vi": "Để bạn bè làm trọng tài."
+    },
+    {
+      "role": "B",
+      "start_time": 50.700,
+      "end_time": 53.533,
+      "en": "Alright, sounds fun. What does the winner get?",
+      "vi": "Được, nghe vui đấy. Người thắng được gì?"
+    },
+    {
+      "role": "A",
+      "start_time": 54.166,
+      "end_time": 58.466,
+      "en": "One month of free coffee at their favorite café, paid for by the loser.",
+      "vi": "Một tháng cà phê miễn phí ở quán yêu thích, do người thua trả tiền."
+    },
+    {
+      "role": "B",
+      "start_time": 59.200,
+      "end_time": 63.100,
+      "en": "That's... a bit much, don't you think? Any other ideas?",
+      "vi": "Thế thì... hơi quá đà rồi, cậu không nghĩ vậy sao? Còn ý tưởng nào khác không?"
+    },
+    {
+      "role": "A",
+      "start_time": 64.033,
+      "end_time": 68.066,
+      "en": "Okay, fine. The winner gets to see the loser's browser history.",
+      "vi": "Thôi được. Người thắng được xem lịch sử trình duyệt của người thua."
+    },
+    {
+      "role": "B",
+      "start_time": 68.866,
+      "end_time": 72.566,
+      "en": "So, about that coffee deal, is there a price cap?",
+      "vi": "Vậy còn vụ cà phê kia, có giới hạn giá không?"
+    }
+  ]
+}

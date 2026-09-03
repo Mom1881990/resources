@@ -1,0 +1,130 @@
+{
+  "lesson_id": "real_life_conversations_003",
+  "title": "Dad taught me how to ride a bike when i was seven",
+  "category": "Real-Life Conversations",
+  "level": "Elementary",
+  "videoConfig": {
+    "url": "https://raw.githubusercontent.com/Mom1881990/resources/main/videos/real_life_conversations_003.mp4",
+    "thumb": "https://raw.githubusercontent.com/Mom1881990/resources/main/images/real_life_conversations_003.jpg",
+    "mute_original": false
+  },
+  "characters": [
+    {
+      "id": "A",
+      "name": "Woman",
+      "tts_voice": "en-US-JennyNeural"
+    },
+    {
+      "id": "B",
+      "name": "Man",
+      "tts_voice": "en-US-AndrewNeural"
+    }
+  ],
+  "dialogues": [
+    {
+      "role": "B",
+      "start_time": 3.366,
+      "end_time": 6.166,
+      "en": "Man, I haven't ridden a bike in years.",
+      "vi": "Trời, mình chưa đạp xe được mấy năm rồi."
+    },
+    {
+      "role": "A",
+      "start_time": 6.800,
+      "end_time": 14.166,
+      "en": "Dad taught me how to ride a bike when I was seven. Swore he wouldn't let go... then I was on my own.",
+      "vi": "Bố dạy mình đạp xe khi mình bảy tuổi. Thề là không buông tay... rồi mình tự đạp một mình."
+    },
+    {
+      "role": "B",
+      "start_time": 15.100,
+      "end_time": 17.200,
+      "en": "Haha, classic dad move.",
+      "vi": "Haha, kiểu bố điển hình."
+    },
+    {
+      "role": "A",
+      "start_time": 17.900,
+      "end_time": 23.766,
+      "en": "He ran beside me the whole time... until I realized he'd let go like five minutes earlier.",
+      "vi": "Ông ấy chạy bên cạnh mình suốt... đến khi mình nhận ra ông ấy đã buông tay từ năm phút trước rồi."
+    },
+    {
+      "role": "B",
+      "start_time": 24.500,
+      "end_time": 31.733,
+      "en": "Same! I was yelling \"Don't let go!\" like I was in a horror movie. Then BAM, hello rose bush.",
+      "vi": "Giống luôn! Mình hét \"Đừng buông!\" như đang trong phim kinh dị. Rồi BÙM, chào bụi hoa hồng."
+    },
+    {
+      "role": "A",
+      "start_time": 32.566,
+      "end_time": 37.866,
+      "en": "At least you had a bush. I hit a lamp post. Still got the scar to prove it.",
+      "vi": "Ít ra bạn còn có bụi cây. Mình thì đâm vào cột đèn. Vẫn còn sẹo để chứng minh."
+    },
+    {
+      "role": "B",
+      "start_time": 39.500,
+      "end_time": 42.966,
+      "en": "The lamp post really said, \"Welcome to physics, kid.\"",
+      "vi": "Cột đèn như nói: \"Chào mừng đến với vật lý, nhóc.\""
+    },
+    {
+      "role": "A",
+      "start_time": 44.033,
+      "end_time": 47.733,
+      "en": "Yeah? I saw stars, and not the Disney kind.",
+      "vi": "Ừ hả? Mình thấy sao, mà không phải kiểu Disney đâu."
+    },
+    {
+      "role": "B",
+      "start_time": 48.233,
+      "end_time": 51.100,
+      "en": "I once rode straight into a parked car...",
+      "vi": "Có lần mình đạp thẳng vào một chiếc xe đang đậu..."
+    },
+    {
+      "role": "A",
+      "start_time": 51.666,
+      "end_time": 55.066,
+      "en": "Okay. That's impressive. And are you okay?",
+      "vi": "Được rồi. Ấn tượng đấy. Còn bạn thì ổn chứ?"
+    },
+    {
+      "role": "B",
+      "start_time": 55.633,
+      "end_time": 60.766,
+      "en": "I'm fine, but I'm telling you, when we were kids, we weren't scared of anything.",
+      "vi": "Mình ổn, nhưng nói thật, hồi nhỏ chúng ta chẳng sợ gì cả."
+    },
+    {
+      "role": "A",
+      "start_time": 61.700,
+      "end_time": 65.500,
+      "en": "Uh-huh, we crashed into the world like it was part of the game.",
+      "vi": "Ừ, chúng ta đâm vào thế giới như thể đó là một phần của trò chơi."
+    },
+    {
+      "role": "B",
+      "start_time": 66.000,
+      "end_time": 68.100,
+      "en": "Wanna go ride again sometime?",
+      "vi": "Muốn đi đạp xe lại lúc nào không?"
+    },
+    {
+      "role": "A",
+      "start_time": 68.700,
+      "end_time": 71.566,
+      "en": "Only if we stop for ice cream halfway.",
+      "vi": "Chỉ khi nào chúng ta dừng mua kem giữa đường thôi."
+    },
+    {
+      "role": "B",
+      "start_time": 72.266,
+      "end_time": 73.066,
+      "en": "Alright.",
+      "vi": "Được thôi."
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "lesson_id": "real_life_conversations_019",
+  "title": "Visiting grandparents",
+  "category": "Real-Life Conversations",
+  "level": "Elementary",
+  "videoConfig": {
+    "url": "https://raw.githubusercontent.com/Mom1881990/resources/main/videos/real_life_conversations_019.mp4",
+    "thumb": "https://raw.githubusercontent.com/Mom1881990/resources/main/images/real_life_conversations_019.jpg",
+    "mute_original": false
+  },
+  "characters": [
+    {
+      "id": "A",
+      "name": "Alex",
+      "tts_voice": "en-US-AndrewNeural"
+    },
+    {
+      "id": "B",
+      "name": "Emma",
+      "tts_voice": "en-US-JennyNeural"
+    },
+    {
+      "id": "C",
+      "name": "Leo",
+      "tts_voice": "en-US-BrianNeural"
+    }
+  ],
+  "dialogues": [
+    {
+      "role": "C",
+      "start_time": 6.566,
+      "end_time": 9.766,
+      "en": "Visiting grandparents this weekend. Can't wait!",
+      "vi": "Cuối tuần này đi thăm ông bà. Không thể chờ được!"
+    },
+    {
+      "role": "B",
+      "start_time": 10.566,
+      "end_time": 16.733,
+      "en": "Lucky! I haven't seen my grandma in months. I miss her chicken soup.",
+      "vi": "May quá! Mình chưa gặp bà ngoại mấy tháng rồi. Nhớ món súp gà của bà lắm."
+    },
+    {
+      "role": "C",
+      "start_time": 17.233,
+      "end_time": 24.266,
+      "en": "My grandma makes the best chicken soup. Says it's the \"love,\" but really? It's the entire stick of butter.",
+      "vi": "Bà ngoại mình nấu súp gà ngon nhất. Bà bảo là vì \"tình yêu,\" nhưng thật ra? Là cả thanh bơ đấy."
+    },
+    {
+      "role": "A",
+      "start_time": 24.666,
+      "end_time": 31.533,
+      "en": "My grandpa once gave me a potato as a gift. Just... one potato. Said it had \"character.\"",
+      "vi": "Ông ngoại mình từng tặng mình một củ khoai tây làm quà. Chỉ... một củ thôi. Ông bảo nó có \"cá tính.\""
+    },
+    {
+      "role": "B",
+      "start_time": 32.166,
+      "end_time": 34.200,
+      "en": "Maybe it was a lucky potato!",
+      "vi": "Biết đâu là củ khoai may mắn!"
+    },
+    {
+      "role": "A",
+      "start_time": 34.833,
+      "end_time": 38.533,
+      "en": "I named it Greg. He lived on my shelf for two weeks.",
+      "vi": "Mình đặt tên nó là Greg. Nó sống trên kệ của mình hai tuần."
+    },
+    {
+      "role": "B",
+      "start_time": 39.166,
+      "end_time": 40.733,
+      "en": "What happened to Greg?",
+      "vi": "Greg thế nào rồi?"
+    },
+    {
+      "role": "A",
+      "start_time": 41.266,
+      "end_time": 43.900,
+      "en": "He sprouted. May he rest in peace.",
+      "vi": "Nó nảy mầm. Cầu cho nó yên nghỉ."
+    },
+    {
+      "role": "C",
+      "start_time": 44.566,
+      "end_time": 51.000,
+      "en": "Grandparents are wild. One minute it's hugs, next minute it's lectures about \"kids these days.\"",
+      "vi": "Ông bà thì thật kỳ lạ. Một phút thì ôm hôn, phút sau lại giảng đạo về \"trẻ ngày nay.\""
+    },
+    {
+      "role": "B",
+      "start_time": 51.566,
+      "end_time": 56.300,
+      "en": "Mine once asked, \"Why are your jeans so ripped? Did you fall down?\"",
+      "vi": "Bà mình từng hỏi: \"Sao quần jean của cháu rách thế? Cháu bị ngã à?\""
+    },
+    {
+      "role": "C",
+      "start_time": 56.300,
+      "end_time": 59.333,
+      "en": "\"In my day, jeans came whole!\"",
+      "vi": "\"Thời của ông, quần jean còn nguyên vẹn!\""
+    },
+    {
+      "role": "A",
+      "start_time": 60.000,
+      "end_time": 64.533,
+      "en": "Still, I love visiting them. They feed you like you've been starving.",
+      "vi": "Dù sao mình vẫn thích đi thăm họ. Họ cho ăn như thể mình đang đói lả vậy."
+    },
+    {
+      "role": "B",
+      "start_time": 65.233,
+      "end_time": 69.600,
+      "en": "And the best part? No school talk after dessert. No homework.",
+      "vi": "Và phần tuyệt nhất? Ăn tráng miệng xong không ai nói chuyện học hành. Không bài tập về nhà."
+    },
+    {
+      "role": "C",
+      "start_time": 69.600,
+      "end_time": 74.266,
+      "en": "Unless you count grandpa's \"back in my day\" speeches as history classes.",
+      "vi": "Trừ khi bạn tính những bài diễn thuyết \"thời của ông\" của ông nội là giờ lịch sử."
+    }
+  ]
+}

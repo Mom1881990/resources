@@ -1,0 +1,137 @@
+{
+  "lesson_id": "real_life_conversations_011",
+  "title": "I should schedule my annual checkup soon",
+  "category": "Real-Life Conversations",
+  "level": "Elementary",
+  "videoConfig": {
+    "url": "https://raw.githubusercontent.com/Mom1881990/resources/main/videos/real_life_conversations_011.mp4",
+    "thumb": "https://raw.githubusercontent.com/Mom1881990/resources/main/images/real_life_conversations_011.jpg",
+    "mute_original": false
+  },
+  "characters": [
+    {
+      "id": "A",
+      "name": "Employee",
+      "tts_voice": "en-US-AriaNeural"
+    },
+    {
+      "id": "B",
+      "name": "Jodie",
+      "tts_voice": "en-US-JennyNeural"
+    }
+  ],
+  "dialogues": [
+    {
+      "role": "A",
+      "start_time": 1.700,
+      "end_time": 4.766,
+      "en": "I think I need to sit down for a minute.",
+      "vi": "Mình nghĩ mình cần ngồi xuống một chút."
+    },
+    {
+      "role": "B",
+      "start_time": 5.666,
+      "end_time": 8.333,
+      "en": "What's going on? Are you feeling okay?",
+      "vi": "Chuyện gì vậy? Cậu có ổn không?"
+    },
+    {
+      "role": "A",
+      "start_time": 9.233,
+      "end_time": 12.866,
+      "en": "Not really. I've just been feeling off lately.",
+      "vi": "Không hẳn. Dạo này mình thấy hơi không ổn."
+    },
+    {
+      "role": "B",
+      "start_time": 13.766,
+      "end_time": 14.500,
+      "en": "Like what?",
+      "vi": "Kiểu như thế nào?"
+    },
+    {
+      "role": "A",
+      "start_time": 14.500,
+      "end_time": 19.800,
+      "en": "I'm tired all the time, even though I'm getting eight hours of sleep.",
+      "vi": "Mình lúc nào cũng mệt, dù ngủ đủ tám tiếng."
+    },
+    {
+      "role": "B",
+      "start_time": 20.566,
+      "end_time": 23.566,
+      "en": "That doesn't sound good. Anything else?",
+      "vi": "Nghe không ổn chút nào. Còn gì nữa không?"
+    },
+    {
+      "role": "A",
+      "start_time": 24.100,
+      "end_time": 29.866,
+      "en": "I've been getting headaches almost every day, and I feel dizzy when I stand up too fast.",
+      "vi": "Mình bị đau đầu gần như mỗi ngày, và chóng mặt khi đứng dậy quá nhanh."
+    },
+    {
+      "role": "B",
+      "start_time": 30.566,
+      "end_time": 33.900,
+      "en": "That's worrying. You're usually full of energy.",
+      "vi": "Đáng lo đấy. Bình thường cậu đầy năng lượng mà."
+    },
+    {
+      "role": "A",
+      "start_time": 34.766,
+      "end_time": 38.500,
+      "en": "I know. I should schedule my annual checkup soon.",
+      "vi": "Mình biết. Mình nên đặt lịch khám sức khỏe định kỳ sớm thôi."
+    },
+    {
+      "role": "B",
+      "start_time": 39.200,
+      "end_time": 41.066,
+      "en": "Yeah, that's a good idea.",
+      "vi": "Ừ, ý kiến hay đó."
+    },
+    {
+      "role": "A",
+      "start_time": 41.800,
+      "end_time": 45.000,
+      "en": "Do you think it's okay if I leave a little early today?",
+      "vi": "Cậu nghĩ hôm nay mình về sớm một chút được không?"
+    },
+    {
+      "role": "B",
+      "start_time": 45.566,
+      "end_time": 48.566,
+      "en": "Honestly, you should go home and rest now.",
+      "vi": "Thành thật mà nói, cậu nên về nhà nghỉ ngay đi."
+    },
+    {
+      "role": "A",
+      "start_time": 49.066,
+      "end_time": 51.400,
+      "en": "But aren't we short-staffed today?",
+      "vi": "Nhưng hôm nay mình đang thiếu người mà?"
+    },
+    {
+      "role": "B",
+      "start_time": 52.166,
+      "end_time": 60.266,
+      "en": "We'll be fine. Honestly, being short-staffed is better than being short-staffed and having to deal with someone who's fainted.",
+      "vi": "Mọi người sẽ ổn thôi. Thành thật mà nói, thiếu người còn hơn là thiếu người mà còn phải xử lý người bị ngất."
+    },
+    {
+      "role": "A",
+      "start_time": 61.100,
+      "end_time": 62.200,
+      "en": "Thanks, Jodie.",
+      "vi": "Cảm ơn Jodie."
+    },
+    {
+      "role": "B",
+      "start_time": 62.966,
+      "end_time": 65.066,
+      "en": "Anytime! Take care of yourself.",
+      "vi": "Không có gì! Bảo trọng nhé."
+    }
+  ]
+}

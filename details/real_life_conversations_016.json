@@ -1,0 +1,102 @@
+{
+  "lesson_id": "real_life_conversations_016",
+  "title": "Outdoor hobbies",
+  "category": "Real-Life Conversations",
+  "level": "Elementary",
+  "videoConfig": {
+    "url": "https://raw.githubusercontent.com/Mom1881990/resources/main/videos/real_life_conversations_016.mp4",
+    "thumb": "https://raw.githubusercontent.com/Mom1881990/resources/main/images/real_life_conversations_016.jpg",
+    "mute_original": false
+  },
+  "characters": [
+    {
+      "id": "A",
+      "name": "Ryan",
+      "tts_voice": "en-US-AndrewNeural"
+    },
+    {
+      "id": "B",
+      "name": "Emma",
+      "tts_voice": "en-US-JennyNeural"
+    }
+  ],
+  "dialogues": [
+    {
+      "role": "A",
+      "start_time": 3.766,
+      "end_time": 7.533,
+      "en": "Wow. Who knew walking in the morning could be so nice?",
+      "vi": "Wow. Ai mà ngờ đi bộ buổi sáng lại dễ chịu đến vậy?"
+    },
+    {
+      "role": "B",
+      "start_time": 8.366,
+      "end_time": 13.766,
+      "en": "Told you! Nothing beats the fresh air and green trees. It really wakes you up.",
+      "vi": "Tớ bảo mà! Không gì bằng không khí trong lành và cây xanh. Nó thật sự giúp tỉnh táo."
+    },
+    {
+      "role": "A",
+      "start_time": 14.300,
+      "end_time": 19.733,
+      "en": "It really does. Are you more of a walker, or do you have other outdoor stuff?",
+      "vi": "Đúng vậy. Cậu thích đi bộ hơn, hay còn làm các hoạt động ngoài trời khác?"
+    },
+    {
+      "role": "B",
+      "start_time": 20.366,
+      "end_time": 25.900,
+      "en": "I hike a lot, usually on weekends. Gotta balance out all that sitting in meetings, you know?",
+      "vi": "Tớ hay đi bộ đường dài, thường vào cuối tuần. Phải cân bằng lại với việc ngồi họp liên tục ấy."
+    },
+    {
+      "role": "A",
+      "start_time": 26.500,
+      "end_time": 33.333,
+      "en": "Oh man, I tried hiking once. Ten minutes in I was like, \"Yep, a taxi would be great right now.\"",
+      "vi": "Ôi trời, tớ từng thử đi bộ đường dài một lần. Mười phút sau tớ nghĩ: \"Ừ, lúc này có taxi thì tuyệt.\""
+    },
+    {
+      "role": "A",
+      "start_time": 34.000,
+      "end_time": 40.200,
+      "en": "I love cycling though, but it can get a bit boring when I don't have anyone to join me.",
+      "vi": "Nhưng tớ thích đạp xe. Chỉ là hơi nhàm khi không có ai đi cùng."
+    },
+    {
+      "role": "B",
+      "start_time": 40.600,
+      "end_time": 44.933,
+      "en": "Wait, I just got into cycling too. And I've been looking for a partner.",
+      "vi": "Khoan đã, tớ cũng mới bắt đầu đạp xe. Và đang tìm người đi cùng."
+    },
+    {
+      "role": "A",
+      "start_time": 45.566,
+      "end_time": 49.066,
+      "en": "Oh! How about we go cycling together this Sunday?",
+      "vi": "Ồ! Sao mình không đạp xe cùng nhau vào Chủ nhật này nhỉ?"
+    },
+    {
+      "role": "B",
+      "start_time": 49.766,
+      "end_time": 53.400,
+      "en": "I'm free on that day. We can grab coffee first and then go.",
+      "vi": "Hôm đó tớ rảnh. Mình có thể uống cà phê trước rồi mới đi."
+    },
+    {
+      "role": "A",
+      "start_time": 54.166,
+      "end_time": 57.600,
+      "en": "Deal! If you can keep up, brunch is on me.",
+      "vi": "Được luôn! Nếu cậu theo kịp thì brunch tớ đãi."
+    },
+    {
+      "role": "B",
+      "start_time": 58.000,
+      "end_time": 59.600,
+      "en": "Oh, you're on!",
+      "vi": "Ồ, nhận lời!"
+    }
+  ]
+}

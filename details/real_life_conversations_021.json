@@ -1,0 +1,114 @@
+{
+  "lesson_id": "real_life_conversations_021",
+  "title": "Where can I find a shopping basket",
+  "category": "Real-Life Conversations",
+  "level": "Elementary",
+  "videoConfig": {
+    "url": "https://raw.githubusercontent.com/Mom1881990/resources/main/videos/real_life_conversations_021.mp4",
+    "thumb": "https://raw.githubusercontent.com/Mom1881990/resources/main/images/real_life_conversations_021.jpg",
+    "mute_original": false
+  },
+  "characters": [
+    {
+      "id": "A",
+      "name": "Emma",
+      "tts_voice": "en-US-JennyNeural"
+    },
+    {
+      "id": "B",
+      "name": "Ryan",
+      "tts_voice": "en-US-BrianNeural"
+    },
+    {
+      "id": "C",
+      "name": "Cashier",
+      "tts_voice": "en-US-AriaNeural"
+    }
+  ],
+  "dialogues": [
+    {
+      "role": "A",
+      "start_time": 1.400,
+      "end_time": 8.733,
+      "en": "We need pasta, sauce, cheese, and a lot of other stuff. This might take a while.",
+      "vi": "Chúng ta cần mì ống, sốt, phô mai và rất nhiều thứ khác. Có lẽ sẽ mất một lúc đấy."
+    },
+    {
+      "role": "B",
+      "start_time": 9.466,
+      "end_time": 12.366,
+      "en": "Oh... I should've grabbed a shopping basket.",
+      "vi": "Ồ... Anh lẽ ra nên lấy một cái giỏ mua hàng."
+    },
+    {
+      "role": "A",
+      "start_time": 13.166,
+      "end_time": 14.733,
+      "en": "Bro, you didn't?",
+      "vi": "Anh, anh không lấy à?"
+    },
+    {
+      "role": "B",
+      "start_time": 15.600,
+      "end_time": 21.600,
+      "en": "Uh... I'll go find one. You stay here and find whatever Mom told us to buy.",
+      "vi": "Ừ... Anh đi tìm một cái. Em ở đây tìm những thứ mẹ bảo mình mua nhé."
+    },
+    {
+      "role": "B",
+      "start_time": 24.966,
+      "end_time": 29.533,
+      "en": "Sorry to bother you. I was wondering, where can I find a shopping basket?",
+      "vi": "Xin lỗi vì làm phiền. Tôi muốn hỏi, tôi có thể tìm giỏ mua hàng ở đâu ạ?"
+    },
+    {
+      "role": "C",
+      "start_time": 30.300,
+      "end_time": 32.000,
+      "en": "Did you come in the main doors?",
+      "vi": "Bạn vào cửa chính phải không?"
+    },
+    {
+      "role": "C",
+      "start_time": 33.200,
+      "end_time": 36.266,
+      "en": "They're usually right by the entrance next to the carts.",
+      "vi": "Chúng thường ở ngay lối vào, cạnh xe đẩy."
+    },
+    {
+      "role": "B",
+      "start_time": 37.300,
+      "end_time": 41.933,
+      "en": "Yeah, I did. I think... I must have missed them.",
+      "vi": "Vâng, tôi có. Tôi nghĩ... chắc mình đã bỏ lỡ chúng."
+    },
+    {
+      "role": "C",
+      "start_time": 42.600,
+      "end_time": 47.400,
+      "en": "It's alright. Let me grab one for you. They're just over here, to the left of the automatic doors.",
+      "vi": "Không sao đâu. Để tôi lấy một cái cho bạn. Chúng ở ngay bên kia, bên trái cửa tự động."
+    },
+    {
+      "role": "B",
+      "start_time": 48.233,
+      "end_time": 51.466,
+      "en": "Oh my gosh! Thank you, thank you so much!",
+      "vi": "Ôi trời ơi! Cảm ơn, cảm ơn nhiều lắm ạ!"
+    },
+    {
+      "role": "B",
+      "start_time": 55.300,
+      "end_time": 59.966,
+      "en": "Really, sis? Two minutes and you're already taking half the supermarket?",
+      "vi": "Thật sao em? Chỉ hai phút mà em đã lấy nửa siêu thị rồi à?"
+    },
+    {
+      "role": "A",
+      "start_time": 60.800,
+      "end_time": 62.733,
+      "en": "I told you we need a lot.",
+      "vi": "Em đã bảo là mình cần nhiều mà."
+    }
+  ]
+}

@@ -1,0 +1,158 @@
+{
+  "lesson_id": "real_life_conversations_023",
+  "title": "Wordplay",
+  "category": "Real-Life Conversations",
+  "level": "Elementary",
+  "videoConfig": {
+    "url": "https://raw.githubusercontent.com/Mom1881990/resources/main/videos/real_life_conversations_023.mp4",
+    "thumb": "https://raw.githubusercontent.com/Mom1881990/resources/main/images/real_life_conversations_023.jpg",
+    "mute_original": false
+  },
+  "characters": [
+    {
+      "id": "A",
+      "name": "Liam",
+      "tts_voice": "en-US-BrianNeural"
+    },
+    {
+      "id": "B",
+      "name": "Kelly",
+      "tts_voice": "en-US-JennyNeural"
+    }
+  ],
+  "dialogues": [
+    {
+      "role": "A",
+      "start_time": 0.266,
+      "end_time": 2.600,
+      "en": "Excuse me... are you tea?",
+      "vi": "Xin lỗi... bạn có phải là trà không?"
+    },
+    {
+      "role": "B",
+      "start_time": 3.600,
+      "end_time": 8.900,
+      "en": "Uh... no. That's not my name. Why?",
+      "vi": "Ừ... không. Đó không phải tên tôi. Tại sao?"
+    },
+    {
+      "role": "A",
+      "start_time": 9.666,
+      "end_time": 17.366,
+      "en": "Because you're pretty, cutie, a whole lot of beauty, and now I'm very thirsty.",
+      "vi": "Vì bạn rất xinh, dễ thương, cả một bầu trời đẹp, và giờ tôi đang rất khát."
+    },
+    {
+      "role": "B",
+      "start_time": 18.833,
+      "end_time": 24.566,
+      "en": "Okay, wow, that was smooth. You did catch me off guard!",
+      "vi": "Okay, wow, mượt đấy. Cậu làm mình bất ngờ thật!"
+    },
+    {
+      "role": "A",
+      "start_time": 25.366,
+      "end_time": 27.333,
+      "en": "I'll take that as a compliment.",
+      "vi": "Mình coi đó là lời khen vậy."
+    },
+    {
+      "role": "B",
+      "start_time": 28.466,
+      "end_time": 30.566,
+      "en": "Where did you come up with that line?",
+      "vi": "Cậu nghĩ ra câu đó ở đâu vậy?"
+    },
+    {
+      "role": "A",
+      "start_time": 31.200,
+      "end_time": 34.666,
+      "en": "I might tell you if you let me buy you a drink.",
+      "vi": "Mình có thể nói nếu bạn để mình mua đồ uống cho bạn."
+    },
+    {
+      "role": "B",
+      "start_time": 35.466,
+      "end_time": 38.400,
+      "en": "Hmm... I think I can let that happen.",
+      "vi": "Hmm... mình nghĩ có thể đồng ý."
+    },
+    {
+      "role": "A",
+      "start_time": 39.300,
+      "end_time": 40.800,
+      "en": "Mind if I join you?",
+      "vi": "Mình ngồi cùng được không?"
+    },
+    {
+      "role": "B",
+      "start_time": 41.400,
+      "end_time": 43.200,
+      "en": "Go ahead. Have a seat.",
+      "vi": "Cứ tự nhiên. Ngồi đi."
+    },
+    {
+      "role": "A",
+      "start_time": 43.900,
+      "end_time": 45.700,
+      "en": "I'm Liam, by the way.",
+      "vi": "À, mình là Liam."
+    },
+    {
+      "role": "B",
+      "start_time": 46.433,
+      "end_time": 49.100,
+      "en": "Nice to meet you, Liam. I'm Kelly.",
+      "vi": "Rất vui được gặp cậu, Liam. Mình là Kelly."
+    },
+    {
+      "role": "A",
+      "start_time": 49.900,
+      "end_time": 54.266,
+      "en": "Pleasure's mine, Kelly. So, what do you usually order here?",
+      "vi": "Niềm vinh hạnh là của mình, Kelly. Vậy bạn thường gọi gì ở đây?"
+    },
+    {
+      "role": "B",
+      "start_time": 55.033,
+      "end_time": 61.133,
+      "en": "Mostly coffee. But after that tea pun, maybe I should try tea instead.",
+      "vi": "Chủ yếu là cà phê. Nhưng sau trò chơi chữ trà vừa rồi, có lẽ mình nên thử trà."
+    },
+    {
+      "role": "A",
+      "start_time": 61.800,
+      "end_time": 63.333,
+      "en": "How do you take your tea?",
+      "vi": "Bạn uống trà kiểu gì?"
+    },
+    {
+      "role": "B",
+      "start_time": 64.000,
+      "end_time": 65.500,
+      "en": "Like you.",
+      "vi": "Giống như cậu."
+    },
+    {
+      "role": "A",
+      "start_time": 65.500,
+      "end_time": 67.133,
+      "en": "Like me?",
+      "vi": "Giống mình á?"
+    },
+    {
+      "role": "B",
+      "start_time": 67.800,
+      "end_time": 70.300,
+      "en": "Yeah, hot and sweet.",
+      "vi": "Ừ, nóng và ngọt."
+    },
+    {
+      "role": "A",
+      "start_time": 71.200,
+      "end_time": 74.566,
+      "en": "Well, well, well, now that's a real good one!",
+      "vi": "Ồ, ồ, ồ, câu này hay thật đấy!"
+    }
+  ]
+}

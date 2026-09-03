@@ -1,0 +1,140 @@
+{
+  "lesson_id": "real_life_conversations_010",
+  "title": "I have three exams next week",
+  "category": "Real-Life Conversations",
+  "level": "Elementary",
+  "videoConfig": {
+    "url": "https://raw.githubusercontent.com/Mom1881990/resources/main/videos/real_life_conversations_010.mp4",
+    "thumb": "https://raw.githubusercontent.com/Mom1881990/resources/main/images/real_life_conversations_010.jpg",
+    "mute_original": false
+  },
+  "characters": [
+    {
+      "id": "A",
+      "name": "Dad",
+      "tts_voice": "en-US-AndrewNeural"
+    },
+    {
+      "id": "B",
+      "name": "Megan",
+      "tts_voice": "en-US-AriaNeural"
+    },
+    {
+      "id": "C",
+      "name": "Sister",
+      "tts_voice": "en-US-JennyNeural"
+    },
+    {
+      "id": "D",
+      "name": "Mom",
+      "tts_voice": "en-US-JennyNeural"
+    }
+  ],
+  "dialogues": [
+    {
+      "role": "A",
+      "start_time": 2.033,
+      "end_time": 4.066,
+      "en": "Megan, it's time to go!",
+      "vi": "Megan, đến giờ đi rồi!"
+    },
+    {
+      "role": "B",
+      "start_time": 4.766,
+      "end_time": 11.266,
+      "en": "Dad, I told you I can't go today. I have three exams next week.",
+      "vi": "Bố ơi, con đã nói là hôm nay con không đi được. Con có ba bài thi tuần sau."
+    },
+    {
+      "role": "C",
+      "start_time": 12.233,
+      "end_time": 14.900,
+      "en": "Same here, but I'm not stressing about it.",
+      "vi": "Em cũng vậy, nhưng em không stress về chuyện đó."
+    },
+    {
+      "role": "B",
+      "start_time": 15.300,
+      "end_time": 20.333,
+      "en": "Yeah, well... if I were a straight-C student like you, I wouldn't either.",
+      "vi": "Ừ, nếu chị cũng chỉ là học sinh toàn điểm C như em thì chị cũng chẳng lo."
+    },
+    {
+      "role": "C",
+      "start_time": 20.866,
+      "end_time": 22.933,
+      "en": "Hey, that's so mean!",
+      "vi": "Này, ác quá đi!"
+    },
+    {
+      "role": "D",
+      "start_time": 23.600,
+      "end_time": 26.933,
+      "en": "Megan, be nice to your sister.",
+      "vi": "Megan, nói chuyện với em gái lịch sự một chút."
+    },
+    {
+      "role": "B",
+      "start_time": 27.666,
+      "end_time": 34.566,
+      "en": "Listen, I just can't come today. And even if I could, I'd be way too stressed to enjoy it.",
+      "vi": "Nghe này, hôm nay chị không đi được. Và dù có đi được thì chị cũng stress quá để mà vui được."
+    },
+    {
+      "role": "C",
+      "start_time": 35.166,
+      "end_time": 36.966,
+      "en": "Well, she's not wrong.",
+      "vi": "Ừ, chị nói cũng không sai."
+    },
+    {
+      "role": "C",
+      "start_time": 37.666,
+      "end_time": 40.366,
+      "en": "Do you remember when we dragged her to that comedy movie?",
+      "vi": "Bố mẹ nhớ lần mình kéo chị đi xem phim hài không?"
+    },
+    {
+      "role": "A",
+      "start_time": 41.000,
+      "end_time": 43.566,
+      "en": "Oh yeah... right before her midterms.",
+      "vi": "Ồ đúng rồi... ngay trước kỳ thi giữa kỳ của con bé."
+    },
+    {
+      "role": "C",
+      "start_time": 44.833,
+      "end_time": 48.133,
+      "en": "She looked like she was watching a horror movie.",
+      "vi": "Trông chị ấy như đang xem phim kinh dị vậy."
+    },
+    {
+      "role": "B",
+      "start_time": 49.766,
+      "end_time": 53.200,
+      "en": "Okay, so we all agree. Have fun at the beach!",
+      "vi": "Ok, vậy mọi người đồng ý rồi. Chúc vui vẻ ở bãi biển nhé!"
+    },
+    {
+      "role": "A",
+      "start_time": 53.833,
+      "end_time": 54.866,
+      "en": "We will.",
+      "vi": "Cả nhà sẽ đi."
+    },
+    {
+      "role": "C",
+      "start_time": 55.433,
+      "end_time": 57.500,
+      "en": "And I'm bringing sunscreen!",
+      "vi": "Và em sẽ mang kem chống nắng!"
+    },
+    {
+      "role": "B",
+      "start_time": 58.400,
+      "end_time": 62.600,
+      "en": "Bring a miracle too. You'll need it for your exams next week.",
+      "vi": "Mang theo cả phép màu nữa. Em sẽ cần nó cho các bài thi tuần sau đấy."
+    }
+  ]
+}

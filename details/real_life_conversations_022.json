@@ -1,0 +1,116 @@
+{
+  "lesson_id": "real_life_conversations_022",
+  "title": "Which aisle is the on",
+  "category": "Real-Life Conversations",
+  "level": "Elementary",
+  "videoConfig": {
+    "url": "https://raw.githubusercontent.com/Mom1881990/resources/main/videos/real_life_conversations_022.mp4",
+    "thumb": "https://raw.githubusercontent.com/Mom1881990/resources/main/images/real_life_conversations_022.jpg",
+    "mute_original": false
+  },
+  "characters": [
+    {
+      "id": "A",
+      "name": "Ryan",
+      "tts_voice": "en-US-BrianNeural"
+    },
+    {
+      "id": "B",
+      "name": "Clerk",
+      "tts_voice": "en-US-AndrewNeural"
+    }
+  ],
+  "dialogues": [
+    {
+      "role": "A",
+      "start_time": 2.233,
+      "end_time": 6.533,
+      "en": "Hello, which aisle is the Ghost Pepper Cheese Puffs on?",
+      "vi": "Xin chào, Ghost Pepper Cheese Puffs ở lối nào ạ?"
+    },
+    {
+      "role": "B",
+      "start_time": 7.266,
+      "end_time": 12.266,
+      "en": "Ghost Pepper Cheese Puffs? They're on aisle 7 with the other snacks.",
+      "vi": "Ghost Pepper Cheese Puffs à? Chúng ở lối 7, cùng với các món snack khác."
+    },
+    {
+      "role": "A",
+      "start_time": 13.166,
+      "end_time": 14.900,
+      "en": "Ah, thank you.",
+      "vi": "À, cảm ơn anh."
+    },
+    {
+      "role": "A",
+      "start_time": 14.900,
+      "end_time": 20.666,
+      "en": "Um, have you ever tried them? My friend said they're incredibly hot.",
+      "vi": "Ừm, anh đã từng thử chưa? Bạn tôi nói chúng cực kỳ cay."
+    },
+    {
+      "role": "B",
+      "start_time": 21.433,
+      "end_time": 28.366,
+      "en": "Me? Never. But we once had a customer buy three bags. Let's just say he learned his lesson.",
+      "vi": "Tôi á? Chưa bao giờ. Nhưng lần nọ có khách mua đến ba túi. Cứ nói là anh ta đã học được bài học đi."
+    },
+    {
+      "role": "A",
+      "start_time": 29.066,
+      "end_time": 30.900,
+      "en": "Whoa, what happened?",
+      "vi": "Ồ, chuyện gì xảy ra vậy?"
+    },
+    {
+      "role": "B",
+      "start_time": 31.700,
+      "end_time": 37.800,
+      "en": "About 15 minutes after he bought them, he came back red-faced and crying, asking where the milk was.",
+      "vi": "Khoảng 15 phút sau khi mua, anh ta quay lại mặt đỏ bừng và khóc, hỏi sữa ở đâu."
+    },
+    {
+      "role": "A",
+      "start_time": 38.600,
+      "end_time": 40.866,
+      "en": "No way! Was he okay?",
+      "vi": "Không thể nào! Anh ta ổn chứ?"
+    },
+    {
+      "role": "B",
+      "start_time": 41.700,
+      "end_time": 43.300,
+      "en": "Oh, he was fine.",
+      "vi": "Ồ, anh ta ổn."
+    },
+    {
+      "role": "A",
+      "start_time": 43.300,
+      "end_time": 50.500,
+      "en": "I think maybe I should just get one bag. Or maybe not...",
+      "vi": "Tôi nghĩ có lẽ tôi chỉ nên lấy một túi thôi. Hoặc có lẽ không..."
+    },
+    {
+      "role": "B",
+      "start_time": 51.200,
+      "end_time": 55.566,
+      "en": "Well, the choice is yours! And the milk is in aisle 12 if you need it.",
+      "vi": "Thôi, quyết định là của bạn! Và sữa ở lối 12 nếu bạn cần."
+    },
+    {
+      "role": "A",
+      "start_time": 56.200,
+      "end_time": 60.900,
+      "en": "Thanks for the warning. I will grab some milk, just in case.",
+      "vi": "Cảm ơn vì đã cảnh báo. Tôi sẽ lấy thêm sữa, phòng hờ."
+    },
+    {
+      "role": "B",
+      "start_time": 61.600,
+      "end_time": 63.800,
+      "en": "Good luck, man. You're gonna need it.",
+      "vi": "Chúc may mắn nhé. Bạn sẽ cần đến đấy."
+    }
+  ]
+}

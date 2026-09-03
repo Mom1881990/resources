@@ -1,0 +1,123 @@
+{
+  "lesson_id": "real_life_conversations_007",
+  "title": "Hobbies in freetime",
+  "category": "Real-Life Conversations",
+  "level": "Elementary",
+  "videoConfig": {
+    "url": "https://raw.githubusercontent.com/Mom1881990/resources/main/videos/real_life_conversations_007.mp4",
+    "thumb": "https://raw.githubusercontent.com/Mom1881990/resources/main/images/real_life_conversations_007.jpg",
+    "mute_original": false
+  },
+  "characters": [
+    {
+      "id": "A",
+      "name": "Artist",
+      "tts_voice": "en-US-JennyNeural"
+    },
+    {
+      "id": "B",
+      "name": "Friend",
+      "tts_voice": "en-US-AriaNeural"
+    }
+  ],
+  "dialogues": [
+    {
+      "role": "B",
+      "start_time": 2.833,
+      "end_time": 5.466,
+      "en": "What are you doing so seriously?",
+      "vi": "Cậu đang làm gì nghiêm túc thế?"
+    },
+    {
+      "role": "A",
+      "start_time": 6.233,
+      "end_time": 9.900,
+      "en": "Shh! Don't talk. I'm drawing this vase.",
+      "vi": "Suỵt! Đừng nói. Mình đang vẽ cái bình này."
+    },
+    {
+      "role": "B",
+      "start_time": 11.000,
+      "end_time": 14.666,
+      "en": "Huh, didn't know you were an artist. That's really pretty.",
+      "vi": "Ồ, không ngờ cậu là họa sĩ. Đẹp thật đấy."
+    },
+    {
+      "role": "A",
+      "start_time": 15.200,
+      "end_time": 20.966,
+      "en": "It's just a hobby, it keeps me calm. When I paint, I forget all my deadlines.",
+      "vi": "Chỉ là sở thích thôi, nó giúp mình bình tĩnh. Khi vẽ, mình quên hết mọi deadline."
+    },
+    {
+      "role": "B",
+      "start_time": 21.800,
+      "end_time": 27.466,
+      "en": "So \"kitchen artist\", what do you do when you're not leaving little rainbows on our table?",
+      "vi": "Vậy \"họa sĩ nhà bếp\", cậu làm gì khi không để lại những cầu vồng nhỏ trên bàn của chúng ta?"
+    },
+    {
+      "role": "A",
+      "start_time": 28.000,
+      "end_time": 34.200,
+      "en": "Hey, I clean up after myself, but yeah, most of my free time goes into this.",
+      "vi": "Này, mình có dọn dẹp sau khi vẽ mà, nhưng đúng, hầu hết thời gian rảnh của mình dành cho việc này."
+    },
+    {
+      "role": "B",
+      "start_time": 35.000,
+      "end_time": 38.533,
+      "en": "What about you? I feel like I always see you out on the balcony.",
+      "vi": "Còn cậu thì sao? Mình thấy cậu lúc nào cũng ở ngoài ban công."
+    },
+    {
+      "role": "A",
+      "start_time": 39.666,
+      "end_time": 45.600,
+      "en": "That's my happy place. I'm trying to keep my little garden alive. It's a lot harder than it looks.",
+      "vi": "Đó là nơi hạnh phúc của mình. Mình đang cố giữ cho khu vườn nhỏ sống sót. Khó hơn vẻ ngoài nhiều."
+    },
+    {
+      "role": "B",
+      "start_time": 46.500,
+      "end_time": 49.400,
+      "en": "Ah, a gardener! What are you growing?",
+      "vi": "À, làm vườn à! Cậu trồng gì vậy?"
+    },
+    {
+      "role": "A",
+      "start_time": 50.433,
+      "end_time": 55.300,
+      "en": "Just some mint and basil. It's the best feeling, cooking with what you planted,",
+      "vi": "Chỉ một chút bạc hà và húng quế thôi. Cảm giác tuyệt nhất là nấu với những gì mình trồng,"
+    },
+    {
+      "role": "B",
+      "start_time": 56.200,
+      "end_time": 59.100,
+      "en": "even if they're a little sad-looking.",
+      "vi": "dù chúng trông hơi héo."
+    },
+    {
+      "role": "A",
+      "start_time": 60.033,
+      "end_time": 65.000,
+      "en": "Oh, don't say that! They're just shy. Maybe they grow when no one's watching.",
+      "vi": "Ồ, đừng nói vậy! Chúng chỉ nhút nhát thôi. Có lẽ chúng lớn khi không ai nhìn."
+    },
+    {
+      "role": "B",
+      "start_time": 65.833,
+      "end_time": 69.066,
+      "en": "Or you could paint them, give them extra confidence.",
+      "vi": "Hoặc cậu có thể vẽ chúng, cho chúng thêm tự tin."
+    },
+    {
+      "role": "A",
+      "start_time": 70.100,
+      "end_time": 75.200,
+      "en": "Sure! I'll paint them big and tall. They'll grow faster just to match the picture.",
+      "vi": "Được thôi! Mình sẽ vẽ chúng to và cao. Chúng sẽ lớn nhanh hơn chỉ để khớp với bức tranh."
+    }
+  ]
+}

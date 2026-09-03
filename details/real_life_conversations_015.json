@@ -1,0 +1,116 @@
+{
+  "lesson_id": "real_life_conversations_015",
+  "title": "My laptop crashed during the presentation",
+  "category": "Real-Life Conversations",
+  "level": "Elementary",
+  "videoConfig": {
+    "url": "https://raw.githubusercontent.com/Mom1881990/resources/main/videos/real_life_conversations_015.mp4",
+    "thumb": "https://raw.githubusercontent.com/Mom1881990/resources/main/images/real_life_conversations_015.jpg",
+    "mute_original": false
+  },
+  "characters": [
+    {
+      "id": "A",
+      "name": "Alex",
+      "tts_voice": "en-US-AndrewNeural"
+    },
+    {
+      "id": "B",
+      "name": "Mia",
+      "tts_voice": "en-US-JennyNeural"
+    }
+  ],
+  "dialogues": [
+    {
+      "role": "A",
+      "start_time": 1.433,
+      "end_time": 3.733,
+      "en": "How did your presentation go this morning?",
+      "vi": "Buổi thuyết trình sáng nay của cậu thế nào?"
+    },
+    {
+      "role": "B",
+      "start_time": 4.466,
+      "end_time": 9.866,
+      "en": "It was a total disaster. My laptop crashed during the presentation.",
+      "vi": "Thảm họa toàn tập luôn. Laptop của mình bị sập giữa buổi thuyết trình."
+    },
+    {
+      "role": "A",
+      "start_time": 10.600,
+      "end_time": 13.333,
+      "en": "Oh no! What happened exactly?",
+      "vi": "Ôi không! Chuyện gì xảy ra chính xác vậy?"
+    },
+    {
+      "role": "B",
+      "start_time": 14.500,
+      "end_time": 17.966,
+      "en": "I was showing the charts when suddenly everything froze.",
+      "vi": "Mình đang chiếu biểu đồ thì đột nhiên mọi thứ bị đứng hình."
+    },
+    {
+      "role": "A",
+      "start_time": 18.833,
+      "end_time": 20.066,
+      "en": "And then?",
+      "vi": "Rồi sao nữa?"
+    },
+    {
+      "role": "B",
+      "start_time": 20.866,
+      "end_time": 23.333,
+      "en": "Then the blue screen of death appeared.",
+      "vi": "Rồi màn hình xanh chết chóc hiện lên."
+    },
+    {
+      "role": "A",
+      "start_time": 24.066,
+      "end_time": 27.166,
+      "en": "That's the worst timing! What did you do?",
+      "vi": "Thời điểm tệ nhất luôn! Cậu làm gì vậy?"
+    },
+    {
+      "role": "B",
+      "start_time": 29.100,
+      "end_time": 32.533,
+      "en": "I had to explain everything without my slides.",
+      "vi": "Mình phải giải thích mọi thứ mà không có slide."
+    },
+    {
+      "role": "A",
+      "start_time": 33.566,
+      "end_time": 35.500,
+      "en": "Did your professor understand?",
+      "vi": "Giáo sư có hiểu không?"
+    },
+    {
+      "role": "B",
+      "start_time": 36.900,
+      "end_time": 38.366,
+      "en": "Surprisingly, yes.",
+      "vi": "Ngạc nhiên là có."
+    },
+    {
+      "role": "A",
+      "start_time": 39.266,
+      "end_time": 42.100,
+      "en": "Makes sense. He's the professor after all.",
+      "vi": "Cũng hợp lý. Ông ấy là giáo sư mà."
+    },
+    {
+      "role": "B",
+      "start_time": 44.233,
+      "end_time": 46.900,
+      "en": "Still, it was so embarrassing.",
+      "vi": "Dù sao thì cũng rất xấu hổ."
+    },
+    {
+      "role": "A",
+      "start_time": 47.800,
+      "end_time": 52.333,
+      "en": "Hey, look on the bright side. Your laptop might have crashed, but you didn't.",
+      "vi": "Này, nhìn mặt tích cực đi. Laptop của cậu có thể đã sập, nhưng cậu thì không."
+    }
+  ]
+}
