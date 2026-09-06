@@ -2,3 +2,5 @@
 google.com, pub-3477277999445872, DIRECT, f08c47fec0942fa0
 # wordkey app
 google.com, pub-3477277999445872, DIRECT, f08c47fec0942fa0
+# auto ant
+google.com, pub-3477277999445872, DIRECT, f08c47fec0942fa0
