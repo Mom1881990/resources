@@ -1,0 +1,76 @@
+{
+  "lesson_id": "motivation_0002",
+  "title": "Keep going. Let your results do the talking",
+  "category": "Motivation",
+  "level": "Intermediate",
+  "videoConfig": {
+    "url": "https://raw.githubusercontent.com/Mom1881990/resources/main/videos/motivation_0002.mp4",
+    "thumb": "https://raw.githubusercontent.com/Mom1881990/resources/main/images/motivation_0002.jpg",
+    "mute_original": false
+  },
+  "characters": [
+    {
+      "id": "A",
+      "name": "Speaker",
+      "tts_voice": "en-US-JennyNeural"
+    }
+  ],
+  "dialogues": [
+    {
+      "role": "A",
+      "start_time": 0.066,
+      "end_time": 2.200,
+      "en": "No matter what people think of me",
+      "vi": "Dù người khác nghĩ gì về tôi"
+    },
+    {
+      "role": "A",
+      "start_time": 2.433,
+      "end_time": 4.566,
+      "en": "I always shine through in the end",
+      "vi": "Cuối cùng tôi vẫn luôn tỏa sáng theo cách của mình."
+    },
+    {
+      "role": "A",
+      "start_time": 5.100,
+      "end_time": 7.700,
+      "en": "A lot of people have tried to tear me down",
+      "vi": "Đã có rất nhiều người cố gắng hạ thấp hay đánh gục tôi"
+    },
+    {
+      "role": "A",
+      "start_time": 7.966,
+      "end_time": 9.200,
+      "en": "But I'm still here",
+      "vi": "Nhưng tôi vẫn ở đây"
+    },
+    {
+      "role": "A",
+      "start_time": 9.500,
+      "end_time": 11.166,
+      "en": "Always true to myself",
+      "vi": "Luôn sống đúng với con người thật của mình"
+    },
+    {
+      "role": "A",
+      "start_time": 12.166,
+      "end_time": 14.600,
+      "en": "I've handled it with Grace and class",
+      "vi": "Tôi đối diện với mọi chuyện bằng sự điềm tĩnh và bản lĩnh"
+    },
+    {
+      "role": "A",
+      "start_time": 15.066,
+      "end_time": 17.133,
+      "en": "Because I know how hard I work",
+      "vi": "Bởi vì tôi biết mình đã nỗ lực đến nhường nào"
+    },
+    {
+      "role": "A",
+      "start_time": 17.466,
+      "end_time": 20.100,
+      "en": "And I don't let any of it get to me",
+      "vi": "Và tôi không để bất kỳ điều tiêu cực nào ảnh hưởng đến mình"
+    }
+  ]
+}
