@@ -1,0 +1,20 @@
+[
+  {
+    "lesson_id": "motivation_0001",
+    "title": "I dont have time to hate anyone",
+    "category": "Motivation",
+    "level": "Intermediate",
+    "videoConfig": {
+      "thumb": "https://raw.githubusercontent.com/Mom1881990/resources/main/images/motivation_0001.jpg"
+    }
+  },
+  {
+    "lesson_id": "motivation_0002",
+    "title": "Keep going. Let your results do the talking",
+    "category": "Motivation",
+    "level": "Intermediate",
+    "videoConfig": {
+      "thumb": "https://raw.githubusercontent.com/Mom1881990/resources/main/images/motivation_0002.jpg"
+    }
+  }
+]
