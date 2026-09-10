@@ -1,0 +1,90 @@
+{
+  "lesson_id": "motivation_0003",
+  "title": "Your mind creates your future. Think bigger.",
+  "category": "Motivation",
+  "level": "Intermediate",
+  "videoConfig": {
+    "url": "https://raw.githubusercontent.com/Mom1881990/resources/main/videos/motivation_0003.mp4",
+    "thumb": "https://raw.githubusercontent.com/Mom1881990/resources/main/images/motivation_0003.jpg",
+    "mute_original": false
+  },
+  "characters": [
+    {
+      "id": "A",
+      "name": "Speaker",
+      "tts_voice": "en-US-AriaNeural"
+    }
+  ],
+  "dialogues": [
+    {
+      "role": "A",
+      "start_time": 0.033,
+      "end_time": 1.933,
+      "en": "Your thoughts will change your actions",
+      "vi": "Suy nghĩ sẽ thay đổi hành động của bạn"
+    },
+    {
+      "role": "A",
+      "start_time": 2.100,
+      "end_time": 2.900,
+      "en": "Think quickly:",
+      "vi": "Hãy nghĩ thật nhanh:"
+    },
+    {
+      "role": "A",
+      "start_time": 3.000,
+      "end_time": 4.700,
+      "en": "I want to make money",
+      "vi": "Tôi muốn kiếm tiền"
+    },
+    {
+      "role": "A",
+      "start_time": 4.700,
+      "end_time": 5.900,
+      "en": "I can buy a car",
+      "vi": "Tôi có thể mua một chiếc xe"
+    },
+    {
+      "role": "A",
+      "start_time": 6.000,
+      "end_time": 7.366,
+      "en": "I can own a house",
+      "vi": "Tôi có thể sở hữu một ngôi nhà"
+    },
+    {
+      "role": "A",
+      "start_time": 7.366,
+      "end_time": 9.266,
+      "en": "I can become immensely wealthy.",
+      "vi": "Tôi có thể trở nên vô cùng giàu có."
+    },
+    {
+      "role": "A",
+      "start_time": 9.466,
+      "end_time": 12.166,
+      "en": "The soul's desires are the prophet of destiny",
+      "vi": "Khát vọng của tâm hồn là lời tiên báo cho số phận"
+    },
+    {
+      "role": "A",
+      "start_time": 12.400,
+      "end_time": 16.000,
+      "en": "your desires will lead you to the places you wish to reach",
+      "vi": "chính những điều bạn khao khát sẽ dẫn lối bạn đến nơi mình muốn chạm tới"
+    },
+    {
+      "role": "A",
+      "start_time": 16.100,
+      "end_time": 19.000,
+      "en": "The limits of your thoughts are the boundaries of your world",
+      "vi": "Giới hạn của suy nghĩ chính là ranh giới của thế giới bạn sống"
+    },
+    {
+      "role": "A",
+      "start_time": 19.100,
+      "end_time": 21.000,
+      "en": "Willpower is energy.",
+      "vi": "Ý chí là năng lượng."
+    }
+  ]
+}
