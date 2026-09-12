@@ -1,0 +1,97 @@
+{
+  "lesson_id": "motivation_0004",
+  "title": "Life will test you",
+  "category": "Motivation",
+  "level": "Intermediate",
+  "videoConfig": {
+    "url": "https://raw.githubusercontent.com/Mom1881990/resources/main/videos/motivation_0004.mp4",
+    "thumb": "https://raw.githubusercontent.com/Mom1881990/resources/main/images/motivation_0004.jpg",
+    "mute_original": false
+  },
+  "characters": [
+    {
+      "id": "A",
+      "name": "Master Oogway",
+      "tts_voice": "en-US-AriaNeural"
+    }
+  ],
+  "dialogues": [
+    {
+      "role": "A",
+      "start_time": 0.033,
+      "end_time": 1.666,
+      "en": "Life will test you",
+      "vi": "Cuộc sống sẽ thử thách bạn"
+    },
+    {
+      "role": "A",
+      "start_time": 1.666,
+      "end_time": 4.0,
+      "en": "break you and push you to your limits",
+      "vi": "làm bạn gục ngã và đẩy bạn đến giới hạn của mình"
+    },
+    {
+      "role": "A",
+      "start_time": 4.066,
+      "end_time": 7.466,
+      "en": "but remember every storm makes you stronger",
+      "vi": "nhưng hãy nhớ rằng mỗi cơn bão đều làm bạn mạnh mẽ hơn"
+    },
+    {
+      "role": "A",
+      "start_time": 7.466,
+      "end_time": 10.5,
+      "en": "every tear washes away weakness",
+      "vi": "mỗi giọt nước mắt sẽ rửa sạch sự yếu đuối"
+    },
+    {
+      "role": "A",
+      "start_time": 10.6,
+      "end_time": 12.666,
+      "en": "your pain is not your enemy",
+      "vi": "nỗi đau của bạn không phải là kẻ thù"
+    },
+    {
+      "role": "A",
+      "start_time": 12.666,
+      "end_time": 15.5,
+      "en": "it's the fuel for your comeback",
+      "vi": "nó chính là nhiên liệu cho sự trở lại của bạn"
+    },
+    {
+      "role": "A",
+      "start_time": 15.6,
+      "end_time": 17.6,
+      "en": "when the world doubts you",
+      "vi": "khi cả thế giới nghi ngờ bạn"
+    },
+    {
+      "role": "A",
+      "start_time": 17.633,
+      "end_time": 20.066,
+      "en": "prove them wrong with your resilience",
+      "vi": "hãy chứng minh họ sai bằng sự kiên cường của bạn"
+    },
+    {
+      "role": "A",
+      "start_time": 20.3,
+      "end_time": 21.8,
+      "en": "this moment of struggle",
+      "vi": "khoảnh khắc khó khăn này"
+    },
+    {
+      "role": "A",
+      "start_time": 21.8,
+      "end_time": 24.8,
+      "en": "is the very beginning of your greatest victory",
+      "vi": "chính là khởi đầu cho chiến thắng vĩ đại nhất của bạn"
+    },
+    {
+      "role": "A",
+      "start_time": 24.866,
+      "end_time": 28.566,
+      "en": "keep going your breakthrough is closer than you think",
+      "vi": "hãy tiếp tục đi, bước đột phá của bạn đang gần hơn bạn nghĩ"
+    }
+  ]
+}
