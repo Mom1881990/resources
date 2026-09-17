@@ -1,0 +1,83 @@
+{
+  "lesson_id": "motivation_0005",
+  "title": "Try again , Fail again",
+  "category": "Motivation",
+  "level": "Intermediate",
+  "videoConfig": {
+    "url": "https://raw.githubusercontent.com/Mom1881990/resources/main/videos/motivation_0005.mp4",
+    "thumb": "https://raw.githubusercontent.com/Mom1881990/resources/main/images/motivation_0005.jpg",
+    "mute_original": false
+  },
+  "characters": [
+    {
+      "id": "A",
+      "name": "Speaker",
+      "tts_voice": "en-US-AriaNeural"
+    }
+  ],
+  "dialogues": [
+    {
+      "role": "A",
+      "start_time": 3.566,
+      "end_time": 4.733,
+      "en": "ever tried",
+      "vi": "đã bao giờ cố gắng"
+    },
+    {
+      "role": "A",
+      "start_time": 5.300,
+      "end_time": 6.533,
+      "en": "ever failed",
+      "vi": "đã bao giờ thất bại"
+    },
+    {
+      "role": "A",
+      "start_time": 7.266,
+      "end_time": 8.366,
+      "en": "no matter",
+      "vi": "không sao cả"
+    },
+    {
+      "role": "A",
+      "start_time": 9.000,
+      "end_time": 10.133,
+      "en": "try again",
+      "vi": "thử lại"
+    },
+    {
+      "role": "A",
+      "start_time": 10.700,
+      "end_time": 11.866,
+      "en": "fail again",
+      "vi": "thất bại lần nữa"
+    },
+    {
+      "role": "A",
+      "start_time": 12.833,
+      "end_time": 14.000,
+      "en": "fail better",
+      "vi": "thất bại tốt hơn"
+    },
+    {
+      "role": "A",
+      "start_time": 14.633,
+      "end_time": 16.933,
+      "en": "the world is yours",
+      "vi": "thế giới là của bạn"
+    },
+    {
+      "role": "A",
+      "start_time": 18.966,
+      "end_time": 20.733,
+      "en": "treat everyone kindly",
+      "vi": "đối xử tốt với mọi người"
+    },
+    {
+      "role": "A",
+      "start_time": 22.166,
+      "end_time": 23.700,
+      "en": "and light up the night",
+      "vi": "và thắp sáng đêm tối"
+    }
+  ]
+}
