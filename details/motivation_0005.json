@@ -25,7 +25,7 @@
     },
     {
       "role": "A",
-      "start_time": 5.300,
+      "start_time": 5.3,
       "end_time": 6.533,
       "en": "ever failed",
       "vi": "đã bao giờ thất bại"
@@ -39,14 +39,14 @@
     },
     {
       "role": "A",
-      "start_time": 9.000,
+      "start_time": 9.0,
       "end_time": 10.133,
       "en": "try again",
       "vi": "thử lại"
     },
     {
       "role": "A",
-      "start_time": 10.700,
+      "start_time": 10.7,
       "end_time": 11.866,
       "en": "fail again",
       "vi": "thất bại lần nữa"
@@ -54,7 +54,7 @@
     {
       "role": "A",
       "start_time": 12.833,
-      "end_time": 14.000,
+      "end_time": 14.0,
       "en": "fail better",
       "vi": "thất bại tốt hơn"
     },
@@ -75,7 +75,7 @@
     {
       "role": "A",
       "start_time": 22.166,
-      "end_time": 23.700,
+      "end_time": 23.7,
       "en": "and light up the night",
       "vi": "và thắp sáng đêm tối"
     }
