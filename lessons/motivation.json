@@ -34,5 +34,14 @@
     "videoConfig": {
       "thumb": "https://raw.githubusercontent.com/Mom1881990/resources/main/images/motivation_0004.jpg"
     }
+  },
+  {
+    "lesson_id": "motivation_0005",
+    "title": "Try again , Fail again",
+    "category": "Motivation",
+    "level": "Intermediate",
+    "videoConfig": {
+      "thumb": "https://raw.githubusercontent.com/Mom1881990/resources/main/images/motivation_0005.jpg"
+    }
   }
 ]
