@@ -68,5 +68,12 @@
     "description": "Hội thoại đời thực",
     "imageUrl": "https://raw.githubusercontent.com/Mom1881990/resources/main/categories/real_life_conversations.jpg",
     "lessonFileName": "real_life_conversations"
+  },
+  {
+    "id": "small_talk_in_daily_life",
+    "title": "Small Talk in Daily-life",
+    "description": "Trò chuyện phiếm trong đời sống hàng ngày",
+    "imageUrl": "https://raw.githubusercontent.com/Mom1881990/resources/main/categories/small_talk_in_daily_life.jpg",
+    "lessonFileName": "small_talk_in_daily_life"
   }
 ]
