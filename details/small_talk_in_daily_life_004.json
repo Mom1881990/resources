@@ -1,0 +1,137 @@
+{
+  "lesson_id": "small_talk_in_daily_life_004",
+  "title": "Can't say much",
+  "category": "Small Talk in Daily-life",
+  "level": "Elementary",
+  "videoConfig": {
+    "url": "https://raw.githubusercontent.com/Mom1881990/resources/main/videos/small_talk_in_daily_life_004.mp4",
+    "thumb": "https://raw.githubusercontent.com/Mom1881990/resources/main/images/small_talk_in_daily_life_004.jpg",
+    "mute_original": false
+  },
+  "characters": [
+    {
+      "id": "A",
+      "name": "Mom",
+      "tts_voice": "en-US-JennyNeural"
+    },
+    {
+      "id": "B",
+      "name": "Daughter",
+      "tts_voice": "en-US-AriaNeural"
+    }
+  ],
+  "dialogues": [
+    {
+      "role": "A",
+      "start_time": 0.100,
+      "end_time": 4.066,
+      "en": "I heard you will move to a new place soon. Is that true?",
+      "vi": "Mẹ nghe nói con sắp chuyển đến chỗ ở mới. Có thật không?"
+    },
+    {
+      "role": "B",
+      "start_time": 4.866,
+      "end_time": 8.566,
+      "en": "Maybe, but I can't say much yet.",
+      "vi": "Có lẽ vậy, nhưng con chưa thể nói nhiều được."
+    },
+    {
+      "role": "A",
+      "start_time": 8.900,
+      "end_time": 10.900,
+      "en": "Oh, I see.",
+      "vi": "Ồ, mẹ hiểu rồi."
+    },
+    {
+      "role": "A",
+      "start_time": 11.300,
+      "end_time": 13.600,
+      "en": "Are you looking for a new apartment?",
+      "vi": "Con đang tìm căn hộ mới à?"
+    },
+    {
+      "role": "B",
+      "start_time": 14.433,
+      "end_time": 18.333,
+      "en": "Yes, Mom. But nothing is decided yet.",
+      "vi": "Vâng ạ, mẹ. Nhưng chưa quyết định gì cả."
+    },
+    {
+      "role": "A",
+      "start_time": 18.833,
+      "end_time": 21.333,
+      "en": "Are you planning to move far away?",
+      "vi": "Con có định chuyển đi xa không?"
+    },
+    {
+      "role": "B",
+      "start_time": 22.000,
+      "end_time": 26.200,
+      "en": "I'm not sure. It depends on work and the price.",
+      "vi": "Con chưa chắc. Nó còn tùy thuộc vào công việc và giá cả."
+    },
+    {
+      "role": "A",
+      "start_time": 26.900,
+      "end_time": 30.700,
+      "en": "That makes sense. Moving can be stressful.",
+      "vi": "Điều đó hợp lý. Chuyển nhà có thể rất căng thẳng."
+    },
+    {
+      "role": "B",
+      "start_time": 31.200,
+      "end_time": 33.766,
+      "en": "Yes, it really can.",
+      "vi": "Vâng, đúng là vậy."
+    },
+    {
+      "role": "B",
+      "start_time": 34.166,
+      "end_time": 36.566,
+      "en": "There are many things to think about.",
+      "vi": "Có rất nhiều thứ phải suy nghĩ."
+    },
+    {
+      "role": "A",
+      "start_time": 37.200,
+      "end_time": 39.400,
+      "en": "When do you think you will know more?",
+      "vi": "Con nghĩ khi nào sẽ biết rõ hơn?"
+    },
+    {
+      "role": "B",
+      "start_time": 39.800,
+      "end_time": 43.533,
+      "en": "Probably next month. Things are still changing.",
+      "vi": "Có lẽ tháng sau. Mọi thứ vẫn đang thay đổi."
+    },
+    {
+      "role": "A",
+      "start_time": 44.100,
+      "end_time": 46.600,
+      "en": "Are you excited or worried, sweetie?",
+      "vi": "Con đang hào hứng hay lo lắng vậy, con yêu?"
+    },
+    {
+      "role": "B",
+      "start_time": 47.066,
+      "end_time": 52.800,
+      "en": "A bit of both. I feel hopeful, but also a little worried, Mom.",
+      "vi": "Cả hai một chút. Con cảm thấy hy vọng, nhưng cũng hơi lo lắng, mẹ ạ."
+    },
+    {
+      "role": "A",
+      "start_time": 53.500,
+      "end_time": 58.566,
+      "en": "That's good. Take your time, sweetie. Let me know if you need help.",
+      "vi": "Tốt rồi. Từ từ thôi con. Có cần giúp gì thì bảo mẹ nhé."
+    },
+    {
+      "role": "B",
+      "start_time": 58.966,
+      "end_time": 60.100,
+      "en": "Thanks, Mom.",
+      "vi": "Cảm ơn mẹ ạ."
+    }
+  ]
+}

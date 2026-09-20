@@ -1,0 +1,212 @@
+{
+  "lesson_id": "small_talk_in_daily_life_008",
+  "title": "I accidentally sent the text to my boss",
+  "category": "Small Talk in Daily-life",
+  "level": "Elementary",
+  "videoConfig": {
+    "url": "https://raw.githubusercontent.com/Mom1881990/resources/main/videos/small_talk_in_daily_life_008.mp4",
+    "thumb": "https://raw.githubusercontent.com/Mom1881990/resources/main/images/small_talk_in_daily_life_008.jpg",
+    "mute_original": false
+  },
+  "characters": [
+    {
+      "id": "A",
+      "name": "Lena",
+      "tts_voice": "en-US-JennyNeural"
+    },
+    {
+      "id": "B",
+      "name": "Jade",
+      "tts_voice": "en-US-AriaNeural"
+    },
+    {
+      "id": "C",
+      "name": "Marcus",
+      "tts_voice": "en-US-AndrewNeural"
+    }
+  ],
+  "dialogues": [
+    {
+      "role": "A",
+      "start_time": 1.8,
+      "end_time": 5.5,
+      "en": "Marcus, Jade, I need help.",
+      "vi": "Marcus, Jade, giúp mình với."
+    },
+    {
+      "role": "A",
+      "start_time": 5.5,
+      "end_time": 9.966,
+      "en": "I... I accidentally sent the text to my boss.",
+      "vi": "Mình... mình vô tình gửi tin nhắn nhầm cho sếp rồi."
+    },
+    {
+      "role": "B",
+      "start_time": 10.766,
+      "end_time": 13.466,
+      "en": "What... text?",
+      "vi": "Tin nhắn... gì?"
+    },
+    {
+      "role": "A",
+      "start_time": 14.066,
+      "end_time": 17.8,
+      "en": "That 8 AM meeting should've been an email and a nap.",
+      "vi": "Cái cuộc họp 8 giờ sáng lẽ ra chỉ cần gửi email và đi ngủ thôi."
+    },
+    {
+      "role": "A",
+      "start_time": 17.8,
+      "end_time": 19.0,
+      "en": "Waste of time.",
+      "vi": "Lãng phí thời gian."
+    },
+    {
+      "role": "C",
+      "start_time": 19.6,
+      "end_time": 21.566,
+      "en": "You sent that to Mr. Evans?",
+      "vi": "Cậu gửi cái đó cho ông Evans á?"
+    },
+    {
+      "role": "A",
+      "start_time": 22.3,
+      "end_time": 26.0,
+      "en": "Yes. I meant to send it to you, Marcus.",
+      "vi": "Đúng rồi. Mình định gửi cho cậu cơ, Marcus."
+    },
+    {
+      "role": "A",
+      "start_time": 26.1,
+      "end_time": 29.333,
+      "en": "I was switching apps and... ugh.",
+      "vi": "Mình đang chuyển app thì... ugh."
+    },
+    {
+      "role": "B",
+      "start_time": 29.966,
+      "end_time": 31.5,
+      "en": "Did he reply to you yet?",
+      "vi": "Ông ấy trả lời cậu chưa?"
+    },
+    {
+      "role": "A",
+      "start_time": 31.5,
+      "end_time": 34.1,
+      "en": "Just a thumbs-up emoji.",
+      "vi": "Chỉ có cái emoji like thôi."
+    },
+    {
+      "role": "A",
+      "start_time": 34.166,
+      "end_time": 35.966,
+      "en": "I don't know what that means!",
+      "vi": "Mình không biết nó nghĩa là gì!"
+    },
+    {
+      "role": "C",
+      "start_time": 36.566,
+      "end_time": 40.3,
+      "en": "I just saw your future, and it was unemployed.",
+      "vi": "Mình vừa nhìn thấy tương lai của cậu, và cậu thất nghiệp rồi."
+    },
+    {
+      "role": "B",
+      "start_time": 41.066,
+      "end_time": 42.966,
+      "en": "Marcus, you are not helping.",
+      "vi": "Marcus, cậu không giúp gì cả."
+    },
+    {
+      "role": "A",
+      "start_time": 43.7,
+      "end_time": 45.166,
+      "en": "Wait, what?",
+      "vi": "Khoan, cái gì cơ?"
+    },
+    {
+      "role": "A",
+      "start_time": 45.166,
+      "end_time": 47.9,
+      "en": "What if he is right? Oh my gosh!",
+      "vi": "Biết đâu cậu ấy đúng thì sao? Ôi trời ơi!"
+    },
+    {
+      "role": "A",
+      "start_time": 47.9,
+      "end_time": 51.1,
+      "en": "What if Mr. Evans has already done it?",
+      "vi": "Biết đâu ông Evans đã làm rồi thì sao?"
+    },
+    {
+      "role": "B",
+      "start_time": 51.466,
+      "end_time": 53.633,
+      "en": "Hey hey! Lena, stay calm.",
+      "vi": "Này này! Lena, bình tĩnh nào."
+    },
+    {
+      "role": "B",
+      "start_time": 53.633,
+      "end_time": 56.633,
+      "en": "If he hasn't said anything else,",
+      "vi": "Nếu ông ấy chưa nói gì thêm,"
+    },
+    {
+      "role": "B",
+      "start_time": 56.633,
+      "end_time": 59.166,
+      "en": "just follow up with a professional message.",
+      "vi": "thì cứ gửi một tin nhắn chuyên nghiệp theo sau."
+    },
+    {
+      "role": "C",
+      "start_time": 59.9,
+      "end_time": 64.066,
+      "en": "Maybe say, \"My apologies, that message was sent by mistake.\"",
+      "vi": "Có lẽ nói: \"Xin lỗi, tin nhắn đó được gửi nhầm.\""
+    },
+    {
+      "role": "A",
+      "start_time": 64.9,
+      "end_time": 66.166,
+      "en": "Okay...",
+      "vi": "Được rồi..."
+    },
+    {
+      "role": "A",
+      "start_time": 66.166,
+      "end_time": 67.7,
+      "en": "Okay, be honest.",
+      "vi": "Được rồi, cứ thành thật thôi."
+    },
+    {
+      "role": "C",
+      "start_time": 72.566,
+      "end_time": 74.166,
+      "en": "Look! He replied.",
+      "vi": "Nhìn này! Ông ấy trả lời rồi."
+    },
+    {
+      "role": "C",
+      "start_time": 74.3,
+      "end_time": 77.7,
+      "en": "\"No worries. Just don't fall asleep in the next one.\"",
+      "vi": "\"Không sao. Chỉ đừng ngủ gật trong cuộc họp tiếp theo thôi.\""
+    },
+    {
+      "role": "B",
+      "start_time": 78.166,
+      "end_time": 80.866,
+      "en": "That's... surprisingly kind.",
+      "vi": "Điều đó... thật bất ngờ là tử tế quá."
+    },
+    {
+      "role": "A",
+      "start_time": 81.4,
+      "end_time": 83.566,
+      "en": "Now I can breathe again.",
+      "vi": "Giờ mình mới thở được trở lại."
+    }
+  ]
+}

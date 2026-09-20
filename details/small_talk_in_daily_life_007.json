@@ -1,0 +1,242 @@
+{
+  "lesson_id": "small_talk_in_daily_life_007",
+  "title": "How was your day",
+  "category": "Small Talk in Daily-life",
+  "level": "Elementary",
+  "videoConfig": {
+    "url": "https://raw.githubusercontent.com/Mom1881990/resources/main/videos/small_talk_in_daily_life_007.mp4",
+    "thumb": "https://raw.githubusercontent.com/Mom1881990/resources/main/images/small_talk_in_daily_life_007.jpg",
+    "mute_original": false
+  },
+  "characters": [
+    {
+      "id": "A",
+      "name": "Emma",
+      "tts_voice": "en-US-JennyNeural"
+    },
+    {
+      "id": "B",
+      "name": "Sophie",
+      "tts_voice": "en-US-AriaNeural"
+    }
+  ],
+  "dialogues": [
+    {
+      "role": "B",
+      "start_time": 1.7,
+      "end_time": 3.166,
+      "en": "Hey, what's up?",
+      "vi": "Này, sao rồi?"
+    },
+    {
+      "role": "B",
+      "start_time": 3.166,
+      "end_time": 4.466,
+      "en": "You look tired.",
+      "vi": "Trông cậu mệt mỏi quá."
+    },
+    {
+      "role": "A",
+      "start_time": 5.166,
+      "end_time": 8.2,
+      "en": "Oh, you have no idea.",
+      "vi": "Ôi, cậu không biết đâu."
+    },
+    {
+      "role": "A",
+      "start_time": 8.266,
+      "end_time": 11.0,
+      "en": "I had the worst morning at work.",
+      "vi": "Sáng nay mình có buổi sáng tệ nhất ở công ty."
+    },
+    {
+      "role": "B",
+      "start_time": 11.233,
+      "end_time": 12.433,
+      "en": "Oh no.",
+      "vi": "Ôi không."
+    },
+    {
+      "role": "B",
+      "start_time": 12.433,
+      "end_time": 14.4,
+      "en": "Really? What happened?",
+      "vi": "Thật sao? Chuyện gì xảy ra vậy?"
+    },
+    {
+      "role": "A",
+      "start_time": 14.966,
+      "end_time": 17.9,
+      "en": "My boss asked me to organize the meeting,",
+      "vi": "Sếp nhờ mình tổ chức cuộc họp,"
+    },
+    {
+      "role": "A",
+      "start_time": 18.033,
+      "end_time": 19.866,
+      "en": "but I forgot to print the papers,",
+      "vi": "nhưng mình quên in tài liệu,"
+    },
+    {
+      "role": "A",
+      "start_time": 19.866,
+      "end_time": 21.766,
+      "en": "and the projector wasn't working.",
+      "vi": "và máy chiếu thì không hoạt động."
+    },
+    {
+      "role": "A",
+      "start_time": 22.466,
+      "end_time": 24.133,
+      "en": "It was a disaster!",
+      "vi": "Thật là thảm họa!"
+    },
+    {
+      "role": "B",
+      "start_time": 24.766,
+      "end_time": 29.3,
+      "en": "That sounds stressful. But at least you tried, right?",
+      "vi": "Nghe căng thẳng thật. Nhưng ít ra cậu cũng đã cố rồi, đúng không?"
+    },
+    {
+      "role": "A",
+      "start_time": 29.766,
+      "end_time": 32.333,
+      "en": "Yeah, but it's embarrassing.",
+      "vi": "Ừ, nhưng mà xấu hổ quá."
+    },
+    {
+      "role": "A",
+      "start_time": 32.633,
+      "end_time": 35.333,
+      "en": "I feel like I can't do anything right.",
+      "vi": "Mình cảm thấy như chẳng làm được việc gì đúng cả."
+    },
+    {
+      "role": "B",
+      "start_time": 35.8,
+      "end_time": 38.466,
+      "en": "Don't worry, everyone makes mistakes.",
+      "vi": "Đừng lo, ai cũng mắc lỗi mà."
+    },
+    {
+      "role": "B",
+      "start_time": 38.566,
+      "end_time": 39.766,
+      "en": "It's how you learn.",
+      "vi": "Nhờ đó mình mới học được."
+    },
+    {
+      "role": "B",
+      "start_time": 40.3,
+      "end_time": 44.0,
+      "en": "Plus, half of your terrible morning wasn't even your fault.",
+      "vi": "Hơn nữa, một nửa buổi sáng tệ hại của cậu còn chẳng phải lỗi của cậu nữa."
+    },
+    {
+      "role": "A",
+      "start_time": 44.566,
+      "end_time": 46.0,
+      "en": "I guess you're right.",
+      "vi": "Chắc cậu nói đúng."
+    },
+    {
+      "role": "A",
+      "start_time": 46.0,
+      "end_time": 47.5,
+      "en": "What about you?",
+      "vi": "Còn cậu thì sao?"
+    },
+    {
+      "role": "A",
+      "start_time": 47.5,
+      "end_time": 48.8,
+      "en": "How was your day?",
+      "vi": "Ngày hôm nay của cậu thế nào?"
+    },
+    {
+      "role": "B",
+      "start_time": 48.98,
+      "end_time": 51.0,
+      "en": "Honestly, not much better.",
+      "vi": "Thành thật mà nói, cũng chẳng khá hơn bao nhiêu."
+    },
+    {
+      "role": "B",
+      "start_time": 51.0,
+      "end_time": 54.366,
+      "en": "I spilled coffee all over my desk.",
+      "vi": "Mình làm đổ cà phê khắp bàn làm việc."
+    },
+    {
+      "role": "A",
+      "start_time": 54.833,
+      "end_time": 56.166,
+      "en": "Oh no!",
+      "vi": "Ôi không!"
+    },
+    {
+      "role": "A",
+      "start_time": 56.166,
+      "end_time": 58.78,
+      "en": "That's bad! Did you get it cleaned up?",
+      "vi": "Tệ thật! Cậu dọn sạch được chưa?"
+    },
+    {
+      "role": "B",
+      "start_time": 58.78,
+      "end_time": 62.966,
+      "en": "Barely. I had to use napkins like crazy.",
+      "vi": "Gần như không. Mình phải dùng khăn giấy như điên."
+    },
+    {
+      "role": "B",
+      "start_time": 63.3,
+      "end_time": 67.166,
+      "en": "But the worst part was I didn't have any coffee left.",
+      "vi": "Nhưng phần tệ nhất là mình chẳng còn chút cà phê nào cả."
+    },
+    {
+      "role": "A",
+      "start_time": 67.6,
+      "end_time": 69.566,
+      "en": "Why didn't you buy a new one?",
+      "vi": "Sao cậu không mua thêm một ly mới?"
+    },
+    {
+      "role": "B",
+      "start_time": 69.9,
+      "end_time": 72.5,
+      "en": "I didn't have a moment to spare this morning.",
+      "vi": "Sáng nay mình chẳng có chút thời gian rảnh nào."
+    },
+    {
+      "role": "B",
+      "start_time": 72.5,
+      "end_time": 75.0,
+      "en": "I was swamped with work.",
+      "vi": "Mình bị công việc vùi dập."
+    },
+    {
+      "role": "A",
+      "start_time": 75.92,
+      "end_time": 79.166,
+      "en": "Well, at least you're not the only one having a crazy day.",
+      "vi": "Thôi thì ít ra cậu cũng không phải người duy nhất có một ngày điên rồ."
+    },
+    {
+      "role": "B",
+      "start_time": 79.666,
+      "end_time": 82.5,
+      "en": "Exactly! Let's just laugh about it.",
+      "vi": "Đúng vậy! Cứ cười về chuyện này thôi."
+    },
+    {
+      "role": "B",
+      "start_time": 82.5,
+      "end_time": 84.766,
+      "en": "Tomorrow is a new day.",
+      "vi": "Ngày mai lại là một ngày mới."
+    }
+  ]
+}

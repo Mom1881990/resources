@@ -1,0 +1,186 @@
+{
+  "lesson_id": "small_talk_in_daily_life_009",
+  "title": "I can live with that",
+  "category": "Small Talk in Daily-life",
+  "level": "Elementary",
+  "videoConfig": {
+    "url": "https://raw.githubusercontent.com/Mom1881990/resources/main/videos/small_talk_in_daily_life_009.mp4",
+    "thumb": "https://raw.githubusercontent.com/Mom1881990/resources/main/images/small_talk_in_daily_life_009.jpg",
+    "mute_original": false
+  },
+  "characters": [
+    {
+      "id": "A",
+      "name": "Anna",
+      "tts_voice": "en-US-JennyNeural"
+    },
+    {
+      "id": "B",
+      "name": "Ryan",
+      "tts_voice": "en-US-AndrewNeural"
+    }
+  ],
+  "dialogues": [
+    {
+      "role": "A",
+      "start_time": 2.1,
+      "end_time": 3.366,
+      "en": "Oh no...",
+      "vi": "Ôi không..."
+    },
+    {
+      "role": "B",
+      "start_time": 4.233,
+      "end_time": 5.3,
+      "en": "Hey Anna,",
+      "vi": "Này Anna,"
+    },
+    {
+      "role": "B",
+      "start_time": 5.3,
+      "end_time": 7.6,
+      "en": "what's wrong? You look worried.",
+      "vi": "sao thế? Trông cậu lo lắng quá."
+    },
+    {
+      "role": "A",
+      "start_time": 8.066,
+      "end_time": 10.9,
+      "en": "I'm checking my expenses for this month.",
+      "vi": "Mình đang kiểm tra chi tiêu tháng này."
+    },
+    {
+      "role": "B",
+      "start_time": 11.2,
+      "end_time": 13.0,
+      "en": "And? Is it bad?",
+      "vi": "Thế nào? Có tệ không?"
+    },
+    {
+      "role": "A",
+      "start_time": 13.0,
+      "end_time": 15.1,
+      "en": "A little.",
+      "vi": "Một chút."
+    },
+    {
+      "role": "A",
+      "start_time": 15.233,
+      "end_time": 17.4,
+      "en": "I spent more than I planned.",
+      "vi": "Mình đã tiêu nhiều hơn dự tính."
+    },
+    {
+      "role": "B",
+      "start_time": 18.366,
+      "end_time": 21.0,
+      "en": "Hmm, that happens sometimes.",
+      "vi": "Hmm, chuyện đó thỉnh thoảng cũng xảy ra."
+    },
+    {
+      "role": "A",
+      "start_time": 21.466,
+      "end_time": 24.466,
+      "en": "Eating out and shopping added up fast.",
+      "vi": "Ăn ngoài và mua sắm cộng dồn nhanh quá."
+    },
+    {
+      "role": "B",
+      "start_time": 25.4,
+      "end_time": 29.466,
+      "en": "Yeah, it's easy to spend too much without noticing.",
+      "vi": "Đúng vậy, dễ tiêu nhiều mà không để ý lắm."
+    },
+    {
+      "role": "A",
+      "start_time": 30.266,
+      "end_time": 33.533,
+      "en": "That's true. The numbers surprised me.",
+      "vi": "Đúng thế. Những con số làm mình bất ngờ."
+    },
+    {
+      "role": "A",
+      "start_time": 33.8,
+      "end_time": 39.166,
+      "en": "So what should I do from now until the end of the month?",
+      "vi": "Vậy từ giờ đến cuối tháng mình nên làm gì?"
+    },
+    {
+      "role": "B",
+      "start_time": 39.566,
+      "end_time": 42.266,
+      "en": "I think we should cut back a little.",
+      "vi": "Mình nghĩ chúng ta nên cắt giảm một chút."
+    },
+    {
+      "role": "B",
+      "start_time": 43.233,
+      "end_time": 46.866,
+      "en": "Maybe cook at home more and stop buying small things.",
+      "vi": "Có lẽ nấu ăn ở nhà nhiều hơn và ngừng mua những thứ linh tinh."
+    },
+    {
+      "role": "A",
+      "start_time": 47.633,
+      "end_time": 49.3,
+      "en": "That sounds reasonable.",
+      "vi": "Nghe hợp lý đấy."
+    },
+    {
+      "role": "B",
+      "start_time": 49.866,
+      "end_time": 52.5,
+      "en": "We can also skip coffee shops.",
+      "vi": "Chúng ta cũng có thể bỏ qua quán cà phê."
+    },
+    {
+      "role": "A",
+      "start_time": 53.233,
+      "end_time": 55.1,
+      "en": "Okay. It's not perfect,",
+      "vi": "Được rồi. Không hoàn hảo,"
+    },
+    {
+      "role": "A",
+      "start_time": 55.4,
+      "end_time": 57.5,
+      "en": "but I can live with that.",
+      "vi": "nhưng mình có thể chấp nhận được."
+    },
+    {
+      "role": "B",
+      "start_time": 58.0,
+      "end_time": 60.733,
+      "en": "It's only for a short time.",
+      "vi": "Chỉ trong một thời gian ngắn thôi."
+    },
+    {
+      "role": "A",
+      "start_time": 61.4,
+      "end_time": 65.566,
+      "en": "Yes. Next month, I will plan better.",
+      "vi": "Đúng. Tháng sau mình sẽ lên kế hoạch tốt hơn."
+    },
+    {
+      "role": "B",
+      "start_time": 65.966,
+      "end_time": 68.966,
+      "en": "I also have to plan my expenses better",
+      "vi": "Mình cũng phải lên kế hoạch chi tiêu tốt hơn"
+    },
+    {
+      "role": "B",
+      "start_time": 68.966,
+      "end_time": 70.733,
+      "en": "to avoid money stress.",
+      "vi": "để tránh stress về tiền bạc."
+    },
+    {
+      "role": "A",
+      "start_time": 71.466,
+      "end_time": 73.866,
+      "en": "Yes, you should do it too.",
+      "vi": "Đúng, cậu cũng nên làm vậy."
+    }
+  ]
+}

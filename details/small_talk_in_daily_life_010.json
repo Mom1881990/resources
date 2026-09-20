@@ -1,0 +1,233 @@
+{
+  "lesson_id": "small_talk_in_daily_life_010",
+  "title": "I forgot to charge my tablet overnight",
+  "category": "Small Talk in Daily-life",
+  "level": "Elementary",
+  "videoConfig": {
+    "url": "https://raw.githubusercontent.com/Mom1881990/resources/main/videos/small_talk_in_daily_life_010.mp4",
+    "thumb": "https://raw.githubusercontent.com/Mom1881990/resources/main/images/small_talk_in_daily_life_010.jpg",
+    "mute_original": false
+  },
+  "characters": [
+    {
+      "id": "A",
+      "name": "Maya",
+      "tts_voice": "en-US-JennyNeural"
+    },
+    {
+      "id": "B",
+      "name": "Dr. Brown",
+      "tts_voice": "en-US-AndrewNeural"
+    },
+    {
+      "id": "C",
+      "name": "Sarah",
+      "tts_voice": "en-US-AriaNeural"
+    }
+  ],
+  "dialogues": [
+    {
+      "role": "A",
+      "start_time": 2.066,
+      "end_time": 4.9,
+      "en": "Dr. Brown, we have a problem.",
+      "vi": "Bác sĩ Brown, chúng ta có vấn đề rồi."
+    },
+    {
+      "role": "B",
+      "start_time": 5.766,
+      "end_time": 7.166,
+      "en": "What is that?",
+      "vi": "Cái gì vậy?"
+    },
+    {
+      "role": "A",
+      "start_time": 7.7,
+      "end_time": 10.5,
+      "en": "I forgot to charge my tablet overnight,",
+      "vi": "Mình quên sạc máy tính bảng qua đêm,"
+    },
+    {
+      "role": "A",
+      "start_time": 10.5,
+      "end_time": 13.3,
+      "en": "And now, the battery's completely dead.",
+      "vi": "và bây giờ pin chết hoàn toàn rồi."
+    },
+    {
+      "role": "B",
+      "start_time": 14.3,
+      "end_time": 15.433,
+      "en": "Seriously, Maya?",
+      "vi": "Nghiêm túc đó hả, Maya?"
+    },
+    {
+      "role": "B",
+      "start_time": 15.433,
+      "end_time": 17.8,
+      "en": "We're about to perform a heart transplant,",
+      "vi": "Chúng ta sắp thực hiện ca ghép tim,"
+    },
+    {
+      "role": "B",
+      "start_time": 17.8,
+      "end_time": 19.933,
+      "en": "and you're worried about your tablet?",
+      "vi": "mà cậu lại lo về cái máy tính bảng?"
+    },
+    {
+      "role": "A",
+      "start_time": 20.8,
+      "end_time": 22.6,
+      "en": "No, you don't get it.",
+      "vi": "Không, bác sĩ không hiểu đâu."
+    },
+    {
+      "role": "A",
+      "start_time": 22.6,
+      "end_time": 25.166,
+      "en": "The tablet has everything on it!",
+      "vi": "Máy tính bảng có mọi thứ trên đó!"
+    },
+    {
+      "role": "B",
+      "start_time": 26.0,
+      "end_time": 27.133,
+      "en": "Like what?",
+      "vi": "Như cái gì?"
+    },
+    {
+      "role": "A",
+      "start_time": 28.0,
+      "end_time": 30.1,
+      "en": "The patient's full medical history,",
+      "vi": "Toàn bộ bệnh sử của bệnh nhân,"
+    },
+    {
+      "role": "A",
+      "start_time": 30.1,
+      "end_time": 33.533,
+      "en": "the procedure steps, and today's surgery schedule...",
+      "vi": "các bước thủ thuật, và lịch phẫu thuật hôm nay..."
+    },
+    {
+      "role": "A",
+      "start_time": 33.566,
+      "end_time": 34.7,
+      "en": "all of it!",
+      "vi": "tất cả!"
+    },
+    {
+      "role": "B",
+      "start_time": 35.7,
+      "end_time": 38.8,
+      "en": "Why isn't all that on the hospital's main system?",
+      "vi": "Tại sao tất cả những thứ đó không có trên hệ thống chính của bệnh viện?"
+    },
+    {
+      "role": "A",
+      "start_time": 39.833,
+      "end_time": 41.466,
+      "en": "The system crashed yesterday,",
+      "vi": "Hệ thống bị sập hôm qua,"
+    },
+    {
+      "role": "A",
+      "start_time": 41.466,
+      "end_time": 44.0,
+      "en": "so I moved everything to the backup tablets.",
+      "vi": "nên mình đã chuyển mọi thứ sang các máy tính bảng dự phòng."
+    },
+    {
+      "role": "B",
+      "start_time": 45.066,
+      "end_time": 47.1,
+      "en": "That's... not great.",
+      "vi": "Thế thì... không ổn rồi."
+    },
+    {
+      "role": "B",
+      "start_time": 47.1,
+      "end_time": 50.2,
+      "en": "And the patient's already under anesthesia...",
+      "vi": "Và bệnh nhân đã gây mê rồi..."
+    },
+    {
+      "role": "C",
+      "start_time": 51.166,
+      "end_time": 53.2,
+      "en": "Maya! Use this tablet.",
+      "vi": "Maya! Dùng máy này đi."
+    },
+    {
+      "role": "C",
+      "start_time": 53.2,
+      "end_time": 54.866,
+      "en": "I charged it this morning.",
+      "vi": "Mình sạc nó sáng nay rồi."
+    },
+    {
+      "role": "A",
+      "start_time": 55.7,
+      "end_time": 57.033,
+      "en": "Oh my gosh,",
+      "vi": "Ôi trời ơi,"
+    },
+    {
+      "role": "A",
+      "start_time": 57.033,
+      "end_time": 58.166,
+      "en": "thank you!",
+      "vi": "cảm ơn cậu!"
+    },
+    {
+      "role": "B",
+      "start_time": 59.066,
+      "end_time": 61.533,
+      "en": "Awesome. Can we finally begin?",
+      "vi": "Tuyệt. Chúng ta có thể bắt đầu được chưa?"
+    },
+    {
+      "role": "A",
+      "start_time": 62.4,
+      "end_time": 63.533,
+      "en": "Uh... Doctor,",
+      "vi": "Ờ... Bác sĩ,"
+    },
+    {
+      "role": "A",
+      "start_time": 63.6,
+      "end_time": 64.933,
+      "en": "there's one more thing.",
+      "vi": "còn một việc nữa."
+    },
+    {
+      "role": "B",
+      "start_time": 65.833,
+      "end_time": 67.0,
+      "en": "Now what?",
+      "vi": "Còn gì nữa?"
+    },
+    {
+      "role": "A",
+      "start_time": 67.633,
+      "end_time": 69.4,
+      "en": "I just pulled up the schedule...",
+      "vi": "Mình vừa mở lịch lên..."
+    },
+    {
+      "role": "A",
+      "start_time": 69.433,
+      "end_time": 71.933,
+      "en": "We don't have a heart transplant today.",
+      "vi": "Hôm nay chúng ta không có ca ghép tim nào cả."
+    },
+    {
+      "role": "B",
+      "start_time": 72.8,
+      "end_time": 75.6,
+      "en": "Wait... then whose chest did I just open?!",
+      "vi": "Khoan... vậy mình vừa mở ngực của ai vậy?!"
+    }
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "lesson_id": "small_talk_in_daily_life_003",
+  "title": "At the supermarket",
+  "category": "Small Talk in Daily-life",
+  "level": "Elementary",
+  "videoConfig": {
+    "url": "https://raw.githubusercontent.com/Mom1881990/resources/main/videos/small_talk_in_daily_life_003.mp4",
+    "thumb": "https://raw.githubusercontent.com/Mom1881990/resources/main/images/small_talk_in_daily_life_003.jpg",
+    "mute_original": false
+  },
+  "characters": [
+    {
+      "id": "A",
+      "name": "Zoe",
+      "tts_voice": "en-US-JennyNeural"
+    },
+    {
+      "id": "B",
+      "name": "Sam",
+      "tts_voice": "en-US-AriaNeural"
+    }
+  ],
+  "dialogues": [
+    {
+      "role": "A",
+      "start_time": 3.066,
+      "end_time": 6.700,
+      "en": "Sam? Oh my god, is that really you?",
+      "vi": "Sam? Ôi trời ơi, thật sự là bạn đó à?"
+    },
+    {
+      "role": "B",
+      "start_time": 7.433,
+      "end_time": 11.333,
+      "en": "Zoe! I can't believe it! How long has it been?",
+      "vi": "Zoe! Không thể tin được! Đã bao lâu rồi nhỉ?"
+    },
+    {
+      "role": "A",
+      "start_time": 12.200,
+      "end_time": 17.300,
+      "en": "Like three years? Since graduation! What are you doing here?",
+      "vi": "Khoảng ba năm rồi? Từ lúc tốt nghiệp! Bạn đang làm gì ở đây vậy?"
+    },
+    {
+      "role": "B",
+      "start_time": 18.033,
+      "end_time": 21.500,
+      "en": "Just grocery shopping. You know, adult stuff.",
+      "vi": "Chỉ đi siêu thị thôi. Kiểu... chuyện người lớn ấy."
+    },
+    {
+      "role": "A",
+      "start_time": 22.100,
+      "end_time": 25.766,
+      "en": "Is that... ice cream and cookies in your cart?",
+      "vi": "Đó là... kem và bánh quy trong xe đẩy của bạn à?"
+    },
+    {
+      "role": "B",
+      "start_time": 26.900,
+      "end_time": 31.800,
+      "en": "Ugh... yeah, they're my... emotional support snacks.",
+      "vi": "Ừ... đúng rồi, đó là... đồ ăn hỗ trợ tinh thần của mình."
+    },
+    {
+      "role": "A",
+      "start_time": 33.233,
+      "end_time": 36.500,
+      "en": "Ha! No judgment here. Mine's chips and wine!",
+      "vi": "Ha! Mình không phán xét đâu. Của mình là snack và rượu!"
+    },
+    {
+      "role": "B",
+      "start_time": 37.600,
+      "end_time": 41.000,
+      "en": "Wow, look at us... so responsible.",
+      "vi": "Wow, nhìn chúng ta này... thật có trách nhiệm quá."
+    },
+    {
+      "role": "A",
+      "start_time": 41.833,
+      "end_time": 46.166,
+      "en": "We need to catch up for real! Do you want to grab coffee sometime?",
+      "vi": "Chúng ta cần gặp nhau để nói chuyện thật sự! Bạn muốn đi uống cà phê không?"
+    },
+    {
+      "role": "B",
+      "start_time": 47.066,
+      "end_time": 51.900,
+      "en": "Absolutely! How about Saturday afternoon? Maybe around 2?",
+      "vi": "Tất nhiên rồi! Chiều thứ Bảy được không? Khoảng 2 giờ?"
+    },
+    {
+      "role": "A",
+      "start_time": 52.800,
+      "end_time": 54.800,
+      "en": "Perfect! Where should we meet?",
+      "vi": "Hoàn hảo! Chúng ta gặp ở đâu?"
+    },
+    {
+      "role": "B",
+      "start_time": 55.633,
+      "end_time": 57.766,
+      "en": "The new café on Main Street.",
+      "vi": "Quán cà phê mới trên đường Main Street."
+    },
+    {
+      "role": "A",
+      "start_time": 58.666,
+      "end_time": 60.666,
+      "en": "Sounds great! I'll see you there!",
+      "vi": "Nghe hay đấy! Hẹn gặp bạn ở đó!"
+    },
+    {
+      "role": "B",
+      "start_time": 61.300,
+      "end_time": 63.300,
+      "en": "Awesome! Can't wait!",
+      "vi": "Tuyệt quá! Mong chờ lắm!"
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "lesson_id": "small_talk_in_daily_life_001",
+  "title": "Am I at or in the hospital",
+  "category": "Small Talk in Daily-life",
+  "level": "Elementary",
+  "videoConfig": {
+    "url": "https://raw.githubusercontent.com/Mom1881990/resources/main/videos/small_talk_in_daily_life_001.mp4",
+    "thumb": "https://raw.githubusercontent.com/Mom1881990/resources/main/images/small_talk_in_daily_life_001.jpg",
+    "mute_original": false
+  },
+  "characters": [
+    {
+      "id": "A",
+      "name": "Mark",
+      "tts_voice": "en-US-AndrewNeural"
+    },
+    {
+      "id": "B",
+      "name": "Sarah",
+      "tts_voice": "en-US-JennyNeural"
+    }
+  ],
+  "dialogues": [
+    {
+      "role": "A",
+      "start_time": 1.800,
+      "end_time": 6.766,
+      "en": "Excuse me, I'm, uh... in the hospital to see my brother?",
+      "vi": "Xin lỗi, tôi... đang ở bệnh viện để thăm anh trai."
+    },
+    {
+      "role": "B",
+      "start_time": 7.400,
+      "end_time": 12.000,
+      "en": "Hello! Just to clarify, are you visiting someone, or are you a patient?",
+      "vi": "Xin chào! Cho tôi hỏi rõ, bạn đến thăm ai đó hay bạn là bệnh nhân ạ?"
+    },
+    {
+      "role": "A",
+      "start_time": 13.000,
+      "end_time": 19.800,
+      "en": "Visiting... Wait... Hold on, am I at or in the hospital? Always forget that.",
+      "vi": "Đến thăm... Khoan... Đợi đã, mình nói at hay in the hospital nhỉ? Mãi hay quên."
+    },
+    {
+      "role": "B",
+      "start_time": 20.000,
+      "end_time": 24.066,
+      "en": "Since you're visiting, you'd say \"at the hospital.\"",
+      "vi": "Vì bạn đến thăm thì nên nói \"at the hospital\"."
+    },
+    {
+      "role": "B",
+      "start_time": 24.633,
+      "end_time": 28.533,
+      "en": "\"In the hospital\" usually means you're admitted as a patient.",
+      "vi": "\"In the hospital\" thường có nghĩa là bạn đang nằm viện."
+    },
+    {
+      "role": "A",
+      "start_time": 29.233,
+      "end_time": 35.500,
+      "en": "Oh, \"at\" the hospital. Sorry! My brother, James Nolan, was admitted last night.",
+      "vi": "À, \"at\" the hospital. Xin lỗi! Anh trai tôi, James Nolan, nhập viện tối qua."
+    },
+    {
+      "role": "B",
+      "start_time": 35.500,
+      "end_time": 41.500,
+      "en": "Let me look. Yes, he's in ward C, room 208. Second floor.",
+      "vi": "Để tôi kiểm tra. Vâng, anh ấy ở khu C, phòng 208. Tầng hai."
+    },
+    {
+      "role": "B",
+      "start_time": 42.000,
+      "end_time": 48.533,
+      "en": "Elevators are on your right. After you exit, take a left, you'll see signs for ward C.",
+      "vi": "Thang máy bên phải bạn. Ra khỏi thang máy thì rẽ trái, bạn sẽ thấy biển chỉ dẫn khu C."
+    },
+    {
+      "role": "A",
+      "start_time": 49.100,
+      "end_time": 52.466,
+      "en": "Got it. Thanks for the help and for explaining it!",
+      "vi": "Rõ rồi. Cảm ơn bạn đã giúp và giải thích cho tôi!"
+    },
+    {
+      "role": "B",
+      "start_time": 52.966,
+      "end_time": 56.666,
+      "en": "Of course. If you need anything, just stop by the front desk.",
+      "vi": "Không có gì. Nếu cần gì cứ đến quầy lễ tân nhé."
+    }
+  ]
+}

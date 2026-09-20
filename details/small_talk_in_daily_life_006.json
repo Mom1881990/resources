@@ -1,0 +1,179 @@
+{
+  "lesson_id": "small_talk_in_daily_life_006",
+  "title": "Have you seen my glasses",
+  "category": "Small Talk in Daily-life",
+  "level": "Elementary",
+  "videoConfig": {
+    "url": "https://raw.githubusercontent.com/Mom1881990/resources/main/videos/small_talk_in_daily_life_006.mp4",
+    "thumb": "https://raw.githubusercontent.com/Mom1881990/resources/main/images/small_talk_in_daily_life_006.jpg",
+    "mute_original": false
+  },
+  "characters": [
+    {
+      "id": "A",
+      "name": "Husband",
+      "tts_voice": "en-US-AndrewNeural"
+    },
+    {
+      "id": "B",
+      "name": "Wife",
+      "tts_voice": "en-US-JennyNeural"
+    }
+  ],
+  "dialogues": [
+    {
+      "role": "B",
+      "start_time": 1.766,
+      "end_time": 4.933,
+      "en": "Good morning! I made coffee if you want some.",
+      "vi": "Chào buổi sáng! Anh muốn uống cà phê không, em pha rồi đây."
+    },
+    {
+      "role": "A",
+      "start_time": 5.700,
+      "end_time": 8.866,
+      "en": "No thanks, I'm already running late for work.",
+      "vi": "Không cần đâu, anh đang muộn giờ đi làm rồi."
+    },
+    {
+      "role": "B",
+      "start_time": 9.266,
+      "end_time": 11.766,
+      "en": "You're always rushing in the mornings.",
+      "vi": "Anh lúc nào cũng vội vàng vào buổi sáng."
+    },
+    {
+      "role": "B",
+      "start_time": 12.066,
+      "end_time": 13.266,
+      "en": "Did you forget anything?",
+      "vi": "Anh quên gì không đấy?"
+    },
+    {
+      "role": "A",
+      "start_time": 14.033,
+      "end_time": 15.100,
+      "en": "I don't think so.",
+      "vi": "Anh nghĩ là không."
+    },
+    {
+      "role": "A",
+      "start_time": 15.100,
+      "end_time": 17.000,
+      "en": "Wait, where's my phone?",
+      "vi": "Khoan, điện thoại anh đâu rồi?"
+    },
+    {
+      "role": "B",
+      "start_time": 17.000,
+      "end_time": 19.766,
+      "en": "I saw it in the bathroom earlier.",
+      "vi": "Em thấy nó trong phòng tắm lúc nãy."
+    },
+    {
+      "role": "A",
+      "start_time": 20.200,
+      "end_time": 23.266,
+      "en": "Oh, great. Now I can't find my keys.",
+      "vi": "Ồ, tuyệt. Giờ anh lại không tìm thấy chìa khóa."
+    },
+    {
+      "role": "A",
+      "start_time": 24.200,
+      "end_time": 26.000,
+      "en": "This is ridiculous!",
+      "vi": "Thật là vô lý quá!"
+    },
+    {
+      "role": "B",
+      "start_time": 26.700,
+      "end_time": 28.833,
+      "en": "It's always like this, isn't it?",
+      "vi": "Lúc nào cũng thế này, đúng không?"
+    },
+    {
+      "role": "B",
+      "start_time": 28.833,
+      "end_time": 30.566,
+      "en": "You need to be more organized.",
+      "vi": "Anh cần ngăn nắp hơn đi."
+    },
+    {
+      "role": "A",
+      "start_time": 30.900,
+      "end_time": 32.700,
+      "en": "I know, I know!",
+      "vi": "Anh biết, anh biết rồi!"
+    },
+    {
+      "role": "A",
+      "start_time": 32.700,
+      "end_time": 35.766,
+      "en": "I've been trying, but I keep losing stuff.",
+      "vi": "Anh đang cố rồi, nhưng cứ mất đồ hoài."
+    },
+    {
+      "role": "B",
+      "start_time": 36.200,
+      "end_time": 37.500,
+      "en": "What about your wallet?",
+      "vi": "Còn ví của anh thì sao?"
+    },
+    {
+      "role": "B",
+      "start_time": 37.500,
+      "end_time": 39.200,
+      "en": "It's always in the same place.",
+      "vi": "Nó lúc nào cũng để đúng một chỗ."
+    },
+    {
+      "role": "A",
+      "start_time": 39.800,
+      "end_time": 42.300,
+      "en": "Yes. That's one thing I haven't lost.",
+      "vi": "Ừ. Đó là thứ duy nhất anh chưa mất."
+    },
+    {
+      "role": "A",
+      "start_time": 42.400,
+      "end_time": 44.400,
+      "en": "But now I can't find my glasses.",
+      "vi": "Nhưng giờ anh lại không tìm thấy kính."
+    },
+    {
+      "role": "A",
+      "start_time": 44.866,
+      "end_time": 46.266,
+      "en": "Have you seen my glasses?",
+      "vi": "Em có thấy kính của anh không?"
+    },
+    {
+      "role": "B",
+      "start_time": 46.866,
+      "end_time": 49.200,
+      "en": "I thought you left them on the table.",
+      "vi": "Em tưởng anh để trên bàn cơ mà."
+    },
+    {
+      "role": "A",
+      "start_time": 49.666,
+      "end_time": 51.500,
+      "en": "Oh no, I haven't seen them.",
+      "vi": "Ối không, anh không thấy chúng đâu cả."
+    },
+    {
+      "role": "B",
+      "start_time": 51.500,
+      "end_time": 54.000,
+      "en": "Maybe you put them in the bathroom?",
+      "vi": "Biết đâu anh để trong phòng tắm?"
+    },
+    {
+      "role": "A",
+      "start_time": 54.433,
+      "end_time": 56.566,
+      "en": "Good idea. I'll check there.",
+      "vi": "Ý hay đấy. Anh sẽ kiểm tra thử."
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "lesson_id": "small_talk_in_daily_life_002",
+  "title": "At the restaurant",
+  "category": "Small Talk in Daily-life",
+  "level": "Elementary",
+  "videoConfig": {
+    "url": "https://raw.githubusercontent.com/Mom1881990/resources/main/videos/small_talk_in_daily_life_002.mp4",
+    "thumb": "https://raw.githubusercontent.com/Mom1881990/resources/main/images/small_talk_in_daily_life_002.jpg",
+    "mute_original": false
+  },
+  "characters": [
+    {
+      "id": "A",
+      "name": "Waiter",
+      "tts_voice": "en-US-AndrewNeural"
+    },
+    {
+      "id": "B",
+      "name": "Mom",
+      "tts_voice": "en-US-JennyNeural"
+    },
+    {
+      "id": "C",
+      "name": "Jay",
+      "tts_voice": "en-US-GuyNeural"
+    },
+    {
+      "id": "D",
+      "name": "Phil",
+      "tts_voice": "en-US-DavisNeural"
+    }
+  ],
+  "dialogues": [
+    {
+      "role": "A",
+      "start_time": 2.033,
+      "end_time": 3.733,
+      "en": "Are you ready to order?",
+      "vi": "Quý khách đã sẵn sàng gọi món chưa ạ?"
+    },
+    {
+      "role": "B",
+      "start_time": 4.500,
+      "end_time": 10.100,
+      "en": "Yeah, we're set. I'll take the pesto pasta, cheeseburger for my husband.",
+      "vi": "Vâng, chúng tôi sẵn sàng rồi. Tôi lấy pasta pesto, còn cheeseburger cho chồng tôi."
+    },
+    {
+      "role": "B",
+      "start_time": 10.833,
+      "end_time": 13.566,
+      "en": "And Jay, what do you want, honey?",
+      "vi": "Còn Jay, con muốn gì nào?"
+    },
+    {
+      "role": "C",
+      "start_time": 14.466,
+      "end_time": 16.800,
+      "en": "Can I get a kids' combo, please?",
+      "vi": "Con lấy kids' combo được không ạ?"
+    },
+    {
+      "role": "D",
+      "start_time": 17.666,
+      "end_time": 23.000,
+      "en": "Jay! Come on, man. You're fifteen. You're way too old for the kids' combo.",
+      "vi": "Jay! Thôi nào con. Con mười lăm tuổi rồi. Lớn quá rồi không lấy kids' combo được đâu."
+    },
+    {
+      "role": "B",
+      "start_time": 23.766,
+      "end_time": 27.666,
+      "en": "Phil, just let him get whatever he wants. It's no big deal.",
+      "vi": "Phil, cứ để con lấy gì con thích đi. Có gì đâu mà."
+    },
+    {
+      "role": "A",
+      "start_time": 28.466,
+      "end_time": 31.166,
+      "en": "Got it! I'll be right back with your order.",
+      "vi": "Rõ rồi ạ! Tôi sẽ mang món ra ngay."
+    },
+    {
+      "role": "A",
+      "start_time": 36.100,
+      "end_time": 39.266,
+      "en": "And here's your kids' combo with the LEGO spaceship!",
+      "vi": "Và đây là kids' combo của bạn, kèm theo tàu vũ trụ LEGO!"
+    },
+    {
+      "role": "C",
+      "start_time": 40.100,
+      "end_time": 42.466,
+      "en": "Hold up... it comes with LEGOs?",
+      "vi": "Khoan đã... nó có kèm LEGO á?"
+    },
+    {
+      "role": "A",
+      "start_time": 43.433,
+      "end_time": 46.900,
+      "en": "Yes, sir! This month's toy is a mini LEGO set.",
+      "vi": "Vâng ạ! Đồ chơi tháng này là bộ LEGO mini."
+    },
+    {
+      "role": "D",
+      "start_time": 47.800,
+      "end_time": 50.733,
+      "en": "Excuse me, can I get a kids' combo too?",
+      "vi": "Xin lỗi, tôi cũng lấy một kids' combo được không?"
+    },
+    {
+      "role": "B",
+      "start_time": 51.633,
+      "end_time": 54.466,
+      "en": "Phil! Are you serious right now?",
+      "vi": "Phil! Anh nghiêm túc đó hả?"
+    },
+    {
+      "role": "D",
+      "start_time": 55.100,
+      "end_time": 57.200,
+      "en": "What? I love LEGOs!",
+      "vi": "Sao? Anh thích LEGO mà!"
+    },
+    {
+      "role": "D",
+      "start_time": 58.200,
+      "end_time": 60.166,
+      "en": "Jay, want to trade sets?",
+      "vi": "Jay, đổi bộ LEGO với bố không?"
+    },
+    {
+      "role": "B",
+      "start_time": 61.100,
+      "end_time": 63.933,
+      "en": "Great. Now I've got two kids.",
+      "vi": "Tuyệt. Giờ mình có hai đứa trẻ rồi."
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "lesson_id": "small_talk_in_daily_life_005",
+  "title": "Grocery shopping",
+  "category": "Small Talk in Daily-life",
+  "level": "Elementary",
+  "videoConfig": {
+    "url": "https://raw.githubusercontent.com/Mom1881990/resources/main/videos/small_talk_in_daily_life_005.mp4",
+    "thumb": "https://raw.githubusercontent.com/Mom1881990/resources/main/images/small_talk_in_daily_life_005.jpg",
+    "mute_original": false
+  },
+  "characters": [
+    {
+      "id": "A",
+      "name": "Butcher",
+      "tts_voice": "en-US-AndrewNeural"
+    },
+    {
+      "id": "B",
+      "name": "Customer",
+      "tts_voice": "en-US-JennyNeural"
+    }
+  ],
+  "dialogues": [
+    {
+      "role": "A",
+      "start_time": 3.000,
+      "end_time": 5.900,
+      "en": "Hi there! What can I get for you today?",
+      "vi": "Xin chào! Hôm nay tôi có thể lấy gì cho bạn?"
+    },
+    {
+      "role": "B",
+      "start_time": 6.400,
+      "end_time": 10.733,
+      "en": "I'm thinking of making beef stew. What cut do you recommend?",
+      "vi": "Tôi đang nghĩ làm món hầm bò. Ông gợi ý miếng thịt nào ạ?"
+    },
+    {
+      "role": "A",
+      "start_time": 11.433,
+      "end_time": 15.900,
+      "en": "Chuck is great for stew. It gets really tender when slow-cooked.",
+      "vi": "Thịt vai rất hợp để hầm. Nó sẽ rất mềm khi nấu chậm."
+    },
+    {
+      "role": "A",
+      "start_time": 16.300,
+      "end_time": 20.500,
+      "en": "Brisket is another good option, but it takes a bit longer.",
+      "vi": "Thịt ức cũng là lựa chọn tốt, nhưng mất thời gian hơn một chút."
+    },
+    {
+      "role": "B",
+      "start_time": 20.966,
+      "end_time": 27.266,
+      "en": "Hmm... Let's go with chuck then. Can I get around 600 grams?",
+      "vi": "Hmm... Vậy lấy thịt vai nhé. Cho tôi khoảng 600 gram được không?"
+    },
+    {
+      "role": "A",
+      "start_time": 27.700,
+      "end_time": 31.366,
+      "en": "This is 560 grams. Is that okay?",
+      "vi": "Cái này 560 gram. Được không ạ?"
+    },
+    {
+      "role": "B",
+      "start_time": 31.900,
+      "end_time": 35.600,
+      "en": "Perfect. Could you cut it into cubes for me, please?",
+      "vi": "Hoàn hảo. Ông làm ơn cắt thành từng khối nhỏ giúp tôi được không?"
+    },
+    {
+      "role": "A",
+      "start_time": 36.000,
+      "end_time": 38.766,
+      "en": "Of course. Makes things easier, huh?",
+      "vi": "Tất nhiên rồi. Dễ dàng hơn đúng không?"
+    },
+    {
+      "role": "B",
+      "start_time": 39.300,
+      "end_time": 43.066,
+      "en": "Definitely. Less chance I'll cry over sliced fingers.",
+      "vi": "Chắc chắn rồi. Ít nguy cơ tôi phải khóc vì cắt đứt ngón tay hơn."
+    },
+    {
+      "role": "A",
+      "start_time": 43.400,
+      "end_time": 47.533,
+      "en": "Actually, we do have ready-to-cook stew kits in the freezer.",
+      "vi": "Thực ra, chúng tôi có sẵn bộ kit hầm bò sẵn để nấu trong tủ đông."
+    },
+    {
+      "role": "B",
+      "start_time": 48.166,
+      "end_time": 51.500,
+      "en": "Oh, no need! I'll just stick with fresh ingredients.",
+      "vi": "Ồ, không cần đâu! Tôi vẫn thích dùng nguyên liệu tươi."
+    },
+    {
+      "role": "A",
+      "start_time": 52.266,
+      "end_time": 57.000,
+      "en": "There you go. That'll be $12.75. Good luck with the stew.",
+      "vi": "Đây ạ. Tổng cộng $12.75. Chúc bạn làm món hầm ngon nhé."
+    },
+    {
+      "role": "B",
+      "start_time": 57.666,
+      "end_time": 58.700,
+      "en": "Thanks!",
+      "vi": "Cảm ơn!"
+    }
+  ]
+}
