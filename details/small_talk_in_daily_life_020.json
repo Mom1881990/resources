@@ -1,0 +1,221 @@
+{
+  "lesson_id": "small_talk_in_daily_life_020",
+  "title": "Shopping at the grocery store",
+  "category": "Small Talk in Daily-life",
+  "level": "Elementary",
+  "videoConfig": {
+    "url": "https://raw.githubusercontent.com/Mom1881990/resources/main/videos/small_talk_in_daily_life_020.mp4",
+    "thumb": "https://raw.githubusercontent.com/Mom1881990/resources/main/images/small_talk_in_daily_life_020.jpg",
+    "mute_original": false
+  },
+  "characters": [
+    {
+      "id": "A",
+      "name": "Ed",
+      "tts_voice": "en-US-AndrewNeural"
+    },
+    {
+      "id": "B",
+      "name": "Claire",
+      "tts_voice": "en-US-JennyNeural"
+    }
+  ],
+  "dialogues": [
+    {
+      "role": "A",
+      "start_time": 1.900,
+      "end_time": 2.800,
+      "en": "Hi Claire!",
+      "vi": "Chào Claire!"
+    },
+    {
+      "role": "A",
+      "start_time": 2.800,
+      "end_time": 3.933,
+      "en": "Where is the beef?",
+      "vi": "Thịt bò ở đâu vậy?"
+    },
+    {
+      "role": "B",
+      "start_time": 4.900,
+      "end_time": 6.266,
+      "en": "Hi Ed!",
+      "vi": "Chào Ed!"
+    },
+    {
+      "role": "B",
+      "start_time": 6.266,
+      "end_time": 9.100,
+      "en": "It's over there, in the meat section.",
+      "vi": "Nó ở đằng kia, trong khu bán thịt."
+    },
+    {
+      "role": "B",
+      "start_time": 9.233,
+      "end_time": 10.800,
+      "en": "Are you cooking today?",
+      "vi": "Hôm nay anh nấu ăn à?"
+    },
+    {
+      "role": "A",
+      "start_time": 11.633,
+      "end_time": 13.566,
+      "en": "Yes. My wife is not home.",
+      "vi": "Ừ. Vợ anh không có nhà."
+    },
+    {
+      "role": "A",
+      "start_time": 13.566,
+      "end_time": 14.733,
+      "en": "She is traveling.",
+      "vi": "Cô ấy đang đi du lịch."
+    },
+    {
+      "role": "B",
+      "start_time": 15.566,
+      "end_time": 17.300,
+      "en": "Oh, nice!",
+      "vi": "Ồ, tuyệt quá!"
+    },
+    {
+      "role": "B",
+      "start_time": 17.300,
+      "end_time": 18.533,
+      "en": "What are you making?",
+      "vi": "Anh đang định làm món gì vậy?"
+    },
+    {
+      "role": "A",
+      "start_time": 19.300,
+      "end_time": 20.666,
+      "en": "Beef Wellington!",
+      "vi": "Bò Wellington!"
+    },
+    {
+      "role": "B",
+      "start_time": 21.566,
+      "end_time": 23.466,
+      "en": "Wow, man!",
+      "vi": "Wow, anh ơi!"
+    },
+    {
+      "role": "B",
+      "start_time": 23.466,
+      "end_time": 26.700,
+      "en": "That's very hard. Why don't you make curry?",
+      "vi": "Món đó khó lắm. Sao anh không nấu cà ri đi?"
+    },
+    {
+      "role": "B",
+      "start_time": 26.700,
+      "end_time": 29.333,
+      "en": "It's easy and very yummy.",
+      "vi": "Nó vừa dễ làm lại vừa rất ngon."
+    },
+    {
+      "role": "A",
+      "start_time": 30.000,
+      "end_time": 33.466,
+      "en": "No, I want to make something special for my kids!",
+      "vi": "Không, anh muốn làm món gì đó thật đặc biệt cho các con!"
+    },
+    {
+      "role": "B",
+      "start_time": 34.400,
+      "end_time": 36.766,
+      "en": "Okay, if you really want to.",
+      "vi": "Thôi được, nếu anh thực sự muốn vậy."
+    },
+    {
+      "role": "B",
+      "start_time": 36.900,
+      "end_time": 40.733,
+      "en": "Oh, and the foie gras is in the far left aisle.",
+      "vi": "Ồ, và gan ngỗng thì ở lối đi ngoài cùng bên trái."
+    },
+    {
+      "role": "A",
+      "start_time": 41.566,
+      "end_time": 42.866,
+      "en": "Foie what?",
+      "vi": "Foie gì cơ?"
+    },
+    {
+      "role": "B",
+      "start_time": 43.633,
+      "end_time": 46.000,
+      "en": "Foie gras. It's goose liver.",
+      "vi": "Foie gras. Đó là gan ngỗng."
+    },
+    {
+      "role": "B",
+      "start_time": 46.000,
+      "end_time": 48.133,
+      "en": "You need it for Beef Wellington.",
+      "vi": "Anh sẽ cần nó để làm món Bò Wellington."
+    },
+    {
+      "role": "A",
+      "start_time": 49.000,
+      "end_time": 51.000,
+      "en": "Oh, I didn't know that.",
+      "vi": "Ồ, anh không biết chuyện đó luôn."
+    },
+    {
+      "role": "B",
+      "start_time": 51.500,
+      "end_time": 54.633,
+      "en": "It's very expensive and not easy to cook,",
+      "vi": "Nó rất đắt và không dễ chế biến đâu,"
+    },
+    {
+      "role": "B",
+      "start_time": 54.633,
+      "end_time": 55.933,
+      "en": "so, be careful!",
+      "vi": "vậy nên, hãy cẩn thận nhé!"
+    },
+    {
+      "role": "A",
+      "start_time": 56.633,
+      "end_time": 60.100,
+      "en": "Actually, I'm wondering where the curry powder is...",
+      "vi": "Thực ra, anh đang tự hỏi không biết bột cà ri ở đâu nhỉ..."
+    },
+    {
+      "role": "B",
+      "start_time": 60.800,
+      "end_time": 63.400,
+      "en": "It's in the last aisle on the right.",
+      "vi": "Nó ở lối đi cuối cùng bên phải."
+    },
+    {
+      "role": "B",
+      "start_time": 63.566,
+      "end_time": 64.500,
+      "en": "By the way,",
+      "vi": "Nhân tiện,"
+    },
+    {
+      "role": "B",
+      "start_time": 64.500,
+      "end_time": 67.500,
+      "en": "carrots and potatoes are in the veggie section.",
+      "vi": "cà rốt và khoai tây thì nằm ở khu rau củ nhé."
+    },
+    {
+      "role": "A",
+      "start_time": 68.433,
+      "end_time": 69.533,
+      "en": "Thank you!",
+      "vi": "Cảm ơn em!"
+    },
+    {
+      "role": "B",
+      "start_time": 70.066,
+      "end_time": 71.133,
+      "en": "You're welcome.",
+      "vi": "Không có gì ạ."
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "lesson_id": "small_talk_in_daily_life_012",
+  "title": "It kind of works out",
+  "category": "Small Talk in Daily-life",
+  "level": "Elementary",
+  "videoConfig": {
+    "url": "https://raw.githubusercontent.com/Mom1881990/resources/main/videos/small_talk_in_daily_life_012.mp4",
+    "thumb": "https://raw.githubusercontent.com/Mom1881990/resources/main/images/small_talk_in_daily_life_012.jpg",
+    "mute_original": false
+  },
+  "characters": [
+    {
+      "id": "A",
+      "name": "Jessica",
+      "tts_voice": "en-US-JennyNeural"
+    },
+    {
+      "id": "B",
+      "name": "Mark",
+      "tts_voice": "en-US-AndrewNeural"
+    }
+  ],
+  "dialogues": [
+    {
+      "role": "A",
+      "start_time": 1.966,
+      "end_time": 3.366,
+      "en": "Dinner is ready.",
+      "vi": "Cơm tối đã sẵn sàng rồi."
+    },
+    {
+      "role": "B",
+      "start_time": 4.266,
+      "end_time": 7.133,
+      "en": "So great! What did you make, honey?",
+      "vi": "Tuyệt quá! Em nấu gì vậy, honey?"
+    },
+    {
+      "role": "A",
+      "start_time": 7.5,
+      "end_time": 11.2,
+      "en": "I wanted to cook steak, but we ran out of beef.",
+      "vi": "Em muốn nấu bít tết, nhưng hết thịt bò rồi."
+    },
+    {
+      "role": "B",
+      "start_time": 11.9,
+      "end_time": 14.266,
+      "en": "Oh. So what did you do?",
+      "vi": "Ồ. Vậy em làm gì?"
+    },
+    {
+      "role": "A",
+      "start_time": 14.9,
+      "end_time": 17.033,
+      "en": "I checked the fridge and found chicken",
+      "vi": "Em kiểm tra tủ lạnh và thấy thịt gà"
+    },
+    {
+      "role": "A",
+      "start_time": 17.033,
+      "end_time": 18.3,
+      "en": "and some vegetables.",
+      "vi": "và một ít rau củ."
+    },
+    {
+      "role": "B",
+      "start_time": 19.1,
+      "end_time": 20.766,
+      "en": "That sounds simple.",
+      "vi": "Nghe có vẻ đơn giản."
+    },
+    {
+      "role": "A",
+      "start_time": 21.433,
+      "end_time": 24.366,
+      "en": "Yes, so I made chicken soup instead.",
+      "vi": "Ừ, nên em nấu súp gà thay thế."
+    },
+    {
+      "role": "B",
+      "start_time": 24.8,
+      "end_time": 26.2,
+      "en": "That was quick thinking.",
+      "vi": "Nghĩ nhanh đấy."
+    },
+    {
+      "role": "A",
+      "start_time": 26.833,
+      "end_time": 30.166,
+      "en": "I wasn't sure at first, but it kind of works out.",
+      "vi": "Ban đầu em cũng không chắc, nhưng cuối cùng cũng ổn."
+    },
+    {
+      "role": "B",
+      "start_time": 30.833,
+      "end_time": 33.7,
+      "en": "Hmm, it smells really good.",
+      "vi": "Hmm, mùi thơm quá."
+    },
+    {
+      "role": "A",
+      "start_time": 34.433,
+      "end_time": 36.733,
+      "en": "Let's try it. I hope it's okay.",
+      "vi": "Thử đi. Em hy vọng nó ổn."
+    },
+    {
+      "role": "B",
+      "start_time": 39.466,
+      "end_time": 42.066,
+      "en": "Wow, this is tasty, sweetheart.",
+      "vi": "Wow, ngon quá, sweetheart."
+    },
+    {
+      "role": "A",
+      "start_time": 42.433,
+      "end_time": 44.2,
+      "en": "I'm glad you like it.",
+      "vi": "Em vui vì anh thích."
+    },
+    {
+      "role": "B",
+      "start_time": 44.966,
+      "end_time": 47.066,
+      "en": "Sometimes simple food is the best.",
+      "vi": "Đôi khi đồ ăn đơn giản lại ngon nhất."
+    },
+    {
+      "role": "A",
+      "start_time": 47.766,
+      "end_time": 51.0,
+      "en": "We don't need fancy meals every day. Right?",
+      "vi": "Chúng ta không cần món ăn cầu kỳ mỗi ngày đâu. Đúng không?"
+    },
+    {
+      "role": "B",
+      "start_time": 51.0,
+      "end_time": 52.966,
+      "en": "Exactly.",
+      "vi": "Đúng vậy."
+    },
+    {
+      "role": "B",
+      "start_time": 52.966,
+      "end_time": 55.866,
+      "en": "A warm meal like this is perfect tonight.",
+      "vi": "Một bữa ăn ấm áp như thế này thật hoàn hảo cho tối nay."
+    }
+  ]
+}

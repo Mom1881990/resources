@@ -1,0 +1,193 @@
+{
+  "lesson_id": "small_talk_in_daily_life_017",
+  "title": "Pharmacy visit",
+  "category": "Small Talk in Daily-life",
+  "level": "Elementary",
+  "videoConfig": {
+    "url": "https://raw.githubusercontent.com/Mom1881990/resources/main/videos/small_talk_in_daily_life_017.mp4",
+    "thumb": "https://raw.githubusercontent.com/Mom1881990/resources/main/images/small_talk_in_daily_life_017.jpg",
+    "mute_original": false
+  },
+  "characters": [
+    {
+      "id": "A",
+      "name": "Jessica",
+      "tts_voice": "en-US-JennyNeural"
+    },
+    {
+      "id": "B",
+      "name": "Tom",
+      "tts_voice": "en-US-AndrewNeural"
+    }
+  ],
+  "dialogues": [
+    {
+      "role": "A",
+      "start_time": 2.666,
+      "end_time": 5.400,
+      "en": "Good afternoon. How can I help you today?",
+      "vi": "Chào buổi chiều. Tôi có thể giúp gì cho bạn hôm nay?"
+    },
+    {
+      "role": "B",
+      "start_time": 5.833,
+      "end_time": 7.333,
+      "en": "Hi. Uh,",
+      "vi": "Chào. Ờ,"
+    },
+    {
+      "role": "B",
+      "start_time": 7.366,
+      "end_time": 11.100,
+      "en": "I think I'm having some kind of... skin problem.",
+      "vi": "Tôi nghĩ tôi đang gặp một loại... vấn đề về da."
+    },
+    {
+      "role": "A",
+      "start_time": 11.700,
+      "end_time": 14.000,
+      "en": "Let's take a look. What's the problem?",
+      "vi": "Để tôi xem nào. Vấn đề là gì vậy?"
+    },
+    {
+      "role": "B",
+      "start_time": 14.633,
+      "end_time": 17.366,
+      "en": "It's started as a small rash on my wrist,",
+      "vi": "Ban đầu nó chỉ là một vết phát ban nhỏ trên cổ tay,"
+    },
+    {
+      "role": "B",
+      "start_time": 17.366,
+      "end_time": 19.933,
+      "en": "but now it's spread all over my arm.",
+      "vi": "nhưng bây giờ nó đã lan ra cả cánh tay."
+    },
+    {
+      "role": "B",
+      "start_time": 19.966,
+      "end_time": 21.666,
+      "en": "The itching is getting worse.",
+      "vi": "Cơn ngứa đang ngày càng nặng hơn."
+    },
+    {
+      "role": "A",
+      "start_time": 22.266,
+      "end_time": 25.100,
+      "en": "Any recent changes? New foods,",
+      "vi": "Gần đây có thay đổi gì không? Đồ ăn mới,"
+    },
+    {
+      "role": "A",
+      "start_time": 25.100,
+      "end_time": 27.733,
+      "en": "skincare products, or contact with animals?",
+      "vi": "sản phẩm chăm sóc da, hoặc tiếp xúc với động vật?"
+    },
+    {
+      "role": "B",
+      "start_time": 28.233,
+      "end_time": 30.266,
+      "en": "I did have shrimp for lunch today,",
+      "vi": "Tôi có ăn tôm cho bữa trưa hôm nay,"
+    },
+    {
+      "role": "B",
+      "start_time": 30.266,
+      "end_time": 32.500,
+      "en": "which I don't normally eat.",
+      "vi": "thứ mà tôi thường không ăn."
+    },
+    {
+      "role": "A",
+      "start_time": 33.100,
+      "end_time": 36.300,
+      "en": "Ah, shrimp is a common allergen.",
+      "vi": "À, tôm là một chất gây dị ứng phổ biến."
+    },
+    {
+      "role": "A",
+      "start_time": 36.366,
+      "end_time": 38.300,
+      "en": "This looks like a mild reaction.",
+      "vi": "Trông giống như một phản ứng nhẹ."
+    },
+    {
+      "role": "B",
+      "start_time": 39.033,
+      "end_time": 42.400,
+      "en": "Should I be worried? I've never had allergies before...",
+      "vi": "Tôi có nên lo lắng không? Tôi chưa bao giờ bị dị ứng trước đây..."
+    },
+    {
+      "role": "A",
+      "start_time": 43.200,
+      "end_time": 43.666,
+      "en": "Only",
+      "vi": "Chỉ"
+    },
+    {
+      "role": "A",
+      "start_time": 43.666,
+      "end_time": 46.566,
+      "en": "if you experience trouble breathing or throat swelling,",
+      "vi": "nếu bạn gặp khó thở hoặc sưng họng,"
+    },
+    {
+      "role": "A",
+      "start_time": 46.566,
+      "end_time": 48.333,
+      "en": "go to the ER immediately.",
+      "vi": "hãy đến phòng cấp cứu ngay lập tức."
+    },
+    {
+      "role": "A",
+      "start_time": 49.433,
+      "end_time": 52.100,
+      "en": "Otherwise, I recommend taking loratadine.",
+      "vi": "Nếu không, tôi khuyên bạn dùng loratadine."
+    },
+    {
+      "role": "A",
+      "start_time": 52.100,
+      "end_time": 54.966,
+      "en": "Take one tablet daily until symptoms clear.",
+      "vi": "Uống một viên mỗi ngày cho đến khi triệu chứng hết."
+    },
+    {
+      "role": "B",
+      "start_time": 55.966,
+      "end_time": 57.100,
+      "en": "Alright, thanks.",
+      "vi": "Được rồi, cảm ơn."
+    },
+    {
+      "role": "B",
+      "start_time": 57.100,
+      "end_time": 59.800,
+      "en": "Is there anything else I should watch out for?",
+      "vi": "Còn điều gì khác tôi nên chú ý không?"
+    },
+    {
+      "role": "A",
+      "start_time": 60.366,
+      "end_time": 65.066,
+      "en": "Avoid shrimp from now on, and... try not to scratch.",
+      "vi": "Từ giờ trở đi tránh ăn tôm, và... cố gắng đừng gãi."
+    },
+    {
+      "role": "A",
+      "start_time": 65.400,
+      "end_time": 66.833,
+      "en": "It makes things worse,",
+      "vi": "Nó làm mọi thứ tệ hơn,"
+    },
+    {
+      "role": "A",
+      "start_time": 66.833,
+      "end_time": 69.266,
+      "en": "even if it feels good for a few seconds.",
+      "vi": "dù có cảm giác dễ chịu trong vài giây."
+    }
+  ]
+}

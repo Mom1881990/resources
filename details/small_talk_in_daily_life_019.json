@@ -1,0 +1,207 @@
+{
+  "lesson_id": "small_talk_in_daily_life_019",
+  "title": "Shopping at the clothing store",
+  "category": "Small Talk in Daily-life",
+  "level": "Elementary",
+  "videoConfig": {
+    "url": "https://raw.githubusercontent.com/Mom1881990/resources/main/videos/small_talk_in_daily_life_019.mp4",
+    "thumb": "https://raw.githubusercontent.com/Mom1881990/resources/main/images/small_talk_in_daily_life_019.jpg",
+    "mute_original": false
+  },
+  "characters": [
+    {
+      "id": "A",
+      "name": "Alex",
+      "tts_voice": "en-US-AndrewNeural"
+    },
+    {
+      "id": "B",
+      "name": "Jessica",
+      "tts_voice": "en-US-JennyNeural"
+    }
+  ],
+  "dialogues": [
+    {
+      "role": "A",
+      "start_time": 2.266,
+      "end_time": 4.733,
+      "en": "Hi! Do you need help today?",
+      "vi": "Xin chào! Chị có cần giúp đỡ hôm nay không?"
+    },
+    {
+      "role": "B",
+      "start_time": 5.266,
+      "end_time": 6.833,
+      "en": "Hello! Yes,",
+      "vi": "Xin chào! Vâng,"
+    },
+    {
+      "role": "B",
+      "start_time": 6.833,
+      "end_time": 9.300,
+      "en": "I want to buy a shirt to my husband.",
+      "vi": "Tôi muốn mua một chiếc áo sơ mi cho chồng tôi."
+    },
+    {
+      "role": "A",
+      "start_time": 10.000,
+      "end_time": 13.200,
+      "en": "Oh, you mean buy a T-shirt for your husband?",
+      "vi": "Ồ, ý chị là mua một chiếc áo thun cho chồng chị đúng không?"
+    },
+    {
+      "role": "B",
+      "start_time": 13.966,
+      "end_time": 16.533,
+      "en": "Yes, for my husband!",
+      "vi": "Đúng rồi, cho chồng tôi!"
+    },
+    {
+      "role": "B",
+      "start_time": 16.666,
+      "end_time": 20.200,
+      "en": "Sorry, my English... not good.",
+      "vi": "Xin lỗi, tiếng Anh của tôi... không tốt lắm."
+    },
+    {
+      "role": "A",
+      "start_time": 20.966,
+      "end_time": 23.566,
+      "en": "That's okay! What size does he need?",
+      "vi": "Không sao đâu ạ! Anh ấy cần size gì?"
+    },
+    {
+      "role": "B",
+      "start_time": 24.433,
+      "end_time": 25.500,
+      "en": "Large.",
+      "vi": "Size L (Lớn)."
+    },
+    {
+      "role": "A",
+      "start_time": 25.500,
+      "end_time": 26.900,
+      "en": "What kind of shirt?",
+      "vi": "Chị muốn loại áo nào?"
+    },
+    {
+      "role": "B",
+      "start_time": 27.466,
+      "end_time": 29.066,
+      "en": "T-shirt, please.",
+      "vi": "Cho tôi áo thun nhé."
+    },
+    {
+      "role": "A",
+      "start_time": 29.833,
+      "end_time": 32.900,
+      "en": "Great! This white T-shirt is very popular.",
+      "vi": "Tuyệt! Chiếc áo thun trắng này rất được ưa chuộng."
+    },
+    {
+      "role": "A",
+      "start_time": 32.900,
+      "end_time": 34.866,
+      "en": "It is 35 dollars.",
+      "vi": "Giá của nó là 35 đô la."
+    },
+    {
+      "role": "B",
+      "start_time": 35.800,
+      "end_time": 37.500,
+      "en": "Okay. I will buy it.",
+      "vi": "Được rồi. Tôi sẽ mua nó."
+    },
+    {
+      "role": "A",
+      "start_time": 38.100,
+      "end_time": 40.633,
+      "en": "Awesome. If it doesn't fit your husband,",
+      "vi": "Tuyệt vời. Nếu nó không vừa với chồng chị,"
+    },
+    {
+      "role": "A",
+      "start_time": 40.633,
+      "end_time": 43.766,
+      "en": "you can return or change it in 30 days.",
+      "vi": "chị có thể trả lại hoặc đổi trong vòng 30 ngày."
+    },
+    {
+      "role": "B",
+      "start_time": 44.500,
+      "end_time": 47.533,
+      "en": "Oh, how much is this blue T-shirt?",
+      "vi": "Ồ, chiếc áo thun màu xanh này giá bao nhiêu?"
+    },
+    {
+      "role": "A",
+      "start_time": 48.233,
+      "end_time": 51.400,
+      "en": "This one is only 15 dollars. It's on sale",
+      "vi": "Chiếc này chỉ có 15 đô la thôi. Nó đang được giảm giá"
+    },
+    {
+      "role": "A",
+      "start_time": 51.400,
+      "end_time": 54.100,
+      "en": "because we don't have all sizes in this color.",
+      "vi": "vì chúng tôi không còn đủ các size cho màu này."
+    },
+    {
+      "role": "B",
+      "start_time": 54.766,
+      "end_time": 56.700,
+      "en": "What sizes do you have?",
+      "vi": "Các anh có những size nào?"
+    },
+    {
+      "role": "A",
+      "start_time": 57.466,
+      "end_time": 59.000,
+      "en": "Small and medium.",
+      "vi": "Size S (Nhỏ) và M (Trung bình)."
+    },
+    {
+      "role": "B",
+      "start_time": 59.500,
+      "end_time": 63.100,
+      "en": "Oh, forget the white T-shirt. I will buy this one.",
+      "vi": "Ồ, bỏ qua chiếc áo thun trắng đi. Tôi sẽ mua chiếc này."
+    },
+    {
+      "role": "B",
+      "start_time": 63.100,
+      "end_time": 64.166,
+      "en": "Medium size.",
+      "vi": "Size M nhé."
+    },
+    {
+      "role": "A",
+      "start_time": 64.900,
+      "end_time": 67.566,
+      "en": "I think it will be too small for your husband.",
+      "vi": "Tôi nghĩ nó sẽ quá nhỏ so với chồng chị đấy."
+    },
+    {
+      "role": "B",
+      "start_time": 68.266,
+      "end_time": 71.566,
+      "en": "It's okay! He has 30 days to lose weight!",
+      "vi": "Không sao đâu! Anh ấy có 30 ngày để giảm cân mà!"
+    },
+    {
+      "role": "A",
+      "start_time": 72.433,
+      "end_time": 73.766,
+      "en": "Uh... okay!",
+      "vi": "Ờ... được thôi!"
+    },
+    {
+      "role": "A",
+      "start_time": 73.766,
+      "end_time": 76.300,
+      "en": "That's... one way to motivate someone.",
+      "vi": "Đó cũng là... một cách để tạo động lực cho ai đó."
+    }
+  ]
+}

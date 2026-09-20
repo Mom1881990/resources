@@ -1,0 +1,158 @@
+{
+  "lesson_id": "small_talk_in_daily_life_015",
+  "title": "My bicycle chain came off halfway home",
+  "category": "Small Talk in Daily-life",
+  "level": "Elementary",
+  "videoConfig": {
+    "url": "https://raw.githubusercontent.com/Mom1881990/resources/main/videos/small_talk_in_daily_life_015.mp4",
+    "thumb": "https://raw.githubusercontent.com/Mom1881990/resources/main/images/small_talk_in_daily_life_015.jpg",
+    "mute_original": false
+  },
+  "characters": [
+    {
+      "id": "A",
+      "name": "Jake",
+      "tts_voice": "en-US-AndrewNeural"
+    },
+    {
+      "id": "B",
+      "name": "Jill",
+      "tts_voice": "en-US-JennyNeural"
+    }
+  ],
+  "dialogues": [
+    {
+      "role": "A",
+      "start_time": 2.433,
+      "end_time": 3.633,
+      "en": "Jill, sis!",
+      "vi": "Jill, em gái!"
+    },
+    {
+      "role": "A",
+      "start_time": 3.633,
+      "end_time": 5.8,
+      "en": "What happened? Are you okay?",
+      "vi": "Chuyện gì vậy? Em ổn chứ?"
+    },
+    {
+      "role": "A",
+      "start_time": 6.033,
+      "end_time": 8.9,
+      "en": "Did someone follow you?",
+      "vi": "Có ai theo em không?"
+    },
+    {
+      "role": "B",
+      "start_time": 8.9,
+      "end_time": 10.733,
+      "en": "Oh, it's nothing, big bro.",
+      "vi": "Ồ, không có gì đâu anh."
+    },
+    {
+      "role": "B",
+      "start_time": 10.833,
+      "end_time": 13.566,
+      "en": "My bicycle chain came off halfway home.",
+      "vi": "Xích xe đạp của em bị tuột giữa đường về nhà."
+    },
+    {
+      "role": "A",
+      "start_time": 14.0,
+      "end_time": 17.0,
+      "en": "That's it? Your bike chain falls off?",
+      "vi": "Chỉ vậy thôi á? Xích xe của em bị tuột?"
+    },
+    {
+      "role": "B",
+      "start_time": 17.4,
+      "end_time": 20.6,
+      "en": "Yeah, I just didn't want to drag it all the way.",
+      "vi": "Ừ, em chỉ không muốn kéo nó về hết đường thôi."
+    },
+    {
+      "role": "B",
+      "start_time": 20.6,
+      "end_time": 22.733,
+      "en": "Mom and dad didn't answer their phones, so...",
+      "vi": "Ba mẹ không nghe máy, nên..."
+    },
+    {
+      "role": "A",
+      "start_time": 22.966,
+      "end_time": 26.6,
+      "en": "I thought you were being kidnapped!",
+      "vi": "Anh tưởng em bị bắt cóc!"
+    },
+    {
+      "role": "A",
+      "start_time": 26.6,
+      "end_time": 29.733,
+      "en": "You sent \"Help\" with three exclamation marks!",
+      "vi": "Em gửi \"Help\" với ba dấu chấm than!"
+    },
+    {
+      "role": "B",
+      "start_time": 30.566,
+      "end_time": 32.166,
+      "en": "Yeah. Yeah...",
+      "vi": "Ừ, ừ..."
+    },
+    {
+      "role": "B",
+      "start_time": 32.166,
+      "end_time": 34.533,
+      "en": "\"Help\" as in \"I need a ride.\"",
+      "vi": "\"Help\" nghĩa là \"Em cần đi nhờ.\"."
+    },
+    {
+      "role": "A",
+      "start_time": 35.1,
+      "end_time": 36.6,
+      "en": "You could've just texted...",
+      "vi": "Em có thể chỉ nhắn..."
+    },
+    {
+      "role": "A",
+      "start_time": 36.6,
+      "end_time": 39.2,
+      "en": "\"Can you pick me up?\" like a normal person.",
+      "vi": "\"Anh đón em được không?\" như người bình thường."
+    },
+    {
+      "role": "B",
+      "start_time": 39.6,
+      "end_time": 42.566,
+      "en": "And would you have come this fast if I had?",
+      "vi": "Và nếu em nhắn vậy thì anh có đến nhanh như vậy không?"
+    },
+    {
+      "role": "A",
+      "start_time": 43.2,
+      "end_time": 44.6,
+      "en": "Okay, fair.",
+      "vi": "Được rồi, công bằng."
+    },
+    {
+      "role": "A",
+      "start_time": 44.6,
+      "end_time": 45.766,
+      "en": "Get in the car.",
+      "vi": "Lên xe đi."
+    },
+    {
+      "role": "A",
+      "start_time": 45.766,
+      "end_time": 48.3,
+      "en": "I'll take a look at your bike when we get home.",
+      "vi": "Về nhà anh sẽ xem xe của em."
+    },
+    {
+      "role": "B",
+      "start_time": 48.633,
+      "end_time": 52.066,
+      "en": "Thanks. You are the best brother ever.",
+      "vi": "Cảm ơn. Anh là người anh trai tuyệt nhất luôn."
+    }
+  ]
+}

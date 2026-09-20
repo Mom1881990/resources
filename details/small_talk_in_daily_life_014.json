@@ -1,0 +1,184 @@
+{
+  "lesson_id": "small_talk_in_daily_life_014",
+  "title": "Movie invite call",
+  "category": "Small Talk in Daily-life",
+  "level": "Elementary",
+  "videoConfig": {
+    "url": "https://raw.githubusercontent.com/Mom1881990/resources/main/videos/small_talk_in_daily_life_014.mp4",
+    "thumb": "https://raw.githubusercontent.com/Mom1881990/resources/main/images/small_talk_in_daily_life_014.jpg",
+    "mute_original": false
+  },
+  "characters": [
+    {
+      "id": "A",
+      "name": "Mike",
+      "tts_voice": "en-US-AndrewNeural"
+    },
+    {
+      "id": "B",
+      "name": "Jenny",
+      "tts_voice": "en-US-JennyNeural"
+    },
+    {
+      "id": "C",
+      "name": "Luke",
+      "tts_voice": "en-US-BrianNeural"
+    }
+  ],
+  "dialogues": [
+    {
+      "role": "A",
+      "start_time": 1.8,
+      "end_time": 2.7,
+      "en": "Hey Jenny!",
+      "vi": "Này Jenny!"
+    },
+    {
+      "role": "A",
+      "start_time": 2.7,
+      "end_time": 4.466,
+      "en": "Do you want to go to the movies?",
+      "vi": "Cậu có muốn đi xem phim không?"
+    },
+    {
+      "role": "B",
+      "start_time": 5.3,
+      "end_time": 10.0,
+      "en": "Oh, there's this new rom-com I've been dying to see!",
+      "vi": "Ồ, có một bộ phim hài lãng mạn mới mà mình đang rất muốn xem!"
+    },
+    {
+      "role": "A",
+      "start_time": 11.3,
+      "end_time": 12.733,
+      "en": "Ugh... that one?",
+      "vi": "Ugh... bộ đó á?"
+    },
+    {
+      "role": "B",
+      "start_time": 13.0,
+      "end_time": 14.2,
+      "en": "What's wrong with it?",
+      "vi": "Có gì sai với nó vậy?"
+    },
+    {
+      "role": "A",
+      "start_time": 14.2,
+      "end_time": 15.433,
+      "en": "Nothing.",
+      "vi": "Không có gì."
+    },
+    {
+      "role": "A",
+      "start_time": 15.433,
+      "end_time": 19.1,
+      "en": "I mean, there's also a new superhero movie out.",
+      "vi": "Ý mình là, cũng có một bộ phim siêu anh hùng mới ra."
+    },
+    {
+      "role": "C",
+      "start_time": 20.033,
+      "end_time": 21.566,
+      "en": "Can I come too?",
+      "vi": "Cho anh đi cùng được không?"
+    },
+    {
+      "role": "A",
+      "start_time": 22.366,
+      "end_time": 24.266,
+      "en": "Wait, who's that?",
+      "vi": "Khoan, ai vậy?"
+    },
+    {
+      "role": "B",
+      "start_time": 24.866,
+      "end_time": 28.3,
+      "en": "My little brother. He's trying to invite himself.",
+      "vi": "Em trai mình. Nó đang cố tự mời mình."
+    },
+    {
+      "role": "B",
+      "start_time": 28.566,
+      "end_time": 29.866,
+      "en": "Not happening!",
+      "vi": "Không đời nào!"
+    },
+    {
+      "role": "C",
+      "start_time": 30.633,
+      "end_time": 31.566,
+      "en": "Hi Mike!",
+      "vi": "Chào Mike!"
+    },
+    {
+      "role": "C",
+      "start_time": 31.566,
+      "end_time": 33.3,
+      "en": "Can I come to the movies too?",
+      "vi": "Cho anh đi xem phim cùng được không?"
+    },
+    {
+      "role": "C",
+      "start_time": 33.3,
+      "end_time": 35.8,
+      "en": "I wanna see the new superhero one!",
+      "vi": "Anh muốn xem bộ siêu anh hùng mới!"
+    },
+    {
+      "role": "B",
+      "start_time": 36.8,
+      "end_time": 39.166,
+      "en": "Luke! Give me back my phone!",
+      "vi": "Luke! Trả điện thoại cho chị!"
+    },
+    {
+      "role": "C",
+      "start_time": 39.966,
+      "end_time": 43.366,
+      "en": "I'll do your chores for a whole week if you let me come!",
+      "vi": "Anh sẽ làm việc nhà cho chị cả tuần nếu chị cho anh đi!"
+    },
+    {
+      "role": "B",
+      "start_time": 44.366,
+      "end_time": 46.166,
+      "en": "Hmm... tempting.",
+      "vi": "Hmm... hấp dẫn đấy."
+    },
+    {
+      "role": "B",
+      "start_time": 46.233,
+      "end_time": 49.3,
+      "en": "But my boyfriend wants to see the romance one.",
+      "vi": "Nhưng bạn trai mình muốn xem phim lãng mạn."
+    },
+    {
+      "role": "A",
+      "start_time": 50.233,
+      "end_time": 53.666,
+      "en": "Babe, that chore deal sounds pretty solid...",
+      "vi": "Babe, thỏa thuận việc nhà đó nghe khá ổn đấy..."
+    },
+    {
+      "role": "A",
+      "start_time": 54.8,
+      "end_time": 56.2,
+      "en": "See? Come on!",
+      "vi": "Thấy chưa? Nào nào!"
+    },
+    {
+      "role": "A",
+      "start_time": 56.2,
+      "end_time": 58.0,
+      "en": "Let's go see Superman!",
+      "vi": "Đi xem Superman đi!"
+    },
+    {
+      "role": "B",
+      "start_time": 58.0,
+      "end_time": 62.166,
+      "en": "Great. Now my date is turning into a babysitting gig.",
+      "vi": "Tuyệt. Giờ buổi hẹn hò của mình biến thành việc trông trẻ rồi."
+    }
+  ]
+}

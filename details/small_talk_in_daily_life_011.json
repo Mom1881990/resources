@@ -1,0 +1,200 @@
+{
+  "lesson_id": "small_talk_in_daily_life_011",
+  "title": "It is what it is",
+  "category": "Small Talk in Daily-life",
+  "level": "Elementary",
+  "videoConfig": {
+    "url": "https://raw.githubusercontent.com/Mom1881990/resources/main/videos/small_talk_in_daily_life_011.mp4",
+    "thumb": "https://raw.githubusercontent.com/Mom1881990/resources/main/images/small_talk_in_daily_life_011.jpg",
+    "mute_original": false
+  },
+  "characters": [
+    {
+      "id": "A",
+      "name": "Mia",
+      "tts_voice": "en-US-JennyNeural"
+    },
+    {
+      "id": "B",
+      "name": "Mark",
+      "tts_voice": "en-US-AndrewNeural"
+    }
+  ],
+  "dialogues": [
+    {
+      "role": "A",
+      "start_time": 0.9,
+      "end_time": 1.933,
+      "en": "Hi Mark.",
+      "vi": "Chào Mark."
+    },
+    {
+      "role": "A",
+      "start_time": 2.2,
+      "end_time": 3.733,
+      "en": "Can you hear me clearly?",
+      "vi": "Cậu nghe mình rõ không?"
+    },
+    {
+      "role": "B",
+      "start_time": 4.6,
+      "end_time": 6.6,
+      "en": "Yes, I can hear you well.",
+      "vi": "Có, mình nghe rõ lắm."
+    },
+    {
+      "role": "A",
+      "start_time": 7.066,
+      "end_time": 11.366,
+      "en": "That's good. How are things on your side these days?",
+      "vi": "Tốt rồi. Dạo này bên cậu thế nào?"
+    },
+    {
+      "role": "B",
+      "start_time": 11.966,
+      "end_time": 17.166,
+      "en": "I am okay. Work is busy, and the days feel really long.",
+      "vi": "Mình ổn. Công việc bận, và những ngày cảm thấy dài lê thê."
+    },
+    {
+      "role": "B",
+      "start_time": 17.6,
+      "end_time": 19.033,
+      "en": "I wanted to rest this week,",
+      "vi": "Mình muốn nghỉ ngơi tuần này,"
+    },
+    {
+      "role": "B",
+      "start_time": 19.033,
+      "end_time": 20.8,
+      "en": "but work came up.",
+      "vi": "nhưng công việc lại đến."
+    },
+    {
+      "role": "A",
+      "start_time": 20.8,
+      "end_time": 22.666,
+      "en": "I know that feeling.",
+      "vi": "Mình hiểu cảm giác đó."
+    },
+    {
+      "role": "A",
+      "start_time": 22.766,
+      "end_time": 25.533,
+      "en": "My plans change all the time.",
+      "vi": "Kế hoạch của mình thay đổi suốt."
+    },
+    {
+      "role": "B",
+      "start_time": 26.1,
+      "end_time": 29.066,
+      "en": "It's disappointing, but it is what it is.",
+      "vi": "Thất vọng thật, nhưng chuyện đã vậy rồi."
+    },
+    {
+      "role": "A",
+      "start_time": 29.866,
+      "end_time": 33.933,
+      "en": "Yes. We cannot control everything in life.",
+      "vi": "Đúng. Chúng ta không thể kiểm soát mọi thứ trong cuộc sống."
+    },
+    {
+      "role": "B",
+      "start_time": 34.6,
+      "end_time": 37.366,
+      "en": "At least we can talk and check in like this.",
+      "vi": "Ít ra chúng ta vẫn nói chuyện và hỏi thăm nhau như thế này."
+    },
+    {
+      "role": "A",
+      "start_time": 37.9,
+      "end_time": 41.566,
+      "en": "That helps. A short call makes the day better.",
+      "vi": "Điều đó giúp ích. Một cuộc gọi ngắn làm ngày tốt hơn."
+    },
+    {
+      "role": "A",
+      "start_time": 42.2,
+      "end_time": 44.5,
+      "en": "It feels nice to talk to you.",
+      "vi": "Thật dễ chịu khi nói chuyện với cậu."
+    },
+    {
+      "role": "B",
+      "start_time": 44.766,
+      "end_time": 46.5,
+      "en": "So good to hear that.",
+      "vi": "Nghe vậy vui quá."
+    },
+    {
+      "role": "B",
+      "start_time": 46.5,
+      "end_time": 48.666,
+      "en": "When things are less busy,",
+      "vi": "Khi mọi thứ bớt bận,"
+    },
+    {
+      "role": "B",
+      "start_time": 48.666,
+      "end_time": 50.0,
+      "en": "let's meet up.",
+      "vi": "chúng ta gặp nhau nhé."
+    },
+    {
+      "role": "A",
+      "start_time": 50.833,
+      "end_time": 52.366,
+      "en": "Yes, that sounds good.",
+      "vi": "Ừ, nghe hay đấy."
+    },
+    {
+      "role": "A",
+      "start_time": 52.366,
+      "end_time": 53.566,
+      "en": "I'll come to you.",
+      "vi": "Mình sẽ đến chỗ cậu."
+    },
+    {
+      "role": "A",
+      "start_time": 54.266,
+      "end_time": 56.7,
+      "en": "Maybe we can have barbecue together.",
+      "vi": "Có lẽ chúng ta có thể ăn barbecue cùng nhau."
+    },
+    {
+      "role": "B",
+      "start_time": 57.233,
+      "end_time": 58.766,
+      "en": "I love that, Mia.",
+      "vi": "Mình thích lắm, Mia."
+    },
+    {
+      "role": "B",
+      "start_time": 58.766,
+      "end_time": 60.133,
+      "en": "Let's plan it later.",
+      "vi": "Để sau chúng ta lên kế hoạch nhé."
+    },
+    {
+      "role": "A",
+      "start_time": 60.666,
+      "end_time": 62.666,
+      "en": "Okay.",
+      "vi": "Được."
+    },
+    {
+      "role": "A",
+      "start_time": 62.666,
+      "end_time": 64.333,
+      "en": "I hope next week is easier for us both.",
+      "vi": "Mình hy vọng tuần sau dễ dàng hơn cho cả hai chúng ta."
+    },
+    {
+      "role": "B",
+      "start_time": 64.666,
+      "end_time": 66.266,
+      "en": "I hope so too.",
+      "vi": "Mình cũng hy vọng vậy."
+    }
+  ]
+}

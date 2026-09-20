@@ -1,0 +1,200 @@
+{
+  "lesson_id": "small_talk_in_daily_life_013",
+  "title": "Let's see what happens",
+  "category": "Small Talk in Daily-life",
+  "level": "Elementary",
+  "videoConfig": {
+    "url": "https://raw.githubusercontent.com/Mom1881990/resources/main/videos/small_talk_in_daily_life_013.mp4",
+    "thumb": "https://raw.githubusercontent.com/Mom1881990/resources/main/images/small_talk_in_daily_life_013.jpg",
+    "mute_original": false
+  },
+  "characters": [
+    {
+      "id": "A",
+      "name": "Alex",
+      "tts_voice": "en-US-AndrewNeural"
+    },
+    {
+      "id": "B",
+      "name": "Ben",
+      "tts_voice": "en-US-BrianNeural"
+    }
+  ],
+  "dialogues": [
+    {
+      "role": "A",
+      "start_time": 0.633,
+      "end_time": 1.666,
+      "en": "Hi Ben.",
+      "vi": "Chào Ben."
+    },
+    {
+      "role": "A",
+      "start_time": 1.8,
+      "end_time": 4.166,
+      "en": "You look quiet today.",
+      "vi": "Hôm nay cậu trông trầm tính quá."
+    },
+    {
+      "role": "B",
+      "start_time": 4.166,
+      "end_time": 7.6,
+      "en": "Hi Alex, I'm thinking about the job interview.",
+      "vi": "Chào Alex, mình đang nghĩ về buổi phỏng vấn xin việc."
+    },
+    {
+      "role": "A",
+      "start_time": 8.233,
+      "end_time": 10.333,
+      "en": "Did you get any news from the company?",
+      "vi": "Cậu đã nhận được tin gì từ công ty chưa?"
+    },
+    {
+      "role": "B",
+      "start_time": 11.233,
+      "end_time": 14.533,
+      "en": "Not yet. I'm still waiting for their reply.",
+      "vi": "Chưa. Mình vẫn đang chờ phản hồi của họ."
+    },
+    {
+      "role": "A",
+      "start_time": 15.2,
+      "end_time": 18.666,
+      "en": "I know that feeling. Waiting can be stressful.",
+      "vi": "Mình hiểu cảm giác đó. Chờ đợi có thể rất căng thẳng."
+    },
+    {
+      "role": "B",
+      "start_time": 19.566,
+      "end_time": 22.9,
+      "en": "Yes, I keep checking my phone and email.",
+      "vi": "Ừ, mình cứ liên tục kiểm tra điện thoại và email."
+    },
+    {
+      "role": "B",
+      "start_time": 23.4,
+      "end_time": 25.5,
+      "en": "But there is nothing new.",
+      "vi": "Nhưng chẳng có gì mới cả."
+    },
+    {
+      "role": "A",
+      "start_time": 26.033,
+      "end_time": 28.1,
+      "en": "How do you feel about the interview?",
+      "vi": "Cậu cảm thấy thế nào về buổi phỏng vấn?"
+    },
+    {
+      "role": "B",
+      "start_time": 28.433,
+      "end_time": 32.1,
+      "en": "I think it went okay... But I'm not sure.",
+      "vi": "Mình nghĩ nó ổn... Nhưng mình không chắc lắm."
+    },
+    {
+      "role": "A",
+      "start_time": 32.433,
+      "end_time": 34.0,
+      "en": "You answered the questions well,",
+      "vi": "Cậu đã trả lời các câu hỏi khá tốt,"
+    },
+    {
+      "role": "A",
+      "start_time": 34.0,
+      "end_time": 35.5,
+      "en": "didn't you?",
+      "vi": "đúng không?"
+    },
+    {
+      "role": "B",
+      "start_time": 35.5,
+      "end_time": 36.233,
+      "en": "I think so,",
+      "vi": "Mình nghĩ vậy,"
+    },
+    {
+      "role": "B",
+      "start_time": 36.233,
+      "end_time": 38.066,
+      "en": "but you never know.",
+      "vi": "nhưng chẳng bao giờ biết trước được."
+    },
+    {
+      "role": "A",
+      "start_time": 38.8,
+      "end_time": 42.0,
+      "en": "That's true. Some things are out of our control.",
+      "vi": "Đúng vậy. Có những thứ nằm ngoài tầm kiểm soát của chúng ta."
+    },
+    {
+      "role": "A",
+      "start_time": 42.033,
+      "end_time": 44.133,
+      "en": "But everything will be fine.",
+      "vi": "Nhưng mọi thứ sẽ ổn thôi."
+    },
+    {
+      "role": "A",
+      "start_time": 44.566,
+      "end_time": 46.3,
+      "en": "You did your best.",
+      "vi": "Cậu đã cố gắng hết sức rồi."
+    },
+    {
+      "role": "B",
+      "start_time": 46.3,
+      "end_time": 47.3,
+      "en": "Thank you.",
+      "vi": "Cảm ơn cậu."
+    },
+    {
+      "role": "B",
+      "start_time": 47.3,
+      "end_time": 49.366,
+      "en": "Then there's nothing more to do.",
+      "vi": "Vậy thì không còn gì để làm nữa."
+    },
+    {
+      "role": "A",
+      "start_time": 49.866,
+      "end_time": 51.8,
+      "en": "Yes. Let's see what happens.",
+      "vi": "Ừ. Cứ để xem chuyện gì sẽ xảy ra."
+    },
+    {
+      "role": "B",
+      "start_time": 52.433,
+      "end_time": 54.566,
+      "en": "Right. If it works out,",
+      "vi": "Đúng. Nếu nó thành công,"
+    },
+    {
+      "role": "B",
+      "start_time": 54.566,
+      "end_time": 57.3,
+      "en": "that's great. And if not,",
+      "vi": "thì thật tuyệt. Còn nếu không,"
+    },
+    {
+      "role": "B",
+      "start_time": 57.3,
+      "end_time": 59.5,
+      "en": "I'll try again.",
+      "vi": "mình sẽ thử lại."
+    },
+    {
+      "role": "A",
+      "start_time": 59.5,
+      "end_time": 60.933,
+      "en": "That's a good way to think.",
+      "vi": "Đó là cách nghĩ hay đấy."
+    },
+    {
+      "role": "B",
+      "start_time": 61.233,
+      "end_time": 64.466,
+      "en": "Thanks. Talking to you helps me relax.",
+      "vi": "Cảm ơn. Nói chuyện với cậu giúp mình thư giãn."
+    }
+  ]
+}

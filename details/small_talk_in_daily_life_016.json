@@ -1,0 +1,228 @@
+{
+  "lesson_id": "small_talk_in_daily_life_016",
+  "title": "On and off",
+  "category": "Small Talk in Daily-life",
+  "level": "Elementary",
+  "videoConfig": {
+    "url": "https://raw.githubusercontent.com/Mom1881990/resources/main/videos/small_talk_in_daily_life_016.mp4",
+    "thumb": "https://raw.githubusercontent.com/Mom1881990/resources/main/images/small_talk_in_daily_life_016.jpg",
+    "mute_original": false
+  },
+  "characters": [
+    {
+      "id": "A",
+      "name": "Jessica",
+      "tts_voice": "en-US-JennyNeural"
+    },
+    {
+      "id": "B",
+      "name": "Mom",
+      "tts_voice": "en-US-AriaNeural"
+    }
+  ],
+  "dialogues": [
+    {
+      "role": "A",
+      "start_time": 1.766,
+      "end_time": 2.933,
+      "en": "Hello, Mom.",
+      "vi": "Xin chào mẹ."
+    },
+    {
+      "role": "A",
+      "start_time": 2.966,
+      "end_time": 3.8,
+      "en": "I'm home.",
+      "vi": "Con về rồi."
+    },
+    {
+      "role": "B",
+      "start_time": 3.8,
+      "end_time": 5.733,
+      "en": "Hi, sweetheart.",
+      "vi": "Chào con yêu."
+    },
+    {
+      "role": "B",
+      "start_time": 5.9,
+      "end_time": 7.8,
+      "en": "You're back early today.",
+      "vi": "Hôm nay con về sớm thế."
+    },
+    {
+      "role": "A",
+      "start_time": 8.0,
+      "end_time": 9.9,
+      "en": "How are you feeling these days, Mom?",
+      "vi": "Mẹ dạo này cảm thấy thế nào ạ?"
+    },
+    {
+      "role": "B",
+      "start_time": 9.9,
+      "end_time": 12.033,
+      "en": "I'm okay,",
+      "vi": "Mẹ ổn,"
+    },
+    {
+      "role": "B",
+      "start_time": 12.033,
+      "end_time": 14.366,
+      "en": "but my energy is on and off.",
+      "vi": "nhưng năng lượng của mẹ lúc có lúc không."
+    },
+    {
+      "role": "A",
+      "start_time": 14.866,
+      "end_time": 15.8,
+      "en": "On and off?",
+      "vi": "Lúc có lúc không?"
+    },
+    {
+      "role": "A",
+      "start_time": 15.8,
+      "end_time": 17.7,
+      "en": "What do you mean, Mom?",
+      "vi": "Mẹ nói thế nghĩa là sao ạ?"
+    },
+    {
+      "role": "B",
+      "start_time": 18.3,
+      "end_time": 20.6,
+      "en": "Some days, I sleep well one night,",
+      "vi": "Có những ngày, mẹ ngủ ngon một đêm,"
+    },
+    {
+      "role": "B",
+      "start_time": 20.6,
+      "end_time": 22.466,
+      "en": "then badly the next.",
+      "vi": "rồi đêm sau lại ngủ rất tệ."
+    },
+    {
+      "role": "A",
+      "start_time": 23.0,
+      "end_time": 25.5,
+      "en": "Oh... that doesn't sound good.",
+      "vi": "Ồ... nghe có vẻ không ổn."
+    },
+    {
+      "role": "A",
+      "start_time": 25.5,
+      "end_time": 26.8,
+      "en": "You need rest.",
+      "vi": "Mẹ cần nghỉ ngơi."
+    },
+    {
+      "role": "B",
+      "start_time": 27.466,
+      "end_time": 31.366,
+      "en": "I know, but my mind doesn't relax easily.",
+      "vi": "Mẹ biết, nhưng tâm trí mẹ không dễ thư giãn."
+    },
+    {
+      "role": "A",
+      "start_time": 31.833,
+      "end_time": 33.5,
+      "en": "You might be stressed.",
+      "vi": "Có lẽ mẹ đang bị stress."
+    },
+    {
+      "role": "A",
+      "start_time": 33.5,
+      "end_time": 36.133,
+      "en": "You've been busy for a long time.",
+      "vi": "Mẹ đã bận rộn lâu rồi."
+    },
+    {
+      "role": "B",
+      "start_time": 36.633,
+      "end_time": 39.366,
+      "en": "Yes, my mood goes up and down too.",
+      "vi": "Đúng vậy, tâm trạng mẹ cũng lúc lên lúc xuống."
+    },
+    {
+      "role": "A",
+      "start_time": 39.9,
+      "end_time": 42.166,
+      "en": "Mom, how about this?",
+      "vi": "Mẹ ơi, thế này nhé?"
+    },
+    {
+      "role": "A",
+      "start_time": 42.6,
+      "end_time": 44.966,
+      "en": "I can take a few days off work.",
+      "vi": "Con có thể xin nghỉ làm vài ngày."
+    },
+    {
+      "role": "A",
+      "start_time": 45.566,
+      "end_time": 47.566,
+      "en": "We can go for walks together,",
+      "vi": "Chúng ta có thể đi dạo cùng nhau,"
+    },
+    {
+      "role": "A",
+      "start_time": 47.566,
+      "end_time": 50.0,
+      "en": "get some fresh air, and relax.",
+      "vi": "hít thở không khí trong lành và thư giãn."
+    },
+    {
+      "role": "B",
+      "start_time": 50.833,
+      "end_time": 51.8,
+      "en": "Really?",
+      "vi": "Thật sao?"
+    },
+    {
+      "role": "B",
+      "start_time": 51.8,
+      "end_time": 53.966,
+      "en": "That sounds nice, sweetie.",
+      "vi": "Nghe hay đấy con."
+    },
+    {
+      "role": "A",
+      "start_time": 54.5,
+      "end_time": 55.6,
+      "en": "Yes, Mom.",
+      "vi": "Vâng ạ."
+    },
+    {
+      "role": "A",
+      "start_time": 55.6,
+      "end_time": 57.366,
+      "en": "That will help you relax.",
+      "vi": "Điều đó sẽ giúp mẹ thư giãn."
+    },
+    {
+      "role": "B",
+      "start_time": 58.033,
+      "end_time": 58.8,
+      "en": "Thank you.",
+      "vi": "Cảm ơn con."
+    },
+    {
+      "role": "B",
+      "start_time": 58.8,
+      "end_time": 62.166,
+      "en": "Talking to you already makes me feel calmer.",
+      "vi": "Chỉ cần nói chuyện với con thôi mẹ đã thấy bình tĩnh hơn rồi."
+    },
+    {
+      "role": "A",
+      "start_time": 62.6,
+      "end_time": 63.8,
+      "en": "Anytime, Mom.",
+      "vi": "Lúc nào cũng được ạ."
+    },
+    {
+      "role": "A",
+      "start_time": 63.8,
+      "end_time": 66.6,
+      "en": "I'm always here for you.",
+      "vi": "Con luôn ở đây vì mẹ."
+    }
+  ]
+}
