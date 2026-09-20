@@ -1,0 +1,144 @@
+{
+  "lesson_id": "small_talk_in_daily_life_027",
+  "title": "The parking meter only accepts coins",
+  "category": "Small Talk in Daily-life",
+  "level": "Elementary",
+  "videoConfig": {
+    "url": "https://raw.githubusercontent.com/Mom1881990/resources/main/videos/small_talk_in_daily_life_027.mp4",
+    "thumb": "https://raw.githubusercontent.com/Mom1881990/resources/main/images/small_talk_in_daily_life_027.jpg",
+    "mute_original": false
+  },
+  "characters": [
+    {
+      "id": "A",
+      "name": "Jessica",
+      "tts_voice": "en-US-AriaNeural"
+    },
+    {
+      "id": "B",
+      "name": "Brad",
+      "tts_voice": "en-US-AndrewNeural"
+    }
+  ],
+  "dialogues": [
+    {
+      "role": "A",
+      "start_time": 1.666,
+      "end_time": 3.700,
+      "en": "Brad, can I borrow a dime?",
+      "vi": "Brad, cho mình mượn một dime được không?"
+    },
+    {
+      "role": "B",
+      "start_time": 4.600,
+      "end_time": 5.700,
+      "en": "What for?",
+      "vi": "Để làm gì?"
+    },
+    {
+      "role": "A",
+      "start_time": 6.433,
+      "end_time": 8.966,
+      "en": "The parking meter only accepts coins.",
+      "vi": "Cái đồng hồ đỗ xe chỉ nhận tiền xu thôi."
+    },
+    {
+      "role": "B",
+      "start_time": 10.100,
+      "end_time": 12.800,
+      "en": "Sorry, I don't have any I can lend you.",
+      "vi": "Xin lỗi, mình không có đồng nào để cho cậu mượn."
+    },
+    {
+      "role": "A",
+      "start_time": 13.700,
+      "end_time": 16.700,
+      "en": "Seriously? Don't you have a couple in your pocket?",
+      "vi": "Thật á? Trong túi cậu không có vài đồng à?"
+    },
+    {
+      "role": "B",
+      "start_time": 17.633,
+      "end_time": 20.066,
+      "en": "I do, but you can't use those.",
+      "vi": "Có, nhưng cậu không dùng được những đồng đó đâu."
+    },
+    {
+      "role": "B",
+      "start_time": 20.066,
+      "end_time": 21.366,
+      "en": "They're rare coins!",
+      "vi": "Đó là tiền xu quý hiếm!"
+    },
+    {
+      "role": "A",
+      "start_time": 22.266,
+      "end_time": 24.900,
+      "en": "So you'd rather let us get stuck here?",
+      "vi": "Vậy cậu thà để chúng ta kẹt ở đây luôn à?"
+    },
+    {
+      "role": "B",
+      "start_time": 26.000,
+      "end_time": 27.233,
+      "en": "Alright, let me see...",
+      "vi": "Thôi được, để mình xem nào..."
+    },
+    {
+      "role": "B",
+      "start_time": 27.233,
+      "end_time": 32.866,
+      "en": "I've got a 1943 copper penny in here worth like 200,000 dollars.",
+      "vi": "Mình có một đồng xu đồng 1943 trong này, trị giá khoảng 200.000 đô."
+    },
+    {
+      "role": "A",
+      "start_time": 33.766,
+      "end_time": 35.066,
+      "en": "Wait, what?!",
+      "vi": "Khoan, cái gì?!"
+    },
+    {
+      "role": "A",
+      "start_time": 35.066,
+      "end_time": 36.500,
+      "en": "Two hundred grand?!",
+      "vi": "Hai trăm ngàn đô?!"
+    },
+    {
+      "role": "B",
+      "start_time": 37.666,
+      "end_time": 41.800,
+      "en": "Oh, and a 1932 quarter in mint condition.",
+      "vi": "Ồ, và một đồng 25 cent 1932 còn mới tinh."
+    },
+    {
+      "role": "B",
+      "start_time": 41.966,
+      "end_time": 45.400,
+      "en": "This one's worth only about 150,000 dollars.",
+      "vi": "Cái này chỉ trị giá khoảng 150.000 đô thôi."
+    },
+    {
+      "role": "A",
+      "start_time": 46.166,
+      "end_time": 48.466,
+      "en": "OMG! You know what?",
+      "vi": "Ôi trời ơi! Cậu biết không?"
+    },
+    {
+      "role": "A",
+      "start_time": 48.466,
+      "end_time": 49.400,
+      "en": "Forget it.",
+      "vi": "Thôi bỏ đi."
+    },
+    {
+      "role": "A",
+      "start_time": 50.166,
+      "end_time": 53.800,
+      "en": "I'm not borrowing coins worth a whole house. I'll walk!",
+      "vi": "Mình không mượn mấy đồng xu đáng giá cả một căn nhà đâu. Mình sẽ đi bộ!"
+    }
+  ]
+}

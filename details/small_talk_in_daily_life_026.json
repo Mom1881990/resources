@@ -1,0 +1,114 @@
+{
+  "lesson_id": "small_talk_in_daily_life_026",
+  "title": "The museum guide spoke three different languages",
+  "category": "Small Talk in Daily-life",
+  "level": "Elementary",
+  "videoConfig": {
+    "url": "https://raw.githubusercontent.com/Mom1881990/resources/main/videos/small_talk_in_daily_life_026.mp4",
+    "thumb": "https://raw.githubusercontent.com/Mom1881990/resources/main/images/small_talk_in_daily_life_026.jpg",
+    "mute_original": false
+  },
+  "characters": [
+    {
+      "id": "A",
+      "name": "Mia",
+      "tts_voice": "en-US-JennyNeural"
+    },
+    {
+      "id": "B",
+      "name": "Jessica",
+      "tts_voice": "en-US-AriaNeural"
+    },
+    {
+      "id": "C",
+      "name": "Mateo",
+      "tts_voice": "en-US-AndrewNeural"
+    }
+  ],
+  "dialogues": [
+    {
+      "role": "C",
+      "start_time": 3.500,
+      "end_time": 5.066,
+      "en": "Bonjour. Guten tag. And welcome.",
+      "vi": "Bonjour. Guten tag. Và chào mừng các bạn."
+    },
+    {
+      "role": "C",
+      "start_time": 5.066,
+      "end_time": 8.566,
+      "en": "I'm Mateo, your guide today.",
+      "vi": "Tôi là Mateo, hướng dẫn viên của các bạn hôm nay."
+    },
+    {
+      "role": "A",
+      "start_time": 9.266,
+      "end_time": 15.000,
+      "en": "Whoa. Did he just switch between French, German, AND English?",
+      "vi": "Whoa. Anh ấy vừa chuyển giữa tiếng Pháp, tiếng Đức, VÀ tiếng Anh luôn á?"
+    },
+    {
+      "role": "B",
+      "start_time": 16.000,
+      "end_time": 19.633,
+      "en": "Yep. The museum guide spoke three different languages.",
+      "vi": "Ừ. Hướng dẫn viên bảo tàng nói được ba ngôn ngữ khác nhau."
+    },
+    {
+      "role": "B",
+      "start_time": 19.633,
+      "end_time": 21.500,
+      "en": "I'm already impressed.",
+      "vi": "Mình đã thấy ấn tượng rồi."
+    },
+    {
+      "role": "A",
+      "start_time": 21.500,
+      "end_time": 25.366,
+      "en": "If he adds Swedish, I'll faint on the spot.",
+      "vi": "Nếu anh ấy thêm tiếng Thụy Điển nữa, mình sẽ ngất ngay tại chỗ."
+    },
+    {
+      "role": "B",
+      "start_time": 26.066,
+      "end_time": 29.900,
+      "en": "You say that every time someone speaks more than one language.",
+      "vi": "Cậu nói vậy mỗi lần có ai nói được hơn một ngôn ngữ."
+    },
+    {
+      "role": "A",
+      "start_time": 30.566,
+      "end_time": 33.366,
+      "en": "Yeah, and I mean it every time.",
+      "vi": "Ừ, và mình nói thật mỗi lần luôn."
+    },
+    {
+      "role": "C",
+      "start_time": 33.833,
+      "end_time": 38.000,
+      "en": "This way, please. And if you have any questions, feel free to ask.",
+      "vi": "Lối này ạ. Và nếu các bạn có câu hỏi gì, cứ tự nhiên hỏi nhé."
+    },
+    {
+      "role": "A",
+      "start_time": 39.000,
+      "end_time": 42.333,
+      "en": "Yes. Do you teach language classes after this?",
+      "vi": "Vâng. Anh có dạy lớp ngôn ngữ sau buổi này không ạ?"
+    },
+    {
+      "role": "B",
+      "start_time": 42.966,
+      "end_time": 45.500,
+      "en": "Mia, you're embarrassing us.",
+      "vi": "Mia, cậu đang làm chúng ta xấu hổ đấy."
+    },
+    {
+      "role": "C",
+      "start_time": 45.900,
+      "end_time": 51.766,
+      "en": "No, but I do host a weekly support group for people impressed by basic tour guide skills.",
+      "vi": "Không, nhưng tôi có tổ chức nhóm hỗ trợ hàng tuần cho những người ấn tượng với kỹ năng hướng dẫn viên cơ bản."
+    }
+  ]
+}

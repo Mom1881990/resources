@@ -1,0 +1,205 @@
+{
+  "lesson_id": "small_talk_in_daily_life_022",
+  "title": "That caught me off guard",
+  "category": "Small Talk in Daily-life",
+  "level": "Elementary",
+  "videoConfig": {
+    "url": "https://raw.githubusercontent.com/Mom1881990/resources/main/videos/small_talk_in_daily_life_022.mp4",
+    "thumb": "https://raw.githubusercontent.com/Mom1881990/resources/main/images/small_talk_in_daily_life_022.jpg",
+    "mute_original": false
+  },
+  "characters": [
+    {
+      "id": "A",
+      "name": "Lisa",
+      "tts_voice": "en-US-JennyNeural"
+    },
+    {
+      "id": "B",
+      "name": "Mark",
+      "tts_voice": "en-US-AndrewNeural"
+    },
+    {
+      "id": "C",
+      "name": "Boss",
+      "tts_voice": "en-US-ChristopherNeural"
+    }
+  ],
+  "dialogues": [
+    {
+      "role": "A",
+      "start_time": 1.000,
+      "end_time": 2.100,
+      "en": "Hi Mark.",
+      "vi": "Chào Mark."
+    },
+    {
+      "role": "A",
+      "start_time": 2.233,
+      "end_time": 3.900,
+      "en": "Are you busy right now?",
+      "vi": "Anh đang bận à?"
+    },
+    {
+      "role": "B",
+      "start_time": 4.466,
+      "end_time": 7.766,
+      "en": "Not really. I'm just checking my emails.",
+      "vi": "Không hẳn. Anh chỉ đang kiểm tra email thôi."
+    },
+    {
+      "role": "A",
+      "start_time": 8.400,
+      "end_time": 11.266,
+      "en": "This week feels very heavy to me.",
+      "vi": "Tuần này cảm giác rất nặng nề với em."
+    },
+    {
+      "role": "B",
+      "start_time": 11.666,
+      "end_time": 16.000,
+      "en": "I feel the same. There are many small tasks every day.",
+      "vi": "Anh cũng thấy vậy. Ngày nào cũng có rất nhiều việc lặt vặt."
+    },
+    {
+      "role": "B",
+      "start_time": 16.633,
+      "end_time": 18.966,
+      "en": "And they take more time than I expect.",
+      "vi": "Và chúng tốn nhiều thời gian hơn anh nghĩ."
+    },
+    {
+      "role": "A",
+      "start_time": 20.000,
+      "end_time": 22.566,
+      "en": "At least the report is almost finished.",
+      "vi": "Ít ra thì báo cáo cũng sắp xong rồi."
+    },
+    {
+      "role": "B",
+      "start_time": 24.166,
+      "end_time": 27.000,
+      "en": "That's true. I was hoping to relax a bit.",
+      "vi": "Đúng vậy. Anh đang hy vọng được thư giãn một chút."
+    },
+    {
+      "role": "B",
+      "start_time": 27.066,
+      "end_time": 29.133,
+      "en": "It's almost time to go home.",
+      "vi": "Sắp đến giờ về nhà rồi."
+    },
+    {
+      "role": "A",
+      "start_time": 29.900,
+      "end_time": 33.100,
+      "en": "Same here. Maybe we can leave on time today.",
+      "vi": "Em cũng thế. Biết đâu hôm nay chúng ta có thể về đúng giờ."
+    },
+    {
+      "role": "C",
+      "start_time": 33.600,
+      "end_time": 35.500,
+      "en": "Lisa, sorry to interrupt.",
+      "vi": "Lisa, xin lỗi vì đã làm gián đoạn."
+    },
+    {
+      "role": "C",
+      "start_time": 35.666,
+      "end_time": 37.266,
+      "en": "Can you help me with something?",
+      "vi": "Cô có thể giúp tôi một việc được không?"
+    },
+    {
+      "role": "A",
+      "start_time": 45.033,
+      "end_time": 47.133,
+      "en": "Uh... sure.",
+      "vi": "Ừm... được ạ."
+    },
+    {
+      "role": "C",
+      "start_time": 47.666,
+      "end_time": 49.800,
+      "en": "I need you to handle one more task",
+      "vi": "Tôi cần cô xử lý thêm một việc nữa"
+    },
+    {
+      "role": "C",
+      "start_time": 49.800,
+      "end_time": 51.333,
+      "en": "before the end of the day.",
+      "vi": "trước khi hết giờ làm hôm nay."
+    },
+    {
+      "role": "A",
+      "start_time": 51.866,
+      "end_time": 53.766,
+      "en": "Oh... okay, sir.",
+      "vi": "Ồ... vâng ạ, thưa sếp."
+    },
+    {
+      "role": "A",
+      "start_time": 53.766,
+      "end_time": 55.200,
+      "en": "What task is it?",
+      "vi": "Đó là việc gì vậy ạ?"
+    },
+    {
+      "role": "C",
+      "start_time": 55.900,
+      "end_time": 58.666,
+      "en": "Thank you. I'll explain the details later.",
+      "vi": "Cảm ơn cô. Tôi sẽ giải thích chi tiết sau."
+    },
+    {
+      "role": "C",
+      "start_time": 58.666,
+      "end_time": 60.100,
+      "en": "Please check your email.",
+      "vi": "Cô vui lòng kiểm tra email nhé."
+    },
+    {
+      "role": "B",
+      "start_time": 63.600,
+      "end_time": 65.300,
+      "en": "That doesn't sound small at all.",
+      "vi": "Nghe không có vẻ là việc nhỏ chút nào."
+    },
+    {
+      "role": "B",
+      "start_time": 65.300,
+      "end_time": 67.066,
+      "en": "You won't leave early today.",
+      "vi": "Hôm nay em sẽ không được về sớm đâu."
+    },
+    {
+      "role": "A",
+      "start_time": 67.700,
+      "end_time": 70.100,
+      "en": "Well, that caught me off guard.",
+      "vi": "Chà, việc này làm em trở tay không kịp."
+    },
+    {
+      "role": "A",
+      "start_time": 70.500,
+      "end_time": 73.366,
+      "en": "I didn't expect extra work today.",
+      "vi": "Em không ngờ hôm nay lại có thêm việc nảy sinh."
+    },
+    {
+      "role": "B",
+      "start_time": 73.833,
+      "end_time": 77.266,
+      "en": "I understand. Just take it one step at a time.",
+      "vi": "Anh hiểu mà. Cứ giải quyết từng bước một thôi."
+    },
+    {
+      "role": "A",
+      "start_time": 77.700,
+      "end_time": 80.200,
+      "en": "Thanks, I'll try to manage it.",
+      "vi": "Cảm ơn anh, em sẽ cố gắng thu xếp."
+    }
+  ]
+}

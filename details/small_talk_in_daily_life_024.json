@@ -1,0 +1,102 @@
+{
+  "lesson_id": "small_talk_in_daily_life_024",
+  "title": "The barber shop opens early on saturdays",
+  "category": "Small Talk in Daily-life",
+  "level": "Elementary",
+  "videoConfig": {
+    "url": "https://raw.githubusercontent.com/Mom1881990/resources/main/videos/small_talk_in_daily_life_024.mp4",
+    "thumb": "https://raw.githubusercontent.com/Mom1881990/resources/main/images/small_talk_in_daily_life_024.jpg",
+    "mute_original": false
+  },
+  "characters": [
+    {
+      "id": "A",
+      "name": "Alex",
+      "tts_voice": "en-US-AndrewNeural"
+    },
+    {
+      "id": "B",
+      "name": "Henry",
+      "tts_voice": "en-US-ChristopherNeural"
+    }
+  ],
+  "dialogues": [
+    {
+      "role": "B",
+      "start_time": 2.200,
+      "end_time": 4.400,
+      "en": "Why are you wearing a hat today, dude?",
+      "vi": "Sao hôm nay anh đội mũ vậy, bạn?"
+    },
+    {
+      "role": "A",
+      "start_time": 5.266,
+      "end_time": 7.966,
+      "en": "I tried to give myself a buzz cut.",
+      "vi": "Tôi cố tự cắt tóc ngắn buzz cut."
+    },
+    {
+      "role": "A",
+      "start_time": 9.166,
+      "end_time": 10.800,
+      "en": "Huge mistake.",
+      "vi": "Sai lầm lớn."
+    },
+    {
+      "role": "B",
+      "start_time": 11.866,
+      "end_time": 16.066,
+      "en": "Yikes. Can't you just go to a barber and get it fixed?",
+      "vi": "Ôi trời. Anh không thể đến thợ cắt tóc sửa lại được sao?"
+    },
+    {
+      "role": "A",
+      "start_time": 16.866,
+      "end_time": 17.866,
+      "en": "I would have,",
+      "vi": "Tôi cũng muốn,"
+    },
+    {
+      "role": "A",
+      "start_time": 17.866,
+      "end_time": 21.366,
+      "en": "but the barber shop opens early on Saturdays only.",
+      "vi": "nhưng tiệm cắt tóc chỉ mở sớm vào thứ Bảy thôi."
+    },
+    {
+      "role": "B",
+      "start_time": 22.266,
+      "end_time": 25.000,
+      "en": "So, are you going after work?",
+      "vi": "Vậy anh định đi sau giờ làm à?"
+    },
+    {
+      "role": "A",
+      "start_time": 25.766,
+      "end_time": 28.333,
+      "en": "Actually, I'm going during lunch.",
+      "vi": "Thực ra, tôi sẽ đi vào giờ nghỉ trưa."
+    },
+    {
+      "role": "B",
+      "start_time": 29.233,
+      "end_time": 33.266,
+      "en": "Are you seriously giving up your lunch break over a bad haircut?",
+      "vi": "Anh nghiêm túc hy sinh giờ nghỉ trưa chỉ vì một kiểu tóc xấu ư?"
+    },
+    {
+      "role": "A",
+      "start_time": 34.166,
+      "end_time": 37.666,
+      "en": "Yeah, well... desperate times call for desperate measures.",
+      "vi": "Ừ thì... thời điểm tuyệt vọng đòi hỏi biện pháp tuyệt vọng."
+    },
+    {
+      "role": "B",
+      "start_time": 38.566,
+      "end_time": 42.466,
+      "en": "Oh wow. Henry, you definitely need that lunch appointment!",
+      "vi": "Ôi wow. Henry, anh chắc chắn cần cuộc hẹn trưa đó!"
+    }
+  ]
+}

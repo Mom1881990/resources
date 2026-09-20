@@ -1,0 +1,212 @@
+{
+  "lesson_id": "small_talk_in_daily_life_025",
+  "title": "The hotel pool closes at midnight",
+  "category": "Small Talk in Daily-life",
+  "level": "Elementary",
+  "videoConfig": {
+    "url": "https://raw.githubusercontent.com/Mom1881990/resources/main/videos/small_talk_in_daily_life_025.mp4",
+    "thumb": "https://raw.githubusercontent.com/Mom1881990/resources/main/images/small_talk_in_daily_life_025.jpg",
+    "mute_original": false
+  },
+  "characters": [
+    {
+      "id": "A",
+      "name": "Emma",
+      "tts_voice": "en-US-JennyNeural"
+    },
+    {
+      "id": "B",
+      "name": "Jessica",
+      "tts_voice": "en-US-AriaNeural"
+    },
+    {
+      "id": "C",
+      "name": "Receptionist",
+      "tts_voice": "en-US-JennyNeural"
+    }
+  ],
+  "dialogues": [
+    {
+      "role": "A",
+      "start_time": 2.766,
+      "end_time": 5.500,
+      "en": "Why is it so hot tonight?",
+      "vi": "Sao tối nay nóng quá vậy?"
+    },
+    {
+      "role": "A",
+      "start_time": 5.566,
+      "end_time": 8.200,
+      "en": "The AC in our room isn't helping.",
+      "vi": "Máy lạnh trong phòng chúng ta chẳng giúp gì cả."
+    },
+    {
+      "role": "A",
+      "start_time": 8.800,
+      "end_time": 10.366,
+      "en": "Let's go for a swim.",
+      "vi": "Chúng ta đi bơi đi."
+    },
+    {
+      "role": "A",
+      "start_time": 10.466,
+      "end_time": 13.266,
+      "en": "I heard this hotel has a really nice pool.",
+      "vi": "Mình nghe nói khách sạn này có hồ bơi rất đẹp."
+    },
+    {
+      "role": "B",
+      "start_time": 14.000,
+      "end_time": 16.000,
+      "en": "Emma, it's 9:50 PM.",
+      "vi": "Emma, bây giờ là 9:50 tối."
+    },
+    {
+      "role": "A",
+      "start_time": 16.500,
+      "end_time": 19.000,
+      "en": "And? That's still early for me.",
+      "vi": "Và sao? Với mình thì vẫn còn sớm."
+    },
+    {
+      "role": "B",
+      "start_time": 20.600,
+      "end_time": 24.000,
+      "en": "But is the pool even open this late?",
+      "vi": "Nhưng hồ bơi có mở muộn thế này không?"
+    },
+    {
+      "role": "A",
+      "start_time": 24.500,
+      "end_time": 26.933,
+      "en": "There is only one way to find out.",
+      "vi": "Chỉ có một cách để biết thôi."
+    },
+    {
+      "role": "A",
+      "start_time": 33.166,
+      "end_time": 36.133,
+      "en": "Hi, is it okay if we use the pool now?",
+      "vi": "Xin chào, chúng tôi dùng hồ bơi bây giờ được không ạ?"
+    },
+    {
+      "role": "C",
+      "start_time": 36.766,
+      "end_time": 39.066,
+      "en": "Good evening! Absolutely.",
+      "vi": "Chào buổi tối! Tất nhiên rồi."
+    },
+    {
+      "role": "C",
+      "start_time": 39.200,
+      "end_time": 41.833,
+      "en": "The hotel pool closes at midnight.",
+      "vi": "Hồ bơi của khách sạn đóng cửa lúc nửa đêm."
+    },
+    {
+      "role": "C",
+      "start_time": 41.833,
+      "end_time": 44.200,
+      "en": "You still have plenty of time.",
+      "vi": "Các bạn vẫn còn nhiều thời gian."
+    },
+    {
+      "role": "A",
+      "start_time": 45.000,
+      "end_time": 45.800,
+      "en": "See?",
+      "vi": "Thấy chưa?"
+    },
+    {
+      "role": "A",
+      "start_time": 45.866,
+      "end_time": 49.266,
+      "en": "We can't leave without trying the pool at least once.",
+      "vi": "Chúng ta không thể rời đi mà chưa thử hồ bơi ít nhất một lần."
+    },
+    {
+      "role": "B",
+      "start_time": 49.900,
+      "end_time": 52.466,
+      "en": "But I didn't bring my swimsuit.",
+      "vi": "Nhưng mình không mang theo đồ bơi."
+    },
+    {
+      "role": "C",
+      "start_time": 53.400,
+      "end_time": 57.200,
+      "en": "There's a shop right across from the hotel that sells swimsuits.",
+      "vi": "Có một cửa hàng ngay đối diện khách sạn bán đồ bơi."
+    },
+    {
+      "role": "C",
+      "start_time": 57.233,
+      "end_time": 60.000,
+      "en": "They're open until 10:30 PM.",
+      "vi": "Họ mở cửa đến 10:30 tối."
+    },
+    {
+      "role": "B",
+      "start_time": 60.000,
+      "end_time": 62.666,
+      "en": "Oh... How convenient.",
+      "vi": "Ồ... Tiện thật."
+    },
+    {
+      "role": "A",
+      "start_time": 63.300,
+      "end_time": 65.700,
+      "en": "Ha! No escaping now!",
+      "vi": "Ha! Giờ thì không chạy đâu được nữa!"
+    },
+    {
+      "role": "B",
+      "start_time": 66.566,
+      "end_time": 68.100,
+      "en": "Alright, alright.",
+      "vi": "Thôi được, thôi được."
+    },
+    {
+      "role": "B",
+      "start_time": 68.100,
+      "end_time": 70.500,
+      "en": "Let's go swimming then!",
+      "vi": "Vậy thì đi bơi thôi!"
+    },
+    {
+      "role": "B",
+      "start_time": 70.633,
+      "end_time": 74.000,
+      "en": "Wait! I think the AC in our room 402 is broken.",
+      "vi": "Khoan đã! Mình nghĩ máy lạnh phòng 402 của chúng tôi bị hỏng."
+    },
+    {
+      "role": "B",
+      "start_time": 74.000,
+      "end_time": 76.466,
+      "en": "It feels like an oven in there.",
+      "vi": "Trong phòng nóng như cái lò vậy."
+    },
+    {
+      "role": "C",
+      "start_time": 76.866,
+      "end_time": 78.600,
+      "en": "Thank you for letting me know.",
+      "vi": "Cảm ơn bạn đã cho tôi biết."
+    },
+    {
+      "role": "C",
+      "start_time": 78.600,
+      "end_time": 81.600,
+      "en": "I'll send someone to check your AC right away.",
+      "vi": "Tôi sẽ cử người kiểm tra máy lạnh ngay."
+    },
+    {
+      "role": "A",
+      "start_time": 82.233,
+      "end_time": 83.900,
+      "en": "Come on. Let's go.",
+      "vi": "Đi thôi. Chúng ta đi nào."
+    }
+  ]
+}

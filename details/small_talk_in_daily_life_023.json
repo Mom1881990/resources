@@ -1,0 +1,172 @@
+{
+  "lesson_id": "small_talk_in_daily_life_023",
+  "title": "That's the way it goes",
+  "category": "Small Talk in Daily-life",
+  "level": "Elementary",
+  "videoConfig": {
+    "url": "https://raw.githubusercontent.com/Mom1881990/resources/main/videos/small_talk_in_daily_life_023.mp4",
+    "thumb": "https://raw.githubusercontent.com/Mom1881990/resources/main/images/small_talk_in_daily_life_023.jpg",
+    "mute_original": false
+  },
+  "characters": [
+    {
+      "id": "A",
+      "name": "Mom",
+      "tts_voice": "en-US-JennyNeural"
+    },
+    {
+      "id": "B",
+      "name": "Alex",
+      "tts_voice": "en-US-AndrewNeural"
+    }
+  ],
+  "dialogues": [
+    {
+      "role": "A",
+      "start_time": 0.700,
+      "end_time": 2.066,
+      "en": "Hey, sweetheart.",
+      "vi": "Này, con yêu."
+    },
+    {
+      "role": "A",
+      "start_time": 2.166,
+      "end_time": 3.766,
+      "en": "Can we talk for a minute?",
+      "vi": "Mẹ nói chuyện với con một chút được không?"
+    },
+    {
+      "role": "B",
+      "start_time": 4.400,
+      "end_time": 5.433,
+      "en": "Sure, Mom.",
+      "vi": "Được ạ, mẹ."
+    },
+    {
+      "role": "B",
+      "start_time": 5.433,
+      "end_time": 6.900,
+      "en": "Is something wrong?",
+      "vi": "Có chuyện gì sao ạ?"
+    },
+    {
+      "role": "A",
+      "start_time": 7.566,
+      "end_time": 11.066,
+      "en": "Nothing is wrong, but we need to tell you something.",
+      "vi": "Không có gì đâu, nhưng bố mẹ cần nói với con một chuyện."
+    },
+    {
+      "role": "A",
+      "start_time": 11.633,
+      "end_time": 14.566,
+      "en": "Our weekend trip has to be canceled.",
+      "vi": "Chuyến đi cuối tuần của chúng ta phải hủy rồi."
+    },
+    {
+      "role": "A",
+      "start_time": 15.266,
+      "end_time": 17.566,
+      "en": "Dad has to travel for work.",
+      "vi": "Bố phải đi công tác."
+    },
+    {
+      "role": "B",
+      "start_time": 18.900,
+      "end_time": 22.533,
+      "en": "Again? But we already planned everything.",
+      "vi": "Lại nữa ạ? Nhưng chúng ta đã lên kế hoạch hết rồi mà."
+    },
+    {
+      "role": "A",
+      "start_time": 23.366,
+      "end_time": 26.366,
+      "en": "I know, and I'm really sorry.",
+      "vi": "Mẹ biết, và mẹ thật sự xin lỗi."
+    },
+    {
+      "role": "A",
+      "start_time": 26.366,
+      "end_time": 28.666,
+      "en": "His trip came up at the last minute.",
+      "vi": "Chuyến đi của bố xuất hiện vào phút chót."
+    },
+    {
+      "role": "B",
+      "start_time": 29.233,
+      "end_time": 31.766,
+      "en": "I was looking forward to it, Mom.",
+      "vi": "Con đã rất mong chờ chuyến đi này, mẹ ạ."
+    },
+    {
+      "role": "A",
+      "start_time": 32.466,
+      "end_time": 36.700,
+      "en": "I understand, and I know you feel disappointed.",
+      "vi": "Mẹ hiểu, và mẹ biết con cảm thấy thất vọng."
+    },
+    {
+      "role": "A",
+      "start_time": 37.433,
+      "end_time": 41.533,
+      "en": "Sometimes work plans change, and we don't have much choice.",
+      "vi": "Đôi khi kế hoạch công việc thay đổi, và chúng ta không có nhiều lựa chọn."
+    },
+    {
+      "role": "B",
+      "start_time": 42.066,
+      "end_time": 44.400,
+      "en": "That's really disappointing for me.",
+      "vi": "Điều đó thật sự thất vọng với con."
+    },
+    {
+      "role": "A",
+      "start_time": 44.766,
+      "end_time": 47.133,
+      "en": "Yes, but that's the way it goes,",
+      "vi": "Ừ, nhưng đời nó vậy đó,"
+    },
+    {
+      "role": "A",
+      "start_time": 47.300,
+      "end_time": 49.900,
+      "en": "and work can be unpredictable.",
+      "vi": "và công việc có thể khó lường trước."
+    },
+    {
+      "role": "A",
+      "start_time": 50.600,
+      "end_time": 53.866,
+      "en": "We promise we will plan another trip soon.",
+      "vi": "Bố mẹ hứa sẽ lên kế hoạch cho một chuyến đi khác sớm thôi."
+    },
+    {
+      "role": "B",
+      "start_time": 54.500,
+      "end_time": 57.066,
+      "en": "Can we choose a time when Dad is free?",
+      "vi": "Chúng ta có thể chọn thời điểm khi bố rảnh được không ạ?"
+    },
+    {
+      "role": "A",
+      "start_time": 57.633,
+      "end_time": 59.766,
+      "en": "Yes, of course, we will.",
+      "vi": "Được chứ, tất nhiên rồi."
+    },
+    {
+      "role": "B",
+      "start_time": 60.266,
+      "end_time": 62.500,
+      "en": "Okay, Mom! I got it.",
+      "vi": "Được rồi, mẹ! Con hiểu rồi."
+    },
+    {
+      "role": "A",
+      "start_time": 62.500,
+      "end_time": 65.766,
+      "en": "We will make it up to you soon, my boy.",
+      "vi": "Bố mẹ sẽ bù đắp cho con sớm thôi, con trai."
+    }
+  ]
+}

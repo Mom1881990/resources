@@ -1,0 +1,200 @@
+{
+  "lesson_id": "small_talk_in_daily_life_021",
+  "title": "Shopping at the super market",
+  "category": "Small Talk in Daily-life",
+  "level": "Elementary",
+  "videoConfig": {
+    "url": "https://raw.githubusercontent.com/Mom1881990/resources/main/videos/small_talk_in_daily_life_021.mp4",
+    "thumb": "https://raw.githubusercontent.com/Mom1881990/resources/main/images/small_talk_in_daily_life_021.jpg",
+    "mute_original": false
+  },
+  "characters": [
+    {
+      "id": "A",
+      "name": "Grandma",
+      "tts_voice": "en-US-JennyNeural"
+    },
+    {
+      "id": "B",
+      "name": "Jessica",
+      "tts_voice": "en-US-JennyNeural"
+    }
+  ],
+  "dialogues": [
+    {
+      "role": "A",
+      "start_time": 3.066,
+      "end_time": 5.600,
+      "en": "Excuse me, dear.",
+      "vi": "Xin lỗi, cô gái."
+    },
+    {
+      "role": "A",
+      "start_time": 6.033,
+      "end_time": 9.166,
+      "en": "Can you help me find something?",
+      "vi": "Cô có thể giúp tôi tìm một món đồ được không?"
+    },
+    {
+      "role": "B",
+      "start_time": 10.033,
+      "end_time": 12.866,
+      "en": "Of course! What are you looking for?",
+      "vi": "Dĩ nhiên rồi ạ! Bà đang tìm gì vậy?"
+    },
+    {
+      "role": "A",
+      "start_time": 13.766,
+      "end_time": 14.566,
+      "en": "Uh...",
+      "vi": "Ừm..."
+    },
+    {
+      "role": "A",
+      "start_time": 15.433,
+      "end_time": 20.933,
+      "en": "Protein powder. I think it's called whey protein?",
+      "vi": "Bột protein. Tôi nghĩ nó được gọi là whey protein?"
+    },
+    {
+      "role": "B",
+      "start_time": 21.966,
+      "end_time": 24.733,
+      "en": "Oh yeah! It's right over here.",
+      "vi": "Ồ vâng! Nó ở ngay đằng này ạ."
+    },
+    {
+      "role": "A",
+      "start_time": 27.700,
+      "end_time": 29.333,
+      "en": "Thank you.",
+      "vi": "Cảm ơn cô."
+    },
+    {
+      "role": "A",
+      "start_time": 29.966,
+      "end_time": 33.600,
+      "en": "My eyes aren't so good any more.",
+      "vi": "Mắt tôi không còn nhìn rõ nữa."
+    },
+    {
+      "role": "A",
+      "start_time": 33.966,
+      "end_time": 38.300,
+      "en": "Can you read the expiration date for me?",
+      "vi": "Cô có thể đọc giúp tôi hạn sử dụng được không?"
+    },
+    {
+      "role": "B",
+      "start_time": 38.966,
+      "end_time": 41.200,
+      "en": "Sure! Let's see...",
+      "vi": "Chắc chắn rồi ạ! Để cháu xem nào..."
+    },
+    {
+      "role": "B",
+      "start_time": 41.233,
+      "end_time": 44.266,
+      "en": "It's good until March 2026.",
+      "vi": "Nó còn hạn đến tận tháng 3 năm 2026."
+    },
+    {
+      "role": "A",
+      "start_time": 44.900,
+      "end_time": 48.133,
+      "en": "And what about the instructions?",
+      "vi": "Còn về hướng dẫn sử dụng thì sao?"
+    },
+    {
+      "role": "B",
+      "start_time": 49.366,
+      "end_time": 53.900,
+      "en": "It says one scoop with water or milk, twice a day.",
+      "vi": "Trên này ghi là một muỗng pha với nước hoặc sữa, uống hai lần một ngày."
+    },
+    {
+      "role": "B",
+      "start_time": 54.033,
+      "end_time": 56.333,
+      "en": "Are you buying this for your grandson?",
+      "vi": "Bà mua cái này cho cháu trai ạ?"
+    },
+    {
+      "role": "A",
+      "start_time": 57.100,
+      "end_time": 59.000,
+      "en": "No, sweetie.",
+      "vi": "Không đâu, cháu gái."
+    },
+    {
+      "role": "A",
+      "start_time": 59.000,
+      "end_time": 60.700,
+      "en": "It's for me!",
+      "vi": "Nó là dành cho tôi đấy!"
+    },
+    {
+      "role": "B",
+      "start_time": 61.300,
+      "end_time": 62.700,
+      "en": "For you?",
+      "vi": "Cho bà á?"
+    },
+    {
+      "role": "A",
+      "start_time": 63.466,
+      "end_time": 68.466,
+      "en": "Yeah, I'm starting at the gym next week.",
+      "vi": "Đúng vậy, tôi sẽ bắt đầu tập gym vào tuần tới."
+    },
+    {
+      "role": "B",
+      "start_time": 69.166,
+      "end_time": 70.866,
+      "en": "Wow, that's...",
+      "vi": "Wow, thật là..."
+    },
+    {
+      "role": "B",
+      "start_time": 71.266,
+      "end_time": 74.333,
+      "en": "That's amazing! Good for you!",
+      "vi": "Thật đáng kinh ngạc! Bà tuyệt quá!"
+    },
+    {
+      "role": "A",
+      "start_time": 75.166,
+      "end_time": 76.700,
+      "en": "Thanks, honey!",
+      "vi": "Cảm ơn cháu!"
+    },
+    {
+      "role": "A",
+      "start_time": 76.800,
+      "end_time": 79.733,
+      "en": "Oh, and one more thing,",
+      "vi": "Ồ, và còn một chuyện nữa,"
+    },
+    {
+      "role": "A",
+      "start_time": 79.800,
+      "end_time": 83.400,
+      "en": "where do you guys keep the Red Bull?",
+      "vi": "chỗ các cháu để bò húc (Red Bull) ở đâu thế?"
+    },
+    {
+      "role": "A",
+      "start_time": 84.600,
+      "end_time": 89.200,
+      "en": "I'm going to need it for my 10-mile running routine",
+      "vi": "Tôi sẽ cần nó cho thói quen chạy 10 dặm của mình"
+    },
+    {
+      "role": "A",
+      "start_time": 89.200,
+      "end_time": 90.400,
+      "en": "this evening!",
+      "vi": "vào tối nay!"
+    }
+  ]
+}

@@ -1,0 +1,158 @@
+{
+  "lesson_id": "small_talk_in_daily_life_031",
+  "title": "Wrong ticket type purchased",
+  "category": "Small Talk in Daily-life",
+  "level": "Elementary",
+  "videoConfig": {
+    "url": "https://raw.githubusercontent.com/Mom1881990/resources/main/videos/small_talk_in_daily_life_031.mp4",
+    "thumb": "https://raw.githubusercontent.com/Mom1881990/resources/main/images/small_talk_in_daily_life_031.jpg",
+    "mute_original": false
+  },
+  "characters": [
+    {
+      "id": "A",
+      "name": "Receptionist",
+      "tts_voice": "en-US-AndrewNeural"
+    },
+    {
+      "id": "B",
+      "name": "Alex",
+      "tts_voice": "en-US-ChristopherNeural"
+    }
+  ],
+  "dialogues": [
+    {
+      "role": "A",
+      "start_time": 2.633,
+      "end_time": 3.666,
+      "en": "Good morning, sir.",
+      "vi": "Chào buổi sáng, thưa ông."
+    },
+    {
+      "role": "A",
+      "start_time": 3.666,
+      "end_time": 5.466,
+      "en": "Do you need help with the gate?",
+      "vi": "Ông cần giúp gì với cổng không ạ?"
+    },
+    {
+      "role": "B",
+      "start_time": 6.000,
+      "end_time": 8.733,
+      "en": "Yes, I think I bought the wrong ticket.",
+      "vi": "Vâng, tôi nghĩ tôi đã mua nhầm loại vé."
+    },
+    {
+      "role": "A",
+      "start_time": 9.600,
+      "end_time": 11.900,
+      "en": "This is a single ride ticket.",
+      "vi": "Đây là vé đi một lượt."
+    },
+    {
+      "role": "B",
+      "start_time": 12.633,
+      "end_time": 14.666,
+      "en": "Yes, that's the problem.",
+      "vi": "Đúng rồi, đó chính là vấn đề."
+    },
+    {
+      "role": "B",
+      "start_time": 14.666,
+      "end_time": 17.366,
+      "en": "I want an all-day ticket, you know,",
+      "vi": "Tôi muốn vé cả ngày, ông biết không,"
+    },
+    {
+      "role": "B",
+      "start_time": 17.366,
+      "end_time": 19.733,
+      "en": "the kind that works all day?",
+      "vi": "loại dùng được cả ngày ấy?"
+    },
+    {
+      "role": "A",
+      "start_time": 20.433,
+      "end_time": 23.000,
+      "en": "Ah, you mean a day pass, sir.",
+      "vi": "À, ý ông là vé ngày, thưa ông."
+    },
+    {
+      "role": "B",
+      "start_time": 23.666,
+      "end_time": 25.233,
+      "en": "Yes, that thing!",
+      "vi": "Đúng rồi, cái đó!"
+    },
+    {
+      "role": "B",
+      "start_time": 25.233,
+      "end_time": 28.100,
+      "en": "Can I upgrade this one at the ticket office?",
+      "vi": "Tôi có thể đổi lên loại đó ở quầy vé được không?"
+    },
+    {
+      "role": "A",
+      "start_time": 28.800,
+      "end_time": 30.366,
+      "en": "I'm afraid not, sir.",
+      "vi": "Tôi e là không được, thưa ông."
+    },
+    {
+      "role": "A",
+      "start_time": 30.366,
+      "end_time": 32.633,
+      "en": "The ticket office only handles refunds,",
+      "vi": "Quầy vé chỉ xử lý hoàn tiền,"
+    },
+    {
+      "role": "A",
+      "start_time": 32.633,
+      "end_time": 36.500,
+      "en": "not upgrades. The kiosk is faster for a day pass.",
+      "vi": "không phải nâng cấp. Máy kiosk nhanh hơn cho vé ngày."
+    },
+    {
+      "role": "B",
+      "start_time": 37.166,
+      "end_time": 40.266,
+      "en": "Of course... Where's the nearest kiosk?",
+      "vi": "Được rồi... Máy kiosk gần nhất ở đâu?"
+    },
+    {
+      "role": "A",
+      "start_time": 41.000,
+      "end_time": 43.933,
+      "en": "You'll have to exit and go back to the main hall.",
+      "vi": "Ông sẽ phải ra ngoài rồi quay lại sảnh chính."
+    },
+    {
+      "role": "A",
+      "start_time": 43.966,
+      "end_time": 46.500,
+      "en": "There will be plenty of kiosks for you there.",
+      "vi": "Ở đó sẽ có rất nhiều máy kiosk cho ông."
+    },
+    {
+      "role": "B",
+      "start_time": 46.966,
+      "end_time": 48.866,
+      "en": "Great, just my luck.",
+      "vi": "Tuyệt, đúng là số tôi rồi."
+    },
+    {
+      "role": "B",
+      "start_time": 48.866,
+      "end_time": 50.133,
+      "en": "Thank you anyway.",
+      "vi": "Dù sao cũng cảm ơn."
+    },
+    {
+      "role": "A",
+      "start_time": 50.500,
+      "end_time": 51.966,
+      "en": "No problem, sir.",
+      "vi": "Không có gì, thưa ông."
+    }
+  ]
+}

@@ -1,0 +1,158 @@
+{
+  "lesson_id": "small_talk_in_daily_life_029",
+  "title": "What time is the meeting",
+  "category": "Small Talk in Daily-life",
+  "level": "Elementary",
+  "videoConfig": {
+    "url": "https://raw.githubusercontent.com/Mom1881990/resources/main/videos/small_talk_in_daily_life_029.mp4",
+    "thumb": "https://raw.githubusercontent.com/Mom1881990/resources/main/images/small_talk_in_daily_life_029.jpg",
+    "mute_original": false
+  },
+  "characters": [
+    {
+      "id": "A",
+      "name": "Jessica",
+      "tts_voice": "en-US-AriaNeural"
+    },
+    {
+      "id": "B",
+      "name": "Brad",
+      "tts_voice": "en-US-AndrewNeural"
+    }
+  ],
+  "dialogues": [
+    {
+      "role": "B",
+      "start_time": 2.566,
+      "end_time": 5.266,
+      "en": "Hey, are you ready for the presentation?",
+      "vi": "Này, bạn sẵn sàng cho buổi thuyết trình chưa?"
+    },
+    {
+      "role": "A",
+      "start_time": 6.000,
+      "end_time": 10.366,
+      "en": "Almost! Just going over my notes one more time.",
+      "vi": "Gần xong rồi! Mình đang xem lại ghi chú thêm lần nữa thôi."
+    },
+    {
+      "role": "A",
+      "start_time": 10.666,
+      "end_time": 12.600,
+      "en": "I feel a little nervous.",
+      "vi": "Mình hơi lo một chút."
+    },
+    {
+      "role": "B",
+      "start_time": 13.166,
+      "end_time": 15.033,
+      "en": "Don't worry, you'll do great.",
+      "vi": "Đừng lo, bạn sẽ làm tốt thôi."
+    },
+    {
+      "role": "B",
+      "start_time": 15.033,
+      "end_time": 17.200,
+      "en": "You know this stuff inside and out.",
+      "vi": "Bạn thuộc vấn đề này như lòng bàn tay rồi."
+    },
+    {
+      "role": "A",
+      "start_time": 17.500,
+      "end_time": 18.866,
+      "en": "I hope so!",
+      "vi": "Mong là vậy!"
+    },
+    {
+      "role": "A",
+      "start_time": 18.866,
+      "end_time": 21.666,
+      "en": "I just keep thinking I'll forget something important.",
+      "vi": "Mình cứ nghĩ mãi là sẽ quên mất điều gì quan trọng."
+    },
+    {
+      "role": "B",
+      "start_time": 22.233,
+      "end_time": 24.133,
+      "en": "You won't. You're prepared.",
+      "vi": "Bạn sẽ không quên đâu. Bạn đã chuẩn bị rồi."
+    },
+    {
+      "role": "A",
+      "start_time": 24.633,
+      "end_time": 26.300,
+      "en": "Thanks for the encouragement.",
+      "vi": "Cảm ơn vì đã động viên."
+    },
+    {
+      "role": "A",
+      "start_time": 26.633,
+      "end_time": 28.800,
+      "en": "By the way, what time is the meeting?",
+      "vi": "Nhân tiện, cuộc họp bắt đầu lúc mấy giờ?"
+    },
+    {
+      "role": "B",
+      "start_time": 29.433,
+      "end_time": 34.900,
+      "en": "It starts at half past ten, but we should get there a little earlier to set up.",
+      "vi": "Nó bắt đầu lúc mười rưỡi, nhưng chúng ta nên đến sớm một chút để chuẩn bị."
+    },
+    {
+      "role": "A",
+      "start_time": 35.266,
+      "end_time": 37.566,
+      "en": "Oh, I thought it was at 11!",
+      "vi": "Ồ, mình tưởng là 11 giờ!"
+    },
+    {
+      "role": "A",
+      "start_time": 38.100,
+      "end_time": 40.300,
+      "en": "I need to grab some coffee before.",
+      "vi": "Mình cần tranh thủ lấy ly cà phê trước."
+    },
+    {
+      "role": "B",
+      "start_time": 40.566,
+      "end_time": 43.166,
+      "en": "Definitely! Coffee is essential.",
+      "vi": "Chắc chắn rồi! Cà phê là thứ không thể thiếu."
+    },
+    {
+      "role": "B",
+      "start_time": 43.166,
+      "end_time": 45.000,
+      "en": "I'll pick up some too.",
+      "vi": "Mình cũng sẽ lấy luôn."
+    },
+    {
+      "role": "A",
+      "start_time": 45.000,
+      "end_time": 47.433,
+      "en": "Great! I'll be ready in 5 minutes.",
+      "vi": "Tuyệt! Mình sẽ sẵn sàng trong 5 phút nữa."
+    },
+    {
+      "role": "A",
+      "start_time": 47.433,
+      "end_time": 48.800,
+      "en": "We can go together.",
+      "vi": "Chúng ta có thể đi cùng nhau."
+    },
+    {
+      "role": "B",
+      "start_time": 49.000,
+      "end_time": 53.300,
+      "en": "Perfect. We'll make sure everything is set before the meeting starts.",
+      "vi": "Hoàn hảo. Chúng ta sẽ đảm bảo mọi thứ sẵn sàng trước khi cuộc họp bắt đầu."
+    },
+    {
+      "role": "A",
+      "start_time": 54.000,
+      "end_time": 56.266,
+      "en": "Sounds good. Let's do this!",
+      "vi": "Nghe ổn đấy. Làm thôi!"
+    }
+  ]
+}
