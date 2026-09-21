@@ -1,0 +1,104 @@
+{
+  "lesson_id": "motivation_0006",
+  "title": "You are a man",
+  "category": "Motivation",
+  "level": "Intermediate",
+  "videoConfig": {
+    "url": "https://raw.githubusercontent.com/Mom1881990/resources/main/videos/motivation_0006.mp4",
+    "thumb": "https://raw.githubusercontent.com/Mom1881990/resources/main/images/motivation_0006.jpg",
+    "mute_original": false
+  },
+  "characters": [
+    {
+      "id": "A",
+      "name": "Speaker",
+      "tts_voice": "en-US-AriaNeural"
+    }
+  ],
+  "dialogues": [
+    {
+      "role": "A",
+      "start_time": 0.033,
+      "end_time": 1.0,
+      "en": "you're a man",
+      "vi": "bạn là một người đàn ông"
+    },
+    {
+      "role": "A",
+      "start_time": 1.0,
+      "end_time": 2.8,
+      "en": "you are a man",
+      "vi": "bạn là một người đàn ông"
+    },
+    {
+      "role": "A",
+      "start_time": 3.1,
+      "end_time": 4.5,
+      "en": "stand up and be a man",
+      "vi": "hãy đứng dậy và trở thành một người đàn ông"
+    },
+    {
+      "role": "A",
+      "start_time": 4.5,
+      "end_time": 6.666,
+      "en": "make the hard decisions",
+      "vi": "đưa ra những quyết định khó khăn"
+    },
+    {
+      "role": "A",
+      "start_time": 6.7,
+      "end_time": 8.0,
+      "en": "make the sacrifices",
+      "vi": "hy sinh những gì cần thiết"
+    },
+    {
+      "role": "A",
+      "start_time": 8.0,
+      "end_time": 10.533,
+      "en": "make the unpopular decisions",
+      "vi": "đưa ra những quyết định không được ủng hộ"
+    },
+    {
+      "role": "A",
+      "start_time": 10.566,
+      "end_time": 13.1,
+      "en": "and become comfortable in your own skin",
+      "vi": "và trở nên thoải mái với chính bản thân mình"
+    },
+    {
+      "role": "A",
+      "start_time": 13.2,
+      "end_time": 15.166,
+      "en": "and if you are not a person",
+      "vi": "và nếu bạn không phải là người"
+    },
+    {
+      "role": "A",
+      "start_time": 15.166,
+      "end_time": 17.7,
+      "en": "that you are comfortable being alone with",
+      "vi": "mà bạn cảm thấy thoải mái khi ở một mình cùng"
+    },
+    {
+      "role": "A",
+      "start_time": 17.833,
+      "end_time": 20.2,
+      "en": "that is the one person in this universe",
+      "vi": "thì đó là người duy nhất trong vũ trụ này"
+    },
+    {
+      "role": "A",
+      "start_time": 20.2,
+      "end_time": 22.466,
+      "en": "that you have full power",
+      "vi": "mà bạn có toàn quyền"
+    },
+    {
+      "role": "A",
+      "start_time": 22.566,
+      "end_time": 25.366,
+      "en": "full right, full responsibility to change",
+      "vi": "đầy đủ quyền hạn, đầy đủ trách nhiệm để thay đổi"
+    }
+  ]
+}
